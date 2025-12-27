@@ -1,0 +1,32 @@
+[
+  {
+    "type": "missing_image",
+    "file": "DESSINS-1.html",
+    "src": "../DESSINS-2018/DESSIN-1.jpg"
+  },
+  {
+    "type": "missing_image",
+    "file": "DESSINS-2.html",
+    "src": "../DESSINS-2018/DESSIN-2.jpg"
+  },
+  {
+    "type": "missing_image",
+    "file": "DESSINS-3.html",
+    "src": "../DESSINS-2018/DESSIN-3.jpg"
+  },
+  {
+    "type": "missing_image",
+    "file": "DESSINS-4.html",
+    "src": "../DESSINS-2018/DESSIN-4.jpg"
+  },
+  {
+    "type": "missing_image",
+    "file": "DESSINS-5.html",
+    "src": "../DESSINS-2018/DESSIN-4.jpg"
+  },
+  {
+    "type": "missing_image",
+    "file": "DESSINS-8.html",
+    "src": "../DESSINS-2018/DESSIN-6.jpg"
+  }
+]
