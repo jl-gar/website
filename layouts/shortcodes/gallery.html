@@ -46,7 +46,10 @@ URLs. */}}
 {{ $imgs := $imgsSlice }}
 
 {{ $first := index $imgs 0 }}
-<div class="jl-gallery jl-gallery-tiles" data-gallery-uid="{{ .Page.File.Path | urlize }}">
+{{/* create a safe id for the gallery by replacing slashes and other unsafe chars with dashes */}}
+{{ $rawPath := .Page.File.Path }}
+{{ $gidSafe := replaceRE "[^A-Za-z0-9_-]+" "-" $rawPath }}
+<div class="jl-gallery jl-gallery-tiles" id="pswp-gallery-{{ $gidSafe }}" data-gallery-uid="{{ .Page.File.Path | urlize }}">
     <!-- fallback main image element (hidden) so gallery.js can safely call show(0) -->
     <div class="jl-gallery-view" aria-hidden="true" style="display:none;">
         <img class="jl-gallery-img" src="" alt="" />
@@ -75,29 +78,30 @@ URLs. */}}
 
 {{ $ver := now.Unix }}
 <link rel="stylesheet" href="{{ printf "%s?v=%d" ("/css/gallery.css" | relURL) $ver }}">
-<script src="{{ printf "%s?v=%d" ("/js/gallery.js" | relURL) $ver }}" defer></script>
 
 <script type="module" defer>
-    import PhotoSwipe from 'https://unpkg.com/photoswipe@5/dist/photoswipe.esm.js';
     import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5/dist/photoswipe-lightbox.esm.js';
 
-    // initialize a lightbox that will bind to anchors inside .jl-gallery
-    console.debug('[JL-Gallery] PhotoSwipe init script running.');
-    console.debug('[JL-Gallery] anchors found at script run:', document.querySelectorAll('.jl-gallery a.jl-tile-link').length);
-    document.querySelectorAll('.jl-gallery a.jl-tile-link').forEach(function(a){
+    // initialize a lightbox that will bind to anchors inside this shortcode's gallery container
+    const GID = 'pswp-gallery-{{ $gidSafe }}';
+    const GSEL = '#' + GID;
+    console.debug('[JL-Gallery] PhotoSwipe init script running for', GSEL);
+    console.debug('[JL-Gallery] anchors found at script run:', document.querySelectorAll(GSEL + ' a.jl-tile-link').length);
+    document.querySelectorAll(GSEL + ' a.jl-tile-link').forEach(function(a){
         a.addEventListener('click', function(e){
             console.debug('[JL-Gallery] anchor clicked', a.getAttribute('data-index'), a.getAttribute('data-pswp-caption-title'), a.getAttribute('data-pswp-caption-dimensions'), a.getAttribute('data-pswp-caption-date'));
         });
     });
 
     const lightbox = new PhotoSwipeLightbox({
-        gallery: '.jl-gallery',
+        gallery: GSEL,
         children: 'a.jl-tile-link',
-        pswpModule: PhotoSwipe,
+        // dynamically load the PhotoSwipe core module per docs (keeps bundle small)
+        pswpModule: () => import('https://unpkg.com/photoswipe@5/dist/photoswipe.esm.js'),
         bgOpacity: 1,
         showHideAnimationType: 'fade',
-    padding: { top: 150, bottom: 150, left: 150, right: 150 },
-    // build caption HTML from data attributes on the clicked anchor
+        padding: { top: 150, bottom: 150, left: 150, right: 150 },
+        // build caption HTML from data attributes on the clicked anchor
         getCaptionHtml: function(el) {
             try {
                 if (!el) return '';
@@ -118,9 +122,9 @@ URLs. */}}
     });
     console.debug('[JL-Gallery] PhotoSwipeLightbox created', typeof lightbox);
     lightbox.init();
-    console.debug('[JL-Gallery] PhotoSwipeLightbox.init called');
+    console.debug('[JL-Gallery] PhotoSwipeLightbox.init called for', GSEL);
     // expose for debugging and programmatic control
-    try { window.JL_PHOTOSWIPE_LIGHTBOX = lightbox; console.debug('[JL-Gallery] exposed lightbox as window.JL_PHOTOSWIPE_LIGHTBOX'); } catch (e) { /* ignore */ }
+    try { window.JL_PHOTOSWIPE_LIGHTBOX = window.JL_PHOTOSWIPE_LIGHTBOX || {}; window.JL_PHOTOSWIPE_LIGHTBOX[GID] = lightbox; console.debug('[JL-Gallery] exposed lightbox as window.JL_PHOTOSWIPE_LIGHTBOX["' + GID + '"]'); } catch (e) { /* ignore */ }
 
     // register a custom caption UI element per PhotoSwipe docs
     lightbox.on('uiRegister', function() {
@@ -136,12 +140,12 @@ URLs. */}}
                     var captionHTML = '';
                     if (curr) {
                         // Try hidden element first
-                        var hidden = curr.querySelector('.hidden-caption-content');
+                        var hidden = curr.querySelector && curr.querySelector('.hidden-caption-content');
                         if (hidden) captionHTML = hidden.innerHTML;
                         else {
-                            var title = curr.getAttribute('data-pswp-caption-title') || '';
-                            var dims = curr.getAttribute('data-pswp-caption-dimensions') || '';
-                            var date = curr.getAttribute('data-pswp-caption-date') || '';
+                            var title = curr.getAttribute && curr.getAttribute('data-pswp-caption-title') || '';
+                            var dims = curr.getAttribute && curr.getAttribute('data-pswp-caption-dimensions') || '';
+                            var date = curr.getAttribute && curr.getAttribute('data-pswp-caption-date') || '';
                             if (title) captionHTML += '<div class="pswp-caption-title">' + title + '</div>';
                             if (dims || date) {
                                 captionHTML += '<div class="pswp-caption-meta">' + (dims ? dims : '');
