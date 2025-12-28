@@ -8,84 +8,153 @@ URLs. */}}
 {{ $images := transform.Unmarshal $raw }}
 {{ $imgsSlice := slice }}
 {{ range $i, $img := $images }}
-{{ $fname := path.Base $img.file }}
-{{ $res := $.Page.Resources.GetMatch (printf "media/%s" $fname) }}
-{{ $url := "" }}
-{{ if $res }}
-{{ $url = $res.RelPermalink }}
-{{ else }}
-{{/* try site static path fallback */}}
-{{ $url = (printf "/%s" (printf "docs/%s/%s" .Page.File.Dir $fname)) | relURL }}
-{{ end }}
-{{ $entry := dict "url" $url "title" $img.title "date" $img.date "dimensions" $img.dimensions_physical "notes"
-$img.notes "id" $img.id "original_name" $img.original_name }}
-{{ $imgsSlice = $imgsSlice | append $entry }}
+    {{ $fname := path.Base $img.file }}
+    {{ $res := $.Page.Resources.GetMatch (printf "media/%s" $fname) }}
+    {{ $url := "" }}
+    {{ $thumbURL := "" }}
+    {{ $displayURL := "" }}
+    {{ $displayW := 0 }}
+    {{ $displayH := 0 }}
+    {{ if $res }}
+        {{ $url = $res.RelPermalink }}
+    {{/* create a cropped thumbnail exactly 200x200 (change size as needed) */}}
+    {{ $thumb := $res.Fit "200x200" }}
+        {{ if $thumb }}
+            {{ $thumbURL = $thumb.RelPermalink }}
+        {{ else }}
+            {{ $thumbURL = $res.RelPermalink }}
+        {{ end }}
+        {{/* create a medium display image for PhotoSwipe (resize keeping aspect) */}}
+        {{ $display := $res.Resize "1600x" }}
+        {{ if $display }}
+            {{ $displayURL = $display.RelPermalink }}
+            {{ $displayW = $display.Width }}
+            {{ $displayH = $display.Height }}
+        {{ else }}
+            {{ $displayURL = $res.RelPermalink }}
+            {{ $displayW = $res.Width }}
+            {{ $displayH = $res.Height }}
+        {{ end }}
+    {{ else }}
+        {{/* try site static path fallback */}}
+        {{ $url = (printf "/%s" (printf "docs/%s/%s" .Page.File.Dir $fname)) | relURL }}
+        {{ $thumbURL = $url }}
+    {{ end }}
+    {{ $entry := dict "url" $url "display" $displayURL "w" $displayW "h" $displayH "thumb" $thumbURL "title" $img.title "date" $img.date "dimensions" $img.dimensions_physical "notes" $img.notes "id" $img.id "original_name" $img.original_name }}
+    {{ $imgsSlice = $imgsSlice | append $entry }}
 {{ end }}
 {{ $imgs := $imgsSlice }}
 
 {{ $first := index $imgs 0 }}
-<div class="jl-gallery" data-gallery-uid="{{ .Page.File.Path | urlize }}">
-    <div class="jl-gallery-image-wrap"><img class="jl-gallery-img" src="{{ $first.url }}" alt="{{ $first.title }}" />
+<div class="jl-gallery jl-gallery-tiles" data-gallery-uid="{{ .Page.File.Path | urlize }}">
+    <!-- fallback main image element (hidden) so gallery.js can safely call show(0) -->
+    <div class="jl-gallery-view" aria-hidden="true" style="display:none;">
+        <img class="jl-gallery-img" src="" alt="" />
     </div>
-    <div class="jl-gallery-meta">
-        <h3 class="jl-gallery-title">{{ $first.title }}</h3>
-        <div class="jl-gallery-details">
-            <span class="jl-gallery-date">{{ $first.date }}</span>
-            <span class="jl-gallery-dimensions">{{ $first.dimensions }}</span>
-        </div>
-        <p class="jl-gallery-notes">{{ $first.notes }}</p>
-    </div>
-
-    <div class="jl-gallery-controls">
-        <button class="jl-gallery-btn jl-prev" aria-label="Previous">‹</button>
-        <button class="jl-gallery-btn jl-next" aria-label="Next">›</button>
-    </div>
-</div>
-{{/* expose images data for the gallery script */}}
-<script>window.JL_GALLERY_IMAGES = window.JL_GALLERY_IMAGES || {}; window.JL_GALLERY_IMAGES["{{ .Page.File.Path | urlize }}"] = {{ $imgs | jsonify | safeJS }};</script>
-
-{{/* PhotoSwipe (v4) includes via CDN and local gallery assets */}}
-<link rel="stylesheet" href="https://unpkg.com/photoswipe@4.1.3/dist/photoswipe.css">
-<link rel="stylesheet" href="https://unpkg.com/photoswipe@4.1.3/dist/default-skin/default-skin.css">
-<script src="https://unpkg.com/photoswipe@4.1.3/dist/photoswipe.min.js" defer></script>
-<script src="https://unpkg.com/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js" defer></script>
-
-<link rel="stylesheet" href="{{ "/css/gallery.css" | relURL }}">
-<script src="{{ "/js/gallery.js" | relURL }}" defer></script>
-
-{{/* PhotoSwipe root markup (required structure) */}}
-<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="pswp__bg"></div>
-    <div class="pswp__scroll-wrap">
-        <div class="pswp__container">
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-        </div>
-        <div class="pswp__ui pswp__ui--hidden">
-            <div class="pswp__top-bar">
-                <div class="pswp__counter"></div>
-                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-                <button class="pswp__button pswp__button--share" title="Share"></button>
-                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
-                <div class="pswp__preloader">
-                    <div class="pswp__preloader__icn">
-                        <div class="pswp__preloader__cut">
-                            <div class="pswp__preloader__donut"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
-                <div class="pswp__share-tooltip"></div>
-            </div>
-            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
-            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
-            <div class="pswp__caption">
-                <div class="pswp__caption__center"></div>
-            </div>
-        </div>
+    <div class="jl-tiles-grid">
+        {{ range $i, $img := $imgs }}
+            <figure class="jl-tile" data-index="{{ $i }}">
+                <a href="{{ $img.url }}" data-index="{{ $i }}" class="jl-tile-link" data-pswp-src="{{ $img.display }}" data-pswp-width="{{ $img.w }}" data-pswp-height="{{ $img.h }}" data-pswp-caption-title="{{ $img.title }}" data-pswp-caption-dimensions="{{ $img.dimensions }}" data-pswp-caption-date="{{ $img.date }}">
+                    <img class="jl-tile-img" src="{{ $img.thumb }}" alt="{{ $img.title }}" loading="lazy" />
+                </a>
+                <figcaption class="jl-tile-caption">
+                    <a href="{{ $img.url }}" class="jl-tile-title">{{ $img.title }}</a>
+                    <div class="jl-tile-dim">{{ $img.dimensions }}</div>
+                </figcaption>
+            </figure>
+        {{ end }}
     </div>
 </div>
+{{/* expose images data for the gallery script in a JSON blob to avoid template quoting issues */}}
+<script id="jl-gallery-data-{{ .Page.File.Path | urlize }}" type="application/json">
+    {{ $imgs | jsonify | safeJS }}
+</script>
+
+{{/* PhotoSwipe v5: include CSS and initialize via ESM module. We add data-pswp-* attributes on anchors above so PhotoSwipe v5 can use them. */}}
+<link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
+
+{{ $ver := now.Unix }}
+<link rel="stylesheet" href="{{ printf "%s?v=%d" ("/css/gallery.css" | relURL) $ver }}">
+<script src="{{ printf "%s?v=%d" ("/js/gallery.js" | relURL) $ver }}" defer></script>
+
+<script type="module" defer>
+    import PhotoSwipe from 'https://unpkg.com/photoswipe@5/dist/photoswipe.esm.js';
+    import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5/dist/photoswipe-lightbox.esm.js';
+
+    // initialize a lightbox that will bind to anchors inside .jl-gallery
+    console.debug('[JL-Gallery] PhotoSwipe init script running.');
+    console.debug('[JL-Gallery] anchors found at script run:', document.querySelectorAll('.jl-gallery a.jl-tile-link').length);
+    document.querySelectorAll('.jl-gallery a.jl-tile-link').forEach(function(a){
+        a.addEventListener('click', function(e){
+            console.debug('[JL-Gallery] anchor clicked', a.getAttribute('data-index'), a.getAttribute('data-pswp-caption-title'), a.getAttribute('data-pswp-caption-dimensions'), a.getAttribute('data-pswp-caption-date'));
+        });
+    });
+
+    const lightbox = new PhotoSwipeLightbox({
+        gallery: '.jl-gallery',
+        children: 'a.jl-tile-link',
+        pswpModule: PhotoSwipe,
+        bgOpacity: 1,
+        showHideAnimationType: 'fade',
+    padding: { top: 150, bottom: 150, left: 150, right: 150 },
+    // build caption HTML from data attributes on the clicked anchor
+        getCaptionHtml: function(el) {
+            try {
+                if (!el) return '';
+                var title = el.getAttribute('data-pswp-caption-title') || '';
+                var dims = el.getAttribute('data-pswp-caption-dimensions') || '';
+                var date = el.getAttribute('data-pswp-caption-date') || '';
+                var html = '';
+                if (title) html += '<div class="pswp-caption-title">' + title + '</div>';
+                if (dims || date) {
+                    html += '<div class="pswp-caption-meta">' + (dims ? dims : '');
+                    if (dims && date) html += ' — ' + date; else if (!dims && date) html += date;
+                    html += '</div>';
+                }
+                console.debug('[JL-Gallery] getCaptionHtml result for', el, html);
+                return html || '';
+            } catch (e) { console.debug('[JL-Gallery] getCaptionHtml error', e); return ''; }
+        }
+    });
+    console.debug('[JL-Gallery] PhotoSwipeLightbox created', typeof lightbox);
+    lightbox.init();
+    console.debug('[JL-Gallery] PhotoSwipeLightbox.init called');
+    // expose for debugging and programmatic control
+    try { window.JL_PHOTOSWIPE_LIGHTBOX = lightbox; console.debug('[JL-Gallery] exposed lightbox as window.JL_PHOTOSWIPE_LIGHTBOX'); } catch (e) { /* ignore */ }
+
+    // register a custom caption UI element per PhotoSwipe docs
+    lightbox.on('uiRegister', function() {
+        lightbox.pswp.ui.registerElement({
+            name: 'custom-caption',
+            order: 9,
+            isButton: false,
+            appendTo: 'root',
+            html: '<div class="pswp__custom-caption" aria-hidden="false"></div>',
+            onInit: function(el, pswp) {
+                pswp.on('change', function() {
+                    var curr = pswp.currSlide && pswp.currSlide.data && pswp.currSlide.data.element;
+                    var captionHTML = '';
+                    if (curr) {
+                        // Try hidden element first
+                        var hidden = curr.querySelector('.hidden-caption-content');
+                        if (hidden) captionHTML = hidden.innerHTML;
+                        else {
+                            var title = curr.getAttribute('data-pswp-caption-title') || '';
+                            var dims = curr.getAttribute('data-pswp-caption-dimensions') || '';
+                            var date = curr.getAttribute('data-pswp-caption-date') || '';
+                            if (title) captionHTML += '<div class="pswp-caption-title">' + title + '</div>';
+                            if (dims || date) {
+                                captionHTML += '<div class="pswp-caption-meta">' + (dims ? dims : '');
+                                if (dims && date) captionHTML += ' — ' + date; else if (!dims && date) captionHTML += date;
+                                captionHTML += '</div>';
+                            }
+                        }
+                    }
+                    el.innerHTML = captionHTML || '';
+                });
+            }
+        });
+    });
+</script>
+
 {{ end }}

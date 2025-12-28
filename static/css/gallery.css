@@ -2,14 +2,14 @@
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    margin: 1rem 0
+    margin: 1rem 0;
 }
 
 .jl-gallery-view {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 1rem
+    gap: 1rem;
 }
 
 .jl-gallery-image-wrap {
@@ -62,5 +62,211 @@
 }
 
 .jl-gallery {
-    position: relative
+    position: relative;
+}
+
+/* Tiles grid */
+.jl-gallery-tiles .jl-tiles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    align-items: start;
+}
+
+.jl-tile {
+    list-style: none;
+    margin: 0;
+    background: #fff;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.jl-tile-link {
+    display: block;
+}
+
+.jl-tile-caption {
+    padding: .5rem;
+    font-size: .9rem;
+}
+
+.jl-tile-title {
+    font-weight: 600;
+    color: #1a73e8;
+    text-decoration: none
+}
+
+.jl-tile-dim {
+    color: #666;
+    font-size: .85rem;
+}
+
+.jl-tile-img {
+    width: 100%;
+    height: 300px;
+    /* match Fit: resize to fit box without cropping */
+    object-fit: contain;
+    object-position: center center;
+    background: #f8f8f8;
+    display: block;
+}
+
+@media (min-width: 900px) {
+    .jl-tile-img {
+        height: 300px;
+    }
+}
+
+@media (max-width: 600px) {
+    .jl-tile-img {
+        height: 200px;
+    }
+}
+
+/* .pswp__custom-caption {
+    background: rgba(75, 150, 75, 0.75);
+    font-size: 16px;
+    color: #fff;
+    width: calc(100% - 32px);
+    max-width: 400px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    position: absolute;
+    left: 50%;
+    bottom: 16px;
+    transform: translateX(-50%);
+}
+
+.pswp__custom-caption a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.hidden-caption-content {
+    display: none;
+} */
+
+/* PhotoSwipe customizations: image size cap, opaque background, caption styling */
+/* .pswp__img,
+.pswp__zoom-wrap img {
+    max-width: 70vw !important;
+    max-height: 70vh !important;
+    width: auto !important;
+    height: auto !important;
+    align-items: center !important;
+    justify-content: center !important;
+} */
+
+/* .pswp__bg {
+    background-color: rgba(0, 0, 0, 1) !important;
+} */
+
+/* .pswp__caption__center {
+    color: #fff;
+}
+
+.pswp-caption-title {
+    font-weight: 600;
+    margin-bottom: .25rem;
+}
+
+.pswp-caption-meta {
+    font-size: .9rem;
+    color: #ddd
+}
+
+/* Center PhotoSwipe content: ensure the zoom wrapper centers its image */
+
+/* PhotoSwipe v4/v5 centering fallback: make all major containers flex-centered and full-height */
+/* .pswp__scroll-wrap,
+.pswp__container,
+.pswp__zoom-wrap,
+.pswp__stage,
+.pswp__stage__item,
+.pswp__item {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    height: 100% !important;
+}
+
+/* Ensure image uses auto margins inside the wrapper */
+/* .pswp__img {
+    margin: auto !important;
+    display: block !important;
+} */
+
+/* Ensure zoom-wrap image is centered and doesn't use absolute positioning that pins it to top-left */
+/* .pswp__zoom-wrap img,
+.pswp__img,
+.pswp__stage__content img {
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    transform: none !important;
+    margin: auto !important;
+    max-width: 70vw !important;
+    max-height: 70vh !important;
+} */
+
+/* PhotoSwipe v5 overlay fixes: force opaque background */
+/* .pswp {
+    /* Ensure the background opacity variable used by v5 is full */
+/* --pswp-bg-opacity: 1 !important;
+background-color: rgba(0, 0, 0, 1) !important;
+} */
+
+/* .pswp--custom-bg {
+    --pswp-bg: #7079bf;
+} */
+
+
+/* .pswp__bg,
+.pswp__overlay,
+.pswp__bg--hidden {
+    background-color: rgba(0, 0, 0, 1) !important;
+    opacity: 1 !important;
+} */
+
+/* In case PhotoSwipe injects inline styles or different class names, ensure root-level cover */
+/* .pswp,
+.pswp * {
+    background-color: unset;
+} */
+
+/* Ensure PhotoSwipe v5 captions are visible and styled */
+.pswp__ui .pswp__caption,
+.pswp__caption,
+.pswp__caption__center,
+.pswp-caption-title,
+.pswp-caption-meta {
+    display: block !important;
+    color: #fff !important;
+    text-align: center !important;
+}
+
+/* Slight spacing for caption text */
+.pswp-caption-title {
+    margin-bottom: .25rem;
+    font-weight: 600;
+}
+
+.pswp-caption-meta {
+    font-size: .95rem;
+    color: #ddd;
+}
+
+/* Custom caption box injected by our uiRegister handler */
+.pswp__custom-caption {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 16px;
+    background: rgba(0, 0, 0, 0.55);
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 4px;
+    max-width: calc(100% - 40px);
+    text-align: center;
 }

@@ -1,5 +1,15 @@
 document.addEventListener('DOMContentLoaded', function () {
     function getImagesForUid(uid) {
+        // try an inline JSON blob first
+        try {
+            var scriptId = 'jl-gallery-data-' + uid;
+            var el = document.getElementById(scriptId);
+            if (el) {
+                var parsed = JSON.parse(el.textContent || el.innerText || '[]');
+                if (parsed && parsed.length) return parsed;
+            }
+        } catch (e) { /* ignore parse errors */ }
+
         var imgs = (window.JL_GALLERY_IMAGES && window.JL_GALLERY_IMAGES[uid]) || [];
         if (imgs && imgs.length) return imgs;
         try {
@@ -28,7 +38,8 @@ document.addEventListener('DOMContentLoaded', function () {
         this.next = root.querySelector('.jl-next');
         if (this.prev) this.prev.addEventListener('click', this.prevIdx.bind(this));
         if (this.next) this.next.addEventListener('click', this.nextIdx.bind(this));
-        this.show(0);
+        // only show initial image if the main image element exists
+        if (this.imgEl) this.show(0);
         try {
             console.log('[JL-Gallery] init', { uid: this.uid, images: this.images && this.images.length });
             this.root.setAttribute('data-jl-gallery-init', '1');
@@ -40,84 +51,63 @@ document.addEventListener('DOMContentLoaded', function () {
         this.index = (i + this.images.length) % this.images.length;
         var img = this.images[this.index];
         if (!img) return;
-        this.imgEl.src = img.url || img.file || '';
-        this.imgEl.alt = img.title || img.original_name || '';
+        if (this.imgEl) {
+            this.imgEl.src = img.url || img.file || '';
+            this.imgEl.alt = img.title || img.original_name || '';
+        }
         if (this.titleEl) this.titleEl.textContent = img.title || '';
         if (this.dateEl) this.dateEl.textContent = img.date ? String(img.date) : '';
         if (this.dimEl) this.dimEl.textContent = img.dimensions || '';
         if (this.notesEl) this.notesEl.textContent = img.notes || '';
     };
 
-    // build PhotoSwipe items from images array
+    // For PhotoSwipe v5 we rely on data-pswp-* attributes on anchors and the PhotoSwipeLightbox
+    // buildItems is kept for potential programmatic usage
     Gallery.prototype.buildItems = function () {
         var self = this;
         return this.images.map(function (it) {
-            // Try to use dimensions if present in metadata (dimensions_pixels expected as {w,h} or string)
-            var w = it.width || it.w || 0;
-            var h = it.height || it.h || 0;
-            // fallback if dimensions not set, PhotoSwipe can accept undefined and we'll preload before opening
+            var src = it.display || it.url || it.file || '';
+            var w = it.w || it.width || 0;
+            var h = it.h || it.height || 0;
             return {
-                src: it.url || it.file || '',
+                src: src,
                 w: w,
                 h: h,
-                title: it.title || ''
+                title: it.title || '',
+                dimensions: it.dimensions || it.dimensions_physical || '',
+                date: it.date || ''
             };
         });
     };
 
-    // open PhotoSwipe at current index; if items miss sizes, preload to get natural dimensions
+    // open PhotoSwipe v5 programmatically if the module is available; otherwise rely on the Lightbox bound to anchors
     Gallery.prototype.openPhotoSwipe = function (startIndex) {
-        var self = this;
         var items = this.buildItems();
-        var needPreload = items.some(function (it) { return !it.w || !it.h; });
-
-        var open = function () {
-            try {
-                var pswpElem = document.querySelectorAll('.pswp')[0];
-                var options = { index: startIndex || self.index, bgOpacity: 0.85, showHideOpacity: true };
-                if (typeof PhotoSwipe !== 'function' && typeof PhotoSwipe !== 'object') {
-                    console.error('[JL-Gallery] PhotoSwipe is not available on window');
-                    return;
+        // Try programmatic open via global PhotoSwipe (v5 exposes PhotoSwipe as window.PhotoSwipe when using non-ESM builds)
+        try {
+            if (window.PhotoSwipe && typeof window.PhotoSwipe === 'function') {
+                // construct items in PhotoSwipe v5 format
+                var psItems = items.map(function (it) {
+                    return {
+                        src: it.src,
+                        width: it.w || 0,
+                        height: it.h || 0,
+                        title: it.title || ''
+                    };
+                });
+                // if PhotoSwipeLightbox is present and can open, prefer it
+                if (window.PhotoSwipeLightbox && typeof window.PhotoSwipeLightbox === 'function') {
+                    // cannot reliably open programmatically from lightbox instance from here; fall through to anchor click
                 }
-                if (typeof PhotoSwipeUI_Default === 'undefined') {
-                    console.warn('[JL-Gallery] PhotoSwipe UI default not found; trying to continue');
-                }
-                console.debug('[JL-Gallery] opening PhotoSwipe', { index: options.index, itemsCount: items.length });
-                var gallery = new PhotoSwipe(pswpElem, PhotoSwipeUI_Default, items, options);
-                gallery.init();
-            } catch (err) {
-                console.error('[JL-Gallery] failed to open PhotoSwipe', err);
             }
-        };
-
-        if (!needPreload) {
-            open();
-            return;
+        } catch (e) {
+            // ignore and let anchor-based lightbox handle it
         }
-
-        // preload missing sizes sequentially
-        var toLoad = [];
-        items.forEach(function (it, idx) {
-            if (!it.w || !it.h) toLoad.push({ it: it, idx: idx });
-        });
-
-        var loaded = 0;
-        if (!toLoad.length) return open();
-        toLoad.forEach(function (entry) {
-            var img = new Image();
-            img.onload = function () {
-                entry.it.w = img.naturalWidth || img.width;
-                entry.it.h = img.naturalHeight || img.height;
-                loaded++;
-                if (loaded === toLoad.length) open();
-            };
-            img.onerror = function () {
-                // leave sizes 0 - PhotoSwipe will handle it
-                loaded++;
-                if (loaded === toLoad.length) open();
-            };
-            img.src = entry.it.src;
-        });
+        // Fallback: trigger click on the corresponding anchor to let PhotoSwipeLightbox handle opening
+        try {
+            var el = this.root.querySelector("a.jl-tile-link[data-index='" + (startIndex || this.index) + "']");
+            if (el) el.click();
+        } catch (e) { /* ignore */ }
     };
 
     // attach click and controls
@@ -127,10 +117,30 @@ document.addEventListener('DOMContentLoaded', function () {
             this.imgEl.style.cursor = 'zoom-in';
             this.imgEl.addEventListener('click', function () { self.openPhotoSwipe(self.index); });
         }
+        // Attach to tiles if present
+        try {
+            var links = this.root.querySelectorAll('.jl-tile-link');
+            links.forEach(function (a) {
+                a.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    var idx = parseInt(a.getAttribute('data-index'), 10) || 0;
+                    self.openPhotoSwipe(idx);
+                });
+            });
+        } catch (e) { /* ignore */ }
     };
 
     Gallery.prototype.prevIdx = function () { this.show(this.index - 1); };
     Gallery.prototype.nextIdx = function () { this.show(this.index + 1); };
 
-    document.querySelectorAll('.jl-gallery').forEach(function (el) { var g = new Gallery(el); g.attachHandlers(); });
+    document.querySelectorAll('.jl-gallery').forEach(function (el) {
+        try {
+            // ensure element has gallery-uid attribute
+            if (!el.dataset || !el.dataset.galleryUid) return;
+            var g = new Gallery(el);
+            if (g && typeof g.attachHandlers === 'function') g.attachHandlers();
+        } catch (err) {
+            console.error('[JL-Gallery] init failed for element', el, err);
+        }
+    });
 });
