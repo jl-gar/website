@@ -1,0 +1,257 @@
+[
+  {
+    "id": "paysage1",
+    "file": "media/paysage1.jpg",
+    "original_name": "PAYSAGE1.jpg",
+    "title": "PAYSAGE #1",
+    "date": "1985",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 477
+    },
+    "source_pages": [
+      "DATAR1.html"
+    ],
+    "order": 1,
+    "notes": "PAYSAGE  #1    \n 1985         40 x 50 cm"
+  },
+  {
+    "id": "paysage15",
+    "file": "media/paysage15.jpg",
+    "original_name": "PAYSAGE15.jpg",
+    "title": "PAYSAGE #15",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 476
+    },
+    "source_pages": [
+      "DATAR10.html"
+    ],
+    "order": 1,
+    "notes": "PAYSAGE  #15      1986         40 x 50 cm"
+  },
+  {
+    "id": "paysage16",
+    "file": "media/paysage16.jpg",
+    "original_name": "PAYSAGE16.jpg",
+    "title": "PAYSAGE #16",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 475
+    },
+    "source_pages": [
+      "DATAR11.html"
+    ],
+    "order": 1,
+    "notes": "PAYSAGE  #16      1986         40 x 50 cm"
+  },
+  {
+    "id": "paysage7",
+    "file": "media/paysage7.jpg",
+    "original_name": "PAYSAGE7.jpg",
+    "title": "PAYSAGE #7",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 475
+    },
+    "source_pages": [
+      "DATAR12.html"
+    ],
+    "order": 1,
+    "notes": "PAYSAGE  #7      1986         40 x 50 cm"
+  },
+  {
+    "id": "paysage2",
+    "file": "media/paysage2.jpg",
+    "original_name": "PAYSAGE2.jpg",
+    "title": "PAYSAGE #2",
+    "date": "1985",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 475
+    },
+    "source_pages": [
+      "DATAR13.html"
+    ],
+    "order": 1,
+    "notes": "PAYSAGE  #2      1985         40 x 50 cm"
+  },
+  {
+    "id": "paysage11",
+    "file": "media/paysage11.jpg",
+    "original_name": "PAYSAGE11.jpg",
+    "title": "PAYSAGE #11",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 474
+    },
+    "source_pages": [
+      "DATAR14.html"
+    ],
+    "order": 1,
+    "notes": "PAYSAGE  #11      1986         40 x 50 cm"
+  },
+  {
+    "id": "paysage12",
+    "file": "media/paysage12.jpg",
+    "original_name": "PAYSAGE12.jpg",
+    "title": "PAYSAGE #12",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 474
+    },
+    "source_pages": [
+      "DATAR15.html"
+    ],
+    "order": 1,
+    "notes": "PAYSAGE  #12      1986         40 x 50 cm"
+  },
+  {
+    "id": "paysage6",
+    "file": "media/paysage6.jpg",
+    "original_name": "PAYSAGE6.jpg",
+    "title": "PAYSAGE #6",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 473
+    },
+    "source_pages": [
+      "DATAR2.html"
+    ],
+    "order": 1,
+    "notes": "PAYSAGE  #6      1986         40 x 50 cm"
+  },
+  {
+    "id": "paysage10",
+    "file": "media/paysage10.jpg",
+    "original_name": "PAYSAGE10.jpg",
+    "title": "PAYSAGE #10",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 478
+    },
+    "source_pages": [
+      "DATAR3.html"
+    ],
+    "order": 1,
+    "notes": "PAYSAGE  #10      1986         40 x 50 cm"
+  },
+  {
+    "id": "paysage9",
+    "file": "media/paysage9.jpg",
+    "original_name": "PAYSAGE9.jpg",
+    "title": "PAYSAGE #9",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 475
+    },
+    "source_pages": [
+      "DATAR4.html"
+    ],
+    "order": 1,
+    "notes": "PAYSAGE  #9      1986         40 x 50 cm"
+  },
+  {
+    "id": "paysage3",
+    "file": "media/paysage3.jpg",
+    "original_name": "PAYSAGE3.jpg",
+    "title": "PAYSAGE #3",
+    "date": "1985",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 477
+    },
+    "source_pages": [
+      "DATAR5.html"
+    ],
+    "order": 1,
+    "notes": "PAYSAGE  #3      1985         40 x 50 cm"
+  },
+  {
+    "id": "paysage4",
+    "file": "media/paysage4.jpg",
+    "original_name": "PAYSAGE4.jpg",
+    "title": "PAYSAGE #4",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 476
+    },
+    "source_pages": [
+      "DATAR6.html"
+    ],
+    "order": 1,
+    "notes": "PAYSAGE  #4      1986         40 x 50 cm"
+  },
+  {
+    "id": "paysage13",
+    "file": "media/paysage13.jpg",
+    "original_name": "PAYSAGE13.jpg",
+    "title": "PAYSAGE #13",
+    "date": "1985",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 475
+    },
+    "source_pages": [
+      "DATAR7.html"
+    ],
+    "order": 1,
+    "notes": "PAYSAGE  #13      1985         40 x 50 cm"
+  },
+  {
+    "id": "paysage5",
+    "file": "media/paysage5.jpg",
+    "original_name": "PAYSAGE5.jpg",
+    "title": "PAYSAGE #5",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 476
+    },
+    "source_pages": [
+      "DATAR8.html"
+    ],
+    "order": 1,
+    "notes": "PAYSAGE  #5      1986         40 x 50 cm"
+  },
+  {
+    "id": "paysage14",
+    "file": "media/paysage14.jpg",
+    "original_name": "PAYSAGE14.jpg",
+    "title": "PAYSAGE #14",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 474
+    },
+    "source_pages": [
+      "DATAR9.html"
+    ],
+    "order": 1,
+    "notes": "PAYSAGE  #14      1986         40 x 50 cm"
+  }
+]

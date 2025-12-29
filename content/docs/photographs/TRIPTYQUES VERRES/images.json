@@ -1,0 +1,53 @@
+[
+  {
+    "id": "triptyque1",
+    "file": "media/triptyque1.jpg",
+    "original_name": "Triptyque1.jpg",
+    "title": "TRIPTYQUE I",
+    "date": "2012",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 398
+    },
+    "source_pages": [
+      "TRIPTYQUE12012.html"
+    ],
+    "order": 1,
+    "notes": "TRIPTYQUE  I       2012"
+  },
+  {
+    "id": "triptyque2",
+    "file": "media/triptyque2.jpg",
+    "original_name": "Triptyque2.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 393
+    },
+    "source_pages": [
+      "TRIPTYQUE22012.html"
+    ],
+    "order": 2,
+    "notes": null
+  },
+  {
+    "id": "triptyque3",
+    "file": "media/triptyque3.jpg",
+    "original_name": "TRIPTYQUE3.jpg",
+    "title": "TRIPTYQUE 3",
+    "date": "2012",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 398
+    },
+    "source_pages": [
+      "TRIPTYQUE32012.html"
+    ],
+    "order": 1,
+    "notes": "TRIPTYQUE  3      2012"
+  }
+]

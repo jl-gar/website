@@ -1,0 +1,359 @@
+[
+  {
+    "id": "suite-2020-1",
+    "file": "media/suite-2020-1.jpg",
+    "original_name": "SUITE-2020-1.jpg",
+    "title": "SUITE",
+    "date": "2020",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 335,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2020-1.html"
+    ],
+    "order": 1,
+    "notes": "SUITE\n  2020\n             \n6 x (90x60cm)        \nDétail  #1"
+  },
+  {
+    "id": "suite-2020-2",
+    "file": "media/suite-2020-2.jpg",
+    "original_name": "SUITE-2020-2.jpg",
+    "title": "SUITE",
+    "date": "2020",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 334,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2020-2.html"
+    ],
+    "order": 1,
+    "notes": "SUITE\n  2020\n             \n6 x (90x60cm)        \nDétail  #2"
+  },
+  {
+    "id": "suite-2020-3",
+    "file": "media/suite-2020-3.jpg",
+    "original_name": "SUITE-2020-3.jpg",
+    "title": "SUITE",
+    "date": "2020",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 334,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2020-3.html"
+    ],
+    "order": 1,
+    "notes": "SUITE\n  2020\n             \n6 x (90x60cm)        \nDétail  #3"
+  },
+  {
+    "id": "suite-2020-4",
+    "file": "media/suite-2020-4.jpg",
+    "original_name": "SUITE-2020-4.jpg",
+    "title": "SUITE",
+    "date": "2020",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 334,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2020-4.html"
+    ],
+    "order": 1,
+    "notes": "SUITE\n  2020\n             \n6 x (90x60cm)        \nDétail  #4"
+  },
+  {
+    "id": "suite-2020-5",
+    "file": "media/suite-2020-5.jpg",
+    "original_name": "SUITE-2020-5.jpg",
+    "title": "SUITE",
+    "date": "2020",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 334,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2020-5.html"
+    ],
+    "order": 1,
+    "notes": "SUITE\n  2020\n             \n6 x (90x60cm)        \nDétail  #5"
+  },
+  {
+    "id": "suite-2020-6",
+    "file": "media/suite-2020-6.jpg",
+    "original_name": "SUITE-2020-6.jpg",
+    "title": "SUITE",
+    "date": "2020",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 334,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2020-6.html"
+    ],
+    "order": 1,
+    "notes": "SUITE\n  2020\n             \n6 x (90x60cm)        \nDétail  #6"
+  },
+  {
+    "id": "suite-2020",
+    "file": "media/suite-2020.jpg",
+    "original_name": "SUITE-2020.jpg",
+    "title": "SUITE",
+    "date": "2020",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 281
+    },
+    "source_pages": [
+      "SUITE-2020.html"
+    ],
+    "order": 1,
+    "notes": "SUITE   2020               6 x (90x60cm)"
+  },
+  {
+    "id": "suite-2021-1",
+    "file": "media/suite-2021-1.jpg",
+    "original_name": "SUITE-2021-1.jpg",
+    "title": "SUITE",
+    "date": "2021",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2021-1.html"
+    ],
+    "order": 1,
+    "notes": "SUITE   2021               6 x (90x60cm)"
+  },
+  {
+    "id": "suite-2021-2",
+    "file": "media/suite-2021-2.jpg",
+    "original_name": "SUITE-2021-2.jpg",
+    "title": "SUITE",
+    "date": "2021",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2021-2.html"
+    ],
+    "order": 1,
+    "notes": "SUITE   2021               6 x (90x60cm)"
+  },
+  {
+    "id": "suite-2021-3",
+    "file": "media/suite-2021-3.jpg",
+    "original_name": "SUITE-2021-3.jpg",
+    "title": "SUITE",
+    "date": "2021",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2021-3.html"
+    ],
+    "order": 1,
+    "notes": "SUITE   2021               6 x (90x60cm)"
+  },
+  {
+    "id": "suite-2021-4",
+    "file": "media/suite-2021-4.jpg",
+    "original_name": "SUITE-2021-4.jpg",
+    "title": "SUITE",
+    "date": "2021",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2021-4.html"
+    ],
+    "order": 1,
+    "notes": "SUITE   2021               6 x (90x60cm)"
+  },
+  {
+    "id": "suite-2021-5",
+    "file": "media/suite-2021-5.jpg",
+    "original_name": "SUITE-2021-5.jpg",
+    "title": "SUITE",
+    "date": "2021",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2021-5.html"
+    ],
+    "order": 1,
+    "notes": "SUITE   2021               6 x (90x60cm)"
+  },
+  {
+    "id": "suite-2021-6",
+    "file": "media/suite-2021-6.jpg",
+    "original_name": "SUITE-2021-6.jpg",
+    "title": "SUITE",
+    "date": "2021",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2021-6.html"
+    ],
+    "order": 1,
+    "notes": "SUITE   2021               6 x (90x60cm)"
+  },
+  {
+    "id": "suite-2021",
+    "file": "media/suite-2021.jpg",
+    "original_name": "SUITE-2021.jpg",
+    "title": "SUITE",
+    "date": "2021",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 281
+    },
+    "source_pages": [
+      "SUITE-20210.html"
+    ],
+    "order": 1,
+    "notes": "SUITE   2021               6 x (90x60cm)"
+  },
+  {
+    "id": "suite-2022-1",
+    "file": "media/suite-2022-1.jpg",
+    "original_name": "SUITE-2022-1.jpg",
+    "title": "SUITE",
+    "date": "2022",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2022-1.html"
+    ],
+    "order": 1,
+    "notes": "SUITE   2022               6 x (90x60cm)"
+  },
+  {
+    "id": "suite-2022-2",
+    "file": "media/suite-2022-2.jpg",
+    "original_name": "SUITE-2022-2.jpg",
+    "title": "SUITE",
+    "date": "2022",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2022-2.html"
+    ],
+    "order": 1,
+    "notes": "SUITE   2022               6 x (90x60cm)"
+  },
+  {
+    "id": "suite-2022-3",
+    "file": "media/suite-2022-3.jpg",
+    "original_name": "SUITE-2022-3.jpg",
+    "title": "SUITE",
+    "date": "2022",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2022-3.html"
+    ],
+    "order": 1,
+    "notes": "SUITE   2022               6 x (90x60cm)"
+  },
+  {
+    "id": "suite-2022-4",
+    "file": "media/suite-2022-4.jpg",
+    "original_name": "SUITE-2022-4.jpg",
+    "title": "SUITE",
+    "date": "2022",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2022-4.html"
+    ],
+    "order": 1,
+    "notes": "SUITE   2022               6 x (90x60cm)"
+  },
+  {
+    "id": "suite-2022-5",
+    "file": "media/suite-2022-5.jpg",
+    "original_name": "SUITE-2022-5.jpg",
+    "title": "SUITE",
+    "date": "2022",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2022-5.html"
+    ],
+    "order": 1,
+    "notes": "SUITE   2022               6 x (90x60cm)"
+  },
+  {
+    "id": "suite-2022-6",
+    "file": "media/suite-2022-6.jpg",
+    "original_name": "SUITE-2022-6.jpg",
+    "title": "SUITE",
+    "date": "2022",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2022-6.html"
+    ],
+    "order": 1,
+    "notes": "SUITE   2022               6 x (90x60cm)"
+  },
+  {
+    "id": "suite-2022",
+    "file": "media/suite-2022.jpg",
+    "original_name": "SUITE-2022.jpg",
+    "title": "SUITE",
+    "date": "2022",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 281
+    },
+    "source_pages": [
+      "SUITE-2022.html"
+    ],
+    "order": 1,
+    "notes": "SUITE   2022               6 x (90x60cm)"
+  }
+]

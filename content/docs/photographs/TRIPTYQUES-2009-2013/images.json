@@ -1,0 +1,70 @@
+[
+  {
+    "id": "diptyque12013",
+    "file": "media/diptyque12013.jpg",
+    "original_name": "DIPTYQUE12013.jpg",
+    "title": "DIPTYQUE I",
+    "date": "2013",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 364
+    },
+    "source_pages": [
+      "DIPTYQUEI2013.html"
+    ],
+    "order": 1,
+    "notes": "DIPTYQUE  I         2013"
+  },
+  {
+    "id": "triptique12007",
+    "file": "media/triptique12007.jpg",
+    "original_name": "TRIPTIQUE12007.jpg",
+    "title": "TRIPTYQUE I",
+    "date": "2007",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 312
+    },
+    "source_pages": [
+      "TRIPTYQUE12007.html"
+    ],
+    "order": 1,
+    "notes": "TRIPTYQUE  I   2007"
+  },
+  {
+    "id": "triptyque2",
+    "file": "media/triptyque2.jpg",
+    "original_name": "Triptyque2.jpg",
+    "title": "TRIPTYQUE II",
+    "date": "2007",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 316
+    },
+    "source_pages": [
+      "TRIPTYQUE22007.html"
+    ],
+    "order": 1,
+    "notes": "TRIPTYQUE  II   2007"
+  },
+  {
+    "id": "triptyque3",
+    "file": "media/triptyque3.jpg",
+    "original_name": "Triptyque3.jpg",
+    "title": "TRIPTYQUE III",
+    "date": "2009",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 316
+    },
+    "source_pages": [
+      "TRIPTYQUE32009.html"
+    ],
+    "order": 1,
+    "notes": "TRIPTYQUE  III         2009          3 x ("
+  }
+]

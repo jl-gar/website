@@ -67,10 +67,11 @@
 
 /* Tiles grid */
 .jl-gallery-tiles .jl-tiles-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    /* Use a wrapping flexbox so each tile height is fixed and width adjusts to image aspect ratio */
+    display: flex;
+    flex-wrap: wrap;
     gap: 1rem;
-    align-items: start;
+    align-items: flex-start;
 }
 
 .jl-tile {
@@ -80,6 +81,10 @@
     border-radius: 4px;
     overflow: hidden;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+    /* Let the tile width size to its contents; keep consistent height via the link */
+    display: inline-flex;
+    flex-direction: column;
+    align-items: stretch;
 }
 
 .jl-tile-link {
@@ -102,26 +107,56 @@
     font-size: .85rem;
 }
 
-.jl-tile-img {
-    width: 100%;
-    height: 300px;
-    /* match Fit: resize to fit box without cropping */
-    object-fit: contain;
-    object-position: center center;
-    background: #f8f8f8;
-    display: block;
-}
+/* .jl-tiles-grid rules are defined earlier; no-op removed to avoid empty ruleset */
 
-@media (min-width: 900px) {
-    .jl-tile-img {
-        height: 300px;
-    }
+/* Tile sizing: use a CSS variable for the uniform tile height */
+:root {
+    --jl-tile-height: 200px;
 }
 
 @media (max-width: 600px) {
-    .jl-tile-img {
-        height: 200px;
+    :root {
+        --jl-tile-height: 200px;
     }
+}
+
+/* Make the anchor act as the image box with fixed height; center the image inside */
+.jl-tile-link {
+    display: block;
+    /* keep semantic clickable area */
+}
+
+/* The visual image container that forces tile height and centers the image */
+.jl-tile .jl-tile-img-wrap {
+    height: var(--jl-tile-height);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    /* remove grey bands */
+    padding: 0;
+    /* ensure no extra vertical padding */
+    line-height: 0;
+    /* remove inline-gap whitespace */
+    overflow: hidden;
+}
+
+.jl-tile-img {
+    /* Fill the tile height, preserve aspect ratio (no cropping) */
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+    object-position: center center;
+    display: block;
+}
+
+/* Remove extra spacing inside the tile and caption so image fills the visual box */
+.jl-tile,
+.jl-tile-caption,
+.jl-tile-link {
+    padding: 0;
+    margin: 0;
 }
 
 

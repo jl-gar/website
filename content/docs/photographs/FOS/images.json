@@ -1,0 +1,139 @@
+[
+  {
+    "id": "fosdiptyque1",
+    "file": "media/fosdiptyque1.jpg",
+    "original_name": "FOSDIPTYQUE1.jpg",
+    "title": "DIPTYQUE #1",
+    "date": "1995",
+    "dimensions_physical": "123 × 155",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 423
+    },
+    "source_pages": [
+      "FOSDIPTYQUE1.html"
+    ],
+    "order": 1,
+    "notes": "DIPTYQUE   #1          1995    \n              2 x ( 123 x 155 ) cm"
+  },
+  {
+    "id": "fosdiptyque2",
+    "file": "media/fosdiptyque2.jpg",
+    "original_name": "FOSDIPTYQUE2.jpg",
+    "title": "DIPTYQUE #2",
+    "date": "1995",
+    "dimensions_physical": "103 × 123",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 423
+    },
+    "source_pages": [
+      "FOSDIPTYQUE2.html"
+    ],
+    "order": 1,
+    "notes": "DIPTYQUE   #2          1995    \n              2 x ( 103 x 123 ) cm"
+  },
+  {
+    "id": "fosdiptyque3",
+    "file": "media/fosdiptyque3.jpg",
+    "original_name": "FOSDIPTYQUE3.jpg",
+    "title": "DIPTYQUE #3",
+    "date": "1995",
+    "dimensions_physical": "63 × 120 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 423
+    },
+    "source_pages": [
+      "FOSDIPTYQUE3.html"
+    ],
+    "order": 1,
+    "notes": "DIPTYQUE   #3          1995    \n              63 x 120 cm"
+  },
+  {
+    "id": "fosdiptyque4",
+    "file": "media/fosdiptyque4.jpg",
+    "original_name": "FOSDIPTYQUE4.jpg",
+    "title": "DIPTYQUE #4",
+    "date": "1995",
+    "dimensions_physical": "63 × 120 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 423
+    },
+    "source_pages": [
+      "FOSDIPTYQUE4.html"
+    ],
+    "order": 1,
+    "notes": "DIPTYQUE   #4          1995    \n              63 x 120 cm"
+  },
+  {
+    "id": "fosdiptyque5",
+    "file": "media/fosdiptyque5.jpg",
+    "original_name": "FOSDIPTYQUE5.jpg",
+    "title": "DIPTYQUE #5",
+    "date": "1995",
+    "dimensions_physical": "63 × 120 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 423
+    },
+    "source_pages": [
+      "FOSDIPTYQUE5.html"
+    ],
+    "order": 1,
+    "notes": "DIPTYQUE   #5          1995    \n              63 x 120 cm"
+  },
+  {
+    "id": "fosdiptyque6",
+    "file": "media/fosdiptyque6.jpg",
+    "original_name": "FOSDIPTYQUE6.jpg",
+    "title": "DIPTYQUE #6",
+    "date": "1995",
+    "dimensions_physical": "63 × 120 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 423
+    },
+    "source_pages": [
+      "FOSDIPTYQUE6.html"
+    ],
+    "order": 1,
+    "notes": "DIPTYQUE   #6          1995    \n              63 x 120 cm"
+  },
+  {
+    "id": "fosdiptyque7",
+    "file": "media/fosdiptyque7.jpg",
+    "original_name": "FOSDIPTYQUE7.jpg",
+    "title": "DIPTYQUE #7",
+    "date": "1995",
+    "dimensions_physical": "63 × 120 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 423
+    },
+    "source_pages": [
+      "FOSDIPTYQUE7.html",
+      "FOSDIPTYQUE8.html"
+    ],
+    "order": 2,
+    "notes": "DIPTYQUE   #7          1995    \n              63 x 120 cm"
+  },
+  {
+    "id": "fosmur1",
+    "file": "media/fosmur1.jpg",
+    "original_name": "FOSMUR1.jpg",
+    "title": "SANS TITRE #1",
+    "date": "1995",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 475
+    },
+    "source_pages": [
+      "FOSMUR.html"
+    ],
+    "order": 1,
+    "notes": "SANS TITRE   #1          1995    \n              40 x 50  cm"
+  }
+]

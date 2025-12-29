@@ -1,0 +1,19 @@
+[
+  {
+    "id": "veranda",
+    "file": "media/veranda.jpg",
+    "original_name": "Veranda.jpg",
+    "title": "LA VERANDA",
+    "date": "1987",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 638
+    },
+    "source_pages": [
+      "LAVERANDA.html"
+    ],
+    "order": 1,
+    "notes": "LA VERANDA      1987"
+  }
+]

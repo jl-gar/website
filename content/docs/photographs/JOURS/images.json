@@ -1,0 +1,121 @@
+[
+  {
+    "id": "jours1",
+    "file": "media/jours1.jpg",
+    "original_name": "JOURS1.jpg",
+    "title": "JOURS #1",
+    "date": "1997",
+    "dimensions_physical": "75 × 100 cm",
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 300
+    },
+    "source_pages": [
+      "JOURS1.html"
+    ],
+    "order": 1,
+    "notes": "JOURS  #1      1997         75 x 100 cm"
+  },
+  {
+    "id": "jours2",
+    "file": "media/jours2.jpg",
+    "original_name": "JOURS2.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 300
+    },
+    "source_pages": [
+      "JOURS2.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "jours3",
+    "file": "media/jours3.jpg",
+    "original_name": "JOURS3.jpg",
+    "title": "JOURS #3",
+    "date": "1997",
+    "dimensions_physical": "100 × 75 cm",
+    "dimensions_pixels": {
+      "width": 263,
+      "height": 350
+    },
+    "source_pages": [
+      "JOURS3.html"
+    ],
+    "order": 1,
+    "notes": "JOURS  #3     1997         100 x 75 cm"
+  },
+  {
+    "id": "jours4",
+    "file": "media/jours4.jpg",
+    "original_name": "JOURS4.jpg",
+    "title": "JOURS #4",
+    "date": "1997",
+    "dimensions_physical": "75 × 100 cm",
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 300
+    },
+    "source_pages": [
+      "JOURS4.html"
+    ],
+    "order": 1,
+    "notes": "JOURS  #4     1997         75 x 100 cm"
+  },
+  {
+    "id": "jours5",
+    "file": "media/jours5.jpg",
+    "original_name": "JOURS5.jpg",
+    "title": "JOURS #5",
+    "date": "1997",
+    "dimensions_physical": "75 × 100 cm",
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 300
+    },
+    "source_pages": [
+      "JOURS5.html"
+    ],
+    "order": 1,
+    "notes": "JOURS  #5     1997         75 x 100 cm"
+  },
+  {
+    "id": "jours6",
+    "file": "media/jours6.jpg",
+    "original_name": "JOURS6.jpg",
+    "title": "JOURS #6",
+    "date": "1997",
+    "dimensions_physical": "75 × 100 cm",
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 300
+    },
+    "source_pages": [
+      "JOURS6.html"
+    ],
+    "order": 1,
+    "notes": "JOURS  #6     1997         75 x 100 cm"
+  },
+  {
+    "id": "jours7",
+    "file": "media/jours7.jpg",
+    "original_name": "JOURS7.jpg",
+    "title": "JOURS #7",
+    "date": "1997",
+    "dimensions_physical": "75 × 100 cm",
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 300
+    },
+    "source_pages": [
+      "JOURS7.html"
+    ],
+    "order": 1,
+    "notes": "JOURS  #7     1997         75 x 100 cm"
+  }
+]

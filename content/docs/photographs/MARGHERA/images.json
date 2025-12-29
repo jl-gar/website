@@ -1,0 +1,87 @@
+[
+  {
+    "id": "margheradipt1",
+    "file": "media/margheradipt1.jpg",
+    "original_name": "MARGHERADIPT1.jpg",
+    "title": "DIPTYQUE #1",
+    "date": "1998",
+    "dimensions_physical": "100 × 120",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 423
+    },
+    "source_pages": [
+      "MARGHERADIPT1.html"
+    ],
+    "order": 1,
+    "notes": "DIPTYQUE   #1          1998    \n              2 x ( 100 x 120 ) cm"
+  },
+  {
+    "id": "margheradipt2",
+    "file": "media/margheradipt2.jpg",
+    "original_name": "MARGHERADIPT2.jpg",
+    "title": "DIPTYQUE #2",
+    "date": "1998",
+    "dimensions_physical": "100 × 120",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 423
+    },
+    "source_pages": [
+      "MARGHERADIPT2.html"
+    ],
+    "order": 1,
+    "notes": "DIPTYQUE   #2          1998    \n              2 x ( 100 x 120 ) cm"
+  },
+  {
+    "id": "margheradipt3",
+    "file": "media/margheradipt3.jpg",
+    "original_name": "MARGHERADIPT3.jpg",
+    "title": "DIPTYQUE #3",
+    "date": "1998",
+    "dimensions_physical": "100 × 120",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 423
+    },
+    "source_pages": [
+      "MARGHERADIPT3.html"
+    ],
+    "order": 1,
+    "notes": "DIPTYQUE   #3          1998    \n              2 x ( 100 x 120 ) cm"
+  },
+  {
+    "id": "margheratript1",
+    "file": "media/margheratript1.jpg",
+    "original_name": "MARGHERATRIPT1.jpg",
+    "title": "TRIPTYQUE #1",
+    "date": "1998",
+    "dimensions_physical": "100 × 120",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 285
+    },
+    "source_pages": [
+      "MARGHERATRIPT1.html"
+    ],
+    "order": 1,
+    "notes": "TRIPTYQUE   #1          1998    \n              3 x ( 100 x 120 ) cm"
+  },
+  {
+    "id": "margheratript2",
+    "file": "media/margheratript2.jpg",
+    "original_name": "MARGHERATRIPT2.jpg",
+    "title": "TRIPTYQUE #2",
+    "date": "1998",
+    "dimensions_physical": "100 × 120",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 287
+    },
+    "source_pages": [
+      "MARGHERATRIPT2.html"
+    ],
+    "order": 1,
+    "notes": "TRIPTYQUE   #2          1998    \n              3 x ( 100 x 120 ) cm"
+  }
+]

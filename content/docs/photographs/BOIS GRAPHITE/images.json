@@ -1,0 +1,19 @@
+[
+  {
+    "id": "boisgraphite",
+    "file": "media/boisgraphite.jpg",
+    "original_name": "BOISGRAPHITE.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "source_pages": [
+      "BOISGRAPHITES.html"
+    ],
+    "order": 1,
+    "notes": null
+  }
+]

@@ -1,0 +1,444 @@
+[
+  {
+    "id": "simples1",
+    "file": "media/simples1.jpg",
+    "original_name": "SIMPLES1.jpg",
+    "title": "SIMPLES #1",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 407
+    },
+    "source_pages": [
+      "SIMPLES1.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #1    \n 1998         2 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples10",
+    "file": "media/simples10.jpg",
+    "original_name": "SIMPLES10.jpg",
+    "title": "SIMPLES #10",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 407
+    },
+    "source_pages": [
+      "SIMPLES10.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #10     \n1998         4 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples11",
+    "file": "media/simples11.jpg",
+    "original_name": "SIMPLES11.jpg",
+    "title": "SIMPLES #11",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 407
+    },
+    "source_pages": [
+      "SIMPLES11.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #11     \n1998         2 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples12",
+    "file": "media/simples12.jpg",
+    "original_name": "SIMPLES12.jpg",
+    "title": "SIMPLES #12",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 407
+    },
+    "source_pages": [
+      "SIMPLES12.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #12     \n1998         2 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples13",
+    "file": "media/simples13.jpg",
+    "original_name": "SIMPLES13.jpg",
+    "title": "SIMPLES #13",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 407,
+      "height": 600
+    },
+    "source_pages": [
+      "SIMPLES13.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #13     \n1998         3 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples14",
+    "file": "media/simples14.jpg",
+    "original_name": "SIMPLES14.jpg",
+    "title": "SIMPLES #14",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 407
+    },
+    "source_pages": [
+      "SIMPLES14.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #14     \n1998         2 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples15",
+    "file": "media/simples15.jpg",
+    "original_name": "SIMPLES15.jpg",
+    "title": "SIMPLES #15",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 407,
+      "height": 600
+    },
+    "source_pages": [
+      "SIMPLES15.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #15     \n1998         3 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples16",
+    "file": "media/simples16.jpg",
+    "original_name": "SIMPLES16.jpg",
+    "title": "SIMPLES #16",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 407
+    },
+    "source_pages": [
+      "SIMPLES16.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #16     \n1998         3 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples17",
+    "file": "media/simples17.jpg",
+    "original_name": "SIMPLES17.jpg",
+    "title": "SIMPLES #17",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 414
+    },
+    "source_pages": [
+      "SIMPLES17.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #17     \n1998         3 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples18",
+    "file": "media/simples18.jpg",
+    "original_name": "SIMPLES18.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 407,
+      "height": 600
+    },
+    "source_pages": [
+      "SIMPLES18.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "simples19",
+    "file": "media/simples19.jpg",
+    "original_name": "SIMPLES19.jpg",
+    "title": "SIMPLES #19",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 407
+    },
+    "source_pages": [
+      "SIMPLES19.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #19     \n1998         2 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples2",
+    "file": "media/simples2.jpg",
+    "original_name": "SIMPLES2.jpg",
+    "title": "SIMPLES #2",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 407
+    },
+    "source_pages": [
+      "SIMPLES2.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #2     \n1998         3 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples20",
+    "file": "media/simples20.jpg",
+    "original_name": "SIMPLES20.jpg",
+    "title": "SIMPLES #20",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 407,
+      "height": 600
+    },
+    "source_pages": [
+      "SIMPLES20.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #20     \n1998         3 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples21",
+    "file": "media/simples21.jpg",
+    "original_name": "SIMPLES21.jpg",
+    "title": "SIMPLES #21",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 407
+    },
+    "source_pages": [
+      "SIMPLES21.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #21     \n1998         3 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples22",
+    "file": "media/simples22.jpg",
+    "original_name": "SIMPLES22.jpg",
+    "title": "SIMPLES #22",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 407
+    },
+    "source_pages": [
+      "SIMPLES22.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #22     \n1998         2 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples23",
+    "file": "media/simples23.jpg",
+    "original_name": "SIMPLES23.jpg",
+    "title": "SIMPLES #23",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 407,
+      "height": 600
+    },
+    "source_pages": [
+      "SIMPLES23.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #23     \n1998         3 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples24",
+    "file": "media/simples24.jpg",
+    "original_name": "SIMPLES24.jpg",
+    "title": "SIMPLES #24",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 407,
+      "height": 600
+    },
+    "source_pages": [
+      "SIMPLES24.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #24     \n1998         3 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples25",
+    "file": "media/simples25.jpg",
+    "original_name": "SIMPLES25.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 407,
+      "height": 600
+    },
+    "source_pages": [
+      "SIMPLES25.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "simples26",
+    "file": "media/simples26.jpg",
+    "original_name": "SIMPLES26.jpg",
+    "title": "SIMPLES #26",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 407
+    },
+    "source_pages": [
+      "SIMPLES26.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #26     \n1998         2 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples3",
+    "file": "media/simples3.jpg",
+    "original_name": "SIMPLES3.jpg",
+    "title": "SIMPLES #3",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 407
+    },
+    "source_pages": [
+      "SIMPLES3.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #3     \n1998         4 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples4",
+    "file": "media/simples4.jpg",
+    "original_name": "SIMPLES4.jpg",
+    "title": "SIMPLES #4",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 407,
+      "height": 600
+    },
+    "source_pages": [
+      "SIMPLES4.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #4     \n1998         3 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples5",
+    "file": "media/simples5.jpg",
+    "original_name": "SIMPLES5.jpg",
+    "title": "SIMPLES #5",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 407
+    },
+    "source_pages": [
+      "SIMPLES5.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #5     \n1998         1 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples6",
+    "file": "media/simples6.jpg",
+    "original_name": "SIMPLES6.jpg",
+    "title": "SIMPLES #6",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 407
+    },
+    "source_pages": [
+      "SIMPLES6.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #6     \n1998         2 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples7",
+    "file": "media/simples7.jpg",
+    "original_name": "SIMPLES7.jpg",
+    "title": "SIMPLES #7",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 407
+    },
+    "source_pages": [
+      "SIMPLES7.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #7     \n1998         3 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples8",
+    "file": "media/simples8.jpg",
+    "original_name": "SIMPLES8.jpg",
+    "title": "SIMPLES #8",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 407
+    },
+    "source_pages": [
+      "SIMPLES8.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #8     \n1998         3 x ( 66 x 82 ) cm"
+  },
+  {
+    "id": "simples9",
+    "file": "media/simples9.jpg",
+    "original_name": "SIMPLES9.jpg",
+    "title": "SIMPLES #9",
+    "date": "1998",
+    "dimensions_physical": "66 × 82",
+    "dimensions_pixels": {
+      "width": 407,
+      "height": 600
+    },
+    "source_pages": [
+      "SIMPLES9.html"
+    ],
+    "order": 1,
+    "notes": "SIMPLES  #9     \n1998         3 x ( 66 x 82 ) cm"
+  }
+]

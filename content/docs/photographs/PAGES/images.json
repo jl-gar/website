@@ -1,0 +1,155 @@
+[
+  {
+    "id": "pages10",
+    "file": "media/pages10.jpg",
+    "original_name": "PAGES10.jpg",
+    "title": "PAGES #10",
+    "date": "1999",
+    "dimensions_physical": "100 × 254 cm",
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 312
+    },
+    "source_pages": [
+      "PAGES10.html"
+    ],
+    "order": 1,
+    "notes": "PAGES\n  #10            1999    \n      100  x  254 cm"
+  },
+  {
+    "id": "pages15",
+    "file": "media/pages15.jpg",
+    "original_name": "PAGES15.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 311
+    },
+    "source_pages": [
+      "PAGES15.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "pages16",
+    "file": "media/pages16.jpg",
+    "original_name": "PAGES16.jpg",
+    "title": "PAGES #16",
+    "date": "1999",
+    "dimensions_physical": "100 × 254 cm",
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 311
+    },
+    "source_pages": [
+      "PAGES16.html"
+    ],
+    "order": 1,
+    "notes": "PAGES\n  #16            1999    \n      100  x  254 cm"
+  },
+  {
+    "id": "pages18",
+    "file": "media/pages18.jpg",
+    "original_name": "PAGES18.jpg",
+    "title": "PAGES #18",
+    "date": "1999",
+    "dimensions_physical": "100 × 254 cm",
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 312
+    },
+    "source_pages": [
+      "PAGES18.html"
+    ],
+    "order": 1,
+    "notes": "PAGES\n  #18            1999    \n      100  x  254 cm"
+  },
+  {
+    "id": "pages22",
+    "file": "media/pages22.jpg",
+    "original_name": "PAGES22.jpg",
+    "title": "PAGES #22",
+    "date": "1999",
+    "dimensions_physical": "100 × 254 cm",
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 313
+    },
+    "source_pages": [
+      "PAGES22.html"
+    ],
+    "order": 1,
+    "notes": "PAGES\n  #22            1999    \n      100  x  254 cm"
+  },
+  {
+    "id": "pages23",
+    "file": "media/pages23.jpg",
+    "original_name": "PAGES23.jpg",
+    "title": "PAGES #23",
+    "date": "1999",
+    "dimensions_physical": "100 × 254 cm",
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 311
+    },
+    "source_pages": [
+      "PAGES23.html"
+    ],
+    "order": 1,
+    "notes": "PAGES   #23    \n       1999          \n100  x  254 cm"
+  },
+  {
+    "id": "pages4",
+    "file": "media/pages4.jpg",
+    "original_name": "PAGES4.jpg",
+    "title": "PAGES #4",
+    "date": "1999",
+    "dimensions_physical": "100 × 254 cm",
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 312
+    },
+    "source_pages": [
+      "PAGES4.html"
+    ],
+    "order": 1,
+    "notes": "PAGES   #4            1999           100  x  254 cm"
+  },
+  {
+    "id": "pages6",
+    "file": "media/pages6.jpg",
+    "original_name": "PAGES6.jpg",
+    "title": "PAGES #6",
+    "date": "1999",
+    "dimensions_physical": "100 × 254 cm",
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 312
+    },
+    "source_pages": [
+      "PAGES6.html"
+    ],
+    "order": 1,
+    "notes": "PAGES   #6            1999           100  x  254 cm"
+  },
+  {
+    "id": "pages7",
+    "file": "media/pages7.jpg",
+    "original_name": "PAGES7.jpg",
+    "title": "PAGES #7",
+    "date": "1999",
+    "dimensions_physical": "100 × 254 cm",
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 313
+    },
+    "source_pages": [
+      "PAGES7.html"
+    ],
+    "order": 1,
+    "notes": "PAGES   #7            1999           100  x  254 cm"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "transmanche-1",
+    "file": "media/transm-1.jpg",
+    "original_name": "transm-1.jpg",
+    "title": "Transmanche #1",
+    "date": "1988",
+    "dimensions_physical": "2 x (80 x 100 cm)",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 473
+    },
+    "source_pages": [
+      "TRANSMANCHE1.html"
+    ],
+    "order": 1,
+    "notes": "Transmanche  #1      1988        2 x (80 x 100 cm)"
+  },
+  {
+    "id": "transmanche-2",
+    "file": "media/transm-2.jpg",
+    "original_name": "transm-2.jpg",
+    "title": "Transmanche #2",
+    "date": "1988",
+    "dimensions_physical": "2 x (80 x 100 cm)",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 473
+    },
+    "source_pages": [
+      "TRANSMANCHE2.html"
+    ],
+    "order": 2,
+    "notes": "Transmanche  #2      1988        2 x (80 x 100 cm)"
+  },
+  {
+    "id": "transmanche-3",
+    "file": "media/transm-3.jpg",
+    "original_name": "transm-3.jpg",
+    "title": "Transmanche #3",
+    "date": "1988",
+    "dimensions_physical": "2 x (80 x 100 cm)",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 473
+    },
+    "source_pages": [
+      "TRANSMANCHE3.html"
+    ],
+    "order": 3,
+    "notes": "Transmanche  #3      1988        2 x (80 x 100 cm)"
+  }
+]

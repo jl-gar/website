@@ -1,0 +1,121 @@
+[
+  {
+    "id": "escalierb1",
+    "file": "media/escalierb1.jpg",
+    "original_name": "ESCALIERB1.jpg",
+    "title": "ESCALIER B #1",
+    "date": "2007",
+    "dimensions_physical": "96 × 120 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 478
+    },
+    "source_pages": [
+      "ESCALIERB1.html"
+    ],
+    "order": 1,
+    "notes": "ESCALIER B  #1     \n2007         96 x 120 cm"
+  },
+  {
+    "id": "escalierb2",
+    "file": "media/escalierb2.jpg",
+    "original_name": "ESCALIERB2.jpg",
+    "title": "ESCALIER B #2",
+    "date": "2007",
+    "dimensions_physical": "96 × 120 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 477
+    },
+    "source_pages": [
+      "ESCALIERB2.html"
+    ],
+    "order": 1,
+    "notes": "ESCALIER B  #2     \n2007         96 x 120 cm"
+  },
+  {
+    "id": "escalierb3",
+    "file": "media/escalierb3.jpg",
+    "original_name": "ESCALIERB3.jpg",
+    "title": "ESCALIER B #3",
+    "date": "2007",
+    "dimensions_physical": "96 × 120 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 472
+    },
+    "source_pages": [
+      "ESCALIERB3.html"
+    ],
+    "order": 1,
+    "notes": "ESCALIER B  #3     \n2007         96 x 120 cm"
+  },
+  {
+    "id": "escalierb4",
+    "file": "media/escalierb4.jpg",
+    "original_name": "ESCALIERB4.jpg",
+    "title": "ESCALIER B #4",
+    "date": "2007",
+    "dimensions_physical": "96 × 120 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 475
+    },
+    "source_pages": [
+      "ESCALIERB4.html"
+    ],
+    "order": 1,
+    "notes": "ESCALIER B  #4     \n2007         96 x 120 cm"
+  },
+  {
+    "id": "escalierb5",
+    "file": "media/escalierb5.jpg",
+    "original_name": "ESCALIERB5.jpg",
+    "title": "ESCALIER B #5",
+    "date": "2007",
+    "dimensions_physical": "96 × 120 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 474
+    },
+    "source_pages": [
+      "ESCALIERB5.html"
+    ],
+    "order": 1,
+    "notes": "ESCALIER B  #5     \n2007         96 x 120 cm"
+  },
+  {
+    "id": "escalierb6",
+    "file": "media/escalierb6.jpg",
+    "original_name": "ESCALIERB6.jpg",
+    "title": "ESCALIER B #6",
+    "date": "2007",
+    "dimensions_physical": "96 × 120 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 472
+    },
+    "source_pages": [
+      "ESCALIERB6.html"
+    ],
+    "order": 1,
+    "notes": "ESCALIER B  #6     \n2007         96 x 120 cm"
+  },
+  {
+    "id": "escalierb7",
+    "file": "media/escalierb7.jpg",
+    "original_name": "ESCALIERB7.jpg",
+    "title": "ESCALIER B #7",
+    "date": "2007",
+    "dimensions_physical": "96 × 120 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 475
+    },
+    "source_pages": [
+      "ESCALIERB7.html"
+    ],
+    "order": 1,
+    "notes": "ESCALIER B  #7     \n2007         96 x 120 cm"
+  }
+]

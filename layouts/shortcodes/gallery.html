@@ -5,6 +5,9 @@ URLs. */}}
 <p class="jl-gallery-missing">No images.json found for this page.</p>
 {{ else }}
 {{ $raw := $jres.Content }}
+{{/* remove UTF-8 BOM bytes if present (EF BB BF) then trim leading whitespace */}}
+{{ $raw = replaceRE "^\\xef\\xbb\\xbf" "" $raw }}
+{{ $raw = replaceRE "^\\s+" "" $raw }}
 {{ $images := transform.Unmarshal $raw }}
 {{ $imgsSlice := slice }}
 {{ range $i, $img := $images }}
@@ -58,7 +61,9 @@ URLs. */}}
         {{ range $i, $img := $imgs }}
             <figure class="jl-tile" data-index="{{ $i }}">
                 <a href="{{ $img.url }}" data-index="{{ $i }}" class="jl-tile-link" data-pswp-src="{{ $img.display }}" data-pswp-width="{{ $img.w }}" data-pswp-height="{{ $img.h }}" data-pswp-caption-title="{{ $img.title }}" data-pswp-caption-dimensions="{{ $img.dimensions }}" data-pswp-caption-date="{{ $img.date }}">
-                    <img class="jl-tile-img" src="{{ $img.thumb }}" alt="{{ $img.title }}" loading="lazy" />
+                    <div class="jl-tile-img-wrap">
+                        <img class="jl-tile-img" src="{{ $img.thumb }}" alt="{{ $img.title }}" loading="lazy" />
+                    </div>
                 </a>
                 <figcaption class="jl-tile-caption">
                     <a href="{{ $img.url }}" class="jl-tile-title">{{ $img.title }}</a>

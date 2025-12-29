@@ -1,0 +1,104 @@
+[
+  {
+    "id": "nbc1",
+    "file": "media/nbc1.jpg",
+    "original_name": "NBC1.JPG",
+    "title": "NBC #1",
+    "date": "2002",
+    "dimensions_physical": "46 × 62 cm",
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 375
+    },
+    "source_pages": [
+      "NBC1.html"
+    ],
+    "order": 1,
+    "notes": "NBC  #1      2002        46 x 62 cm"
+  },
+  {
+    "id": "nbc2",
+    "file": "media/nbc2.jpg",
+    "original_name": "NBC2.JPG",
+    "title": "NBC #2",
+    "date": "2002",
+    "dimensions_physical": "62 × 46 cm",
+    "dimensions_pixels": {
+      "width": 375,
+      "height": 500
+    },
+    "source_pages": [
+      "NBC2.html"
+    ],
+    "order": 1,
+    "notes": "NBC  #2        2002        62 x 46 cm"
+  },
+  {
+    "id": "nbc3",
+    "file": "media/nbc3.jpg",
+    "original_name": "NBC3.JPG",
+    "title": "NBC #3",
+    "date": "2002",
+    "dimensions_physical": "62 × 46 cm",
+    "dimensions_pixels": {
+      "width": 375,
+      "height": 500
+    },
+    "source_pages": [
+      "NBC3.html"
+    ],
+    "order": 1,
+    "notes": "NBC  #3        2002        62 x 46 cm"
+  },
+  {
+    "id": "nbc4",
+    "file": "media/nbc4.jpg",
+    "original_name": "NBC4.JPG",
+    "title": "NBC #4",
+    "date": "2002",
+    "dimensions_physical": "46 × 62 cm",
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 375
+    },
+    "source_pages": [
+      "NBC4.html"
+    ],
+    "order": 1,
+    "notes": "NBC  #4        2002        46 x 62 cm"
+  },
+  {
+    "id": "nbc5",
+    "file": "media/nbc5.jpg",
+    "original_name": "NBC5.JPG",
+    "title": "NBC #5",
+    "date": "2002",
+    "dimensions_physical": "46 × 62 cm",
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 375
+    },
+    "source_pages": [
+      "NBC5.html"
+    ],
+    "order": 1,
+    "notes": "NBC  #5        2002        46 x 62 cm"
+  },
+  {
+    "id": "nbc6",
+    "file": "media/nbc6.jpg",
+    "original_name": "NBC6.JPG",
+    "title": "NBC #6",
+    "date": "2002",
+    "dimensions_physical": "46 × 62 cm",
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 375
+    },
+    "source_pages": [
+      "NBC6.html"
+    ],
+    "order": 1,
+    "notes": "NBC  #6        2002        46 x 62 cm"
+  }
+]

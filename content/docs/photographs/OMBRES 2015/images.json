@@ -1,0 +1,155 @@
+[
+  {
+    "id": "001",
+    "file": "media/001.jpg",
+    "original_name": "001.jpg",
+    "title": "ECRANS #1",
+    "date": "2015",
+    "dimensions_physical": "86 × 100 cm",
+    "dimensions_pixels": {
+      "width": 601,
+      "height": 500
+    },
+    "source_pages": [
+      "ECRANS1.html"
+    ],
+    "order": 1,
+    "notes": "ECRANS  #1      2015        86 x 100 cm"
+  },
+  {
+    "id": "002",
+    "file": "media/002.jpg",
+    "original_name": "002.jpg",
+    "title": "ECRANS #2",
+    "date": "2015",
+    "dimensions_physical": "86 × 100 cm",
+    "dimensions_pixels": {
+      "width": 568,
+      "height": 500
+    },
+    "source_pages": [
+      "ECRANS2.html"
+    ],
+    "order": 1,
+    "notes": "ECRANS  #2      2015        86 x 100 cm"
+  },
+  {
+    "id": "003",
+    "file": "media/003.jpg",
+    "original_name": "003.jpg",
+    "title": "ECRANS #3",
+    "date": "2015",
+    "dimensions_physical": "86 × 100 cm",
+    "dimensions_pixels": {
+      "width": 605,
+      "height": 500
+    },
+    "source_pages": [
+      "ECRANS3.html"
+    ],
+    "order": 1,
+    "notes": "ECRANS  #3      2015        86 x 100 cm"
+  },
+  {
+    "id": "004",
+    "file": "media/004.jpg",
+    "original_name": "004.jpg",
+    "title": "ECRANS #4",
+    "date": "2015",
+    "dimensions_physical": "86 × 100 cm",
+    "dimensions_pixels": {
+      "width": 598,
+      "height": 500
+    },
+    "source_pages": [
+      "ECRANS4.html"
+    ],
+    "order": 1,
+    "notes": "ECRANS  #4      2015        86 x 100 cm"
+  },
+  {
+    "id": "005",
+    "file": "media/005.jpg",
+    "original_name": "005.jpg",
+    "title": "ECRANS #5",
+    "date": "2015",
+    "dimensions_physical": "86 × 100 cm",
+    "dimensions_pixels": {
+      "width": 590,
+      "height": 500
+    },
+    "source_pages": [
+      "ECRANS5.html"
+    ],
+    "order": 1,
+    "notes": "ECRANS  #5      2015        86 x 100 cm"
+  },
+  {
+    "id": "006",
+    "file": "media/006.jpg",
+    "original_name": "006.jpg",
+    "title": "ECRANS #6",
+    "date": "2015",
+    "dimensions_physical": "86 × 100 cm",
+    "dimensions_pixels": {
+      "width": 598,
+      "height": 500
+    },
+    "source_pages": [
+      "ECRANS6.html"
+    ],
+    "order": 1,
+    "notes": "ECRANS  #6      2015        86 x 100 cm"
+  },
+  {
+    "id": "007",
+    "file": "media/007.jpg",
+    "original_name": "007.jpg",
+    "title": "ECRANS #7",
+    "date": "2015",
+    "dimensions_physical": "86 × 100 cm",
+    "dimensions_pixels": {
+      "width": 605,
+      "height": 500
+    },
+    "source_pages": [
+      "ECRANS7.html"
+    ],
+    "order": 1,
+    "notes": "ECRANS  #7      2015        86 x 100 cm"
+  },
+  {
+    "id": "008",
+    "file": "media/008.jpg",
+    "original_name": "008.jpg",
+    "title": "ECRANS #8",
+    "date": "2015",
+    "dimensions_physical": "86 × 100 cm",
+    "dimensions_pixels": {
+      "width": 594,
+      "height": 500
+    },
+    "source_pages": [
+      "ECRANS8.html"
+    ],
+    "order": 1,
+    "notes": "ECRANS  #8      2015        86 x 100 cm"
+  },
+  {
+    "id": "009",
+    "file": "media/009.jpg",
+    "original_name": "009.jpg",
+    "title": "ECRANS #9",
+    "date": "2015",
+    "dimensions_physical": "86 × 100 cm",
+    "dimensions_pixels": {
+      "width": 601,
+      "height": 500
+    },
+    "source_pages": [
+      "ECRANS9.html"
+    ],
+    "order": 1,
+    "notes": "ECRANS  #9      2015        86 x 100 cm"
+  }
+]

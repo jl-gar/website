@@ -1,0 +1,207 @@
+[
+  {
+    "id": "naples-1990",
+    "file": "media/naples-1990.jpg",
+    "original_name": "NAPLES-1990.jpg",
+    "title": "Andreas Gursky, Thomas Struth, Jean-Louis Garnell, Naples 20-01-",
+    "date": "1990",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 329
+    },
+    "source_pages": [
+      "PHOTOSOUVENIR1.html"
+    ],
+    "order": 1,
+    "notes": "Andreas Gursky, Thomas Struth, Jean-Louis Garnell, Naples 20-01-1990"
+  },
+  {
+    "id": "stuttgart",
+    "file": "media/stuttgart.jpg",
+    "original_name": "Stuttgart.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 820,
+      "height": 320
+    },
+    "source_pages": [
+      "PHOTOSOUVENIR10.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "carre-garnell",
+    "file": "media/carre-garnell.jpg",
+    "original_name": "CARRE-GARNELL.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 375
+    },
+    "source_pages": [
+      "PHOTOSOUVENIR11.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "portrait-laboye",
+    "file": "media/portrait-laboye.jpg",
+    "original_name": "PORTRAIT-LABOYE.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 589
+    },
+    "source_pages": [
+      "PHOTOSOUVENIR12.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "jusqualusuredulangage",
+    "file": "media/jusqualusuredulangage.jpg",
+    "original_name": "jusqualusuredulangage.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 711,
+      "height": 400
+    },
+    "source_pages": [
+      "PHOTOSOUVENIR13.html",
+      "PHOTOSOUVENIR14.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "mep2017",
+    "file": "media/mep2017.jpg",
+    "original_name": "MEP2017.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 375
+    },
+    "source_pages": [
+      "PHOTOSOUVENIR3.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "marianne-jlg-mika",
+    "file": "media/marianne-jlg-mika.jpg",
+    "original_name": "Marianne-JLG-Mika.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 400
+    },
+    "source_pages": [
+      "PHOTOSOUVENIR4.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "prato",
+    "file": "media/prato.jpg",
+    "original_name": "PRATO.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 362
+    },
+    "source_pages": [
+      "PHOTOSOUVENIR5.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "portrait-tremorin",
+    "file": "media/portrait-tremorin.jpg",
+    "original_name": "PORTRAIT-TREMORIN.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 345,
+      "height": 500
+    },
+    "source_pages": [
+      "PHOTOSOUVENIR6.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "saintpetersbourg",
+    "file": "media/saintpetersbourg.jpg",
+    "original_name": "SAINTPETERSBOURG.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 711,
+      "height": 400
+    },
+    "source_pages": [
+      "PHOTOSOUVENIR7.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "braunschweig",
+    "file": "media/braunschweig.jpg",
+    "original_name": "Braunschweig.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 375,
+      "height": 500
+    },
+    "source_pages": [
+      "PHOTOSOUVENIR8.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "mep",
+    "file": "media/mep.jpg",
+    "original_name": "MEP.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 375
+    },
+    "source_pages": [
+      "PHOTOSOUVENIR9.html"
+    ],
+    "order": 1,
+    "notes": null
+  }
+]
