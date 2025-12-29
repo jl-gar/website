@@ -9424,7 +9424,7 @@ textarea.form-control-lg {
   src: local("Material Icons"), local("MaterialIcons-Outlined"), url("../docs/fonts/material-symbols-outlined.woff2") format("woff2"); }
 
 body {
-  font-family: Fira Code;
+  font-family: Roboto;
   overflow-x: hidden !important;
   font-size: 1rem;
   color: #3C4257;

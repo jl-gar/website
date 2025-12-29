@@ -9561,7 +9561,7 @@ html {
   background-color: var(--body-bg); }
 
 body {
-  font-family: Fira Code;
+  font-family: Roboto;
   overflow-x: hidden !important;
   font-size: 1rem;
   color: var(--body-color);

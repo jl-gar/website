@@ -43,7 +43,7 @@ URLs. */}}
         {{ $url = (printf "/%s" (printf "docs/%s/%s" .Page.File.Dir $fname)) | relURL }}
         {{ $thumbURL = $url }}
     {{ end }}
-    {{ $entry := dict "url" $url "display" $displayURL "w" $displayW "h" $displayH "thumb" $thumbURL "title" $img.title "date" $img.date "dimensions" $img.dimensions_physical "notes" $img.notes "id" $img.id "original_name" $img.original_name }}
+    {{ $entry := dict "url" $url "display" $displayURL "w" $displayW "h" $displayH "thumb" $thumbURL "title" $img.title "date" $img.date "dimensions" $img.dimensions_physical "series" $img.series "notes" $img.notes "id" $img.id "original_name" $img.original_name }}
     {{ $imgsSlice = $imgsSlice | append $entry }}
 {{ end }}
 {{ $imgs := $imgsSlice }}
@@ -60,7 +60,7 @@ URLs. */}}
     <div class="jl-tiles-grid">
         {{ range $i, $img := $imgs }}
             <figure class="jl-tile" data-index="{{ $i }}">
-                <a href="{{ $img.url }}" data-index="{{ $i }}" class="jl-tile-link" data-pswp-src="{{ $img.display }}" data-pswp-width="{{ $img.w }}" data-pswp-height="{{ $img.h }}" data-pswp-caption-title="{{ $img.title }}" data-pswp-caption-dimensions="{{ $img.dimensions }}" data-pswp-caption-date="{{ $img.date }}">
+                <a href="{{ $img.url }}" data-index="{{ $i }}" class="jl-tile-link" data-pswp-src="{{ $img.display }}" data-pswp-width="{{ $img.w }}" data-pswp-height="{{ $img.h }}" data-pswp-caption-title="{{ $img.title }}" data-pswp-caption-dimensions="{{ $img.dimensions }}" data-pswp-caption-date="{{ $img.date }}" data-pswp-caption-series="{{ $img.series }}">
                     <div class="jl-tile-img-wrap">
                         <img class="jl-tile-img" src="{{ $img.thumb }}" alt="{{ $img.title }}" loading="lazy" />
                     </div>
@@ -111,10 +111,12 @@ URLs. */}}
             try {
                 if (!el) return '';
                 var title = el.getAttribute('data-pswp-caption-title') || '';
+                var series = el.getAttribute('data-pswp-caption-series') || '';
                 var dims = el.getAttribute('data-pswp-caption-dimensions') || '';
                 var date = el.getAttribute('data-pswp-caption-date') || '';
                 var html = '';
                 if (title) html += '<div class="pswp-caption-title">' + title + '</div>';
+                if (series) html += '<div class="pswp-caption-title pswp-caption-series">' + series + '</div>';
                 if (dims || date) {
                     html += '<div class="pswp-caption-meta">' + (dims ? dims : '');
                     if (dims && date) html += ' — ' + date; else if (!dims && date) html += date;
@@ -149,8 +151,10 @@ URLs. */}}
                         if (hidden) captionHTML = hidden.innerHTML;
                         else {
                             var title = curr.getAttribute && curr.getAttribute('data-pswp-caption-title') || '';
+                            var series = curr.getAttribute && curr.getAttribute('data-pswp-caption-series') || '';
                             var dims = curr.getAttribute && curr.getAttribute('data-pswp-caption-dimensions') || '';
                             var date = curr.getAttribute && curr.getAttribute('data-pswp-caption-date') || '';
+                            if (series) captionHTML += '<div class="pswp-caption-title pswp-caption-series">' + series + '</div>';
                             if (title) captionHTML += '<div class="pswp-caption-title">' + title + '</div>';
                             if (dims || date) {
                                 captionHTML += '<div class="pswp-caption-meta">' + (dims ? dims : '');

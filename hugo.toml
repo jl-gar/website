@@ -18,7 +18,7 @@ disable = false
 [params]
 google_fonts = [["Roboto", "300, 400, 600, 700"], ["Fira Code", "500, 700"]]
 sans_serif_font = "Roboto"
-secondary_font = "Fira Code"
+secondary_font = "Roboto"
 
 [params.docs]
 # set the folder (section) the theme treats as the docs root

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "SuiteSarrebruck1",
+    "file": "media/SuiteSarrebruck1.jpg",
+    "original_name": "SuiteSarrebruck1.jpg",
+    "title": "Suite Sarrebrück",
+    "date": "1992",
+    "dimensions_physical": " 24 x ( 90 x 100 cm)",
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 392
+    },
+    "source_pages": [
+      "PIECES1.html"
+    ],
+    "order": 1,
+    "notes": "SUITE SARREBRÜCK     \n1992         24 x ( 90 x 100 cm)"
+  }
+]
