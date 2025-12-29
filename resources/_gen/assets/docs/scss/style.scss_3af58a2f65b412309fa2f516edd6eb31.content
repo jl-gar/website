@@ -13,13 +13,13 @@
   src: local("Material Symbols Outlined"), local("Material Icons"), local("MaterialIcons-Outlined"), url("../fonts/material-symbols-outlined.woff2") format("woff2"); }
 
 :root {
-  --primary: var(--blue);
-  --primary-50: var(--blue-50);
-  --primary-100: var(--blue-100);
-  --primary-200: var(--blue-200);
-  --primary-300: var(--blue-300);
-  --primary-400: var(--blue-400);
-  --primary-800: var(--blue-800);
+  --primary: #626574;
+  --primary-50: #f0f4ff;
+  --primary-100: #e9e9e9;
+  --primary-200: #8b8b8b;
+  --primary-300: #8d8d8d;
+  --primary-400: #616161;
+  --primary-800: #424242;
   --primary-hsl: var(--blue-500-hsl);
   --primary-50-hsl: var(--blue-50-hsl);
   --primary-100-hsl: var(--blue-100-hsl);

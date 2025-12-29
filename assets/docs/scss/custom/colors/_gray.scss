@@ -1,0 +1,17 @@
+// blue (default)
+:root {
+    --primary: #626574;
+    --primary-50: #f0f4ff;
+    --primary-100: #e9e9e9;
+    --primary-200: #8b8b8b;
+    --primary-300: #8d8d8d;
+    --primary-400: #616161;
+    --primary-800: #424242;
+
+    --primary-hsl: var(--blue-500-hsl);
+    --primary-50-hsl: var(--blue-50-hsl);
+    --primary-100-hsl: var(--blue-100-hsl);
+    --primary-200-hsl: var(--blue-200-hsl);
+    --primary-300-hsl: var(--blue-300-hsl);
+    --primary-800-hsl: var(--blue-800-hsl);
+}

@@ -1,0 +1,587 @@
+[
+  {
+    "id": "cehi",
+    "file": "media/cehi.jpg",
+    "original_name": "CEHI.jpg",
+    "title": "COMMENCÉ EN HIVER I",
+    "date": "2006",
+    "dimensions_physical": "50 × 75 cm",
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 467
+    },
+    "source_pages": [
+      "CEHI.html"
+    ],
+    "order": 1,
+    "notes": "COMMENCÉ  EN   HIVER  I   2006     16  fois  50 x 75 cm"
+  },
+  {
+    "id": "cehii",
+    "file": "media/cehii.jpg",
+    "original_name": "CEHII.jpg",
+    "title": "COMMENCÉ EN HIVER II",
+    "date": "2006",
+    "dimensions_physical": "50 × 75 cm",
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 467
+    },
+    "source_pages": [
+      "CEHII.html"
+    ],
+    "order": 1,
+    "notes": "COMMENCÉ  EN   HIVER  II   2006     16  fois  50 x 75 cm"
+  },
+  {
+    "id": "cehiii",
+    "file": "media/cehiii.jpg",
+    "original_name": "CEHIII.jpg",
+    "title": "COMMENCÉ EN HIVER III",
+    "date": "2006",
+    "dimensions_physical": "50 × 75 cm",
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 467
+    },
+    "source_pages": [
+      "CEHIII.html"
+    ],
+    "order": 1,
+    "notes": "COMMENCÉ  EN   HIVER  III   2006     16  fois  50 x 75 cm"
+  },
+  {
+    "id": "cehiv",
+    "file": "media/cehiv.jpg",
+    "original_name": "CEHIV.jpg",
+    "title": "COMMENCÉ EN HIVER IV",
+    "date": "2006",
+    "dimensions_physical": "50 × 75 cm",
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 467
+    },
+    "source_pages": [
+      "CEHIV.html"
+    ],
+    "order": 1,
+    "notes": "COMMENCÉ  EN   HIVER  IV   2006     16  fois  50 x 75 cm"
+  },
+  {
+    "id": "expobnf2",
+    "file": "media/expobnf2.jpg",
+    "original_name": "EXPOBNF2.JPG",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 399
+    },
+    "source_pages": [
+      "EXPOBNF1.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "expobnf1",
+    "file": "media/expobnf1.jpg",
+    "original_name": "EXPOBNF1.JPG",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 399
+    },
+    "source_pages": [
+      "EXPOBNF2.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "expobnf3",
+    "file": "media/expobnf3.jpg",
+    "original_name": "EXPOBNF3.JPG",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 351
+    },
+    "source_pages": [
+      "EXPOBNF3.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "expobnf5",
+    "file": "media/expobnf5.jpg",
+    "original_name": "EXPOBNF5.JPG",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 238
+    },
+    "source_pages": [
+      "EXPOBNF5.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "expobnf6",
+    "file": "media/expobnf6.jpg",
+    "original_name": "EXPOBNF6.JPG",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 399
+    },
+    "source_pages": [
+      "EXPOBNF6.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "expobnf7",
+    "file": "media/expobnf7.jpg",
+    "original_name": "EXPOBNF7.JPG",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 212
+    },
+    "source_pages": [
+      "EXPOBNF7.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "expobnf8",
+    "file": "media/expobnf8.jpg",
+    "original_name": "EXPOBNF8.JPG",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 182
+    },
+    "source_pages": [
+      "EXPOBNF8.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "jeanlouisgarnell-1",
+    "file": "media/jeanlouisgarnell-1.jpg",
+    "original_name": "JEANLOUISGARNELL-1.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 358,
+      "height": 535
+    },
+    "source_pages": [
+      "EXPOWHITEPROJECT1.html",
+      "Expoosition Galerie whiteproject Paris 2011.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "jeanlouisgarnell-2",
+    "file": "media/jeanlouisgarnell-2.jpg",
+    "original_name": "JEANLOUISGARNELL-2.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 533
+    },
+    "source_pages": [
+      "EXPOWHITEPROJECT2.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "jeanlouisgarnell-3",
+    "file": "media/jeanlouisgarnell-3.jpg",
+    "original_name": "JEANLOUISGARNELL-3.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 536
+    },
+    "source_pages": [
+      "EXPOWHITEPROJECT3.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "jeanlouisgarnell-4",
+    "file": "media/jeanlouisgarnell-4.jpg",
+    "original_name": "JEANLOUISGARNELL-4.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 536
+    },
+    "source_pages": [
+      "EXPOWHITEPROJECT4.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "jeanlouisgarnell-5",
+    "file": "media/jeanlouisgarnell-5.jpg",
+    "original_name": "JEANLOUISGARNELL-5.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 536
+    },
+    "source_pages": [
+      "EXPOWHITEPROJECT5.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "jeanlouisgarnell-6",
+    "file": "media/jeanlouisgarnell-6.jpg",
+    "original_name": "JEANLOUISGARNELL-6.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 527
+    },
+    "source_pages": [
+      "EXPOWHITEPROJECT6.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "jeanlouisgarnell-7",
+    "file": "media/jeanlouisgarnell-7.jpg",
+    "original_name": "JEANLOUISGARNELL-7.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 358,
+      "height": 534
+    },
+    "source_pages": [
+      "EXPOWHITEPROJECT7.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "escalierb1",
+    "file": "media/escalierb1.jpg",
+    "original_name": "EscalierB1.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 394
+    },
+    "source_pages": [
+      "EscalierB1.html",
+      "EscalierB11.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "escalierb2",
+    "file": "media/escalierb2.jpg",
+    "original_name": "EscalierB2.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 394
+    },
+    "source_pages": [
+      "EscalierB2.html",
+      "EscalierB21.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "escalierb3",
+    "file": "media/escalierb3.jpg",
+    "original_name": "EscalierB3.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 394
+    },
+    "source_pages": [
+      "EscalierB3.html",
+      "EscalierB31.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "escalierb4",
+    "file": "media/escalierb4.jpg",
+    "original_name": "EscalierB4.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 394
+    },
+    "source_pages": [
+      "EscalierB4.html",
+      "EscalierB41.html",
+      "EscalierB5.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "lesrescapes",
+    "file": "media/lesrescapes.jpg",
+    "original_name": "lesRescapes.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 469
+    },
+    "source_pages": [
+      "Lesrescapes.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "plngp1",
+    "file": "media/plngp1.jpg",
+    "original_name": "PLNGP1.JPG",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 332
+    },
+    "source_pages": [
+      "PLNGP1.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "plngp2",
+    "file": "media/plngp2.jpg",
+    "original_name": "PLNGP2.JPG",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 332
+    },
+    "source_pages": [
+      "PLNGP2.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "plngp3",
+    "file": "media/plngp3.jpg",
+    "original_name": "PLNGP3.JPG",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 332
+    },
+    "source_pages": [
+      "PLNGP3.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "plngp4",
+    "file": "media/plngp4.jpg",
+    "original_name": "PLNGP4.JPG",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 332
+    },
+    "source_pages": [
+      "PLNGP4.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "plngp5",
+    "file": "media/plngp5.jpg",
+    "original_name": "PLNGP5.JPG",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 332
+    },
+    "source_pages": [
+      "PLNGP5.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "plngp30",
+    "file": "media/plngp30.jpg",
+    "original_name": "PLNGP30.JPG",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 332
+    },
+    "source_pages": [
+      "PLNGP6.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "plngp7",
+    "file": "media/plngp7.jpg",
+    "original_name": "PLNGP7.JPG",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 332
+    },
+    "source_pages": [
+      "PLNGP7.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "rescapes1",
+    "file": "media/rescapes1.jpg",
+    "original_name": "Rescapes1.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 375
+    },
+    "source_pages": [
+      "Rescapes1.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "rescapes2",
+    "file": "media/rescapes2.jpg",
+    "original_name": "Rescapes2.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 375
+    },
+    "source_pages": [
+      "Rescapes2.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "rescapes3",
+    "file": "media/rescapes3.jpg",
+    "original_name": "Rescapes3.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 375
+    },
+    "source_pages": [
+      "Rescapes3.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "triptique12007",
+    "file": "media/triptique12007.jpg",
+    "original_name": "TRIPTIQUE12007.jpg",
+    "title": "TRIPTYQUE I",
+    "date": "2007",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 312
+    },
+    "source_pages": [
+      "TRIPT12007.html",
+      "TRIPTYQUE12007.html"
+    ],
+    "order": 1,
+    "notes": "TRIPTYQUE  I   2007"
+  }
+]
