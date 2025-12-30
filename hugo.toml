@@ -25,8 +25,9 @@ secondary_font = "Roboto"
 # set the folder (section) the theme treats as the docs root
 # change this to the section name you prefer, e.g. "" (root) or "docs"
 themeColor = "gray"
-title = "works"
+title = ""
 pathName = ""
+# toc = false
 
 [params.flexsearch]
 searchSectionsIndex = "ALL"

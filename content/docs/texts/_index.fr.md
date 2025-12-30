@@ -1,12 +1,12 @@
 +++
-weight = 100
+weight = 500
 date = "2023-05-03T22:37:22+01:00"
 draft = true
 author = "Colin Wilson"
-title = "Photographs"
+title = "Textes"
 icon = "rocket_launch"
 toc = true
-description = "Objects"
+description = "Texts"
 publishdate = "2023-05-03T22:37:22+01:00"
 tags = ["Beginners"]
 +++

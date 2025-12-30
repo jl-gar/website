@@ -2,7 +2,7 @@
     {{- $landingPageEnabled := .Site.Params.landingpage.enabled | default true -}}
     {{- if not $landingPageEnabled -}}
         <script>
-            window.location.href = "/docs/";
+            window.location.href = "/docs";
         </script>
     {{- else -}}
         {{- $landingData := .Site.Data.landing -}}
