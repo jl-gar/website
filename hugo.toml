@@ -25,11 +25,14 @@ secondary_font = "Roboto"
 # set the folder (section) the theme treats as the docs root
 # change this to the section name you prefer, e.g. "" (root) or "docs"
 themeColor = "gray"
+title = "works"
+pathName = ""
 
 [params.flexsearch]
-pathName = ""
-# set to "ALL" to index all site pages instead of only the docs section
 searchSectionsIndex = "ALL"
+
+[params.landingpage]
+enabled = false
 
 [languages]
 [languages.en]
@@ -37,12 +40,12 @@ disabled = false
 languageCode = 'en'
 languageDirection = ''
 languageName = 'en'
-title = ''
+title = 'Jean-Louis Garnell'
 weight = 0
 [languages.fr]
 disabled = false
 languageCode = 'fr'
 languageDirection = ''
 languageName = 'fr'
-title = ''
-weight = 0
+title = 'Jean-Louis Garnell'
+weight = 1
