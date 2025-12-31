@@ -13,36 +13,115 @@
                 {{ $child_pages := union .Sections .Pages }}
                 {{ range $child_pages.ByWeight }}
                     {{ if not .Params.hidden }}
-                        {{ $active := in $currentPage.RelPermalink .RelPermalink }}
-                        {{ if or (.Sections) (.Pages) }}
-                            <li class="sidebar-dropdown {{ if eq .Site.Params.docs.sidebarIcons true -}}{{ else }}no-icon{{ end }} {{ if $active }}current active{{ end }}">
-                                <button class="btn">
-                                    {{ if eq .Site.Params.docs.sidebarIcons true -}}
-                                        <i class="material-icons me-2">{{- .Params.icon | default "notes" }}</i>
-                                    {{ end }}
-                                    {{- .Title }}
-                                </button>
-                                <div class="sidebar-submenu {{ if $active }}d-block{{ end }}">
-                                    <ul>
-                                        {{ range .Pages }}
-                                            {{ if not .Params.hidden }}
-                                                {{ $subActive := in $currentPage.RelPermalink .RelPermalink }}
-                                                <li class="{{ if $subActive }}current{{ end }} {{ if eq $.Site.Params.docs.sidebarIcons true -}}{{ else }}no-icon{{ end }}"><a class="sidebar-nested-link" href="{{ .Permalink }}">{{ .Title }}</a></li>
+                    {{ if or (.Sections) (.Pages) }}
+                    {{ $active := in $currentPage.RelPermalink .RelPermalink }}
+                        <li class="sidebar-dropdown {{ if eq .Site.Params.docs.sidebarIcons true -}}{{ else }}no-icon{{ end }} {{ if $active }}current active{{ end }}">
+                            <button class="btn">
+                                {{ if eq .Site.Params.docs.sidebarIcons true -}}
+                                    <i class="material-icons me-2">{{- .Params.icon | default "notes" }}</i>
+                                {{ end }}
+                                {{- .Title }}
+                            </button>
+                            <div class="sidebar-submenu {{ if $active }}d-block{{ end }}">
+                                <ul>
+                                    {{ range .Pages }}
+                                        {{ if not .Params.hidden }}
+                                        {{ $active := in $currentPage.RelPermalink .RelPermalink }}
+                                        {{ if .IsSection }}
+                                            {{ $visiblePages := where .Pages "Params.hidden" "ne" true }}
+                                            {{ if $visiblePages }}
+                                            <li class="sidebar-dropdown nested {{ if eq .Site.Params.docs.sidebarIcons true -}}{{ else }}no-icon{{ end }} {{ if $active }}current active{{ end }}">
+                                                <button class="btn">
+                                                    {{ if eq .Site.Params.docs.sidebarIcons true -}}
+                                                        <!-- <span class="material-icons me-2">{{- .Params.icon }}</span> -->
+                                                    {{ end }}
+                                                    {{- .Title }}
+                                                </button>
+                                                <div class="sidebar-submenu {{ if $active }}d-block{{ end }}">
+                                                    <ul>
+                                                        {{ range .Pages }}
+                                                            {{ if not .Params.hidden }}
+                                                            {{ $active := in $currentPage.RelPermalink .RelPermalink }}
+                                                            {{ if .IsSection }}
+                                                                {{ $visiblePages := where .Pages "Params.hidden" "ne" true }}
+                                                                {{ if $visiblePages }}
+                                                                <li class="sidebar-dropdown nested {{ if eq .Site.Params.docs.sidebarIcons true -}}{{ else }}no-icon{{ end }} {{ if $active }}current active{{ end }}">
+                                                                    <button class="btn">
+                                                                        {{ if eq .Site.Params.docs.sidebarIcons true -}}
+                                                                            <!-- <span class="material-icons me-2">{{- .Params.icon }}</span> -->
+                                                                        {{ end }}
+                                                                        {{- .Title }}
+                                                                    </button>
+                                                                    <div class="sidebar-submenu {{ if $active }}d-block{{ end }}">
+                                                                        <ul>
+                                                                            {{ range .Pages }}
+                                                                                {{ if not .Params.hidden }}
+                                                                                {{ $active := in $currentPage.RelPermalink .RelPermalink }}
+                                                                                {{ if .IsSection }}
+                                                                                    {{ $visiblePages := where .Pages "Params.hidden" "ne" true }}
+                                                                                    {{ if $visiblePages }}
+                                                                                    <li class="sidebar-dropdown nested {{ if eq .Site.Params.docs.sidebarIcons true -}}{{ else }}no-icon{{ end }} {{ if $active }}current active{{ end }}">
+                                                                                        <button class="btn">
+                                                                                            {{ if eq .Site.Params.docs.sidebarIcons true -}}
+                                                                                                <!-- <span class="material-icons me-2">{{- .Params.icon }}</span> -->
+                                                                                            {{ end }}
+                                                                                            {{- .Title }}
+                                                                                        </button>
+                                                                                        <div class="sidebar-submenu {{ if $active }}d-block{{ end }}">
+                                                                                            <ul>
+                                                                                                {{ range .Pages }}
+                                                                                                    {{ if not .Params.hidden }}
+                                                                                                    {{ $active := in $currentPage.RelPermalink .RelPermalink }}
+                                                                                                    <li class="{{ if $active }}current{{ end }} {{ if eq .Site.Params.docs.sidebarIcons true -}}{{ else }}no-icon{{ end }}"><a class="sidebar-nested-link" href="{{ .Permalink }}">{{ .Title }}</a></li>
+                                                                                                    {{ end }}
+                                                                                                {{ end }}
+                                                                                            </ul>
+                                                                                        </div>
+                                                                                    </li>
+                                                                                    {{ else }}
+                                                                                    <li class="{{ if $active }}current{{ end }} {{ if eq .Site.Params.docs.sidebarIcons true -}}{{ else }}no-icon{{ end }}"><a class="sidebar-nested-link" href="{{ .Permalink }}">{{ .Title }}</a></li>
+                                                                                    {{ end }}
+                                                                                {{ else }}
+                                                                                    <li class="{{ if $active }}current{{ end }} {{ if eq .Site.Params.docs.sidebarIcons true -}}{{ else }}no-icon{{ end }}"><a class="sidebar-nested-link" href="{{ .Permalink }}">{{ .Title }}</a></li>
+                                                                                {{ end }}
+                                                                                {{ end }}
+                                                                            {{ end }}
+                                                                        </ul>
+                                                                    </div>
+                                                                </li>
+                                                                {{ else }}
+                                                                <li class="{{ if $active }}current{{ end }} {{ if eq .Site.Params.docs.sidebarIcons true -}}{{ else }}no-icon{{ end }}"><a class="sidebar-nested-link" href="{{ .Permalink }}">{{ .Title }}</a></li>
+                                                                {{ end }}
+                                                            {{ else }}
+                                                                <li class="{{ if $active }}current{{ end }} {{ if eq .Site.Params.docs.sidebarIcons true -}}{{ else }}no-icon{{ end }}"><a class="sidebar-nested-link" href="{{ .Permalink }}">{{ .Title }}</a></li>
+                                                            {{ end }}
+                                                            {{ end }}
+                                                        {{ end }}
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                            {{ else }}
+                                            <li class="{{ if $active }}current{{ end }} {{ if eq .Site.Params.docs.sidebarIcons true -}}{{ else }}no-icon{{ end }}"><a class="sidebar-nested-link" href="{{ .Permalink }}">{{ .Title }}</a></li>
                                             {{ end }}
+                                        {{ else }}
+                                            <li class="{{ if $active }}current{{ end }} {{ if eq .Site.Params.docs.sidebarIcons true -}}{{ else }}no-icon{{ end }}"><a class="sidebar-nested-link" href="{{ .Permalink }}">{{ .Title }}</a></li>
                                         {{ end }}
-                                    </ul>
-                                </div>
-                            </li>
-                        {{ else }}
-                            <li class="{{ if $active }}current{{ end }}">
-                                <a class="sidebar-root-link" href="{{ .Permalink }}">
-                                    {{ if eq .Site.Params.docs.sidebarIcons true -}}
-                                        <i class="material-icons me-2">{{ .Params.icon }}</i>
+                                        {{ end }}
                                     {{ end }}
-                                    {{ .Title }}
-                                </a>
-                            </li>
-                        {{ end }}
+                                </ul>
+                            </div>
+                        </li>
+                    {{ else }}
+                        {{ $active := in $currentPage.RelPermalink .RelPermalink }}
+                        <li class="{{ if $active }}current{{ end }}">
+                            <a class="sidebar-root-link" href="{{ .Permalink }}">
+                                {{ if eq .Site.Params.docs.sidebarIcons true -}}
+                                    <i class="material-icons me-2">{{ .Params.icon }}</i>
+                                {{ end }}
+                                {{ .Title }}
+                            </a>
+                        </li>
+                    {{ end }}
                     {{ end }}
                 {{ end }}
             {{ end }}
