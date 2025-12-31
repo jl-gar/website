@@ -1,5 +1,5 @@
 ---
-weight: 06
+weight: 2012
 title: "Walls"
 description: "2012-2013"
 icon: "article"

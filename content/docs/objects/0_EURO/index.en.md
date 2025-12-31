@@ -1,7 +1,7 @@
 ---
-weight: 1674472398
-title: "0_EURO"
-description: ""
+weight: 2021
+title: "0 euro"
+description: "2021-2023"
 icon: "article"
 date: "2023-01-23T11:13:18Z"
 lastmod: "2023-01-23T11:13:18Z"
