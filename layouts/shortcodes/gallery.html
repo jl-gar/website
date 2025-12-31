@@ -82,7 +82,7 @@ URLs. */}}
 <link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
 
 {{ $ver := now.Unix }}
-<link rel="stylesheet" href="{{ printf "%s?v=%d" ("/css/gallery.css" | relURL) $ver }}">
+<link rel="stylesheet" href="{{ printf "%s%s?v=%d" .Site.BaseURL "css/gallery.css" $ver }}">
 
 <script type="module" defer>
     import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5/dist/photoswipe-lightbox.esm.js';

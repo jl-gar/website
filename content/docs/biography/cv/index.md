@@ -6,8 +6,6 @@ toc: false
 ---
 
 
-## Jean-Louis Garnell
-
 Né en Bretagne en 1954. Il commence la photographie au lycée. Après des études d'ingénieur informaticien à Toulouse et des recherches sur la synthèse de la parole par ordinateur, il travaille comme formateur tout en constituant une importante collection de négatifs noir et blanc (≈50 000).
 
 Fin 1983 il achète une chambre 4x5" et commence la photographie couleur : paysages urbains à Toulouse (1984), lauréat du prix de la critique Kodak. Il rencontre Jean‑François Chevrier et intègre la Mission photographique de la DATAR (1985–1986).

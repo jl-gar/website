@@ -1,5 +1,5 @@
-# baseURL = "https://emil-garnell.github.io/jeanlouisgarnell/"
-baseURL = "https://emil-garnell.github.io/"
+baseURL = "https://emil-garnell.github.io/jeanlouisgarnell/"
+# baseURL = "https://emil-garnell.github.io/"
 languageCode = 'en'
 title = 'Jean-Louis Garnell'
 
