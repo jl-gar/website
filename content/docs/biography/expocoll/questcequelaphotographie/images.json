@@ -1,0 +1,19 @@
+[
+  {
+    "id": "questcequelaphotographie",
+    "file": "media/questcequelaphotographie.jpg",
+    "original_name": "questcequelaphotographie.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 524
+    },
+    "source_pages": [
+      "QUESTCEQUELAPHOTOGRAPHIE.html"
+    ],
+    "order": 1,
+    "notes": null
+  }
+]

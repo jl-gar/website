@@ -4,7 +4,6 @@ date = "2023-05-03T22:37:22+01:00"
 draft = false
 title = "Personal exhibitions"
 icon = ""
-# disableKinds =  ["section"]
 publishdate = "2023-05-03T22:37:22+01:00"
 +++
 
@@ -21,7 +20,7 @@ A chronological listing of solo exhibitions.
 - En vie — Galerie Drawing Room, Hambourg.
 
 ### 2019
-- Pictures for a while — Centre Photographique Marseille.
+- [Pictures for a while — Centre Photographique Marseille](cpm/)
 
 ### 2018
 - Le temps à l'oeuvre — Espace photographique Arthur Batut, Labruguière.
@@ -31,24 +30,24 @@ A chronological listing of solo exhibitions.
 - Jean‑Louis Garnell / Paysages 1985–1986 — Galerie NEGPOS, Nîmes.
 
 ### 2011
-- Jeanlouis Garnell — Galerie Whiteproject, Paris.
+- [Jeanlouis Garnell — Galerie Whiteproject, Paris](whiteprojects/)
 
 ### 2008
 - Fos 1995 — Centre culturel Marcel Pagnol, Fos-sur-Mer.
 
 ### 2007
-- Escalier B — Chiostri di San Domenico, Reggio Emilia.
+- [Escalier B — Chiostri di San Domenico, Reggio Emilia](escalierb/)
 
 ### 2005
 - Pièces avec personnages — Centre de photographie de Lectoure.
 
 ### 2004
-- par le noir — Maison de Saint‑Louis, été photographique de Lectoure.
-- par le noir — Galerie Peyroulet, Paris.
+- [par le noir — Maison de Saint‑Louis, été photographique de Lectoure](lectoure/)
+- [par le noir — Galerie Peyroulet, Paris.](parlenoir/)
 
 ### 2003
-- Jean‑Louis Garnell, oeuvres récentes — Galerie Gilles Peyroulet, Paris.
-- Jean‑Louis Garnell — Artothèque Angers.
+- [Jean‑Louis Garnell, oeuvres récentes — Galerie Gilles Peyroulet, Paris](galeriep/)
+- [Jean‑Louis Garnell — Artothèque Angers](angers/)
 
 ### 2001
 - Württembergischer Kunstverein, Stuttgart.
@@ -65,7 +64,7 @@ A chronological listing of solo exhibitions.
 ### 1995
 - Pièces multiples — École d’art, Lyon.
 - ici‑même III, IV, V — Mai de la photographie, Reims.
-- Jean‑Louis Garnell Werke 1985–95 — Fotomuseum Winterthur.
+- [Jean‑Louis Garnell Werke 1985–95 — Fotomuseum Winterthur.](fotomuseum/)
 - Fos 1995 — Hangar B2, Fos‑sur‑Mer.
 
 ### 1993
@@ -94,7 +93,7 @@ A chronological listing of solo exhibitions.
 ### 1987
 - Les paysages perdus — Galerie Les Somnambules, Toulouse.
 
-*Entries marked with an asterisk in the original list indicate catalogues where available.*
+*Entries marked with an asterisk indicate catalogues are available.
 
-
+## Selection of exhibition views
 

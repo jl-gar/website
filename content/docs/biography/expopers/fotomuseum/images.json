@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fotomuseum1995",
+    "file": "media/fotomuseum1995.jpg",
+    "original_name": "FOTOMUSEUM1995.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 330,
+      "height": 468
+    },
+    "source_pages": [
+      "EXPOWINTERTHUR.html"
+    ],
+    "order": 1,
+    "notes": null
+  }
+]

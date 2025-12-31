@@ -1,7 +1,7 @@
 ---
-weight: 999
+weight: 2007
 title: "Staircase B"
-description: ""
+description: "2007"
 icon: "article"
 date: "2025-12-31T00:00:00+00:00"
 lastmod: "2025-12-31T00:00:00+00:00"

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "perec2",
+    "file": "media/perec2.jpg",
+    "original_name": "perec2.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 600
+    },
+    "source_pages": [
+      "EXPOPEREC.html"
+    ],
+    "order": 1,
+    "notes": null
+  }
+]

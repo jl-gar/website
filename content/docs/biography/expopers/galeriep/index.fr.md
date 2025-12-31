@@ -1,7 +1,7 @@
 ---
-weight: 999
-title: "Vues Expo — GalerieP"
-description: ""
+weight: 2003
+title: "Galerie Gilles Peyroulet"
+description: "2003"
 icon: "article"
 date: "2025-12-31T00:00:00+00:00"
 lastmod: "2025-12-31T00:00:00+00:00"
