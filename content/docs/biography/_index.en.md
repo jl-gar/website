@@ -1,11 +1,9 @@
 +++
-weight = 200
+weight = 10
 date = "2023-05-03T22:37:22+01:00"
-draft = true
-author = "Colin Wilson"
-title = "Drawings"
+draft = false
+title = "Biography"
 icon = ""
 toc = true
-description = "Drawings"
 publishdate = "2023-05-03T22:37:22+01:00"
 +++
