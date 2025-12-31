@@ -51,3 +51,6 @@ languageDirection = ''
 languageName = 'fr'
 title = 'Jean-Louis Garnell'
 weight = 1
+
+[build]
+publishResources = true

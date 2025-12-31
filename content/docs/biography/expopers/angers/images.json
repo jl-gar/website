@@ -1,0 +1,138 @@
+[
+  {
+    "id": "angers1a",
+    "file": "/media/ANGERS1A.jpg",
+    "original_name": "ANGERS1A.jpg",
+    "title": "Découpes # 4, Pages #18",
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 399
+    },
+    "source_pages": [
+      "EXPOANGERS1.html"
+    ],
+    "order": 1,
+    "notes": "Découpes  # 4,  Pages #18"
+  },
+  {
+    "id": "angers2a",
+    "file": "/media/ANGERS2A.jpg",
+    "original_name": "ANGERS2A.jpg",
+    "title": "Phénomènes #12,",
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 379
+    },
+    "source_pages": [
+      "EXPOANGERS2.html"
+    ],
+    "order": 1,
+    "notes": "Phénomènes  #12,"
+  },
+  {
+    "id": "angers3a",
+    "file": "/media/ANGERS3A.jpg",
+    "original_name": "ANGERS3A.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 334
+    },
+    "source_pages": [
+      "EXPOANGERS3.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "angers4a",
+    "file": "/media/ANGERS4A.jpg",
+    "original_name": "ANGERS4A.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 399
+    },
+    "source_pages": [
+      "EXPOANGERS4.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "angers5a",
+    "file": "/media/ANGERS5A.jpg",
+    "original_name": "ANGERS5A.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 399
+    },
+    "source_pages": [
+      "EXPOANGERS5.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "angers7a",
+    "file": "/media/ANGERS7A.jpg",
+    "original_name": "ANGERS7A.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 399
+    },
+    "source_pages": [
+      "EXPOANGERS6.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "angers8a",
+    "file": "/media/ANGERS8A.jpg",
+    "original_name": "ANGERS8A.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 399
+    },
+    "source_pages": [
+      "EXPOANGERS8.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "angers9a",
+    "file": "/media/ANGERS9A.jpg",
+    "original_name": "ANGERS9A.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 431
+    },
+    "source_pages": [
+      "EXPOANGERS9.html"
+    ],
+    "order": 1,
+    "notes": null
+  }
+]

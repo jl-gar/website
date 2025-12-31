@@ -1,0 +1,36 @@
+[
+  {
+    "id": "centrepompidou2015-1",
+    "file": "/media/CENTREPOMPIDOU2015-1.jpg",
+    "original_name": "CENTREPOMPIDOU2015-1.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 429
+    },
+    "source_pages": [
+      "CENTREPOMPIDOU1015A.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "centrepompidou2015-2",
+    "file": "/media/CENTREPOMPIDOU2015-2.jpg",
+    "original_name": "CENTREPOMPIDOU2015-2.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 427
+    },
+    "source_pages": [
+      "CENTREPOMPIDOU1015B.html"
+    ],
+    "order": 1,
+    "notes": null
+  }
+]

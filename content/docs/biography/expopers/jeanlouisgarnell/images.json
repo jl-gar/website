@@ -1,0 +1,121 @@
+[
+  {
+    "id": "jeanlouisgarnell-1",
+    "file": "/media/JEANLOUISGARNELL-1.jpg",
+    "original_name": "JEANLOUISGARNELL-1.jpg",
+    "title": "Galerie WHITEPROJECTS",
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 358,
+      "height": 535
+    },
+    "source_pages": [
+      "WHITEPROJECTS1.html"
+    ],
+    "order": 1,
+    "notes": "Galerie WHITEPROJECTS"
+  },
+  {
+    "id": "jeanlouisgarnell-2",
+    "file": "/media/JEANLOUISGARNELL-2.jpg",
+    "original_name": "JEANLOUISGARNELL-2.jpg",
+    "title": "Images",
+    "date": "2010",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 400
+    },
+    "source_pages": [
+      "WHITEPROJECTS2.html"
+    ],
+    "order": 1,
+    "notes": "Images  2010, Bois Graphite"
+  },
+  {
+    "id": "jeanlouisgarnell-3",
+    "file": "/media/JEANLOUISGARNELL-3.jpg",
+    "original_name": "JEANLOUISGARNELL-3.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 402
+    },
+    "source_pages": [
+      "WHITEPROJECTS3.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "jeanlouisgarnell-4",
+    "file": "/media/JEANLOUISGARNELL-4.jpg",
+    "original_name": "JEANLOUISGARNELL-4.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 402
+    },
+    "source_pages": [
+      "WHITEPROJECTS4.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "jeanlouisgarnell-5",
+    "file": "/media/JEANLOUISGARNELL-5.jpg",
+    "original_name": "JEANLOUISGARNELL-5.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 402
+    },
+    "source_pages": [
+      "WHITEPROJECTS5.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "jeanlouisgarnell-6",
+    "file": "/media/JEANLOUISGARNELL-6.jpg",
+    "original_name": "JEANLOUISGARNELL-6.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 395
+    },
+    "source_pages": [
+      "WHITEPROJECTS6.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "jeanlouisgarnell-7",
+    "file": "/media/JEANLOUISGARNELL-7.jpg",
+    "original_name": "JEANLOUISGARNELL-7.jpg",
+    "title": "Bois Graphite",
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 358,
+      "height": 534
+    },
+    "source_pages": [
+      "WHITEPROJECTS7.html"
+    ],
+    "order": 1,
+    "notes": "Bois Graphite"
+  }
+]

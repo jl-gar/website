@@ -1,0 +1,70 @@
+[
+  {
+    "id": "escalierb1",
+    "file": "/media/EscalierB1.jpg",
+    "original_name": "EscalierB1.jpg",
+    "title": "Escalier B Détail",
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 394
+    },
+    "source_pages": [
+      "ESCALIERB1.html"
+    ],
+    "order": 1,
+    "notes": "Escalier  B\n        Détail"
+  },
+  {
+    "id": "escalierb2",
+    "file": "/media/EscalierB2.jpg",
+    "original_name": "EscalierB2.jpg",
+    "title": "Escalier B Détail",
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 394
+    },
+    "source_pages": [
+      "ESCALIERB2.html"
+    ],
+    "order": 1,
+    "notes": "Escalier  B\n        Détail"
+  },
+  {
+    "id": "escalierb3",
+    "file": "/media/EscalierB3.jpg",
+    "original_name": "EscalierB3.jpg",
+    "title": "Escalier B Détail",
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 394
+    },
+    "source_pages": [
+      "ESCALIERB3.html"
+    ],
+    "order": 1,
+    "notes": "Escalier  B\n        Détail"
+  },
+  {
+    "id": "escalierb4",
+    "file": "/media/EscalierB4.jpg",
+    "original_name": "EscalierB4.jpg",
+    "title": "Escalier B Détail",
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 394
+    },
+    "source_pages": [
+      "ESCALIERB4.html"
+    ],
+    "order": 1,
+    "notes": "Escalier  B\n        Détail"
+  }
+]

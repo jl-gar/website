@@ -1,0 +1,121 @@
+[
+  {
+    "id": "plngp1",
+    "file": "/media/PLNGP1.jpg",
+    "original_name": "PLNGP1.jpg",
+    "title": "Par le noir Détail",
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 332
+    },
+    "source_pages": [
+      "PEYROULETPLN1.html"
+    ],
+    "order": 1,
+    "notes": "Par le noir              Détail"
+  },
+  {
+    "id": "plngp2",
+    "file": "/media/PLNGP2.jpg",
+    "original_name": "PLNGP2.jpg",
+    "title": "Par le noir Détail",
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 332
+    },
+    "source_pages": [
+      "PEYROULETPLN2.html"
+    ],
+    "order": 1,
+    "notes": "Par le noir              Détail"
+  },
+  {
+    "id": "plngp3",
+    "file": "/media/PLNGP3.jpg",
+    "original_name": "PLNGP3.jpg",
+    "title": "Par le noir Détail",
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 332
+    },
+    "source_pages": [
+      "PEYROULETPLN3.html"
+    ],
+    "order": 1,
+    "notes": "Par le noir              Détail"
+  },
+  {
+    "id": "plngp4",
+    "file": "/media/PLNGP4.jpg",
+    "original_name": "PLNGP4.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 332
+    },
+    "source_pages": [
+      "PEYROULETPLN4.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "plngp5",
+    "file": "/media/PLNGP5.jpg",
+    "original_name": "PLNGP5.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 332
+    },
+    "source_pages": [
+      "PEYROULETPLN5.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "plngp6",
+    "file": "/media/PLNGP6.jpg",
+    "original_name": "PLNGP6.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 332
+    },
+    "source_pages": [
+      "PEYROULETPLN6.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "plngp7",
+    "file": "/media/PLNGP7.jpg",
+    "original_name": "PLNGP7.jpg",
+    "title": "Par le noir Détail",
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 332
+    },
+    "source_pages": [
+      "PEYROULETPLN7.html"
+    ],
+    "order": 1,
+    "notes": "Par le noir              Détail"
+  }
+]
