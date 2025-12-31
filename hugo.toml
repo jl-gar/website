@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://jeanlouisgarnell.github.io'
 languageCode = 'en'
 title = 'Jean-Louis Garnell'
 
@@ -27,7 +27,7 @@ secondary_font = "Roboto"
 themeColor = "gray"
 title = ""
 pathName = ""
-# toc = false
+toc = false
 
 [params.flexsearch]
 searchSectionsIndex = "ALL"

@@ -5,7 +5,7 @@ description: ""
 icon: "article"
 date: "2023-01-23T11:13:54Z"
 lastmod: "2023-01-23T11:13:54Z"
-draft: true
+draft: false
 toc: true
 ---
 Formes flottantes d'organismes improbables encore vivants mais à vif, la peau ne les protège plus de l'extérieur. Vie fragile, menacée, dans l'élan, malgré tout.

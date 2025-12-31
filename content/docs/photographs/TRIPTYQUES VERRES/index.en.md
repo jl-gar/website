@@ -5,7 +5,7 @@ description: ""
 icon: "article"
 date: "2023-01-23T10:56:44Z"
 lastmod: "2023-01-23T10:56:44Z"
-draft: true
+draft: false
 toc: true
 ---
 | [TRIPTYCHS 2012](TRIPTYQUE12012.html)

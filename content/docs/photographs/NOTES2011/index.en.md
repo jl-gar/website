@@ -5,7 +5,7 @@ description: ""
 icon: "article"
 date: "2023-01-23T10:56:10Z"
 lastmod: "2023-01-23T10:56:10Z"
-draft: true
+draft: false
 toc: true
 ---
 | [Notes 2011](NOTES2011.html)

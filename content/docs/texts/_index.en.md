@@ -1,7 +1,7 @@
 +++
 weight = 500
 date = "2023-05-03T22:37:22+01:00"
-draft = true
+draft = false
 author = "Colin Wilson"
 title = "Texts"
 icon = ""

@@ -1,0 +1,162 @@
+/* Sidebar styles for Jean Louis Garnell site
+   - Styles the sidebar wrapper, menu items, nested submenus
+   - Provides the consistent site-title look (bold, black, no-capitalize)
+   - Accessible focus styles and responsive collapse behavior
+*/
+
+:root {
+    --jl-sidebar-width: 280px;
+    --jl-sidebar-bg: #ffffff;
+    --jl-sidebar-color: #111111;
+    --jl-sidebar-border: #e6e6e6;
+    --jl-site-title-font-size: 1rem;
+    --jl-site-title-weight: 700;
+}
+
+/* Sidebar wrapper */
+.sidebar-wrapper {
+    width: var(--jl-sidebar-width);
+    background: var(--jl-sidebar-bg);
+    color: var(--jl-sidebar-color);
+    border-right: 1px solid var(--jl-sidebar-border);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+
+.sidebar-brand {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.sidebar-brand a {
+    text-decoration: none;
+    color: inherit;
+    display: inline-flex;
+    align-items: center;
+}
+
+.site-title.site-title--consistent {
+    font-weight: var(--jl-site-title-weight);
+    font-size: var(--jl-site-title-font-size);
+    line-height: 1;
+    color: #000 !important;
+    /* enforce black */
+    text-transform: none;
+    /* do not auto-capitalize */
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* Sidebar content area */
+.sidebar-content {
+    padding: 0.5rem 0.75rem 1.25rem 0.75rem;
+    overflow-y: auto;
+}
+
+.sidebar-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar-menu .sidebar-root-link,
+.sidebar-menu .btn {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    color: var(--jl-sidebar-color);
+    background: transparent;
+    border: none;
+    padding: 0.5rem 0.75rem;
+    text-align: left;
+    cursor: pointer;
+    font-size: 0.95rem;
+}
+
+.sidebar-menu .sidebar-root-link:hover,
+.sidebar-menu .btn:hover {
+    background: rgba(0, 0, 0, 0.03);
+}
+
+/* Active/current state */
+.sidebar-menu .current>a,
+.sidebar-menu .current>.btn,
+.sidebar-menu li.current a,
+.sidebar-menu li.current .btn {
+    font-weight: 600;
+    color: #000;
+    background: rgba(0, 0, 0, 0.04);
+}
+
+/* Icons suppression when not enabled */
+.no-icon .sidebar-nested-link,
+.no-icon>a,
+li.no-icon>a {
+    padding-left: 0.75rem;
+}
+
+/* Sidebar dropdowns and nested submenu handling */
+.sidebar-submenu {
+    display: none;
+    padding-left: 0.5rem;
+    margin-left: 0.25rem;
+    border-left: 1px solid transparent;
+}
+
+.sidebar-submenu.d-block {
+    display: block;
+}
+
+.sidebar-dropdown>.btn {
+    justify-content: space-between;
+}
+
+.sidebar-dropdown .sidebar-submenu ul {
+    padding-left: 0.5rem;
+}
+
+.sidebar-nested-link {
+    display: block;
+    padding: 0.35rem 0.75rem;
+    color: inherit;
+    text-decoration: none;
+}
+
+.sidebar-nested-link:hover {
+    background: rgba(0, 0, 0, 0.03);
+}
+
+/* Footer spacing */
+.sidebar-footer {
+    margin-top: auto;
+    padding: 0.75rem;
+}
+
+/* Responsive behavior */
+@media (max-width: 991px) {
+    .sidebar-wrapper {
+        width: 100%;
+        position: relative;
+        border-right: none;
+    }
+
+    .sidebar-content {
+        height: auto !important;
+        max-height: 60vh;
+        overflow-y: auto;
+    }
+}
+
+/* Accessibility: focus states */
+.sidebar-menu a:focus,
+.sidebar-menu button:focus,
+.sidebar-nested-link:focus {
+    outline: 3px solid rgba(21, 156, 228, 0.18);
+    outline-offset: 2px;
+}
