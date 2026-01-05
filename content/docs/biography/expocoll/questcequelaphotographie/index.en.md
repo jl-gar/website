@@ -1,5 +1,5 @@
 ---
-weight: 2015
+weight: 1414
 title: "Centre Pompidou"
 description: "Qu'est-ce que la photographie ? 2015"
 icon: "article"

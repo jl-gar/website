@@ -1,5 +1,5 @@
 +++
-weight = 600
+weight = 6000
 date = "2023-05-03T22:37:22+01:00"
 author = "Colin Wilson"
 title = "Editions"

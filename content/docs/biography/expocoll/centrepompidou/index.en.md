@@ -1,5 +1,5 @@
 ---
-weight: 2015
+weight: 1416
 title: "Centre Pompidou"
 description: "UNE HISTOIRE. Art, architecture, design, des années 1980 à nos jours. 2015"
 icon: "article"

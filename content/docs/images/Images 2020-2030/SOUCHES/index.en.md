@@ -1,5 +1,5 @@
 ---
-weight: 02
+weight: 2504
 title: "Stumps"
 description: "2020"
 icon: "article"

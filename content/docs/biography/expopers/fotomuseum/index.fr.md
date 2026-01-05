@@ -1,5 +1,5 @@
 ---
-weight: 1995
+weight: 1302
 title: "Jean‑Louis Garnell Werke 1985–95"
 description: "Fotomuseum Winterthur. 1995"
 icon: "article"

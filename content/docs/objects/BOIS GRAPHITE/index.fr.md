@@ -1,5 +1,5 @@
 ---
-weight: 2010
+weight: 4100
 title: "Bois graphités"
 description: "2010-2011"
 icon: "article"

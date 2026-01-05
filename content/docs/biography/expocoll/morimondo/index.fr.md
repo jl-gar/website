@@ -1,5 +1,5 @@
 ---
-weight: 2007
+weight: 1406
 title: " Storie immaginate in luoghi reali"
 description: "Museo di Fotografia Contemporanea, Cinisello-Balsamo-Milano. 2007"
 icon: "article"

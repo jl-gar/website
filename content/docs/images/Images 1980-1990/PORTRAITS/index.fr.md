@@ -1,5 +1,5 @@
 ---
-weight: 04
+weight: 2108
 title: "Portraits"
 description: "1988-1989"
 icon: "article"

@@ -1,5 +1,5 @@
 ---
-weight: 2015
+weight: 1414
 title: "Centre Pompidou"
 description: "What is photography ? 2015"
 icon: "article"

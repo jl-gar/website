@@ -1,5 +1,5 @@
 ---
-weight: 13
+weight: 2324
 title: "Triptyques"
 description: "2007 - 2013"
 icon: "article"

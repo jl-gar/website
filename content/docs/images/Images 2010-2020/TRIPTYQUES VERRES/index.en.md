@@ -1,5 +1,5 @@
 ---
-weight: 04
+weight: 2408
 title: "Glass triptyques"
 description: "2012"
 icon: "article"

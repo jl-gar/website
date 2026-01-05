@@ -1,5 +1,5 @@
 ---
-weight: 2012
+weight: 1410
 title: "Topografías de la memoria,"
 description: "Atrio de las Culturas de Alhóndiga, Bilbao. 2012"
 icon: "article"

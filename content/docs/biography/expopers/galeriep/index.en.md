@@ -1,5 +1,5 @@
 ---
-weight: 2003
+weight: 1304
 title: "Gilles Peyroulet Gallery"
 description: "2003"
 icon: "article"

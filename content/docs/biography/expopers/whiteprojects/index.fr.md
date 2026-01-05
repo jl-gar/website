@@ -1,5 +1,5 @@
 ---
-weight: 2011
+weight: 1314
 title: "Gallerie Whiteprojects"
 description: "2011"
 icon: "article"

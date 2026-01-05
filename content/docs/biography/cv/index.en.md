@@ -1,7 +1,7 @@
 ---
 title: "Curriculum"
 date: 2025-12-31
-weight: 10
+weight: 1200
 toc: false
 ---
 

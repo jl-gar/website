@@ -1,5 +1,5 @@
 ---
-weight: 01
+weight: 2202
 title: "Small pieces"
 description: "1991 - 1992"
 icon: "article"

@@ -1,5 +1,5 @@
 ---
-weight: 2008
+weight: 1408
 title: " Regarde de tous tes yeux, regarde!"
 description: "L'art contemporain de Georges Perec, Musée des Beaux-arts, Nantes. 2008"
 icon: "article"

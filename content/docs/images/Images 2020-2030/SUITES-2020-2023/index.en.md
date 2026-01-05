@@ -1,5 +1,5 @@
 ---
-weight: 07
+weight: 2510
 title: "Suites"
 description: "2020-2023"
 icon: "article"

@@ -1,5 +1,5 @@
 ---
-weight: 2006
+weight: 1404
 title: " La force de l'art"
 description: "Grand-Palais, Paris. 2006"
 icon: "article"

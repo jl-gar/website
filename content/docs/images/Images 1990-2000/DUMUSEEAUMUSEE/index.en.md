@@ -1,5 +1,5 @@
 ---
-weight: 06
+weight: 2212
 title: "From museum to museum"
 description: "1993"
 icon: "article"

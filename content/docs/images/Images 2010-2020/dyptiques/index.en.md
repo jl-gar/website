@@ -1,5 +1,5 @@
 ---
-weight: 05
+weight: 2410
 title: "Diptyques"
 description: "2012"
 icon: "article"

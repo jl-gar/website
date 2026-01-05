@@ -1,5 +1,5 @@
 ---
-weight: 1674472042
+weight: 7800
 title: "Citations - Quotes 2006"
 description: ""
 icon: "article"

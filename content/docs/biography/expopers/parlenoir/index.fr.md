@@ -1,5 +1,5 @@
 ---
-weight: 2004
+weight: 1310
 title: "Par le noir"
 description: "Galerie Peyroulet, Paris. 2004"
 icon: "article"
