@@ -1,5 +1,5 @@
 +++
-weight = 20
+weight = 1400
 date = "2025-12-31"
 draft = false
 title = "Expositions collectives"
