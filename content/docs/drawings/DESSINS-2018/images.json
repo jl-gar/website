@@ -1,20 +1,20 @@
 [
   {
-    "id": "jean-louis-garnell-17-02-2018-vi",
-    "file": "media/jean-louis-garnell-17-02-2018-vi.jpg",
-    "original_name": "JEAN-LOUIS-GARNELL-17-02-2018-VI.jpg",
-    "title": "17 - 02 -",
-    "date": "2018",
-    "dimensions_physical": "25 × 35 cm",
+    "id": "jean-louis-garnell-02-06-2017-ii",
+    "file": "media/jean-louis-garnell-02-06-2017-ii.jpg",
+    "original_name": "JEAN-LOUIS-GARNELL-02-06-2017-II.jpg",
+    "title": "02 - 06 -",
+    "date": "2017",
+    "dimensions_physical": "50 × 65 cm",
     "dimensions_pixels": {
-      "width": 600,
-      "height": 421
+      "width": 700,
+      "height": 541
     },
     "source_pages": [
-      "DESSINS-2018-1.html"
+      "DESSINS-2018-6.html"
     ],
     "order": 1,
-    "notes": "17 - 02 - 2018 - VI                25 x 35 cm"
+    "notes": "02 - 06 - 2017 - II               50 x 65 cm"
   },
   {
     "id": "jean-louis-garnell-07-06-2018-iv",
@@ -34,10 +34,10 @@
     "notes": "07 - 06 - 2018 - IV                25 x 35 cm"
   },
   {
-    "id": "jean-louis-garnell-20-09-2018-ii",
-    "file": "media/jean-louis-garnell-20-09-2018-ii.jpg",
-    "original_name": "JEAN-LOUIS-GARNELL-20-09-2018-II.jpg",
-    "title": "20 - 09 -",
+    "id": "jean-louis-garnell-11-09-2018-iv",
+    "file": "media/jean-louis-garnell-11-09-2018-iv.jpg",
+    "original_name": "JEAN-LOUIS-GARNELL-11-09-2018-IV.jpg",
+    "title": "11 - 09 -",
     "date": "2018",
     "dimensions_physical": "25 × 35 cm",
     "dimensions_pixels": {
@@ -45,10 +45,10 @@
       "height": 423
     },
     "source_pages": [
-      "DESSINS-2018-3.html"
+      "DESSINS-2018-5.html"
     ],
     "order": 1,
-    "notes": "20 - 09 - 2018 - II                25 x 35 cm"
+    "notes": "11 - 09 - 2018 - IV                25 x 35 cm"
   },
   {
     "id": "jean-louis-garnell-11-09-2018-vi",
@@ -68,38 +68,21 @@
     "notes": "11 - 09 - 2018 - VI                25 x 35 cm"
   },
   {
-    "id": "jean-louis-garnell-11-09-2018-iv",
-    "file": "media/jean-louis-garnell-11-09-2018-iv.jpg",
-    "original_name": "JEAN-LOUIS-GARNELL-11-09-2018-IV.jpg",
-    "title": "11 - 09 -",
+    "id": "jean-louis-garnell-17-02-2018-vi",
+    "file": "media/jean-louis-garnell-17-02-2018-vi.jpg",
+    "original_name": "JEAN-LOUIS-GARNELL-17-02-2018-VI.jpg",
+    "title": "17 - 02 -",
     "date": "2018",
     "dimensions_physical": "25 × 35 cm",
     "dimensions_pixels": {
       "width": 600,
-      "height": 423
+      "height": 421
     },
     "source_pages": [
-      "DESSINS-2018-5.html"
+      "DESSINS-2018-1.html"
     ],
     "order": 1,
-    "notes": "11 - 09 - 2018 - IV                25 x 35 cm"
-  },
-  {
-    "id": "jean-louis-garnell-02-06-2017-ii",
-    "file": "media/jean-louis-garnell-02-06-2017-ii.jpg",
-    "original_name": "JEAN-LOUIS-GARNELL-02-06-2017-II.jpg",
-    "title": "02 - 06 -",
-    "date": "2017",
-    "dimensions_physical": "50 × 65 cm",
-    "dimensions_pixels": {
-      "width": 700,
-      "height": 541
-    },
-    "source_pages": [
-      "DESSINS-2018-6.html"
-    ],
-    "order": 1,
-    "notes": "02 - 06 - 2017 - II               50 x 65 cm"
+    "notes": "17 - 02 - 2018 - VI                25 x 35 cm"
   },
   {
     "id": "jean-louis-garnell-17-05-2017-ii",
@@ -117,6 +100,23 @@
     ],
     "order": 1,
     "notes": "17 - 06 - 2017 - II               50 x 65 cm"
+  },
+  {
+    "id": "jean-louis-garnell-20-09-2018-ii",
+    "file": "media/jean-louis-garnell-20-09-2018-ii.jpg",
+    "original_name": "JEAN-LOUIS-GARNELL-20-09-2018-II.jpg",
+    "title": "20 - 09 -",
+    "date": "2018",
+    "dimensions_physical": "25 × 35 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 423
+    },
+    "source_pages": [
+      "DESSINS-2018-3.html"
+    ],
+    "order": 1,
+    "notes": "20 - 09 - 2018 - II                25 x 35 cm"
   },
   {
     "id": "jean-louis-garnell-27-12-2018-ii",

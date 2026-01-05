@@ -17,57 +17,6 @@
     "notes": "BOULE BLANCHE     \n1992         40 x 50 cm"
   },
   {
-    "id": "diptyque1",
-    "file": "media/diptyque1.jpg",
-    "original_name": "Diptyque1.jpg",
-    "title": "Diptyque #1",
-    "date": "1992",
-    "dimensions_physical": "40 × 50",
-    "dimensions_pixels": {
-      "width": 800,
-      "height": 400
-    },
-    "source_pages": [
-      "PIECES2.html"
-    ],
-    "order": 1,
-    "notes": "DIPTYQUE    #1    \n1992          2 x ( 40 x 50 ) cm"
-  },
-  {
-    "id": "triptyque2",
-    "file": "media/triptyque2.jpg",
-    "original_name": "Triptyque2.jpg",
-    "title": "Triptyque #2",
-    "date": "1992",
-    "dimensions_physical": "24 × 30",
-    "dimensions_pixels": {
-      "width": 800,
-      "height": 400
-    },
-    "source_pages": [
-      "PIECES3.html"
-    ],
-    "order": 1,
-    "notes": "TRIPTYQUE   #2     \n1992         3 x ( 24 x 30 ) cm"
-  },
-  {
-    "id": "triptyque1",
-    "file": "media/triptyque1.jpg",
-    "original_name": "Triptyque1.jpg",
-    "title": "Triptyque #1",
-    "date": "1992",
-    "dimensions_physical": "24 × 30",
-    "dimensions_pixels": {
-      "width": 800,
-      "height": 400
-    },
-    "source_pages": [
-      "PIECES4.html"
-    ],
-    "order": 1,
-    "notes": "TRIPTYQUE   #1     \n1992         3 x ( 24 x 30 ) cm"
-  },
-  {
     "id": "petitehistoiredelalumieredomestique",
     "file": "media/petitehistoiredelalumieredomestique.jpg",
     "original_name": "PetiteHistoiredelalumieredomestique.jpg",
@@ -100,5 +49,56 @@
     ],
     "order": 1,
     "notes": "TENTATIVE  DE  DESCRIPTION  D'UNE  MARMITE         \n1992         4 x ( 30 x 40 )  cm"
+  },
+  {
+    "id": "diptyque1",
+    "file": "media/diptyque1.jpg",
+    "original_name": "Diptyque1.jpg",
+    "title": "Diptyque #1",
+    "date": "1992",
+    "dimensions_physical": "40 × 50",
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 400
+    },
+    "source_pages": [
+      "PIECES2.html"
+    ],
+    "order": 1,
+    "notes": "DIPTYQUE    #1    \n1992          2 x ( 40 x 50 ) cm"
+  },
+  {
+    "id": "triptyque1",
+    "file": "media/triptyque1.jpg",
+    "original_name": "Triptyque1.jpg",
+    "title": "Triptyque #1",
+    "date": "1992",
+    "dimensions_physical": "24 × 30",
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 400
+    },
+    "source_pages": [
+      "PIECES4.html"
+    ],
+    "order": 1,
+    "notes": "TRIPTYQUE   #1     \n1992         3 x ( 24 x 30 ) cm"
+  },
+  {
+    "id": "triptyque2",
+    "file": "media/triptyque2.jpg",
+    "original_name": "Triptyque2.jpg",
+    "title": "Triptyque #2",
+    "date": "1992",
+    "dimensions_physical": "24 × 30",
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 400
+    },
+    "source_pages": [
+      "PIECES3.html"
+    ],
+    "order": 1,
+    "notes": "TRIPTYQUE   #2     \n1992         3 x ( 24 x 30 ) cm"
   }
 ]

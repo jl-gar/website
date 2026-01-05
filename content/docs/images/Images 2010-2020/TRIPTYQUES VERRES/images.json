@@ -3,7 +3,7 @@
     "id": "triptyque1",
     "file": "media/triptyque1.jpg",
     "original_name": "Triptyque1.jpg",
-    "title": "TRIPTYQUE I",
+    "title": "TRIPTYQUE 1",
     "date": "2012",
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -20,8 +20,8 @@
     "id": "triptyque2",
     "file": "media/triptyque2.jpg",
     "original_name": "Triptyque2.jpg",
-    "title": null,
-    "date": null,
+    "title": "TRIPTYQUE 2",
+    "date": "2012",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 800,

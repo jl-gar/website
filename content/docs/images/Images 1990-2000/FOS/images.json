@@ -17,6 +17,23 @@
     "notes": "DIPTYQUE   #1          1995    \n              2 x ( 123 x 155 ) cm"
   },
   {
+    "id": "fosmur1",
+    "file": "media/fosmur1.jpg",
+    "original_name": "FOSMUR1.jpg",
+    "title": "Sans Titre #1",
+    "date": "1995",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 475
+    },
+    "source_pages": [
+      "FOSMUR.html"
+    ],
+    "order": 1,
+    "notes": "Sans Titre   #1          1995    \n              40 x 50  cm"
+  },
+  {
     "id": "fosdiptyque2",
     "file": "media/fosdiptyque2.jpg",
     "original_name": "FOSDIPTYQUE2.jpg",
@@ -118,22 +135,5 @@
     ],
     "order": 2,
     "notes": "DIPTYQUE   #7          1995    \n              63 x 120 cm"
-  },
-  {
-    "id": "fosmur1",
-    "file": "media/fosmur1.jpg",
-    "original_name": "FOSMUR1.jpg",
-    "title": "Sans Titre #1",
-    "date": "1995",
-    "dimensions_physical": "40 × 50 cm",
-    "dimensions_pixels": {
-      "width": 600,
-      "height": 475
-    },
-    "source_pages": [
-      "FOSMUR.html"
-    ],
-    "order": 1,
-    "notes": "Sans Titre   #1          1995    \n              40 x 50  cm"
   }
 ]

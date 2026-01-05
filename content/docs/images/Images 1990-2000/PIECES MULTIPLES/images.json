@@ -85,74 +85,6 @@
     "notes": "FAMILLE  #2     1991         3 x ( 96 x 120 )  cm"
   },
   {
-    "id": "m1996",
-    "file": "media/m1996.jpg",
-    "original_name": "M1996.jpg",
-    "title": "M.",
-    "date": "1996",
-    "dimensions_physical": "100 × 120",
-    "dimensions_pixels": {
-      "width": 1000,
-      "height": 400
-    },
-    "source_pages": [
-      "M1996.html"
-    ],
-    "order": 1,
-    "notes": "M.   1996             100 x 120,  80 x 100,  80 x 63  cm"
-  },
-  {
-    "id": "suite1995",
-    "file": "media/suite1995.jpg",
-    "original_name": "SUITE1995.jpg",
-    "title": "SUITE",
-    "date": "1995",
-    "dimensions_physical": "64 × 80",
-    "dimensions_pixels": {
-      "width": 1000,
-      "height": 400
-    },
-    "source_pages": [
-      "SUITE1995.html"
-    ],
-    "order": 1,
-    "notes": "SUITE\n    1995          \n   64 x 80,  120 x 100,  150 x 120,  100 x\n80  cm"
-  },
-  {
-    "id": "triptyque21990",
-    "file": "media/triptyque21990.jpg",
-    "original_name": "TRIPTYQUE21990.jpg",
-    "title": "TRIPTYQUE #1",
-    "date": "1990",
-    "dimensions_physical": "96 × 120",
-    "dimensions_pixels": {
-      "width": 1000,
-      "height": 400
-    },
-    "source_pages": [
-      "TRIPTYQUE11990.html"
-    ],
-    "order": 1,
-    "notes": "TRIPTYQUE  #1     1990         3 x ( 96 x 120 )  cm"
-  },
-  {
-    "id": "triptyque11991",
-    "file": "media/triptyque11991.jpg",
-    "original_name": "TRIPTYQUE11991.jpg",
-    "title": "TRIPTYQUE #1",
-    "date": "1991",
-    "dimensions_physical": "122 × 99",
-    "dimensions_pixels": {
-      "width": 1000,
-      "height": 400
-    },
-    "source_pages": [
-      "TRIPTYQUE11991.html"
-    ],
-    "order": 1,
-    "notes": "TRIPTYQUE \n#1      1991          122\nx 99,  2 x ( 99 x 122 )  cm"
-  },
-  {
     "id": "icimeme2",
     "file": "media/icimeme2.jpg",
     "original_name": "icimeme2.jpg",
@@ -202,5 +134,73 @@
     ],
     "order": 1,
     "notes": "ici-même \nV     1994           \n  100x80, 120x100, 80x100, 100x120, 60 x80  cm"
+  },
+  {
+    "id": "m1996",
+    "file": "media/m1996.jpg",
+    "original_name": "M1996.jpg",
+    "title": "M.",
+    "date": "1996",
+    "dimensions_physical": "100 × 120",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 400
+    },
+    "source_pages": [
+      "M1996.html"
+    ],
+    "order": 1,
+    "notes": "M.   1996             100 x 120,  80 x 100,  80 x 63  cm"
+  },
+  {
+    "id": "suite1995",
+    "file": "media/suite1995.jpg",
+    "original_name": "SUITE1995.jpg",
+    "title": "SUITE",
+    "date": "1995",
+    "dimensions_physical": "64 × 80",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 400
+    },
+    "source_pages": [
+      "SUITE1995.html"
+    ],
+    "order": 1,
+    "notes": "SUITE\n    1995          \n   64 x 80,  120 x 100,  150 x 120,  100 x\n80  cm"
+  },
+  {
+    "id": "triptyque11991",
+    "file": "media/triptyque11991.jpg",
+    "original_name": "TRIPTYQUE11991.jpg",
+    "title": "TRIPTYQUE #1",
+    "date": "1991",
+    "dimensions_physical": "122 × 99",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 400
+    },
+    "source_pages": [
+      "TRIPTYQUE11991.html"
+    ],
+    "order": 1,
+    "notes": "TRIPTYQUE \n#1      1991          122\nx 99,  2 x ( 99 x 122 )  cm"
+  },
+  {
+    "id": "triptyque21990",
+    "file": "media/triptyque21990.jpg",
+    "original_name": "TRIPTYQUE21990.jpg",
+    "title": "TRIPTYQUE #1",
+    "date": "1990",
+    "dimensions_physical": "96 × 120",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 400
+    },
+    "source_pages": [
+      "TRIPTYQUE11990.html"
+    ],
+    "order": 1,
+    "notes": "TRIPTYQUE  #1     1990         3 x ( 96 x 120 )  cm"
   }
 ]

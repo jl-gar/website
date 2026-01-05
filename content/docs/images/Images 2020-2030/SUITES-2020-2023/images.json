@@ -1,5 +1,22 @@
 [
   {
+    "id": "suite-2020",
+    "file": "media/suite-2020.jpg",
+    "original_name": "SUITE-2020.jpg",
+    "title": "SUITE 2020",
+    "date": "2020",
+    "dimensions_physical": "90 × 60 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 281
+    },
+    "source_pages": [
+      "SUITE-2020.html"
+    ],
+    "order": 1,
+    "notes": "SUITE   2020               6 x (90x60cm)"
+  },
+  {
     "id": "suite-2020-1",
     "file": "media/suite-2020-1.jpg",
     "original_name": "SUITE-2020-1.jpg",
@@ -102,21 +119,21 @@
     "notes": "SUITE\n  2020\n             \n6 x (90x60cm)        \nDétail  #6"
   },
   {
-    "id": "suite-2020",
-    "file": "media/suite-2020.jpg",
-    "original_name": "SUITE-2020.jpg",
-    "title": "SUITE",
-    "date": "2020",
+    "id": "suite-2021",
+    "file": "media/suite-2021.jpg",
+    "original_name": "SUITE-2021.jpg",
+    "title": "SUITE 2021",
+    "date": "2021",
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 1000,
       "height": 281
     },
     "source_pages": [
-      "SUITE-2020.html"
+      "SUITE-20210.html"
     ],
     "order": 1,
-    "notes": "SUITE   2020               6 x (90x60cm)"
+    "notes": "SUITE   2021               6 x (90x60cm)"
   },
   {
     "id": "suite-2021-1",
@@ -221,21 +238,21 @@
     "notes": "SUITE   2021               6 x (90x60cm)"
   },
   {
-    "id": "suite-2021",
-    "file": "media/suite-2021.jpg",
-    "original_name": "SUITE-2021.jpg",
-    "title": "SUITE",
-    "date": "2021",
+    "id": "suite-2022",
+    "file": "media/suite-2022.jpg",
+    "original_name": "SUITE-2022.jpg",
+    "title": "SUITE 2022",
+    "date": "2022",
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 1000,
       "height": 281
     },
     "source_pages": [
-      "SUITE-20210.html"
+      "SUITE-2022.html"
     ],
     "order": 1,
-    "notes": "SUITE   2021               6 x (90x60cm)"
+    "notes": "SUITE   2022               6 x (90x60cm)"
   },
   {
     "id": "suite-2022-1",
@@ -335,23 +352,6 @@
     },
     "source_pages": [
       "SUITE-2022-6.html"
-    ],
-    "order": 1,
-    "notes": "SUITE   2022               6 x (90x60cm)"
-  },
-  {
-    "id": "suite-2022",
-    "file": "media/suite-2022.jpg",
-    "original_name": "SUITE-2022.jpg",
-    "title": "SUITE",
-    "date": "2022",
-    "dimensions_physical": "90 × 60 cm",
-    "dimensions_pixels": {
-      "width": 1000,
-      "height": 281
-    },
-    "source_pages": [
-      "SUITE-2022.html"
     ],
     "order": 1,
     "notes": "SUITE   2022               6 x (90x60cm)"

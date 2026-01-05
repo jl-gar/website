@@ -340,23 +340,6 @@
     "notes": "06-01-1998              60 x 80 cm"
   },
   {
-    "id": "1998-03-19",
-    "file": "media/1998-03-19.jpg",
-    "original_name": "1998-03-19.jpg",
-    "title": "1998-03-19",
-    "date": "1998",
-    "dimensions_physical": "60 × 80 cm",
-    "dimensions_pixels": {
-      "width": 800,
-      "height": 600
-    },
-    "source_pages": [
-      "1998-03-19-I.html"
-    ],
-    "order": 1,
-    "notes": "19-03-1998-I              60 x 80 cm"
-  },
-  {
     "id": "1998-03-19-ii",
     "file": "media/1998-03-19-ii.jpg",
     "original_name": "1998-03-19-II.jpg",
@@ -372,6 +355,23 @@
     ],
     "order": 1,
     "notes": "19-03-1998-II              60 x 80 cm"
+  },
+  {
+    "id": "1998-03-19",
+    "file": "media/1998-03-19.jpg",
+    "original_name": "1998-03-19.jpg",
+    "title": "1998-03-19",
+    "date": "1998",
+    "dimensions_physical": "60 × 80 cm",
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 600
+    },
+    "source_pages": [
+      "1998-03-19-I.html"
+    ],
+    "order": 1,
+    "notes": "19-03-1998-I              60 x 80 cm"
   },
   {
     "id": "1998-06-04",

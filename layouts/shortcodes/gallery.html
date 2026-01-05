@@ -103,7 +103,7 @@ URLs. */}}
         children: 'a.jl-tile-link',
         // dynamically load the PhotoSwipe core module per docs (keeps bundle small)
         pswpModule: () => import('https://unpkg.com/photoswipe@5/dist/photoswipe.esm.js'),
-        bgOpacity: 1,
+        
         showHideAnimationType: 'fade',
         padding: { top: 150, bottom: 150, left: 150, right: 150 },
         // build caption HTML from data attributes on the clicked anchor
@@ -129,6 +129,7 @@ URLs. */}}
     });
     console.debug('[JL-Gallery] PhotoSwipeLightbox created', typeof lightbox);
     lightbox.init();
+    lightbox.options.loop = false;
     console.debug('[JL-Gallery] PhotoSwipeLightbox.init called for', GSEL);
     // expose for debugging and programmatic control
     try { window.JL_PHOTOSWIPE_LIGHTBOX = window.JL_PHOTOSWIPE_LIGHTBOX || {}; window.JL_PHOTOSWIPE_LIGHTBOX[GID] = lightbox; console.debug('[JL-Gallery] exposed lightbox as window.JL_PHOTOSWIPE_LIGHTBOX["' + GID + '"]'); } catch (e) { /* ignore */ }

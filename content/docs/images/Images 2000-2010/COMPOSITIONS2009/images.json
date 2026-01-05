@@ -17,10 +17,10 @@
     "notes": "COMPOSITIONS  I   #1          2009 40"
   },
   {
-    "id": "compositions1-10",
-    "file": "media/compositions1-10.jpg",
-    "original_name": "Compositions1-10.jpg",
-    "title": "COMPOSITIONS I #10",
+    "id": "compositions2-1",
+    "file": "media/compositions2-1.jpg",
+    "original_name": "Compositions2-1.jpg",
+    "title": "COMPOSITIONS II #1",
     "date": "2009",
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -28,44 +28,10 @@
       "height": 402
     },
     "source_pages": [
-      "COMPOSITIONS1-10.html"
+      "COMPOSITIONS2-1.html"
     ],
     "order": 1,
-    "notes": "COMPOSITIONS  I   #10          2009 40"
-  },
-  {
-    "id": "compositions1-11",
-    "file": "media/compositions1-11.jpg",
-    "original_name": "Compositions1-11.jpg",
-    "title": "COMPOSITIONS I #11",
-    "date": "2009",
-    "dimensions_physical": null,
-    "dimensions_pixels": {
-      "width": 600,
-      "height": 402
-    },
-    "source_pages": [
-      "COMPOSITIONS1-11.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  I   #11          2009 40"
-  },
-  {
-    "id": "compositions1-12",
-    "file": "media/compositions1-12.jpg",
-    "original_name": "Compositions1-12.jpg",
-    "title": "COMPOSITIONS I #12",
-    "date": "2009",
-    "dimensions_physical": null,
-    "dimensions_pixels": {
-      "width": 600,
-      "height": 402
-    },
-    "source_pages": [
-      "COMPOSITIONS1-12.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  I   #12          2009 40"
+    "notes": "COMPOSITIONS  II   #1          2009 40"
   },
   {
     "id": "compositions1-2",
@@ -136,6 +102,23 @@
     "notes": "COMPOSITIONS  I   #5          2009 40"
   },
   {
+    "id": "compositions2-5",
+    "file": "media/compositions2-5.jpg",
+    "original_name": "Compositions2-5.jpg",
+    "title": "COMPOSITIONS II #5",
+    "date": "2009",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 402
+    },
+    "source_pages": [
+      "COMPOSITIONS2-5.html"
+    ],
+    "order": 1,
+    "notes": "COMPOSITIONS  II   #5          2009 40"
+  },
+  {
     "id": "compositions1-6",
     "file": "media/compositions1-6.jpg",
     "original_name": "Compositions1-6.jpg",
@@ -170,6 +153,23 @@
     "notes": "COMPOSITIONS  I   #7          2009 40"
   },
   {
+    "id": "compositions2-7",
+    "file": "media/compositions2-7.jpg",
+    "original_name": "Compositions2-7.jpg",
+    "title": "COMPOSITIONS II #7",
+    "date": "2009",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 402
+    },
+    "source_pages": [
+      "COMPOSITIONS2-7.html"
+    ],
+    "order": 1,
+    "notes": "COMPOSITIONS  II   #7          2009 40"
+  },
+  {
     "id": "compositions1-8",
     "file": "media/compositions1-8.jpg",
     "original_name": "Compositions1-8.jpg",
@@ -185,6 +185,23 @@
     ],
     "order": 1,
     "notes": "COMPOSITIONS  I   #8          2009 40"
+  },
+  {
+    "id": "compositions2-8",
+    "file": "media/compositions2-8.jpg",
+    "original_name": "Compositions2-8.jpg",
+    "title": "COMPOSITIONS II #8",
+    "date": "2009",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 402
+    },
+    "source_pages": [
+      "COMPOSITIONS2-8.html"
+    ],
+    "order": 1,
+    "notes": "COMPOSITIONS  II   #8          2009 40"
   },
   {
     "id": "compositions1-9",
@@ -204,10 +221,10 @@
     "notes": "COMPOSITIONS  I   #9          2009 40"
   },
   {
-    "id": "compositions2-1",
-    "file": "media/compositions2-1.jpg",
-    "original_name": "Compositions2-1.jpg",
-    "title": "COMPOSITIONS II #1",
+    "id": "compositions1-10",
+    "file": "media/compositions1-10.jpg",
+    "original_name": "Compositions1-10.jpg",
+    "title": "COMPOSITIONS I #10",
     "date": "2009",
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -215,10 +232,10 @@
       "height": 402
     },
     "source_pages": [
-      "COMPOSITIONS2-1.html"
+      "COMPOSITIONS1-10.html"
     ],
     "order": 1,
-    "notes": "COMPOSITIONS  II   #1          2009 40"
+    "notes": "COMPOSITIONS  I   #10          2009 40"
   },
   {
     "id": "compositions2-10",
@@ -236,6 +253,40 @@
     ],
     "order": 1,
     "notes": "COMPOSITIONS  II   #10          2009 40"
+  },
+  {
+    "id": "compositions1-11",
+    "file": "media/compositions1-11.jpg",
+    "original_name": "Compositions1-11.jpg",
+    "title": "COMPOSITIONS I #11",
+    "date": "2009",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 402
+    },
+    "source_pages": [
+      "COMPOSITIONS1-11.html"
+    ],
+    "order": 1,
+    "notes": "COMPOSITIONS  I   #11          2009 40"
+  },
+  {
+    "id": "compositions1-12",
+    "file": "media/compositions1-12.jpg",
+    "original_name": "Compositions1-12.jpg",
+    "title": "COMPOSITIONS I #12",
+    "date": "2009",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 402
+    },
+    "source_pages": [
+      "COMPOSITIONS1-12.html"
+    ],
+    "order": 1,
+    "notes": "COMPOSITIONS  I   #12          2009 40"
   },
   {
     "id": "compositions2-14",
@@ -389,56 +440,5 @@
     ],
     "order": 1,
     "notes": "COMPOSITIONS  II   #24          2009 40"
-  },
-  {
-    "id": "compositions2-5",
-    "file": "media/compositions2-5.jpg",
-    "original_name": "Compositions2-5.jpg",
-    "title": "COMPOSITIONS II #5",
-    "date": "2009",
-    "dimensions_physical": null,
-    "dimensions_pixels": {
-      "width": 600,
-      "height": 402
-    },
-    "source_pages": [
-      "COMPOSITIONS2-5.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  II   #5          2009 40"
-  },
-  {
-    "id": "compositions2-7",
-    "file": "media/compositions2-7.jpg",
-    "original_name": "Compositions2-7.jpg",
-    "title": "COMPOSITIONS II #7",
-    "date": "2009",
-    "dimensions_physical": null,
-    "dimensions_pixels": {
-      "width": 600,
-      "height": 402
-    },
-    "source_pages": [
-      "COMPOSITIONS2-7.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  II   #7          2009 40"
-  },
-  {
-    "id": "compositions2-8",
-    "file": "media/compositions2-8.jpg",
-    "original_name": "Compositions2-8.jpg",
-    "title": "COMPOSITIONS II #8",
-    "date": "2009",
-    "dimensions_physical": null,
-    "dimensions_pixels": {
-      "width": 600,
-      "height": 402
-    },
-    "source_pages": [
-      "COMPOSITIONS2-8.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  II   #8          2009 40"
   }
 ]

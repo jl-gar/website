@@ -17,91 +17,6 @@
     "notes": "par le noir  #1    \n    2004           50 x 100  cm"
   },
   {
-    "id": "parlenoir11",
-    "file": "media/parlenoir11.jpg",
-    "original_name": "PARLENOIR11.jpg",
-    "title": "par le noir #11",
-    "date": "2004",
-    "dimensions_physical": "50 × 100 cm",
-    "dimensions_pixels": {
-      "width": 600,
-      "height": 300
-    },
-    "source_pages": [
-      "PARLENOIR11.html"
-    ],
-    "order": 1,
-    "notes": "par le noir  #11    \n     2004              50 x 100  cm"
-  },
-  {
-    "id": "parlenoir12",
-    "file": "media/parlenoir12.jpg",
-    "original_name": "PARLENOIR12.jpg",
-    "title": "par le noir #12",
-    "date": "2004",
-    "dimensions_physical": "50 × 75 cm",
-    "dimensions_pixels": {
-      "width": 451,
-      "height": 300
-    },
-    "source_pages": [
-      "PARLENOIR12.html"
-    ],
-    "order": 1,
-    "notes": "par le noir  #12    \n     2004              50 x 75 cm"
-  },
-  {
-    "id": "parlenoir13",
-    "file": "media/parlenoir13.jpg",
-    "original_name": "PARLENOIR13.jpg",
-    "title": "par le noir #13",
-    "date": "2004",
-    "dimensions_physical": "50 × 75 cm",
-    "dimensions_pixels": {
-      "width": 451,
-      "height": 300
-    },
-    "source_pages": [
-      "PARLENOIR13.html"
-    ],
-    "order": 1,
-    "notes": "par le noir  #13    \n     2004              50 x 75 cm"
-  },
-  {
-    "id": "parlenoir14",
-    "file": "media/parlenoir14.jpg",
-    "original_name": "PARLENOIR14.jpg",
-    "title": "par le noir #14",
-    "date": "2004",
-    "dimensions_physical": "50 × 100 cm",
-    "dimensions_pixels": {
-      "width": 600,
-      "height": 300
-    },
-    "source_pages": [
-      "PARLENOIR14.html"
-    ],
-    "order": 1,
-    "notes": "par le noir  #14    \n     2004              50 x 100  cm"
-  },
-  {
-    "id": "parlenoir15",
-    "file": "media/parlenoir15.jpg",
-    "original_name": "PARLENOIR15.jpg",
-    "title": "par le noir #15",
-    "date": "2004",
-    "dimensions_physical": "33 × 50 cm",
-    "dimensions_pixels": {
-      "width": 300,
-      "height": 207
-    },
-    "source_pages": [
-      "PARLENOIR15.html"
-    ],
-    "order": 1,
-    "notes": "par le noir  #15    \n     2004              33 x 50  cm"
-  },
-  {
     "id": "parlenoir2",
     "file": "media/parlenoir2.jpg",
     "original_name": "PARLENOIR2.jpg",
@@ -202,5 +117,90 @@
     ],
     "order": 1,
     "notes": "par le noir  #9, #10    \n     2004              2 x ( 50 x 75 )  cm"
+  },
+  {
+    "id": "parlenoir11",
+    "file": "media/parlenoir11.jpg",
+    "original_name": "PARLENOIR11.jpg",
+    "title": "par le noir #11",
+    "date": "2004",
+    "dimensions_physical": "50 × 100 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 300
+    },
+    "source_pages": [
+      "PARLENOIR11.html"
+    ],
+    "order": 1,
+    "notes": "par le noir  #11    \n     2004              50 x 100  cm"
+  },
+  {
+    "id": "parlenoir12",
+    "file": "media/parlenoir12.jpg",
+    "original_name": "PARLENOIR12.jpg",
+    "title": "par le noir #12",
+    "date": "2004",
+    "dimensions_physical": "50 × 75 cm",
+    "dimensions_pixels": {
+      "width": 451,
+      "height": 300
+    },
+    "source_pages": [
+      "PARLENOIR12.html"
+    ],
+    "order": 1,
+    "notes": "par le noir  #12    \n     2004              50 x 75 cm"
+  },
+  {
+    "id": "parlenoir13",
+    "file": "media/parlenoir13.jpg",
+    "original_name": "PARLENOIR13.jpg",
+    "title": "par le noir #13",
+    "date": "2004",
+    "dimensions_physical": "50 × 75 cm",
+    "dimensions_pixels": {
+      "width": 451,
+      "height": 300
+    },
+    "source_pages": [
+      "PARLENOIR13.html"
+    ],
+    "order": 1,
+    "notes": "par le noir  #13    \n     2004              50 x 75 cm"
+  },
+  {
+    "id": "parlenoir14",
+    "file": "media/parlenoir14.jpg",
+    "original_name": "PARLENOIR14.jpg",
+    "title": "par le noir #14",
+    "date": "2004",
+    "dimensions_physical": "50 × 100 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 300
+    },
+    "source_pages": [
+      "PARLENOIR14.html"
+    ],
+    "order": 1,
+    "notes": "par le noir  #14    \n     2004              50 x 100  cm"
+  },
+  {
+    "id": "parlenoir15",
+    "file": "media/parlenoir15.jpg",
+    "original_name": "PARLENOIR15.jpg",
+    "title": "par le noir #15",
+    "date": "2004",
+    "dimensions_physical": "33 × 50 cm",
+    "dimensions_pixels": {
+      "width": 300,
+      "height": 207
+    },
+    "source_pages": [
+      "PARLENOIR15.html"
+    ],
+    "order": 1,
+    "notes": "par le noir  #15    \n     2004              33 x 50  cm"
   }
 ]

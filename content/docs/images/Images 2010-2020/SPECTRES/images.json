@@ -1,5 +1,22 @@
 [
   {
+    "id": "jean-louis-garnell-spectres-2018",
+    "file": "media/jean-louis-garnell-spectres-2018.jpg",
+    "original_name": "JEAN-LOUIS-GARNELL-SPECTRES-2018.jpg",
+    "title": "SPECTRES",
+    "date": "2018",
+    "dimensions_physical": "50 × 37 cm",
+    "dimensions_pixels": {
+      "width": 551,
+      "height": 600
+    },
+    "source_pages": [
+      "SPECTRES-2018.html"
+    ],
+    "order": 1,
+    "notes": "SPECTRES      2018         20 x (50 x 37 cm)"
+  },
+  {
     "id": "spectres1",
     "file": "media/spectres1.jpg",
     "original_name": "SPECTRES1.jpg",
@@ -15,6 +32,142 @@
     ],
     "order": 1,
     "notes": "SPECTRES  #1        2018         50 x 37 cm"
+  },
+  {
+    "id": "spectres2",
+    "file": "media/spectres2.jpg",
+    "original_name": "SPECTRES2.jpg",
+    "title": "SPECTRES #2",
+    "date": "2018",
+    "dimensions_physical": "50 × 37 cm",
+    "dimensions_pixels": {
+      "width": 440,
+      "height": 600
+    },
+    "source_pages": [
+      "SPECTRES-2-2018.html"
+    ],
+    "order": 1,
+    "notes": "SPECTRES  #2        2018         50 x 37 cm"
+  },
+  {
+    "id": "spectres3",
+    "file": "media/spectres3.jpg",
+    "original_name": "SPECTRES3.jpg",
+    "title": "SPECTRES #3",
+    "date": "2018",
+    "dimensions_physical": "50 × 37 cm",
+    "dimensions_pixels": {
+      "width": 440,
+      "height": 600
+    },
+    "source_pages": [
+      "SPECTRES-3-2018.html"
+    ],
+    "order": 1,
+    "notes": "SPECTRES  #3        2018         50 x 37 cm"
+  },
+  {
+    "id": "spectres4",
+    "file": "media/spectres4.jpg",
+    "original_name": "SPECTRES4.jpg",
+    "title": "SPECTRES #4",
+    "date": "2018",
+    "dimensions_physical": "50 × 37 cm",
+    "dimensions_pixels": {
+      "width": 440,
+      "height": 600
+    },
+    "source_pages": [
+      "SPECTRES-4-2018.html"
+    ],
+    "order": 1,
+    "notes": "SPECTRES  #4        2018         50 x 37 cm"
+  },
+  {
+    "id": "spectres5",
+    "file": "media/spectres5.jpg",
+    "original_name": "SPECTRES5.jpg",
+    "title": "SPECTRES #5",
+    "date": "2018",
+    "dimensions_physical": "50 × 37 cm",
+    "dimensions_pixels": {
+      "width": 440,
+      "height": 600
+    },
+    "source_pages": [
+      "SPECTRES-5-2018.html"
+    ],
+    "order": 1,
+    "notes": "SPECTRES  #5        2018         50 x 37 cm"
+  },
+  {
+    "id": "spectres6",
+    "file": "media/spectres6.jpg",
+    "original_name": "SPECTRES6.jpg",
+    "title": "SPECTRES #6",
+    "date": "2018",
+    "dimensions_physical": "50 × 37 cm",
+    "dimensions_pixels": {
+      "width": 440,
+      "height": 600
+    },
+    "source_pages": [
+      "SPECTRES-6-2018.html"
+    ],
+    "order": 1,
+    "notes": "SPECTRES  #6        2018         50 x 37 cm"
+  },
+  {
+    "id": "spectres7",
+    "file": "media/spectres7.jpg",
+    "original_name": "SPECTRES7.jpg",
+    "title": "SPECTRES #7",
+    "date": "2018",
+    "dimensions_physical": "50 × 37 cm",
+    "dimensions_pixels": {
+      "width": 440,
+      "height": 600
+    },
+    "source_pages": [
+      "SPECTRES-7-2018.html"
+    ],
+    "order": 1,
+    "notes": "SPECTRES  #7        2018         50 x 37 cm"
+  },
+  {
+    "id": "spectres8",
+    "file": "media/spectres8.jpg",
+    "original_name": "SPECTRES8.jpg",
+    "title": "SPECTRES #8",
+    "date": "2018",
+    "dimensions_physical": "50 × 37 cm",
+    "dimensions_pixels": {
+      "width": 440,
+      "height": 600
+    },
+    "source_pages": [
+      "SPECTRES-8-2018.html"
+    ],
+    "order": 1,
+    "notes": "SPECTRES  #8        2018         50 x 37 cm"
+  },
+  {
+    "id": "spectres9",
+    "file": "media/spectres9.jpg",
+    "original_name": "SPECTRES9.jpg",
+    "title": "SPECTRES #9",
+    "date": "2018",
+    "dimensions_physical": "50 × 37 cm",
+    "dimensions_pixels": {
+      "width": 440,
+      "height": 600
+    },
+    "source_pages": [
+      "SPECTRES-9-2018.html"
+    ],
+    "order": 1,
+    "notes": "SPECTRES  #9        2018         50 x 37 cm"
   },
   {
     "id": "spectres10",
@@ -187,23 +340,6 @@
     "notes": "SPECTRES  #19        2018         50 x 37 cm"
   },
   {
-    "id": "spectres2",
-    "file": "media/spectres2.jpg",
-    "original_name": "SPECTRES2.jpg",
-    "title": "SPECTRES #2",
-    "date": "2018",
-    "dimensions_physical": "50 × 37 cm",
-    "dimensions_pixels": {
-      "width": 440,
-      "height": 600
-    },
-    "source_pages": [
-      "SPECTRES-2-2018.html"
-    ],
-    "order": 1,
-    "notes": "SPECTRES  #2        2018         50 x 37 cm"
-  },
-  {
     "id": "spectres20",
     "file": "media/spectres20.jpg",
     "original_name": "SPECTRES20.jpg",
@@ -219,141 +355,5 @@
     ],
     "order": 1,
     "notes": "SPECTRES  #20        2018         50 x 37 cm"
-  },
-  {
-    "id": "jean-louis-garnell-spectres-2018",
-    "file": "media/jean-louis-garnell-spectres-2018.jpg",
-    "original_name": "JEAN-LOUIS-GARNELL-SPECTRES-2018.jpg",
-    "title": "SPECTRES",
-    "date": "2018",
-    "dimensions_physical": "50 × 37 cm",
-    "dimensions_pixels": {
-      "width": 551,
-      "height": 600
-    },
-    "source_pages": [
-      "SPECTRES-2018.html"
-    ],
-    "order": 1,
-    "notes": "SPECTRES      2018         20 x (50 x 37 cm)"
-  },
-  {
-    "id": "spectres3",
-    "file": "media/spectres3.jpg",
-    "original_name": "SPECTRES3.jpg",
-    "title": "SPECTRES #3",
-    "date": "2018",
-    "dimensions_physical": "50 × 37 cm",
-    "dimensions_pixels": {
-      "width": 440,
-      "height": 600
-    },
-    "source_pages": [
-      "SPECTRES-3-2018.html"
-    ],
-    "order": 1,
-    "notes": "SPECTRES  #3        2018         50 x 37 cm"
-  },
-  {
-    "id": "spectres4",
-    "file": "media/spectres4.jpg",
-    "original_name": "SPECTRES4.jpg",
-    "title": "SPECTRES #4",
-    "date": "2018",
-    "dimensions_physical": "50 × 37 cm",
-    "dimensions_pixels": {
-      "width": 440,
-      "height": 600
-    },
-    "source_pages": [
-      "SPECTRES-4-2018.html"
-    ],
-    "order": 1,
-    "notes": "SPECTRES  #4        2018         50 x 37 cm"
-  },
-  {
-    "id": "spectres5",
-    "file": "media/spectres5.jpg",
-    "original_name": "SPECTRES5.jpg",
-    "title": "SPECTRES #5",
-    "date": "2018",
-    "dimensions_physical": "50 × 37 cm",
-    "dimensions_pixels": {
-      "width": 440,
-      "height": 600
-    },
-    "source_pages": [
-      "SPECTRES-5-2018.html"
-    ],
-    "order": 1,
-    "notes": "SPECTRES  #5        2018         50 x 37 cm"
-  },
-  {
-    "id": "spectres6",
-    "file": "media/spectres6.jpg",
-    "original_name": "SPECTRES6.jpg",
-    "title": "SPECTRES #6",
-    "date": "2018",
-    "dimensions_physical": "50 × 37 cm",
-    "dimensions_pixels": {
-      "width": 440,
-      "height": 600
-    },
-    "source_pages": [
-      "SPECTRES-6-2018.html"
-    ],
-    "order": 1,
-    "notes": "SPECTRES  #6        2018         50 x 37 cm"
-  },
-  {
-    "id": "spectres7",
-    "file": "media/spectres7.jpg",
-    "original_name": "SPECTRES7.jpg",
-    "title": "SPECTRES #7",
-    "date": "2018",
-    "dimensions_physical": "50 × 37 cm",
-    "dimensions_pixels": {
-      "width": 440,
-      "height": 600
-    },
-    "source_pages": [
-      "SPECTRES-7-2018.html"
-    ],
-    "order": 1,
-    "notes": "SPECTRES  #7        2018         50 x 37 cm"
-  },
-  {
-    "id": "spectres8",
-    "file": "media/spectres8.jpg",
-    "original_name": "SPECTRES8.jpg",
-    "title": "SPECTRES #8",
-    "date": "2018",
-    "dimensions_physical": "50 × 37 cm",
-    "dimensions_pixels": {
-      "width": 440,
-      "height": 600
-    },
-    "source_pages": [
-      "SPECTRES-8-2018.html"
-    ],
-    "order": 1,
-    "notes": "SPECTRES  #8        2018         50 x 37 cm"
-  },
-  {
-    "id": "spectres9",
-    "file": "media/spectres9.jpg",
-    "original_name": "SPECTRES9.jpg",
-    "title": "SPECTRES #9",
-    "date": "2018",
-    "dimensions_physical": "50 × 37 cm",
-    "dimensions_pixels": {
-      "width": 440,
-      "height": 600
-    },
-    "source_pages": [
-      "SPECTRES-9-2018.html"
-    ],
-    "order": 1,
-    "notes": "SPECTRES  #9        2018         50 x 37 cm"
   }
 ]

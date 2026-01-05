@@ -1,5 +1,39 @@
 [
   {
+    "id": "module1",
+    "file": "media/module1.jpg",
+    "original_name": "MODULE1.jpg",
+    "title": "MODULES #1",
+    "date": "1997",
+    "dimensions_physical": "104 × 127 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 480
+    },
+    "source_pages": [
+      "MODULES1.html"
+    ],
+    "order": 1,
+    "notes": "MODULES  #1      1997         104 x 127 cm"
+  },
+  {
+    "id": "module2",
+    "file": "media/module2.jpg",
+    "original_name": "MODULE2.jpg",
+    "title": "MODULES #2",
+    "date": "1997",
+    "dimensions_physical": "104 × 127 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 480
+    },
+    "source_pages": [
+      "MODULES2.html"
+    ],
+    "order": 1,
+    "notes": "MODULES  #2      1997         104 x 127 cm"
+  },
+  {
     "id": "image3",
     "file": "media/image3.jpg",
     "original_name": "Image3.jpg",
@@ -34,10 +68,10 @@
     "notes": "IMAGES  #4      1997         120  x 240 cm"
   },
   {
-    "id": "module1",
-    "file": "media/module1.jpg",
-    "original_name": "MODULE1.jpg",
-    "title": "MODULES #1",
+    "id": "module9",
+    "file": "media/module9.jpg",
+    "original_name": "MODULE9.jpg",
+    "title": "MODULES #9",
     "date": "1997",
     "dimensions_physical": "104 × 127 cm",
     "dimensions_pixels": {
@@ -45,10 +79,10 @@
       "height": 480
     },
     "source_pages": [
-      "MODULES1.html"
+      "MODULES9.html"
     ],
     "order": 1,
-    "notes": "MODULES  #1      1997         104 x 127 cm"
+    "notes": "MODULES  #9      1997         104 x 127 cm"
   },
   {
     "id": "module11",
@@ -202,39 +236,5 @@
     ],
     "order": 1,
     "notes": "MODULES  #19      1997         104 x 127 cm"
-  },
-  {
-    "id": "module2",
-    "file": "media/module2.jpg",
-    "original_name": "MODULE2.jpg",
-    "title": "MODULES #2",
-    "date": "1997",
-    "dimensions_physical": "104 × 127 cm",
-    "dimensions_pixels": {
-      "width": 600,
-      "height": 480
-    },
-    "source_pages": [
-      "MODULES2.html"
-    ],
-    "order": 1,
-    "notes": "MODULES  #2      1997         104 x 127 cm"
-  },
-  {
-    "id": "module9",
-    "file": "media/module9.jpg",
-    "original_name": "MODULE9.jpg",
-    "title": "MODULES #9",
-    "date": "1997",
-    "dimensions_physical": "104 × 127 cm",
-    "dimensions_pixels": {
-      "width": 600,
-      "height": 480
-    },
-    "source_pages": [
-      "MODULES9.html"
-    ],
-    "order": 1,
-    "notes": "MODULES  #9      1997         104 x 127 cm"
   }
 ]

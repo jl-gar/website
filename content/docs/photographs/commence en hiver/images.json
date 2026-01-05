@@ -68,18 +68,91 @@
     "notes": "COMMENCÉ  EN   HIVER  IV   2006     16  fois  50 x 75 cm"
   },
   {
-    "id": "expobnf2",
-    "file": "media/expobnf2.jpg",
-    "original_name": "EXPOBNF2.JPG",
+    "id": "lesrescapes",
+    "file": "media/lesrescapes.jpg",
+    "original_name": "lesRescapes.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
-      "width": 600,
-      "height": 399
+      "width": 800,
+      "height": 469
     },
     "source_pages": [
-      "EXPOBNF1.html"
+      "Lesrescapes.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "escalierb1",
+    "file": "media/escalierb1.jpg",
+    "original_name": "EscalierB1.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 394
+    },
+    "source_pages": [
+      "EscalierB1.html",
+      "EscalierB11.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "escalierb2",
+    "file": "media/escalierb2.jpg",
+    "original_name": "EscalierB2.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 394
+    },
+    "source_pages": [
+      "EscalierB2.html",
+      "EscalierB21.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "escalierb3",
+    "file": "media/escalierb3.jpg",
+    "original_name": "EscalierB3.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 394
+    },
+    "source_pages": [
+      "EscalierB3.html",
+      "EscalierB31.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "escalierb4",
+    "file": "media/escalierb4.jpg",
+    "original_name": "EscalierB4.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 394
+    },
+    "source_pages": [
+      "EscalierB4.html",
+      "EscalierB41.html",
+      "EscalierB5.html"
     ],
     "order": 1,
     "notes": null
@@ -97,6 +170,23 @@
     },
     "source_pages": [
       "EXPOBNF2.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "expobnf2",
+    "file": "media/expobnf2.jpg",
+    "original_name": "EXPOBNF2.JPG",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 399
+    },
+    "source_pages": [
+      "EXPOBNF1.html"
     ],
     "order": 1,
     "notes": null
@@ -307,96 +397,6 @@
     "notes": null
   },
   {
-    "id": "escalierb1",
-    "file": "media/escalierb1.jpg",
-    "original_name": "EscalierB1.jpg",
-    "title": null,
-    "date": null,
-    "dimensions_physical": null,
-    "dimensions_pixels": {
-      "width": 700,
-      "height": 394
-    },
-    "source_pages": [
-      "EscalierB1.html",
-      "EscalierB11.html"
-    ],
-    "order": 1,
-    "notes": null
-  },
-  {
-    "id": "escalierb2",
-    "file": "media/escalierb2.jpg",
-    "original_name": "EscalierB2.jpg",
-    "title": null,
-    "date": null,
-    "dimensions_physical": null,
-    "dimensions_pixels": {
-      "width": 700,
-      "height": 394
-    },
-    "source_pages": [
-      "EscalierB2.html",
-      "EscalierB21.html"
-    ],
-    "order": 1,
-    "notes": null
-  },
-  {
-    "id": "escalierb3",
-    "file": "media/escalierb3.jpg",
-    "original_name": "EscalierB3.jpg",
-    "title": null,
-    "date": null,
-    "dimensions_physical": null,
-    "dimensions_pixels": {
-      "width": 700,
-      "height": 394
-    },
-    "source_pages": [
-      "EscalierB3.html",
-      "EscalierB31.html"
-    ],
-    "order": 1,
-    "notes": null
-  },
-  {
-    "id": "escalierb4",
-    "file": "media/escalierb4.jpg",
-    "original_name": "EscalierB4.jpg",
-    "title": null,
-    "date": null,
-    "dimensions_physical": null,
-    "dimensions_pixels": {
-      "width": 700,
-      "height": 394
-    },
-    "source_pages": [
-      "EscalierB4.html",
-      "EscalierB41.html",
-      "EscalierB5.html"
-    ],
-    "order": 1,
-    "notes": null
-  },
-  {
-    "id": "lesrescapes",
-    "file": "media/lesrescapes.jpg",
-    "original_name": "lesRescapes.jpg",
-    "title": null,
-    "date": null,
-    "dimensions_physical": null,
-    "dimensions_pixels": {
-      "width": 800,
-      "height": 469
-    },
-    "source_pages": [
-      "Lesrescapes.html"
-    ],
-    "order": 1,
-    "notes": null
-  },
-  {
     "id": "plngp1",
     "file": "media/plngp1.jpg",
     "original_name": "PLNGP1.JPG",
@@ -482,23 +482,6 @@
     "notes": null
   },
   {
-    "id": "plngp30",
-    "file": "media/plngp30.jpg",
-    "original_name": "PLNGP30.JPG",
-    "title": null,
-    "date": null,
-    "dimensions_physical": null,
-    "dimensions_pixels": {
-      "width": 500,
-      "height": 332
-    },
-    "source_pages": [
-      "PLNGP6.html"
-    ],
-    "order": 1,
-    "notes": null
-  },
-  {
     "id": "plngp7",
     "file": "media/plngp7.jpg",
     "original_name": "PLNGP7.JPG",
@@ -511,6 +494,23 @@
     },
     "source_pages": [
       "PLNGP7.html"
+    ],
+    "order": 1,
+    "notes": null
+  },
+  {
+    "id": "plngp30",
+    "file": "media/plngp30.jpg",
+    "original_name": "PLNGP30.JPG",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 332
+    },
+    "source_pages": [
+      "PLNGP6.html"
     ],
     "order": 1,
     "notes": null

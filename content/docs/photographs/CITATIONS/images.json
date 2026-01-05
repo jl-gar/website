@@ -1,5 +1,22 @@
 [
   {
+    "id": "edition-citations-2006",
+    "file": "media/edition-citations-2006.jpg",
+    "original_name": "EDITION-CITATIONS-2006.jpg",
+    "title": "Citations",
+    "date": "2006",
+    "dimensions_physical": "15 × 20",
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 400
+    },
+    "source_pages": [
+      "EDITIONCITATIONS2006.html"
+    ],
+    "order": 1,
+    "notes": "Citations 2006        15 x 20,5 cm\n            132 pages, 33 photographies\ncouleur, 33 citations            Livre inédit"
+  },
+  {
     "id": "edition-dans-ici-2020",
     "file": "media/edition-dans-ici-2020.jpg",
     "original_name": "EDITION-DANS-ICI-2020.jpg",
@@ -15,6 +32,23 @@
     ],
     "order": 1,
     "notes": null
+  },
+  {
+    "id": "edition-ete-2004",
+    "file": "media/edition-ete-2004.jpg",
+    "original_name": "EDITION-ETE-2004.jpg",
+    "title": "été",
+    "date": "2004",
+    "dimensions_physical": "7 × 42 cm",
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 529
+    },
+    "source_pages": [
+      "EDITIONETE2004.html"
+    ],
+    "order": 1,
+    "notes": "été 2004        29,7 x 42 cm  \n          67 pages, 57 photographies\ncouleur           \nLivre inédit"
   },
   {
     "id": "edition-ici-2020",
@@ -33,40 +67,6 @@
     ],
     "order": 1,
     "notes": "2020       \n32 x 32 cm          130 pages, 60\nphotographies couleur      \nLivre inédit"
-  },
-  {
-    "id": "edition-citations-2006",
-    "file": "media/edition-citations-2006.jpg",
-    "original_name": "EDITION-CITATIONS-2006.jpg",
-    "title": "Citations",
-    "date": "2006",
-    "dimensions_physical": "15 × 20",
-    "dimensions_pixels": {
-      "width": 500,
-      "height": 400
-    },
-    "source_pages": [
-      "EDITIONCITATIONS2006.html"
-    ],
-    "order": 1,
-    "notes": "Citations 2006        15 x 20,5 cm\n            132 pages, 33 photographies\ncouleur, 33 citations            Livre inédit"
-  },
-  {
-    "id": "edition-ete-2004",
-    "file": "media/edition-ete-2004.jpg",
-    "original_name": "EDITION-ETE-2004.jpg",
-    "title": "été",
-    "date": "2004",
-    "dimensions_physical": "7 × 42 cm",
-    "dimensions_pixels": {
-      "width": 700,
-      "height": 529
-    },
-    "source_pages": [
-      "EDITIONETE2004.html"
-    ],
-    "order": 1,
-    "notes": "été 2004        29,7 x 42 cm  \n          67 pages, 57 photographies\ncouleur           \nLivre inédit"
   },
   {
     "id": "edition-jlg-2002-2009",

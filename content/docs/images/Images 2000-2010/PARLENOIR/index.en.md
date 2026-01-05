@@ -15,40 +15,4 @@ Piece consisting of 15 photographs. Life time passing through the dark. The one,
 
 
 
-
-
-
-
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-
-
-
-|
-
-
-
-**[
-
-](../SerieLISTE.html)**[****](PARLENOIR1.html)[****](../../SerieLISTE.html)
-
-
-
-
-
-
-
-
 {{< gallery >}}

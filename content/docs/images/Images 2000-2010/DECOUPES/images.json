@@ -17,23 +17,6 @@
     "notes": "DÉCOUPES  #1          \n2001         84 x 263 cm"
   },
   {
-    "id": "decoupes12",
-    "file": "media/decoupes12.jpg",
-    "original_name": "Decoupes12.jpg",
-    "title": "DÉCOUPES #12",
-    "date": "2001",
-    "dimensions_physical": "114 × 184 cm",
-    "dimensions_pixels": {
-      "width": 800,
-      "height": 378
-    },
-    "source_pages": [
-      "DECOUPES12.html"
-    ],
-    "order": 2,
-    "notes": "DÉCOUPES  #12         \n2001         114 x 184 cm"
-  },
-  {
     "id": "decoupes2",
     "file": "media/decoupes2.jpg",
     "original_name": "Decoupes2.jpg",
@@ -134,5 +117,22 @@
     ],
     "order": 1,
     "notes": "DÉCOUPES  #9         \n2001         91 x 174 cm"
+  },
+  {
+    "id": "decoupes12",
+    "file": "media/decoupes12.jpg",
+    "original_name": "Decoupes12.jpg",
+    "title": "DÉCOUPES #12",
+    "date": "2001",
+    "dimensions_physical": "114 × 184 cm",
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 378
+    },
+    "source_pages": [
+      "DECOUPES12.html"
+    ],
+    "order": 2,
+    "notes": "DÉCOUPES  #12         \n2001         114 x 184 cm"
   }
 ]

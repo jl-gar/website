@@ -1,241 +1,20 @@
 [
   {
-    "id": "suite2018-1",
-    "file": "media/suite2018-1.jpg",
-    "original_name": "SUITE2018-1.jpg",
-    "title": "SUITE",
-    "date": "2018",
-    "dimensions_physical": "90 × 60",
-    "dimensions_pixels": {
-      "width": 334,
-      "height": 500
-    },
-    "source_pages": [
-      "SUITE-2018-1.html"
-    ],
-    "order": 1,
-    "notes": "SUITE    2018     Détail #1         6 x ( 90 x 60"
-  },
-  {
-    "id": "suite2018-2",
-    "file": "media/suite2018-2.jpg",
-    "original_name": "SUITE2018-2.jpg",
-    "title": "SUITE",
-    "date": "2018",
-    "dimensions_physical": "90 × 60",
-    "dimensions_pixels": {
-      "width": 334,
-      "height": 500
-    },
-    "source_pages": [
-      "SUITE-2018-2.html"
-    ],
-    "order": 1,
-    "notes": "SUITE    2018     Détail #2         6 x ( 90 x 60"
-  },
-  {
-    "id": "suite2018-3",
-    "file": "media/suite2018-3.jpg",
-    "original_name": "SUITE2018-3.jpg",
-    "title": "SUITE",
-    "date": "2018",
-    "dimensions_physical": "90 × 60",
-    "dimensions_pixels": {
-      "width": 334,
-      "height": 500
-    },
-    "source_pages": [
-      "SUITE-2018-3.html"
-    ],
-    "order": 1,
-    "notes": "SUITE    2018     Détail #3         6 x ( 90 x 60"
-  },
-  {
-    "id": "suite2018-4",
-    "file": "media/suite2018-4.jpg",
-    "original_name": "SUITE2018-4.jpg",
-    "title": "SUITE",
-    "date": "2018",
-    "dimensions_physical": "90 × 60",
-    "dimensions_pixels": {
-      "width": 334,
-      "height": 500
-    },
-    "source_pages": [
-      "SUITE-2018-4.html"
-    ],
-    "order": 1,
-    "notes": "SUITE    2018     Détail #4         6 x ( 90 x 60"
-  },
-  {
-    "id": "suite2018-5",
-    "file": "media/suite2018-5.jpg",
-    "original_name": "SUITE2018-5.jpg",
-    "title": "SUITE",
-    "date": "2018",
-    "dimensions_physical": "90 × 60",
-    "dimensions_pixels": {
-      "width": 334,
-      "height": 500
-    },
-    "source_pages": [
-      "SUITE-2018-5.html"
-    ],
-    "order": 1,
-    "notes": "SUITE    2018     Détail #5         6 x ( 90 x 60"
-  },
-  {
-    "id": "suite2018-6",
-    "file": "media/suite2018-6.jpg",
-    "original_name": "SUITE2018-6.jpg",
-    "title": "SUITE",
-    "date": "2018",
-    "dimensions_physical": "90 × 60",
-    "dimensions_pixels": {
-      "width": 334,
-      "height": 500
-    },
-    "source_pages": [
-      "SUITE-2018-6.html"
-    ],
-    "order": 1,
-    "notes": "SUITE    2018     Détail #6         6 x ( 90 x 60"
-  },
-  {
-    "id": "suite2018",
-    "file": "media/suite2018.jpg",
-    "original_name": "SUITE2018.jpg",
-    "title": "SUITE",
-    "date": "2018",
-    "dimensions_physical": "90 × 60",
+    "id": "suite2017",
+    "file": "media/suite2017.jpg",
+    "original_name": "SUITE2017.jpg",
+    "title": null,
+    "date": null,
+    "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 1000,
       "height": 244
     },
     "source_pages": [
-      "SUITE-2018.html"
+      "SUITE2017.html"
     ],
     "order": 1,
-    "notes": "SUITE    2018         6 x ( 90 x 60"
-  },
-  {
-    "id": "suite-2019-1",
-    "file": "media/suite-2019-1.jpg",
-    "original_name": "SUITE-2019-1.jpg",
-    "title": "SUITE",
-    "date": "2019",
-    "dimensions_physical": "90 × 60",
-    "dimensions_pixels": {
-      "width": 333,
-      "height": 500
-    },
-    "source_pages": [
-      "SUITE-2019-1.html"
-    ],
-    "order": 1,
-    "notes": "SUITE    2019     Détail #1         6 x ( 90 x 60"
-  },
-  {
-    "id": "suite-2019-2",
-    "file": "media/suite-2019-2.jpg",
-    "original_name": "SUITE-2019-2.jpg",
-    "title": "SUITE",
-    "date": "2019",
-    "dimensions_physical": "90 × 60",
-    "dimensions_pixels": {
-      "width": 333,
-      "height": 500
-    },
-    "source_pages": [
-      "SUITE-2019-2.html"
-    ],
-    "order": 1,
-    "notes": "SUITE    2019     Détail #2         6 x ( 90 x 60"
-  },
-  {
-    "id": "suite-2019-3",
-    "file": "media/suite-2019-3.jpg",
-    "original_name": "SUITE-2019-3.jpg",
-    "title": "SUITE",
-    "date": "2019",
-    "dimensions_physical": "90 × 60",
-    "dimensions_pixels": {
-      "width": 333,
-      "height": 500
-    },
-    "source_pages": [
-      "SUITE-2019-3.html"
-    ],
-    "order": 1,
-    "notes": "SUITE    2019     Détail #3         6 x ( 90 x 60"
-  },
-  {
-    "id": "suite-2019-4",
-    "file": "media/suite-2019-4.jpg",
-    "original_name": "SUITE-2019-4.jpg",
-    "title": "SUITE",
-    "date": "2019",
-    "dimensions_physical": "90 × 60",
-    "dimensions_pixels": {
-      "width": 333,
-      "height": 500
-    },
-    "source_pages": [
-      "SUITE-2019-4.html"
-    ],
-    "order": 1,
-    "notes": "SUITE    2019     Détail #4         6 x ( 90 x 60"
-  },
-  {
-    "id": "suite-2019-5",
-    "file": "media/suite-2019-5.jpg",
-    "original_name": "SUITE-2019-5.jpg",
-    "title": "SUITE",
-    "date": "2019",
-    "dimensions_physical": "90 × 60",
-    "dimensions_pixels": {
-      "width": 333,
-      "height": 500
-    },
-    "source_pages": [
-      "SUITE-2019-5.html"
-    ],
-    "order": 1,
-    "notes": "SUITE    2019     Détail #5         6 x ( 90 x 60"
-  },
-  {
-    "id": "suite-2019-6",
-    "file": "media/suite-2019-6.jpg",
-    "original_name": "SUITE-2019-6.jpg",
-    "title": "SUITE",
-    "date": "2019",
-    "dimensions_physical": "90 × 60",
-    "dimensions_pixels": {
-      "width": 333,
-      "height": 500
-    },
-    "source_pages": [
-      "SUITE-2019-6.html"
-    ],
-    "order": 1,
-    "notes": "SUITE    2019     Détail #6         6 x ( 90 x 60"
-  },
-  {
-    "id": "suite-2019",
-    "file": "media/suite-2019.jpg",
-    "original_name": "SUITE-2019.jpg",
-    "title": "SUITE",
-    "date": "2019",
-    "dimensions_physical": "90 × 60",
-    "dimensions_pixels": {
-      "width": 1000,
-      "height": 281
-    },
-    "source_pages": [
-      "SUITE-2019.html"
-    ],
-    "order": 1,
-    "notes": "SUITE    2019         6 x ( 90 x 60"
+    "notes": null
   },
   {
     "id": "suite2017-1",
@@ -340,20 +119,241 @@
     "notes": "SUITE    2017    Détail #6         6 x ( 90 x 60"
   },
   {
-    "id": "suite2017",
-    "file": "media/suite2017.jpg",
-    "original_name": "SUITE2017.jpg",
-    "title": null,
-    "date": null,
-    "dimensions_physical": null,
+    "id": "suite2018",
+    "file": "media/suite2018.jpg",
+    "original_name": "SUITE2018.jpg",
+    "title": "SUITE",
+    "date": "2018",
+    "dimensions_physical": "90 × 60",
     "dimensions_pixels": {
       "width": 1000,
       "height": 244
     },
     "source_pages": [
-      "SUITE2017.html"
+      "SUITE-2018.html"
     ],
     "order": 1,
-    "notes": null
+    "notes": "SUITE    2018         6 x ( 90 x 60"
+  },
+  {
+    "id": "suite2018-1",
+    "file": "media/suite2018-1.jpg",
+    "original_name": "SUITE2018-1.jpg",
+    "title": "SUITE",
+    "date": "2018",
+    "dimensions_physical": "90 × 60",
+    "dimensions_pixels": {
+      "width": 334,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2018-1.html"
+    ],
+    "order": 1,
+    "notes": "SUITE    2018     Détail #1         6 x ( 90 x 60"
+  },
+  {
+    "id": "suite2018-2",
+    "file": "media/suite2018-2.jpg",
+    "original_name": "SUITE2018-2.jpg",
+    "title": "SUITE",
+    "date": "2018",
+    "dimensions_physical": "90 × 60",
+    "dimensions_pixels": {
+      "width": 334,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2018-2.html"
+    ],
+    "order": 1,
+    "notes": "SUITE    2018     Détail #2         6 x ( 90 x 60"
+  },
+  {
+    "id": "suite2018-3",
+    "file": "media/suite2018-3.jpg",
+    "original_name": "SUITE2018-3.jpg",
+    "title": "SUITE",
+    "date": "2018",
+    "dimensions_physical": "90 × 60",
+    "dimensions_pixels": {
+      "width": 334,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2018-3.html"
+    ],
+    "order": 1,
+    "notes": "SUITE    2018     Détail #3         6 x ( 90 x 60"
+  },
+  {
+    "id": "suite2018-4",
+    "file": "media/suite2018-4.jpg",
+    "original_name": "SUITE2018-4.jpg",
+    "title": "SUITE",
+    "date": "2018",
+    "dimensions_physical": "90 × 60",
+    "dimensions_pixels": {
+      "width": 334,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2018-4.html"
+    ],
+    "order": 1,
+    "notes": "SUITE    2018     Détail #4         6 x ( 90 x 60"
+  },
+  {
+    "id": "suite2018-5",
+    "file": "media/suite2018-5.jpg",
+    "original_name": "SUITE2018-5.jpg",
+    "title": "SUITE",
+    "date": "2018",
+    "dimensions_physical": "90 × 60",
+    "dimensions_pixels": {
+      "width": 334,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2018-5.html"
+    ],
+    "order": 1,
+    "notes": "SUITE    2018     Détail #5         6 x ( 90 x 60"
+  },
+  {
+    "id": "suite2018-6",
+    "file": "media/suite2018-6.jpg",
+    "original_name": "SUITE2018-6.jpg",
+    "title": "SUITE",
+    "date": "2018",
+    "dimensions_physical": "90 × 60",
+    "dimensions_pixels": {
+      "width": 334,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2018-6.html"
+    ],
+    "order": 1,
+    "notes": "SUITE    2018     Détail #6         6 x ( 90 x 60"
+  },
+  {
+    "id": "suite-2019",
+    "file": "media/suite-2019.jpg",
+    "original_name": "SUITE-2019.jpg",
+    "title": "SUITE",
+    "date": "2019",
+    "dimensions_physical": "90 × 60",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 281
+    },
+    "source_pages": [
+      "SUITE-2019.html"
+    ],
+    "order": 1,
+    "notes": "SUITE    2019         6 x ( 90 x 60"
+  },
+  {
+    "id": "suite-2019-1",
+    "file": "media/suite-2019-1.jpg",
+    "original_name": "SUITE-2019-1.jpg",
+    "title": "SUITE",
+    "date": "2019",
+    "dimensions_physical": "90 × 60",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2019-1.html"
+    ],
+    "order": 1,
+    "notes": "SUITE    2019     Détail #1         6 x ( 90 x 60"
+  },
+  {
+    "id": "suite-2019-2",
+    "file": "media/suite-2019-2.jpg",
+    "original_name": "SUITE-2019-2.jpg",
+    "title": "SUITE",
+    "date": "2019",
+    "dimensions_physical": "90 × 60",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2019-2.html"
+    ],
+    "order": 1,
+    "notes": "SUITE    2019     Détail #2         6 x ( 90 x 60"
+  },
+  {
+    "id": "suite-2019-3",
+    "file": "media/suite-2019-3.jpg",
+    "original_name": "SUITE-2019-3.jpg",
+    "title": "SUITE",
+    "date": "2019",
+    "dimensions_physical": "90 × 60",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2019-3.html"
+    ],
+    "order": 1,
+    "notes": "SUITE    2019     Détail #3         6 x ( 90 x 60"
+  },
+  {
+    "id": "suite-2019-4",
+    "file": "media/suite-2019-4.jpg",
+    "original_name": "SUITE-2019-4.jpg",
+    "title": "SUITE",
+    "date": "2019",
+    "dimensions_physical": "90 × 60",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2019-4.html"
+    ],
+    "order": 1,
+    "notes": "SUITE    2019     Détail #4         6 x ( 90 x 60"
+  },
+  {
+    "id": "suite-2019-5",
+    "file": "media/suite-2019-5.jpg",
+    "original_name": "SUITE-2019-5.jpg",
+    "title": "SUITE",
+    "date": "2019",
+    "dimensions_physical": "90 × 60",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2019-5.html"
+    ],
+    "order": 1,
+    "notes": "SUITE    2019     Détail #5         6 x ( 90 x 60"
+  },
+  {
+    "id": "suite-2019-6",
+    "file": "media/suite-2019-6.jpg",
+    "original_name": "SUITE-2019-6.jpg",
+    "title": "SUITE",
+    "date": "2019",
+    "dimensions_physical": "90 × 60",
+    "dimensions_pixels": {
+      "width": 333,
+      "height": 500
+    },
+    "source_pages": [
+      "SUITE-2019-6.html"
+    ],
+    "order": 1,
+    "notes": "SUITE    2019     Détail #6         6 x ( 90 x 60"
   }
 ]
