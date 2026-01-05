@@ -78,7 +78,7 @@
     list-style: none;
     margin: 0;
     background: #fff;
-    border-radius: 4px;
+    border-radius: 0;
     overflow: hidden;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
     /* Let the tile width size to its contents; keep consistent height via the link */
@@ -109,14 +109,25 @@
 
 /* .jl-tiles-grid rules are defined earlier; no-op removed to avoid empty ruleset */
 
-/* Tile sizing: use a CSS variable for the uniform tile height */
+/* Tile sizing: consolidated CSS variables for gallery dimensions */
+/* Note: These match the Hugo template resize parameters */
 :root {
-    --jl-tile-height: 200px;
+    --jl-tile-height: 150px;
+    /* matches Hugo x150 resize */
+    --jl-tile-max-width: 300px;
+    /* matches Hugo 300x resize fallback */
+    --gallery-thumb-height: 150px;
+    /* Hugo template reference */
+    --gallery-thumb-max-width: 300px;
+    /* Hugo template reference */
+    --gallery-display-max-width: 1600px;
+    /* Hugo template reference */
 }
 
 @media (max-width: 600px) {
     :root {
-        --jl-tile-height: 200px;
+        --jl-tile-height: 150px;
+        --jl-tile-max-width: 300px;
     }
 }
 
@@ -129,6 +140,7 @@
 /* The visual image container that forces tile height and centers the image */
 .jl-tile .jl-tile-img-wrap {
     height: var(--jl-tile-height);
+    max-width: var(--jl-tile-max-width);
     display: flex;
     align-items: center;
     justify-content: center;

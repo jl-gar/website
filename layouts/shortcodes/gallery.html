@@ -20,15 +20,27 @@ URLs. */}}
     {{ $displayH := 0 }}
     {{ if $res }}
         {{ $url = $res.RelPermalink }}
-    {{/* create a cropped thumbnail exactly 200x200 (change size as needed) */}}
-    {{ $thumb := $res.Fit "200x200" }}
+    {{/* Thumbnail sizing: values must match CSS variables in gallery.css:
+         --gallery-thumb-height: 150px
+         --gallery-thumb-max-width: 300px
+         --gallery-display-max-width: 1600px */}}
+    {{ $thumbHeight := 150 }}
+    {{ $thumbMaxWidth := 300 }}
+    {{ $displayMaxWidth := 1600 }}
+    
+    {{/* create a thumbnail with fixed height, but limit width to max */}}
+    {{ $thumb := $res.Resize (printf "x%d" $thumbHeight) }}
         {{ if $thumb }}
+            {{/* check if width exceeds max and resize to max width if needed */}}
+            {{ if gt $thumb.Width $thumbMaxWidth }}
+                {{ $thumb = $res.Resize (printf "%dx" $thumbMaxWidth) }}
+            {{ end }}
             {{ $thumbURL = $thumb.RelPermalink }}
         {{ else }}
             {{ $thumbURL = $res.RelPermalink }}
         {{ end }}
         {{/* create a medium display image for PhotoSwipe (resize keeping aspect) */}}
-        {{ $display := $res.Resize "1600x" }}
+        {{ $display := $res.Resize (printf "%dx" $displayMaxWidth) }}
         {{ if $display }}
             {{ $displayURL = $display.RelPermalink }}
             {{ $displayW = $display.Width }}
