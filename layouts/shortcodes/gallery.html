@@ -117,7 +117,19 @@ URLs. */}}
         pswpModule: () => import('https://unpkg.com/photoswipe@5/dist/photoswipe.esm.js'),
         
         showHideAnimationType: 'fade',
-        padding: { top: 150, bottom: 150, left: 150, right: 150 },
+        // Padding as percentage of viewport - reads from CSS variable --pswp-padding-percent
+        paddingFn: (viewportSize) => {
+            const paddingPercent = parseFloat(
+                getComputedStyle(document.documentElement)
+                    .getPropertyValue('--pswp-padding-percent')
+            ) / 100 || 0.10; // fallback to 10% if CSS var not found
+            return {
+                top: Math.round(viewportSize.y * paddingPercent),
+                bottom: Math.round(viewportSize.y * paddingPercent),
+                left: Math.round(viewportSize.x * paddingPercent),
+                right: Math.round(viewportSize.x * paddingPercent)
+            };
+        },
         // build caption HTML from data attributes on the clicked anchor
         getCaptionHtml: function(el) {
             try {

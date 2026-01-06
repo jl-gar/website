@@ -11,7 +11,6 @@ publishdate = "2023-05-03T22:37:22+01:00"
 tags = ["Beginners"]
 +++
 
-
-<!-- ![Jean Louis Garnell](/jeanlouisgarnell/assets/images/image.png)
-
-image d'acceuil -->
+<!-- <div style="text-align:center; margin-bottom: 2rem;">
+<img src="{{ "/image.png" | relURL }}" alt="Jean Louis Garnell" style="max-width: 100%; height: auto;" />
+</div> -->
