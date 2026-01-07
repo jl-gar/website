@@ -1,8 +1,6 @@
 [
   {
-    "id": "couverture-autrefois-maintenant",
     "file": "media/couverture-autrefois-maintenant.jpg",
-    "original_name": "COUVERTURE-AUTREFOIS-MAINTENANT.jpg",
     "title": "AUTREFOIS MAINTENANT",
     "date": "2020",
     "dimensions_physical": "32 × 24 cm",
@@ -10,10 +8,6 @@
       "width": 400,
       "height": 500
     },
-    "source_pages": [
-      "AUTREFOISMAINTENANT-1.html"
-    ],
-    "order": 1,
-    "notes": "AUTREFOIS \nMAINTENANT   2020 - 2022\n              \n32x24cm, 240 pages          \nLivre Inédit"
+    "series": ""
   }
 ]

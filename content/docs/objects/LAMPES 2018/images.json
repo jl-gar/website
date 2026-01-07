@@ -1,8 +1,6 @@
 [
   {
-    "id": "001",
     "file": "media/001.jpg",
-    "original_name": "001.jpg",
     "title": "LAMPES",
     "date": "1995",
     "dimensions_physical": null,
@@ -10,16 +8,10 @@
       "width": 331,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-COUV1.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES   1995 - 2011               2018"
+    "series": ""
   },
   {
-    "id": "002",
     "file": "media/002.jpg",
-    "original_name": "002.jpg",
     "title": "LAMPES #1",
     "date": "1995",
     "dimensions_physical": null,
@@ -27,16 +19,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-1.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #1         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "003",
     "file": "media/003.jpg",
-    "original_name": "003.jpg",
     "title": "LAMPES #2",
     "date": "1995",
     "dimensions_physical": null,
@@ -44,16 +30,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-2.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #2         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "004",
     "file": "media/004.jpg",
-    "original_name": "004.jpg",
     "title": "LAMPES #3",
     "date": "1995",
     "dimensions_physical": null,
@@ -61,16 +41,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-3.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #3         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "005",
     "file": "media/005.jpg",
-    "original_name": "005.jpg",
     "title": "LAMPES #4",
     "date": "1995",
     "dimensions_physical": null,
@@ -78,16 +52,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-4.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #4         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "006",
     "file": "media/006.jpg",
-    "original_name": "006.jpg",
     "title": "LAMPES #5",
     "date": "1995",
     "dimensions_physical": null,
@@ -95,16 +63,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-5.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #5         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "007",
     "file": "media/007.jpg",
-    "original_name": "007.jpg",
     "title": "LAMPES #6",
     "date": "1995",
     "dimensions_physical": null,
@@ -112,16 +74,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-6.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #6         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "008",
     "file": "media/008.jpg",
-    "original_name": "008.jpg",
     "title": "LAMPES #7",
     "date": "1995",
     "dimensions_physical": null,
@@ -129,16 +85,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-7.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #7         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "009",
     "file": "media/009.jpg",
-    "original_name": "009.jpg",
     "title": "LAMPES #8",
     "date": "1995",
     "dimensions_physical": null,
@@ -146,16 +96,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-8.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #8         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "010",
     "file": "media/010.jpg",
-    "original_name": "010.jpg",
     "title": "LAMPES #9",
     "date": "1995",
     "dimensions_physical": null,
@@ -163,16 +107,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-9.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #9         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "011",
     "file": "media/011.jpg",
-    "original_name": "011.jpg",
     "title": "LAMPES #10",
     "date": "1995",
     "dimensions_physical": null,
@@ -180,16 +118,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-10.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #10         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "012",
     "file": "media/012.jpg",
-    "original_name": "012.jpg",
     "title": "LAMPES #11",
     "date": "1995",
     "dimensions_physical": null,
@@ -197,16 +129,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-11.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #11         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "013",
     "file": "media/013.jpg",
-    "original_name": "013.jpg",
     "title": "LAMPES #12",
     "date": "1995",
     "dimensions_physical": null,
@@ -214,16 +140,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-12.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #12         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "014",
     "file": "media/014.jpg",
-    "original_name": "014.jpg",
     "title": "LAMPES #13",
     "date": "1995",
     "dimensions_physical": null,
@@ -231,16 +151,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-13.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #13         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "015",
     "file": "media/015.jpg",
-    "original_name": "015.jpg",
     "title": "LAMPES #14",
     "date": "1995",
     "dimensions_physical": null,
@@ -248,16 +162,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-14.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #14         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "016",
     "file": "media/016.jpg",
-    "original_name": "016.jpg",
     "title": "LAMPES #15",
     "date": "1995",
     "dimensions_physical": null,
@@ -265,16 +173,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-15.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #15         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "017",
     "file": "media/017.jpg",
-    "original_name": "017.jpg",
     "title": "LAMPES #16",
     "date": "1995",
     "dimensions_physical": null,
@@ -282,16 +184,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-16.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #16         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "018",
     "file": "media/018.jpg",
-    "original_name": "018.jpg",
     "title": "LAMPES #17",
     "date": "1995",
     "dimensions_physical": null,
@@ -299,16 +195,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-17.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #17         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "019",
     "file": "media/019.jpg",
-    "original_name": "019.jpg",
     "title": "LAMPES #18",
     "date": "1995",
     "dimensions_physical": null,
@@ -316,16 +206,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-18.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #18         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "020",
     "file": "media/020.jpg",
-    "original_name": "020.jpg",
     "title": "LAMPES #19",
     "date": "1995",
     "dimensions_physical": null,
@@ -333,16 +217,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-19.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #19         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "021",
     "file": "media/021.jpg",
-    "original_name": "021.jpg",
     "title": "LAMPES #20",
     "date": "1995",
     "dimensions_physical": null,
@@ -350,16 +228,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-20.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #20         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "022",
     "file": "media/022.jpg",
-    "original_name": "022.jpg",
     "title": "LAMPES #21",
     "date": "1995",
     "dimensions_physical": null,
@@ -367,16 +239,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-21.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #21         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "023",
     "file": "media/023.jpg",
-    "original_name": "023.jpg",
     "title": "LAMPES #22",
     "date": "1995",
     "dimensions_physical": null,
@@ -384,16 +250,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-22.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #22         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "024",
     "file": "media/024.jpg",
-    "original_name": "024.jpg",
     "title": "LAMPES #23",
     "date": "1995",
     "dimensions_physical": null,
@@ -401,16 +261,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-23.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #23         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "025",
     "file": "media/025.jpg",
-    "original_name": "025.jpg",
     "title": "LAMPES #24",
     "date": "1995",
     "dimensions_physical": null,
@@ -418,16 +272,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-24.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #24         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "026",
     "file": "media/026.jpg",
-    "original_name": "026.jpg",
     "title": "LAMPES #25",
     "date": "1995",
     "dimensions_physical": null,
@@ -435,16 +283,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-25.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #25         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "027",
     "file": "media/027.jpg",
-    "original_name": "027.jpg",
     "title": "LAMPES #26",
     "date": "1995",
     "dimensions_physical": null,
@@ -452,16 +294,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-26.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #26         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "028",
     "file": "media/028.jpg",
-    "original_name": "028.jpg",
     "title": "LAMPES #27",
     "date": "1995",
     "dimensions_physical": null,
@@ -469,16 +305,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-27.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #27         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "029",
     "file": "media/029.jpg",
-    "original_name": "029.jpg",
     "title": "LAMPES #28",
     "date": "1995",
     "dimensions_physical": null,
@@ -486,16 +316,10 @@
       "width": 333,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-28.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES  #28         1995 - 2011"
+    "series": ""
   },
   {
-    "id": "030",
     "file": "media/030.jpg",
-    "original_name": "030.jpg",
     "title": "LAMPES",
     "date": "1995",
     "dimensions_physical": null,
@@ -503,10 +327,6 @@
       "width": 331,
       "height": 500
     },
-    "source_pages": [
-      "LAMPES-COUV4.html"
-    ],
-    "order": 1,
-    "notes": "LAMPES   1995 - 2011               2018"
+    "series": ""
   }
 ]

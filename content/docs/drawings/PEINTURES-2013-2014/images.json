@@ -1,8 +1,6 @@
 [
   {
-    "id": "2-2013",
     "file": "media/2-2013.jpg",
-    "original_name": "2-2013.jpg",
     "title": "#2",
     "date": "2013",
     "dimensions_physical": "33 × 41 cm",
@@ -10,16 +8,10 @@
       "width": 600,
       "height": 401
     },
-    "source_pages": [
-      "PEINTURE1.html"
-    ],
-    "order": 1,
-    "notes": "#2    2013         33 x 41 cm"
+    "series": ""
   },
   {
-    "id": "11-2014",
     "file": "media/11-2014.jpg",
-    "original_name": "11-2014.jpg",
     "title": "#11",
     "date": "2014",
     "dimensions_physical": "130 × 97 cm",
@@ -27,16 +19,10 @@
       "width": 401,
       "height": 600
     },
-    "source_pages": [
-      "PEINTURE4.html"
-    ],
-    "order": 1,
-    "notes": "#11    2014         130 x 97 cm"
+    "series": ""
   },
   {
-    "id": "12-2013",
     "file": "media/12-2013.jpg",
-    "original_name": "12-2013.jpg",
     "title": "#12",
     "date": "2013",
     "dimensions_physical": "73 × 60 cm",
@@ -44,16 +30,10 @@
       "width": 401,
       "height": 600
     },
-    "source_pages": [
-      "PEINTURE2.html"
-    ],
-    "order": 1,
-    "notes": "#12    2013         73 x 60 cm"
+    "series": ""
   },
   {
-    "id": "12-2014",
     "file": "media/12-2014.jpg",
-    "original_name": "12-2014.jpg",
     "title": "#12",
     "date": "2014",
     "dimensions_physical": "130 × 97 cm",
@@ -61,16 +41,10 @@
       "width": 401,
       "height": 600
     },
-    "source_pages": [
-      "PEINTURE5.html"
-    ],
-    "order": 1,
-    "notes": "#12    2014         130 x 97 cm"
+    "series": ""
   },
   {
-    "id": "17-2014",
     "file": "media/17-2014.jpg",
-    "original_name": "17-2014.jpg",
     "title": "#17",
     "date": "2014",
     "dimensions_physical": "130 × 97 cm",
@@ -78,16 +52,10 @@
       "width": 401,
       "height": 600
     },
-    "source_pages": [
-      "PEINTURE6.html"
-    ],
-    "order": 1,
-    "notes": "#17    2014         130 x 97 cm"
+    "series": ""
   },
   {
-    "id": "19-2014",
     "file": "media/19-2014.jpg",
-    "original_name": "19-2014.jpg",
     "title": "#19",
     "date": "2014",
     "dimensions_physical": "97 × 130 cm",
@@ -95,16 +63,10 @@
       "width": 600,
       "height": 401
     },
-    "source_pages": [
-      "PEINTURE7.html"
-    ],
-    "order": 1,
-    "notes": "#19    2014         97 x 130 cm"
+    "series": ""
   },
   {
-    "id": "24-2013",
     "file": "media/24-2013.jpg",
-    "original_name": "24-2013.jpg",
     "title": "#24",
     "date": "2013",
     "dimensions_physical": "61 × 50 cm",
@@ -112,10 +74,6 @@
       "width": 400,
       "height": 600
     },
-    "source_pages": [
-      "PEINTURE3.html"
-    ],
-    "order": 1,
-    "notes": "#24    2013         61 x 50 cm"
+    "series": ""
   }
 ]

@@ -1,8 +1,6 @@
 [
   {
-    "id": "compositions1-1",
     "file": "media/compositions1-1.jpg",
-    "original_name": "Compositions1-1.jpg",
     "title": "COMPOSITIONS I #1",
     "date": "2009",
     "dimensions_physical": null,
@@ -10,16 +8,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS1-1.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  I   #1          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions2-1",
     "file": "media/compositions2-1.jpg",
-    "original_name": "Compositions2-1.jpg",
     "title": "COMPOSITIONS II #1",
     "date": "2009",
     "dimensions_physical": null,
@@ -27,16 +19,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS2-1.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  II   #1          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions1-2",
     "file": "media/compositions1-2.jpg",
-    "original_name": "Compositions1-2.jpg",
     "title": "COMPOSITIONS I #2",
     "date": "2009",
     "dimensions_physical": null,
@@ -44,16 +30,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS1-2.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  I   #2          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions1-3",
     "file": "media/compositions1-3.jpg",
-    "original_name": "Compositions1-3.jpg",
     "title": "COMPOSITIONS I #3",
     "date": "2009",
     "dimensions_physical": null,
@@ -61,16 +41,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS1-3.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  I   #3          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions1-4",
     "file": "media/compositions1-4.jpg",
-    "original_name": "Compositions1-4.jpg",
     "title": "COMPOSITIONS I #4",
     "date": "2009",
     "dimensions_physical": null,
@@ -78,16 +52,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS1-4.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  I   #4          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions1-5",
     "file": "media/compositions1-5.jpg",
-    "original_name": "Compositions1-5.jpg",
     "title": "COMPOSITIONS I #5",
     "date": "2009",
     "dimensions_physical": null,
@@ -95,16 +63,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS1-5.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  I   #5          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions2-5",
     "file": "media/compositions2-5.jpg",
-    "original_name": "Compositions2-5.jpg",
     "title": "COMPOSITIONS II #5",
     "date": "2009",
     "dimensions_physical": null,
@@ -112,16 +74,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS2-5.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  II   #5          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions1-6",
     "file": "media/compositions1-6.jpg",
-    "original_name": "Compositions1-6.jpg",
     "title": "COMPOSITIONS I #6",
     "date": "2009",
     "dimensions_physical": null,
@@ -129,16 +85,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS1-6.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  I   #6          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions1-7",
     "file": "media/compositions1-7.jpg",
-    "original_name": "Compositions1-7.jpg",
     "title": "COMPOSITIONS I #7",
     "date": "2009",
     "dimensions_physical": null,
@@ -146,16 +96,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS1-7.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  I   #7          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions2-7",
     "file": "media/compositions2-7.jpg",
-    "original_name": "Compositions2-7.jpg",
     "title": "COMPOSITIONS II #7",
     "date": "2009",
     "dimensions_physical": null,
@@ -163,16 +107,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS2-7.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  II   #7          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions1-8",
     "file": "media/compositions1-8.jpg",
-    "original_name": "Compositions1-8.jpg",
     "title": "COMPOSITIONS I #8",
     "date": "2009",
     "dimensions_physical": null,
@@ -180,16 +118,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS1-8.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  I   #8          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions2-8",
     "file": "media/compositions2-8.jpg",
-    "original_name": "Compositions2-8.jpg",
     "title": "COMPOSITIONS II #8",
     "date": "2009",
     "dimensions_physical": null,
@@ -197,16 +129,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS2-8.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  II   #8          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions1-9",
     "file": "media/compositions1-9.jpg",
-    "original_name": "Compositions1-9.jpg",
     "title": "COMPOSITIONS I #9",
     "date": "2009",
     "dimensions_physical": null,
@@ -214,16 +140,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS1-9.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  I   #9          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions1-10",
     "file": "media/compositions1-10.jpg",
-    "original_name": "Compositions1-10.jpg",
     "title": "COMPOSITIONS I #10",
     "date": "2009",
     "dimensions_physical": null,
@@ -231,16 +151,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS1-10.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  I   #10          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions2-10",
     "file": "media/compositions2-10.jpg",
-    "original_name": "Compositions2-10.jpg",
     "title": "COMPOSITIONS II #10",
     "date": "2009",
     "dimensions_physical": null,
@@ -248,16 +162,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS2-10.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  II   #10          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions1-11",
     "file": "media/compositions1-11.jpg",
-    "original_name": "Compositions1-11.jpg",
     "title": "COMPOSITIONS I #11",
     "date": "2009",
     "dimensions_physical": null,
@@ -265,16 +173,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS1-11.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  I   #11          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions1-12",
     "file": "media/compositions1-12.jpg",
-    "original_name": "Compositions1-12.jpg",
     "title": "COMPOSITIONS I #12",
     "date": "2009",
     "dimensions_physical": null,
@@ -282,16 +184,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS1-12.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  I   #12          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions2-14",
     "file": "media/compositions2-14.jpg",
-    "original_name": "Compositions2-14.jpg",
     "title": "COMPOSITIONS II #14",
     "date": "2009",
     "dimensions_physical": null,
@@ -299,16 +195,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS2-14.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  II   #14          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions2-16",
     "file": "media/compositions2-16.jpg",
-    "original_name": "Compositions2-16.jpg",
     "title": "COMPOSITIONS II #16",
     "date": "2009",
     "dimensions_physical": null,
@@ -316,16 +206,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS2-16.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  II   #16          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions2-17",
     "file": "media/compositions2-17.jpg",
-    "original_name": "Compositions2-17.jpg",
     "title": "COMPOSITIONS II #17",
     "date": "2009",
     "dimensions_physical": null,
@@ -333,16 +217,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS2-17.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  II   #17          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions2-18",
     "file": "media/compositions2-18.jpg",
-    "original_name": "Compositions2-18.jpg",
     "title": "COMPOSITIONS II #18",
     "date": "2009",
     "dimensions_physical": null,
@@ -350,16 +228,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS2-18.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  II   #18          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions2-19",
     "file": "media/compositions2-19.jpg",
-    "original_name": "Compositions2-19.jpg",
     "title": "COMPOSITIONS II #19",
     "date": "2009",
     "dimensions_physical": null,
@@ -367,16 +239,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS2-19.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  II   #19          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions2-20",
     "file": "media/compositions2-20.jpg",
-    "original_name": "Compositions2-20.jpg",
     "title": "COMPOSITIONS II #20",
     "date": "2009",
     "dimensions_physical": null,
@@ -384,16 +250,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS2-20.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  II   #20          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions2-21",
     "file": "media/compositions2-21.jpg",
-    "original_name": "Compositions2-21.jpg",
     "title": "COMPOSITIONS II #21",
     "date": "2009",
     "dimensions_physical": null,
@@ -401,16 +261,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS2-21.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  II   #21          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions2-23",
     "file": "media/compositions2-23.jpg",
-    "original_name": "Compositions2-23.jpg",
     "title": "COMPOSITIONS II #23",
     "date": "2009",
     "dimensions_physical": null,
@@ -418,16 +272,10 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS2-23.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  II   #23          2009 40"
+    "series": ""
   },
   {
-    "id": "compositions2-24",
     "file": "media/compositions2-24.jpg",
-    "original_name": "Compositions2-24.jpg",
     "title": "COMPOSITIONS II #24",
     "date": "2009",
     "dimensions_physical": null,
@@ -435,10 +283,6 @@
       "width": 600,
       "height": 402
     },
-    "source_pages": [
-      "COMPOSITIONS2-24.html"
-    ],
-    "order": 1,
-    "notes": "COMPOSITIONS  II   #24          2009 40"
+    "series": ""
   }
 ]

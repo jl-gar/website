@@ -1,8 +1,6 @@
 [
   {
-    "id": "sanstitre1",
     "file": "media/sanstitre1.jpg",
-    "original_name": "Sanstitre1.jpg",
     "title": "SANS TITRE #1",
     "date": "2010",
     "dimensions_physical": "60 × 40 cm",
@@ -10,16 +8,10 @@
       "width": 268,
       "height": 400
     },
-    "source_pages": [
-      "SANSTITRE1.html"
-    ],
-    "order": 1,
-    "notes": "SANS TITRE  #1     \n2010         60 x 40 cm"
+    "series": ""
   },
   {
-    "id": "sanstitre2",
     "file": "media/sanstitre2.jpg",
-    "original_name": "Sanstitre2.jpg",
     "title": "SANS TITRE #2",
     "date": "2010",
     "dimensions_physical": "100 × 67 cm",
@@ -27,16 +19,10 @@
       "width": 400,
       "height": 597
     },
-    "source_pages": [
-      "SANSTITRE2.html"
-    ],
-    "order": 1,
-    "notes": "SANS TITRE   #2    \n2010         100 x 67  cm"
+    "series": ""
   },
   {
-    "id": "sanstitre3",
     "file": "media/sanstitre3.jpg",
-    "original_name": "Sanstitre3.jpg",
     "title": "SANS TITRE #3",
     "date": "2010",
     "dimensions_physical": "67 × 100 cm",
@@ -44,16 +30,10 @@
       "width": 598,
       "height": 400
     },
-    "source_pages": [
-      "SANSTITRE3.html"
-    ],
-    "order": 1,
-    "notes": "SANS TITRE   #3    \n2010         67 x 100  cm"
+    "series": ""
   },
   {
-    "id": "sanstitre5",
     "file": "media/sanstitre5.jpg",
-    "original_name": "Sanstitre5.jpg",
     "title": "SANS TITRE #5",
     "date": "2010",
     "dimensions_physical": "100 × 67 cm",
@@ -61,16 +41,10 @@
       "width": 400,
       "height": 599
     },
-    "source_pages": [
-      "SANSTITRE4.html"
-    ],
-    "order": 1,
-    "notes": "SANS TITRE   #5    \n2010         100 x 67  cm"
+    "series": ""
   },
   {
-    "id": "sanstitre6",
     "file": "media/sanstitre6.jpg",
-    "original_name": "Sanstitre6.jpg",
     "title": "SANS TITRE #6",
     "date": "2010",
     "dimensions_physical": "60 × 40 cm",
@@ -78,16 +52,10 @@
       "width": 267,
       "height": 400
     },
-    "source_pages": [
-      "SANSTITRE6.html"
-    ],
-    "order": 1,
-    "notes": "SANS TITRE   #6    \n2010         60 x 40  cm"
+    "series": ""
   },
   {
-    "id": "sanstitre7",
     "file": "media/sanstitre7.jpg",
-    "original_name": "Sanstitre7.jpg",
     "title": "SANS TITRE #7",
     "date": "2010",
     "dimensions_physical": "100 × 67 cm",
@@ -95,16 +63,10 @@
       "width": 597,
       "height": 400
     },
-    "source_pages": [
-      "SANSTITRE7.html"
-    ],
-    "order": 1,
-    "notes": "SANS TITRE   #7    \n2010         100 x 67  cm"
+    "series": ""
   },
   {
-    "id": "sanstitre8",
     "file": "media/sanstitre8.jpg",
-    "original_name": "Sanstitre8.jpg",
     "title": "SANS TITRE #",
     "date": "2009",
     "dimensions_physical": "100 × 67 cm",
@@ -112,10 +74,6 @@
       "width": 400,
       "height": 598
     },
-    "source_pages": [
-      "SANSTITRE8.html"
-    ],
-    "order": 1,
-    "notes": "SANS TITRE   #    \n2009         100 x 67  cm"
+    "series": ""
   }
 ]

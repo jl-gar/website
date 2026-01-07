@@ -1,8 +1,6 @@
 [
   {
-    "id": "icimeme2",
     "file": "media/icimeme2.jpg",
-    "original_name": "icimeme2.jpg",
     "title": "ici-même II",
     "date": "1993",
     "dimensions_physical": "60 × 80",
@@ -10,16 +8,10 @@
       "width": 1000,
       "height": 256
     },
-    "source_pages": [
-      "icimeme2.html"
-    ],
-    "order": 1,
-    "notes": "ici-même \nII      1993         \n60x80, 100x120, 80x60, 120x150, 80x100  cm"
+    "series": ""
   },
   {
-    "id": "icimeme4",
     "file": "media/icimeme4.jpg",
-    "original_name": "icimeme4.jpg",
     "title": "ici-même IV",
     "date": "1994",
     "dimensions_physical": "80 × 100",
@@ -27,16 +19,10 @@
       "width": 1000,
       "height": 256
     },
-    "source_pages": [
-      "icimeme4.html"
-    ],
-    "order": 1,
-    "notes": "ici-même \nIV     1994            \n  80x100, 120x150, 80x100, 96x120, 96x120  cm"
+    "series": ""
   },
   {
-    "id": "icimeme5",
     "file": "media/icimeme5.jpg",
-    "original_name": "icimeme5.jpg",
     "title": "ici-même V",
     "date": "1994",
     "dimensions_physical": "100 × 80",
@@ -44,10 +30,6 @@
       "width": 1000,
       "height": 256
     },
-    "source_pages": [
-      "icimeme5.html"
-    ],
-    "order": 1,
-    "notes": "ici-même \nV     1994           \n  100x80, 120x100, 80x100, 100x120, 60 x80  cm"
+    "series": ""
   }
 ]

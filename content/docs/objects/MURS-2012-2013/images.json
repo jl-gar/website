@@ -1,8 +1,6 @@
 [
   {
-    "id": "mur-i-2012",
     "file": "media/mur-i-2012.jpg",
-    "original_name": "MUR-I-2012.jpg",
     "title": "MURS I",
     "date": "2012",
     "dimensions_physical": null,
@@ -10,16 +8,10 @@
       "width": 800,
       "height": 523
     },
-    "source_pages": [
-      "MURI2012.html"
-    ],
-    "order": 1,
-    "notes": "MURS  I   2012         22 éléments       250"
+    "series": ""
   },
   {
-    "id": "mur-ii-2013",
     "file": "media/mur-ii-2013.jpg",
-    "original_name": "MUR-II-2013.jpg",
     "title": "MURS II",
     "date": "2013",
     "dimensions_physical": null,
@@ -27,16 +19,10 @@
       "width": 800,
       "height": 426
     },
-    "source_pages": [
-      "MURII2013.html"
-    ],
-    "order": 1,
-    "notes": "MURS  II   2013            29 éléments        250"
+    "series": ""
   },
   {
-    "id": "mur-iii-2013",
     "file": "media/mur-iii-2013.jpg",
-    "original_name": "MUR-III-2013.jpg",
     "title": "MURS III",
     "date": "2013",
     "dimensions_physical": null,
@@ -44,16 +30,10 @@
       "width": 800,
       "height": 447
     },
-    "source_pages": [
-      "MURIII2013.html"
-    ],
-    "order": 1,
-    "notes": "MURS  III   2013         36 éléments      250"
+    "series": ""
   },
   {
-    "id": "mur-iv-2013",
     "file": "media/mur-iv-2013.jpg",
-    "original_name": "MUR-IV-2013.jpg",
     "title": "MURS IV",
     "date": "2013",
     "dimensions_physical": null,
@@ -61,16 +41,10 @@
       "width": 800,
       "height": 458
     },
-    "source_pages": [
-      "MURIV2013.html"
-    ],
-    "order": 1,
-    "notes": "MURS  IV   2013         33 éléments        250"
+    "series": ""
   },
   {
-    "id": "mur-v-2013",
     "file": "media/mur-v-2013.jpg",
-    "original_name": "MUR-V-2013.jpg",
     "title": "MURS V",
     "date": "2013",
     "dimensions_physical": null,
@@ -78,10 +52,6 @@
       "width": 800,
       "height": 454
     },
-    "source_pages": [
-      "MURV2013.html"
-    ],
-    "order": 1,
-    "notes": "MURS  V   2013          38 éléments         250"
+    "series": ""
   }
 ]

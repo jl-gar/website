@@ -1,8 +1,6 @@
 [
   {
-    "id": "cehi",
     "file": "media/cehi.jpg",
-    "original_name": "CEHI.jpg",
     "title": "COMMENCÉ EN HIVER I",
     "date": "2006",
     "dimensions_physical": "50 × 75 cm",
@@ -10,16 +8,10 @@
       "width": 700,
       "height": 467
     },
-    "source_pages": [
-      "CEHI.html"
-    ],
-    "order": 1,
-    "notes": "COMMENCÉ  EN   HIVER  I   2006     16  fois  50 x 75 cm"
+    "series": ""
   },
   {
-    "id": "cehii",
     "file": "media/cehii.jpg",
-    "original_name": "CEHII.jpg",
     "title": "COMMENCÉ EN HIVER II",
     "date": "2006",
     "dimensions_physical": "50 × 75 cm",
@@ -27,16 +19,10 @@
       "width": 700,
       "height": 467
     },
-    "source_pages": [
-      "CEHII.html"
-    ],
-    "order": 1,
-    "notes": "COMMENCÉ  EN   HIVER  II   2006     16  fois  50 x 75 cm"
+    "series": ""
   },
   {
-    "id": "cehiii",
     "file": "media/cehiii.jpg",
-    "original_name": "CEHIII.jpg",
     "title": "COMMENCÉ EN HIVER III",
     "date": "2006",
     "dimensions_physical": "50 × 75 cm",
@@ -44,16 +30,10 @@
       "width": 700,
       "height": 467
     },
-    "source_pages": [
-      "CEHIII.html"
-    ],
-    "order": 1,
-    "notes": "COMMENCÉ  EN   HIVER  III   2006     16  fois  50 x 75 cm"
+    "series": ""
   },
   {
-    "id": "cehiv",
     "file": "media/cehiv.jpg",
-    "original_name": "CEHIV.jpg",
     "title": "COMMENCÉ EN HIVER IV",
     "date": "2006",
     "dimensions_physical": "50 × 75 cm",
@@ -61,10 +41,6 @@
       "width": 700,
       "height": 467
     },
-    "source_pages": [
-      "CEHIV.html"
-    ],
-    "order": 1,
-    "notes": "COMMENCÉ  EN   HIVER  IV   2006     16  fois  50 x 75 cm"
+    "series": ""
   }
 ]

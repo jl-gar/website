@@ -1,8 +1,6 @@
 [
   {
-    "id": "rosesjaunes1",
     "file": "media/rosesjaunes1.jpg",
-    "original_name": "Rosesjaunes1.jpg",
     "title": "ROSES JAUNES #1",
     "date": "2000",
     "dimensions_physical": "180 × 180 cm",
@@ -10,16 +8,10 @@
       "width": 600,
       "height": 600
     },
-    "source_pages": [
-      "ROSESJAUNES1.html"
-    ],
-    "order": 1,
-    "notes": "ROSES JAUNES #1     \n2000         180 x 180 cm"
+    "series": ""
   },
   {
-    "id": "rj2rj1",
     "file": "media/rj2rj1.jpg",
-    "original_name": "RJ2RJ1.jpg",
     "title": "RJ #2 RJ #1",
     "date": "2000",
     "dimensions_physical": "40 × 40 cm",
@@ -27,16 +19,10 @@
       "width": 709,
       "height": 300
     },
-    "source_pages": [
-      "RJ2RJ1.html"
-    ],
-    "order": 1,
-    "notes": "RJ  #2    RJ  #1     \n2000         40 x 40 cm"
+    "series": ""
   },
   {
-    "id": "rosesjaunes2",
     "file": "media/rosesjaunes2.jpg",
-    "original_name": "Rosesjaunes2.jpg",
     "title": "ROSES JAUNES #2",
     "date": "2000",
     "dimensions_physical": "180 × 180 cm",
@@ -44,16 +30,10 @@
       "width": 600,
       "height": 600
     },
-    "source_pages": [
-      "ROSESJAUNES2.html"
-    ],
-    "order": 1,
-    "notes": "ROSES JAUNES #2     \n2000         180 x 180 cm"
+    "series": ""
   },
   {
-    "id": "rj3rj8",
     "file": "media/rj3rj8.jpg",
-    "original_name": "RJ3RJ8.jpg",
     "title": "RJ #3 RJ #8",
     "date": "2000",
     "dimensions_physical": "40 × 40 cm",
@@ -61,16 +41,10 @@
       "width": 709,
       "height": 300
     },
-    "source_pages": [
-      "RJ3RJ8.html"
-    ],
-    "order": 1,
-    "notes": "RJ  #3    RJ  #8     \n2000         40 x 40 cm"
+    "series": ""
   },
   {
-    "id": "rosesjaunes3",
     "file": "media/rosesjaunes3.jpg",
-    "original_name": "Rosesjaunes3.jpg",
     "title": "ROSES JAUNES #3",
     "date": "2000",
     "dimensions_physical": "180 × 180 cm",
@@ -78,16 +52,10 @@
       "width": 600,
       "height": 600
     },
-    "source_pages": [
-      "ROSESJAUNES3.html"
-    ],
-    "order": 1,
-    "notes": "ROSES JAUNES #3     \n2000         180 x 180 cm"
+    "series": ""
   },
   {
-    "id": "rj4rj7",
     "file": "media/rj4rj7.jpg",
-    "original_name": "RJ4RJ7.jpg",
     "title": "RJ #4 RJ #7",
     "date": "2000",
     "dimensions_physical": "40 × 40 cm",
@@ -95,16 +63,10 @@
       "width": 709,
       "height": 300
     },
-    "source_pages": [
-      "RJ4RJ7.html"
-    ],
-    "order": 1,
-    "notes": "RJ  #4    RJ  #7     \n2000         40 x 40 cm"
+    "series": ""
   },
   {
-    "id": "rosesjaunes4",
     "file": "media/rosesjaunes4.jpg",
-    "original_name": "Rosesjaunes4.jpg",
     "title": "ROSES JAUNES #4",
     "date": "2000",
     "dimensions_physical": "180 × 180 cm",
@@ -112,16 +74,10 @@
       "width": 600,
       "height": 600
     },
-    "source_pages": [
-      "ROSESJAUNES4.html"
-    ],
-    "order": 1,
-    "notes": "ROSES JAUNES #4     \n2000         180 x 180 cm"
+    "series": ""
   },
   {
-    "id": "rj6rj5",
     "file": "media/rj6rj5.jpg",
-    "original_name": "RJ6RJ5.jpg",
     "title": "RJ #6 RJ #5",
     "date": "2000",
     "dimensions_physical": "40 × 40 cm",
@@ -129,10 +85,6 @@
       "width": 709,
       "height": 300
     },
-    "source_pages": [
-      "RJ6RJ5.html"
-    ],
-    "order": 1,
-    "notes": "RJ  #6    RJ  #5     \n2000         40 x 40 cm"
+    "series": ""
   }
 ]

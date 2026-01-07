@@ -1,8 +1,6 @@
 [
   {
-    "id": "edition-citations-2006",
     "file": "media/edition-citations-2006.jpg",
-    "original_name": "EDITION-CITATIONS-2006.jpg",
     "title": "Citations",
     "date": "2006",
     "dimensions_physical": "15 × 20",
@@ -10,16 +8,10 @@
       "width": 500,
       "height": 400
     },
-    "source_pages": [
-      "EDITIONCITATIONS2006.html"
-    ],
-    "order": 1,
-    "notes": "Citations 2006        15 x 20,5 cm\n            132 pages, 33 photographies\ncouleur, 33 citations            Livre inédit"
+    "series": ""
   },
   {
-    "id": "edition-dans-ici-2020",
     "file": "media/edition-dans-ici-2020.jpg",
-    "original_name": "EDITION-DANS-ICI-2020.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -27,16 +19,10 @@
       "width": 548,
       "height": 540
     },
-    "source_pages": [
-      "EDITION-DANS-ICI-2020.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "edition-ete-2004",
     "file": "media/edition-ete-2004.jpg",
-    "original_name": "EDITION-ETE-2004.jpg",
     "title": "été",
     "date": "2004",
     "dimensions_physical": "7 × 42 cm",
@@ -44,16 +30,10 @@
       "width": 700,
       "height": 529
     },
-    "source_pages": [
-      "EDITIONETE2004.html"
-    ],
-    "order": 1,
-    "notes": "été 2004        29,7 x 42 cm  \n          67 pages, 57 photographies\ncouleur           \nLivre inédit"
+    "series": ""
   },
   {
-    "id": "edition-ici-2020",
     "file": "media/edition-ici-2020.jpg",
-    "original_name": "EDITION-ICI-2020.jpg",
     "title": null,
     "date": "2020",
     "dimensions_physical": "32 × 32 cm",
@@ -61,17 +41,10 @@
       "width": 548,
       "height": 540
     },
-    "source_pages": [
-      "EDITION-ICI-2020.html",
-      "ENTRETIEN-JEAN-LOUIS-GARNELL-ERICK-GUDIMARD-CPM-2019.html"
-    ],
-    "order": 1,
-    "notes": "2020       \n32 x 32 cm          130 pages, 60\nphotographies couleur      \nLivre inédit"
+    "series": ""
   },
   {
-    "id": "edition-jlg-2002-2009",
     "file": "media/edition-jlg-2002-2009.jpg",
-    "original_name": "EDITION-JLG-2002-2009.jpg",
     "title": "Jean-Louis Garnell",
     "date": "1999",
     "dimensions_physical": "5 × 29 cm",
@@ -79,16 +52,10 @@
       "width": 600,
       "height": 477
     },
-    "source_pages": [
-      "EDITIONJLG19992009.html"
-    ],
-    "order": 1,
-    "notes": "Jean-Louis Garnell   1999-2009 26,5 x\n29 cm            120 pages, 166\nphotographies         &nb"
+    "series": ""
   },
   {
-    "id": "edition-lg-2012",
     "file": "media/edition-lg-2012.jpg",
-    "original_name": "EDITION-LG-2012.jpg",
     "title": "LG",
     "date": "2012",
     "dimensions_physical": "21 × 15 cm",
@@ -96,16 +63,10 @@
       "width": 378,
       "height": 500
     },
-    "source_pages": [
-      "EDITIONLG2012.html"
-    ],
-    "order": 1,
-    "notes": "LG \n2012 21 x 15 cm  \n         36 pages, 17 photographies couleur             Livre inédit"
+    "series": ""
   },
   {
-    "id": "edition-sold-2014",
     "file": "media/edition-sold-2014.jpg",
-    "original_name": "EDITION-SOLD-2014.jpg",
     "title": "SOLD",
     "date": "2014",
     "dimensions_physical": "8 × 33 cm",
@@ -113,10 +74,6 @@
       "width": 548,
       "height": 500
     },
-    "source_pages": [
-      "EDITIONSOLD2014.html"
-    ],
-    "order": 1,
-    "notes": "SOLD 2014          \n29,8 x 33 cm            92 pages, 73\nphotographies couleur             Livre inédit"
+    "series": ""
   }
 ]

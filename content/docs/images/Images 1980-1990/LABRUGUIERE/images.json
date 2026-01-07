@@ -1,87 +1,57 @@
 [
-    {
-        "id": "labruguiere1",
-        "file": "media/LABRUGUIERE1.jpg",
-        "original_name": "LABRUGUIERE1.jpg",
-        "title": "1% pour le collège de Labruguière #1",
-        "date": "1988  ",
-        "dimensions_physical": "40 x 50 cm, 96 x 120 cm",
-        "dimensions_pixels": {
-            "width": 600,
-            "height": 473
-        },
-        "source_pages": [
-            "LABRUGUIERE1.html"
-        ],
-        "order": 1,
-        "notes": "1% pour le collège de Labruguière  #1      1988        2 x ( 120 x 150 ) cm"
+  {
+    "file": "media/LABRUGUIERE1.jpg",
+    "title": "1% pour le collège de Labruguière #1",
+    "date": "1988  ",
+    "dimensions_physical": "40 x 50 cm, 96 x 120 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 473
     },
-    {
-        "id": "labruguiere2",
-        "file": "media/LABRUGUIERE2.jpg",
-        "original_name": "LABRUGUIERE2.jpg",
-        "title": "1% pour le collège de Labruguière #2",
-        "date": "1988  ",
-        "dimensions_physical": "2 x ( 120 x 150 ) cm",
-        "dimensions_pixels": {
-            "width": 600,
-            "height": 473
-        },
-        "source_pages": [
-            "LABRUGUIERE2.html"
-        ],
-        "order": 2,
-        "notes": "1% pour le collège de Labruguière  #2      1988        2 x ( 120 x 150 ) cm"
+    "series": ""
+  },
+  {
+    "file": "media/LABRUGUIERE2.jpg",
+    "title": "1% pour le collège de Labruguière #2",
+    "date": "1988  ",
+    "dimensions_physical": "2 x ( 120 x 150 ) cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 473
     },
-    {
-        "id": "labruguiere3",
-        "file": "media/LABRUGUIERE3.jpg",
-        "original_name": "LABRUGUIERE3.jpg",
-        "title": "1% pour le collège de Labruguière #3",
-        "date": "1988  ",
-        "dimensions_physical": "2 x ( 120 x 96 ) cm",
-        "dimensions_pixels": {
-            "width": 600,
-            "height": 473
-        },
-        "source_pages": [
-            "LABRUGUIERE3.html"
-        ],
-        "order": 3,
-        "notes": "1% pour le collège de Labruguière  #3      1988        2 x ( 120 x 150 ) cm"
+    "series": ""
+  },
+  {
+    "file": "media/LABRUGUIERE3.jpg",
+    "title": "1% pour le collège de Labruguière #3",
+    "date": "1988  ",
+    "dimensions_physical": "2 x ( 120 x 96 ) cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 473
     },
-    {
-        "id": "labruguiere4",
-        "file": "media/LABRUGUIERE4.jpg",
-        "original_name": "LABRUGUIERE4.jpg",
-        "title": "1% pour le collège de Labruguière #4",
-        "date": "1988  ",
-        "dimensions_physical": "7 x ( 30 x 40 cm), 120 x 150 cm",
-        "dimensions_pixels": {
-            "width": 600,
-            "height": 473
-        },
-        "source_pages": [
-            "LABRUGUIERE4.html"
-        ],
-        "order": 4,
-        "notes": "1% pour le collège de Labruguière  #4      1988        2 x ( 120 x 150 ) cm"
+    "series": ""
+  },
+  {
+    "file": "media/LABRUGUIERE4.jpg",
+    "title": "1% pour le collège de Labruguière #4",
+    "date": "1988  ",
+    "dimensions_physical": "7 x ( 30 x 40 cm), 120 x 150 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 473
     },
-    {
-        "id": "labruguiere5",
-        "file": "media/LABRUGUIERE5.jpg",
-        "original_name": "LABRUGUIERE5.jpg",
-        "title": "1% pour le collège de Labruguière #5",
-        "date": "1988  ",
-        "dimensions_physical": " 4 x ( 40 x 50 cm), 100 x 120 cm",
-        "dimensions_pixels": {
-            "width": 600,
-            "height": 473
-        },
-        "source_pages": [
-            "LABRUGUIERE5.html"
-        ],
-        "order": 5,
-        "notes": "1% pour le collège de Labruguière  #5      1988        2 x ( 120 x 150 ) cm"
-    }
+    "series": ""
+  },
+  {
+    "file": "media/LABRUGUIERE5.jpg",
+    "title": "1% pour le collège de Labruguière #5",
+    "date": "1988  ",
+    "dimensions_physical": " 4 x ( 40 x 50 cm), 100 x 120 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 473
+    },
+    "series": ""
+  }
 ]

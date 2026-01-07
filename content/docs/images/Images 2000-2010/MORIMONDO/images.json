@@ -1,8 +1,6 @@
 [
   {
-    "id": "morimondo2007",
     "file": "media/morimondo2007.jpg",
-    "original_name": "Morimondo2007.jpg",
     "title": "MORIMONDO",
     "date": "2007",
     "dimensions_physical": "90 × 60",
@@ -10,16 +8,10 @@
       "width": 1000,
       "height": 200
     },
-    "source_pages": [
-      "MORIMONDO2007.html"
-    ],
-    "order": 1,
-    "notes": "MORIMONDO    2007    \n              7 x ( 90 x 60  ou 60 x 90 ) cm"
+    "series": ""
   },
   {
-    "id": "morimondo20071",
     "file": "media/morimondo20071.jpg",
-    "original_name": "Morimondo20071.jpg",
     "title": "MORIMONDO",
     "date": "2007",
     "dimensions_physical": "90 × 60 cm",
@@ -27,16 +19,10 @@
       "width": 335,
       "height": 500
     },
-    "source_pages": [
-      "MORIMONDO20071.html"
-    ],
-    "order": 1,
-    "notes": "MORIMONDO    2007    \n              Détail    90 x 60  cm"
+    "series": ""
   },
   {
-    "id": "morimondo20072",
     "file": "media/morimondo20072.jpg",
-    "original_name": "Morimondo20072.jpg",
     "title": "MORIMONDO",
     "date": "2007",
     "dimensions_physical": "60 × 90 cm",
@@ -44,16 +30,10 @@
       "width": 500,
       "height": 335
     },
-    "source_pages": [
-      "MORIMONDO20072.html"
-    ],
-    "order": 1,
-    "notes": "MORIMONDO    2007    \n              Détail    60 x 90  cm"
+    "series": ""
   },
   {
-    "id": "morimondo20073",
     "file": "media/morimondo20073.jpg",
-    "original_name": "Morimondo20073.jpg",
     "title": "MORIMONDO",
     "date": "2007",
     "dimensions_physical": "90 × 60 cm",
@@ -61,16 +41,10 @@
       "width": 335,
       "height": 500
     },
-    "source_pages": [
-      "MORIMONDO20073.html"
-    ],
-    "order": 1,
-    "notes": "MORIMONDO    2007    \n              Détail    90 x 60  cm"
+    "series": ""
   },
   {
-    "id": "morimondo20074",
     "file": "media/morimondo20074.jpg",
-    "original_name": "Morimondo20074.jpg",
     "title": "MORIMONDO",
     "date": "2007",
     "dimensions_physical": "60 × 90 cm",
@@ -78,16 +52,10 @@
       "width": 500,
       "height": 335
     },
-    "source_pages": [
-      "MORIMONDO20074.html"
-    ],
-    "order": 1,
-    "notes": "MORIMONDO    2007    \n              Détail    60 x 90  cm"
+    "series": ""
   },
   {
-    "id": "morimondo20075",
     "file": "media/morimondo20075.jpg",
-    "original_name": "Morimondo20075.jpg",
     "title": "MORIMONDO",
     "date": "2007",
     "dimensions_physical": "90 × 60 cm",
@@ -95,16 +63,10 @@
       "width": 335,
       "height": 500
     },
-    "source_pages": [
-      "MORIMONDO20075.html"
-    ],
-    "order": 1,
-    "notes": "MORIMONDO    2007    \n              Détail    90 x 60  cm"
+    "series": ""
   },
   {
-    "id": "morimondo20076",
     "file": "media/morimondo20076.jpg",
-    "original_name": "Morimondo20076.jpg",
     "title": "MORIMONDO",
     "date": "2007",
     "dimensions_physical": "60 × 90 cm",
@@ -112,16 +74,10 @@
       "width": 500,
       "height": 335
     },
-    "source_pages": [
-      "MORIMONDO20076.html"
-    ],
-    "order": 1,
-    "notes": "MORIMONDO    2007    \n              Détail    60 x 90  cm"
+    "series": ""
   },
   {
-    "id": "morimondo20077",
     "file": "media/morimondo20077.jpg",
-    "original_name": "Morimondo20077.jpg",
     "title": "MORIMONDO",
     "date": "2007",
     "dimensions_physical": "60 × 90 cm",
@@ -129,10 +85,6 @@
       "width": 500,
       "height": 335
     },
-    "source_pages": [
-      "MORIMONDO20077.html"
-    ],
-    "order": 1,
-    "notes": "MORIMONDO    2007    \n              Détail    60 x 90  cm"
+    "series": ""
   }
 ]

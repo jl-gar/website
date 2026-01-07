@@ -1,8 +1,6 @@
 [
   {
-    "id": "001",
     "file": "media/001.jpg",
-    "original_name": "001.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -10,16 +8,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-1.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "002",
     "file": "media/002.jpg",
-    "original_name": "002.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -27,16 +19,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-2.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "003",
     "file": "media/003.jpg",
-    "original_name": "003.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -44,16 +30,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-3.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "004",
     "file": "media/004.jpg",
-    "original_name": "004.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -61,16 +41,10 @@
       "width": 892,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-4.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "005",
     "file": "media/005.jpg",
-    "original_name": "005.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -78,16 +52,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-5.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "006",
     "file": "media/006.jpg",
-    "original_name": "006.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -95,16 +63,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-6.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "007",
     "file": "media/007.jpg",
-    "original_name": "007.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -112,16 +74,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-7.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "008",
     "file": "media/008.jpg",
-    "original_name": "008.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -129,16 +85,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-8.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "009",
     "file": "media/009.jpg",
-    "original_name": "009.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -146,16 +96,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-9.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "010",
     "file": "media/010.jpg",
-    "original_name": "010.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -163,16 +107,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-10.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "011",
     "file": "media/011.jpg",
-    "original_name": "011.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -180,16 +118,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-11.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "013",
     "file": "media/013.jpg",
-    "original_name": "013.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -197,16 +129,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-13.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "014",
     "file": "media/014.jpg",
-    "original_name": "014.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -214,16 +140,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-14.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "015",
     "file": "media/015.jpg",
-    "original_name": "015.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -231,16 +151,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-15.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "016",
     "file": "media/016.jpg",
-    "original_name": "016.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -248,16 +162,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-16.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "017",
     "file": "media/017.jpg",
-    "original_name": "017.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -265,16 +173,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-17.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "018",
     "file": "media/018.jpg",
-    "original_name": "018.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -282,16 +184,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-18.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "019",
     "file": "media/019.jpg",
-    "original_name": "019.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -299,16 +195,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-19.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "020",
     "file": "media/020.jpg",
-    "original_name": "020.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -316,16 +206,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-20.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "021",
     "file": "media/021.jpg",
-    "original_name": "021.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -333,16 +217,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-21.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "022",
     "file": "media/022.jpg",
-    "original_name": "022.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -350,16 +228,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-22.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "023",
     "file": "media/023.jpg",
-    "original_name": "023.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -367,16 +239,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-23.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "024",
     "file": "media/024.jpg",
-    "original_name": "024.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -384,16 +250,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-24.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "025",
     "file": "media/025.jpg",
-    "original_name": "025.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -401,16 +261,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-25.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "026",
     "file": "media/026.jpg",
-    "original_name": "026.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -418,16 +272,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-26.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "027",
     "file": "media/027.jpg",
-    "original_name": "027.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -435,16 +283,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-27.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "028",
     "file": "media/028.jpg",
-    "original_name": "028.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -452,16 +294,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-28.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "029",
     "file": "media/029.jpg",
-    "original_name": "029.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -469,16 +305,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-29.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "030",
     "file": "media/030.jpg",
-    "original_name": "030.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -486,16 +316,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-30.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "031",
     "file": "media/031.jpg",
-    "original_name": "031.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -503,16 +327,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-31.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "032",
     "file": "media/032.jpg",
-    "original_name": "032.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -520,16 +338,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-32.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "033",
     "file": "media/033.jpg",
-    "original_name": "033.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -537,16 +349,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-33.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "034",
     "file": "media/034.jpg",
-    "original_name": "034.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -554,16 +360,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-34.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "035",
     "file": "media/035.jpg",
-    "original_name": "035.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -571,16 +371,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-35.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "036",
     "file": "media/036.jpg",
-    "original_name": "036.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -588,16 +382,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-36.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "037",
     "file": "media/037.jpg",
-    "original_name": "037.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -605,16 +393,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-37.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "038",
     "file": "media/038.jpg",
-    "original_name": "038.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -622,16 +404,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-38.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "039",
     "file": "media/039.jpg",
-    "original_name": "039.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -639,16 +415,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-39.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "040",
     "file": "media/040.jpg",
-    "original_name": "040.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -656,16 +426,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-40.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "041",
     "file": "media/041.jpg",
-    "original_name": "041.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -673,16 +437,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-41.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "042",
     "file": "media/042.jpg",
-    "original_name": "042.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -690,16 +448,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-42.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "043",
     "file": "media/043.jpg",
-    "original_name": "043.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -707,16 +459,10 @@
       "width": 870,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-43.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "044",
     "file": "media/044.jpg",
-    "original_name": "044.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -724,16 +470,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-44.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "045",
     "file": "media/045.jpg",
-    "original_name": "045.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -741,16 +481,10 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-45.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   },
   {
-    "id": "046",
     "file": "media/046.jpg",
-    "original_name": "046.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -758,10 +492,6 @@
       "width": 900,
       "height": 600
     },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-PICTURES-FOR-A-WHILE-CPM-2019-46.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   }
 ]

@@ -1,8 +1,6 @@
 [
   {
-    "id": "enlevements1",
     "file": "media/enlevements1.jpg",
-    "original_name": "Enlevements1.jpg",
     "title": "ENLEVEMENTS #1",
     "date": "2008",
     "dimensions_physical": "100 × 67 cm",
@@ -10,16 +8,10 @@
       "width": 380,
       "height": 568
     },
-    "source_pages": [
-      "ENLEVEMENTS1.html"
-    ],
-    "order": 1,
-    "notes": "ENLEVEMENTS  #1      2008         100 x 67 cm"
+    "series": ""
   },
   {
-    "id": "enlevements2",
     "file": "media/enlevements2.jpg",
-    "original_name": "Enlevements2.jpg",
     "title": "ENLEVEMENTS #2",
     "date": "2008",
     "dimensions_physical": "100 × 67 cm",
@@ -27,10 +19,6 @@
       "width": 380,
       "height": 568
     },
-    "source_pages": [
-      "ENLEVEMENTS2.html"
-    ],
-    "order": 1,
-    "notes": "ENLEVEMENTS  #2      2008         100 x 67 cm"
+    "series": ""
   }
 ]

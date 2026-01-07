@@ -1,8 +1,6 @@
 [
   {
-    "id": "galeriep1",
     "file": "/media/GALERIEP1.jpg",
-    "original_name": "GALERIEP1.jpg",
     "title": "NBC #3",
     "date": null,
     "dimensions_physical": null,
@@ -10,16 +8,10 @@
       "width": 500,
       "height": 309
     },
-    "source_pages": [
-      "PEYROULET2.html"
-    ],
-    "order": 1,
-    "notes": "NBC #3"
+    "series": ""
   },
   {
-    "id": "galeriep3",
     "file": "/media/GALERIEP3.jpg",
-    "original_name": "GALERIEP3.jpg",
     "title": "Découpes #1 &nbsp",
     "date": null,
     "dimensions_physical": null,
@@ -27,16 +19,10 @@
       "width": 500,
       "height": 333
     },
-    "source_pages": [
-      "PEYROULET22.html"
-    ],
-    "order": 1,
-    "notes": "Découpes  #1    \n    &nbsp"
+    "series": ""
   },
   {
-    "id": "galeriep5",
     "file": "/media/GALERIEP5.jpg",
-    "original_name": "GALERIEP5.jpg",
     "title": "&nbs",
     "date": null,
     "dimensions_physical": null,
@@ -44,16 +30,10 @@
       "width": 500,
       "height": 334
     },
-    "source_pages": [
-      "PEYROULET25.html"
-    ],
-    "order": 1,
-    "notes": "&nbs"
+    "series": ""
   },
   {
-    "id": "galeriep6",
     "file": "/media/GALERIEP6.jpg",
-    "original_name": "GALERIEP6.jpg",
     "title": "&nbs",
     "date": null,
     "dimensions_physical": null,
@@ -61,16 +41,10 @@
       "width": 500,
       "height": 304
     },
-    "source_pages": [
-      "PEYROULET26.html"
-    ],
-    "order": 1,
-    "notes": "&nbs"
+    "series": ""
   },
   {
-    "id": "galeriep7",
     "file": "/media/GALERIEP7.jpg",
-    "original_name": "GALERIEP7.jpg",
     "title": "&nbs",
     "date": null,
     "dimensions_physical": null,
@@ -78,16 +52,10 @@
       "width": 500,
       "height": 359
     },
-    "source_pages": [
-      "PEYROULET27.html"
-    ],
-    "order": 1,
-    "notes": "&nbs"
+    "series": ""
   },
   {
-    "id": "galeriep4",
     "file": "/media/GalerieP4.jpg",
-    "original_name": "GalerieP4.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -95,10 +63,6 @@
       "width": 600,
       "height": 399
     },
-    "source_pages": [
-      "PEYROULET24.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   }
 ]

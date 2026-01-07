@@ -1,8 +1,6 @@
 [
   {
-    "id": "paysages-1-2018",
     "file": "media/paysages-1-2018.jpg",
-    "original_name": "PAYSAGES-1-2018.jpg",
     "title": "PAYSAGES #1",
     "date": "2018",
     "dimensions_physical": "67 × 100 cm",
@@ -10,16 +8,10 @@
       "width": 700,
       "height": 467
     },
-    "source_pages": [
-      "PAYSAGES-1-2018.html"
-    ],
-    "order": 1,
-    "notes": "PAYSAGES  #1      2018         67 x 100 cm"
+    "series": ""
   },
   {
-    "id": "paysages-2-2018",
     "file": "media/paysages-2-2018.jpg",
-    "original_name": "PAYSAGES-2-2018.jpg",
     "title": "PAYSAGES #2",
     "date": "2018",
     "dimensions_physical": "100 × 67 cm",
@@ -27,16 +19,10 @@
       "width": 467,
       "height": 700
     },
-    "source_pages": [
-      "PAYSAGES-2-2018.html"
-    ],
-    "order": 1,
-    "notes": "PAYSAGES  #2      2018         100 x 67 cm"
+    "series": ""
   },
   {
-    "id": "paysages-3-2019",
     "file": "media/paysages-3-2019.jpg",
-    "original_name": "PAYSAGES-3-2019.jpg",
     "title": "PAYSAGES #3",
     "date": "2019",
     "dimensions_physical": "67 × 100 cm",
@@ -44,16 +30,10 @@
       "width": 700,
       "height": 467
     },
-    "source_pages": [
-      "PAYSAGES-3-2019.html"
-    ],
-    "order": 1,
-    "notes": "PAYSAGES  #3      2019         67 x 100 cm"
+    "series": ""
   },
   {
-    "id": "paysages-4-2019",
     "file": "media/paysages-4-2019.jpg",
-    "original_name": "PAYSAGES-4-2019.jpg",
     "title": "PAYSAGES #4",
     "date": "2019",
     "dimensions_physical": "67 × 100 cm",
@@ -61,10 +41,6 @@
       "width": 700,
       "height": 467
     },
-    "source_pages": [
-      "PAYSAGES-4-2019.html"
-    ],
-    "order": 1,
-    "notes": "PAYSAGES  #4      2019         67 x 100 cm"
+    "series": ""
   }
 ]

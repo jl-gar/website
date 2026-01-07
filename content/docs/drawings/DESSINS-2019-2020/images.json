@@ -1,104 +1,68 @@
 [
   {
-    "id": "3-01-2020-i",
     "file": "media/3-01-2020-i.jpg",
-    "original_name": "3-01-2020-I.jpg",
-    "title": "03 - 01 -",
+    "title": "03 - 01",
     "date": "2020",
     "dimensions_physical": "50 × 70 cm",
     "dimensions_pixels": {
       "width": 700,
       "height": 496
     },
-    "source_pages": [
-      "DESSINS-2019-2020-4.html"
-    ],
-    "order": 1,
-    "notes": "03 - 01 - 2020 - I                50 x 70 cm"
+    "series": ""
   },
   {
-    "id": "4-11-2019-i",
     "file": "media/4-11-2019-i.jpg",
-    "original_name": "4-11-2019-I.jpg",
-    "title": "04 - 11 -",
+    "title": "04 - 11",
     "date": "2019",
     "dimensions_physical": "50 × 70 cm",
     "dimensions_pixels": {
       "width": 700,
       "height": 497
     },
-    "source_pages": [
-      "DESSINS-2019-2020-1.html"
-    ],
-    "order": 1,
-    "notes": "04 - 11 - 2019 - I                50 x 70 cm"
+    "series": ""
   },
   {
-    "id": "6-12-2019-i",
     "file": "media/6-12-2019-i.jpg",
-    "original_name": "6-12-2019-I.jpg",
-    "title": "06 - 12 -",
+    "title": "06 - 12",
     "date": "2019",
     "dimensions_physical": "50 × 70 cm",
     "dimensions_pixels": {
       "width": 700,
       "height": 498
     },
-    "source_pages": [
-      "DESSINS-2019-2020-2.html"
-    ],
-    "order": 1,
-    "notes": "06 - 12 - 2019 - I                50 x 70 cm"
+    "series": ""
   },
   {
-    "id": "11-12-2019-i",
     "file": "media/11-12-2019-i.jpg",
-    "original_name": "11-12-2019-I.jpg",
-    "title": "11 - 12 -",
+    "title": "11 - 12",
     "date": "2019",
     "dimensions_physical": "50 × 70 cm",
     "dimensions_pixels": {
       "width": 700,
       "height": 498
     },
-    "source_pages": [
-      "DESSINS-2019-2020-3.html"
-    ],
-    "order": 1,
-    "notes": "11 - 12 - 2019 - I                50 x 70 cm"
+    "series": ""
   },
   {
-    "id": "18-01-2020-i",
     "file": "media/18-01-2020-i.jpg",
-    "original_name": "18-01-2020-I.jpg",
-    "title": "18 - 01 -",
+    "title": "18 - 01",
     "date": "2020",
     "dimensions_physical": "50 × 70 cm",
     "dimensions_pixels": {
       "width": 700,
       "height": 499
     },
-    "source_pages": [
-      "DESSINS-2019-2020-5.html"
-    ],
-    "order": 1,
-    "notes": "18 - 01 - 2020 - I                50 x 70 cm"
+    "series": ""
   },
   {
-    "id": "19-07-2020",
     "file": "media/19-07-2020.jpg",
-    "original_name": "19-07-2020.jpg",
-    "title": "17 - 09 -",
+    "title": "17 - 09",
     "date": "2020",
     "dimensions_physical": "50 × 70 cm",
     "dimensions_pixels": {
       "width": 700,
       "height": 498
     },
-    "source_pages": [
-      "DESSINS-2019-2020-6.html"
-    ],
-    "order": 1,
-    "notes": "17 - 09 - 2020                50 x 70 cm"
+    "series": ""
   }
 ]

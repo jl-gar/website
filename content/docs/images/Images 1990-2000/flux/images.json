@@ -1,8 +1,6 @@
 [
   {
-    "id": "1995-12-28",
     "file": "media/1995-12-28.jpg",
-    "original_name": "1995-12-28.jpg",
     "title": "1995-12-28",
     "date": "1995",
     "dimensions_physical": "60 × 80 cm",
@@ -10,16 +8,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1995-12-28.html"
-    ],
-    "order": 1,
-    "notes": "28-12-1995               60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1996-02-09",
     "file": "media/1996-02-09.jpg",
-    "original_name": "1996-02-09.jpg",
     "title": "1996-02-09",
     "date": "1996",
     "dimensions_physical": "60 × 80 cm",
@@ -27,16 +19,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1996-02-09.html"
-    ],
-    "order": 1,
-    "notes": "09-02-1996               60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1996-02-20",
     "file": "media/1996-02-20.jpg",
-    "original_name": "1996-02-20.jpg",
     "title": "1996-02-20",
     "date": "1996",
     "dimensions_physical": "60 × 80 cm",
@@ -44,16 +30,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1996-02-20.html"
-    ],
-    "order": 1,
-    "notes": "20-02-1996               60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1996-04-16",
     "file": "media/1996-04-16.jpg",
-    "original_name": "1996-04-16.jpg",
     "title": "1996-04-16",
     "date": "1996",
     "dimensions_physical": "60 × 80 cm",
@@ -61,16 +41,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1996-04-16.html"
-    ],
-    "order": 1,
-    "notes": "16-04-1996               60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1996-05-23",
     "file": "media/1996-05-23.jpg",
-    "original_name": "1996-05-23.jpg",
     "title": "1996-05-23",
     "date": "1996",
     "dimensions_physical": "60 × 80 cm",
@@ -78,16 +52,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1996-05-23.html"
-    ],
-    "order": 1,
-    "notes": "23-05-1996               60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1996-06-14",
     "file": "media/1996-06-14.jpg",
-    "original_name": "1996-06-14.jpg",
     "title": "1996-06-14",
     "date": "1996",
     "dimensions_physical": "60 × 80 cm",
@@ -95,16 +63,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1996-06-14.html"
-    ],
-    "order": 1,
-    "notes": "14-06-1996               60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1996-08-26",
     "file": "media/1996-08-26.jpg",
-    "original_name": "1996-08-26.jpg",
     "title": "1996-08-26",
     "date": "1996",
     "dimensions_physical": "60 × 80 cm",
@@ -112,16 +74,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1996-08-26.html"
-    ],
-    "order": 1,
-    "notes": "26-08-1996               60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1996-09-28",
     "file": "media/1996-09-28.jpg",
-    "original_name": "1996-09-28.jpg",
     "title": "1996-09-28",
     "date": "1996",
     "dimensions_physical": "60 × 80 cm",
@@ -129,16 +85,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1996-09-28.html"
-    ],
-    "order": 1,
-    "notes": "28-09-1996               60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1996-10-14",
     "file": "media/1996-10-14.jpg",
-    "original_name": "1996-10-14.jpg",
     "title": "1996-10-14",
     "date": "1996",
     "dimensions_physical": "60 × 80 cm",
@@ -146,16 +96,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1996-10-14.html"
-    ],
-    "order": 1,
-    "notes": "14-10-1996               60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1996-10-24",
     "file": "media/1996-10-24.jpg",
-    "original_name": "1996-10-24.jpg",
     "title": "1996-10-24",
     "date": "1996",
     "dimensions_physical": "60 × 80 cm",
@@ -163,16 +107,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1996-10-24.html"
-    ],
-    "order": 1,
-    "notes": "24-10-1996               60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1996-11-07",
     "file": "media/1996-11-07.jpg",
-    "original_name": "1996-11-07.jpg",
     "title": "1996-11-07",
     "date": "1996",
     "dimensions_physical": "60 × 80 cm",
@@ -180,16 +118,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1996-11-07.html"
-    ],
-    "order": 1,
-    "notes": "07-11-1996               60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1996-12-06",
     "file": "media/1996-12-06.jpg",
-    "original_name": "1996-12-06.jpg",
     "title": "1996-12-06",
     "date": "1996",
     "dimensions_physical": "60 × 80 cm",
@@ -197,16 +129,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1996-12-06.html"
-    ],
-    "order": 1,
-    "notes": "06-12-1996               60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1997-02-04-ii",
     "file": "media/1997-02-04-ii.jpg",
-    "original_name": "1997-02-04-II.jpg",
     "title": "1997-02-04",
     "date": "1997",
     "dimensions_physical": "60 × 80 cm",
@@ -214,16 +140,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1997-02-04-II.html"
-    ],
-    "order": 1,
-    "notes": "04-02-1997-II               60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1997-02-04",
     "file": "media/1997-02-04.jpg",
-    "original_name": "1997-02-04.jpg",
     "title": "1997-02-04",
     "date": "1997",
     "dimensions_physical": "60 × 80 cm",
@@ -231,16 +151,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1997-02-04.html"
-    ],
-    "order": 1,
-    "notes": "04-02-1997-I               60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1997-03-24",
     "file": "media/1997-03-24.jpg",
-    "original_name": "1997-03-24.jpg",
     "title": "1997-03-24",
     "date": "1997",
     "dimensions_physical": "60 × 80 cm",
@@ -248,16 +162,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1997-03-24.html"
-    ],
-    "order": 1,
-    "notes": "24-03-1997              60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1997-06-06",
     "file": "media/1997-06-06.jpg",
-    "original_name": "1997-06-06.jpg",
     "title": "1997-06-06",
     "date": "1997",
     "dimensions_physical": "60 × 80 cm",
@@ -265,16 +173,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1997-06-06.html"
-    ],
-    "order": 1,
-    "notes": "06-06-1997              60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1997-08-12",
     "file": "media/1997-08-12.jpg",
-    "original_name": "1997-08-12.jpg",
     "title": "1997-08-12",
     "date": "1997",
     "dimensions_physical": "60 × 80 cm",
@@ -282,16 +184,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1997-08-12.html"
-    ],
-    "order": 1,
-    "notes": "12-08-1997              60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1997-10-08",
     "file": "media/1997-10-08.jpg",
-    "original_name": "1997-10-08.jpg",
     "title": "1997-10-08",
     "date": "1997",
     "dimensions_physical": "60 × 80 cm",
@@ -299,16 +195,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1997-10-08.html"
-    ],
-    "order": 1,
-    "notes": "08-10-1997              60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1997-11-18",
     "file": "media/1997-11-18.jpg",
-    "original_name": "1997-11-18.jpg",
     "title": "1997-11-18",
     "date": "1997",
     "dimensions_physical": "60 × 80 cm",
@@ -316,16 +206,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1997-11-18.html"
-    ],
-    "order": 1,
-    "notes": "18-11-1997              60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1998-01-06",
     "file": "media/1998-01-06.jpg",
-    "original_name": "1998-01-06.jpg",
     "title": "1998-01-06",
     "date": "1998",
     "dimensions_physical": "60 × 80 cm",
@@ -333,16 +217,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1998-01-06.html"
-    ],
-    "order": 1,
-    "notes": "06-01-1998              60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1998-03-19-ii",
     "file": "media/1998-03-19-ii.jpg",
-    "original_name": "1998-03-19-II.jpg",
     "title": "1998-03-19",
     "date": "1998",
     "dimensions_physical": "60 × 80 cm",
@@ -350,16 +228,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1998-03-19-II.html"
-    ],
-    "order": 1,
-    "notes": "19-03-1998-II              60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1998-03-19",
     "file": "media/1998-03-19.jpg",
-    "original_name": "1998-03-19.jpg",
     "title": "1998-03-19",
     "date": "1998",
     "dimensions_physical": "60 × 80 cm",
@@ -367,16 +239,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1998-03-19-I.html"
-    ],
-    "order": 1,
-    "notes": "19-03-1998-I              60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1998-06-04",
     "file": "media/1998-06-04.jpg",
-    "original_name": "1998-06-04.jpg",
     "title": "1998-06-04",
     "date": "1998",
     "dimensions_physical": "60 × 80 cm",
@@ -384,16 +250,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1998-06-04.html"
-    ],
-    "order": 1,
-    "notes": "04-06-1998             60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1999-01-30",
     "file": "media/1999-01-30.jpg",
-    "original_name": "1999-01-30.jpg",
     "title": "1999-01-30",
     "date": "1999",
     "dimensions_physical": "60 × 80 cm",
@@ -401,16 +261,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1999-01-30.html"
-    ],
-    "order": 1,
-    "notes": "30-01-1999             60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1999-09-14",
     "file": "media/1999-09-14.jpg",
-    "original_name": "1999-09-14.jpg",
     "title": "1999-09-14",
     "date": "1999",
     "dimensions_physical": "60 × 80 cm",
@@ -418,16 +272,10 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1999-09-14.html"
-    ],
-    "order": 1,
-    "notes": "14-09-1999             60 x 80 cm"
+    "series": ""
   },
   {
-    "id": "1999-09-15",
     "file": "media/1999-09-15.jpg",
-    "original_name": "1999-09-15.jpg",
     "title": "1999-09-15",
     "date": "1999",
     "dimensions_physical": "60 × 80 cm",
@@ -435,10 +283,6 @@
       "width": 800,
       "height": 600
     },
-    "source_pages": [
-      "1999-09-15.html"
-    ],
-    "order": 1,
-    "notes": "15-09-1999             60 x 80 cm"
+    "series": ""
   }
 ]

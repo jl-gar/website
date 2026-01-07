@@ -1,8 +1,6 @@
 [
   {
-    "id": "notes-2011",
     "file": "media/notes-2011.jpg",
-    "original_name": "NOTES-2011.jpg",
     "title": "NOTES",
     "date": "2011",
     "dimensions_physical": "36 × 54 cm",
@@ -10,10 +8,6 @@
       "width": 2000,
       "height": 712
     },
-    "source_pages": [
-      "NOTES2011.html"
-    ],
-    "order": 1,
-    "notes": "NOTES\n2011              60\nphotographies       36 x 54cm \nou   54 x 36 cm"
+    "series": ""
   }
 ]

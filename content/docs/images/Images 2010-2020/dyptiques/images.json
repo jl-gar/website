@@ -1,8 +1,6 @@
 [
   {
-    "id": "diptyque-1-1972-2012",
     "file": "media/diptyque-1-1972-2012.jpg",
-    "original_name": "DIPTYQUE-1-1972-2012.jpg",
     "title": "DIPTYQUE I",
     "date": "1972",
     "dimensions_physical": null,
@@ -10,16 +8,10 @@
       "width": 800,
       "height": 366
     },
-    "source_pages": [
-      "DIPTYQUE-1-1972-2012.html"
-    ],
-    "order": 1,
-    "notes": "DIPTYQUE  I   1972 - 2012"
+    "series": ""
   },
   {
-    "id": "diptyque-2-1973-2012",
     "file": "media/diptyque-2-1973-2012.jpg",
-    "original_name": "DIPTYQUE-2-1973-2012.jpg",
     "title": "DIPTYQUE II",
     "date": "1973",
     "dimensions_physical": null,
@@ -27,16 +19,10 @@
       "width": 800,
       "height": 355
     },
-    "source_pages": [
-      "DIPTYQUE-2-1973-2012.html"
-    ],
-    "order": 1,
-    "notes": "DIPTYQUE  II   1973 - 2012"
+    "series": ""
   },
   {
-    "id": "diptyque-3-1973-2012",
     "file": "media/diptyque-3-1973-2012.jpg",
-    "original_name": "DIPTYQUE-3-1973-2012.jpg",
     "title": "DIPTYQUE III",
     "date": "1973",
     "dimensions_physical": null,
@@ -44,16 +30,10 @@
       "width": 800,
       "height": 358
     },
-    "source_pages": [
-      "DIPTYQUE-3-1973-2012.html"
-    ],
-    "order": 1,
-    "notes": "DIPTYQUE  III   1973 - 2012"
+    "series": ""
   },
   {
-    "id": "diptyque-4-1973-2012",
     "file": "media/diptyque-4-1973-2012.jpg",
-    "original_name": "DIPTYQUE-4-1973-2012.jpg",
     "title": "DIPTYQUE IV",
     "date": "1973",
     "dimensions_physical": null,
@@ -61,16 +41,10 @@
       "width": 800,
       "height": 358
     },
-    "source_pages": [
-      "DIPTYQUE-4-1973-2012.html"
-    ],
-    "order": 1,
-    "notes": "DIPTYQUE  IV   1973 - 2012"
+    "series": ""
   },
   {
-    "id": "diptyque-5-1974-2012",
     "file": "media/diptyque-5-1974-2012.jpg",
-    "original_name": "DIPTYQUE-5-1974-2012.jpg",
     "title": "DIPTYQUE V",
     "date": "1974",
     "dimensions_physical": null,
@@ -78,16 +52,10 @@
       "width": 800,
       "height": 360
     },
-    "source_pages": [
-      "DIPTYQUE-5-1974-2012.html"
-    ],
-    "order": 1,
-    "notes": "DIPTYQUE  V   1974 - 2012"
+    "series": ""
   },
   {
-    "id": "diptyque-6-1975-2012",
     "file": "media/diptyque-6-1975-2012.jpg",
-    "original_name": "DIPTYQUE-6-1975-2012.jpg",
     "title": "DIPTYQUE VI",
     "date": "1975",
     "dimensions_physical": null,
@@ -95,10 +63,6 @@
       "width": 800,
       "height": 358
     },
-    "source_pages": [
-      "DIPTYQUE-6-1974-2012.html"
-    ],
-    "order": 1,
-    "notes": "DIPTYQUE  VI   1975 - 2012"
+    "series": ""
   }
 ]

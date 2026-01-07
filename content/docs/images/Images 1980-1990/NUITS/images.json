@@ -1,8 +1,6 @@
 [
   {
-    "id": "nuits1",
     "file": "media/nuits1.jpg",
-    "original_name": "NUITS1.jpg",
     "title": "NUITS #1",
     "date": "1989",
     "dimensions_physical": "96 × 120 cm",
@@ -10,16 +8,10 @@
       "width": 600,
       "height": 473
     },
-    "source_pages": [
-      "NUITS1.html"
-    ],
-    "order": 1,
-    "notes": "NUITS  #1      1989         96 x 120 cm"
+    "series": ""
   },
   {
-    "id": "nuits2",
     "file": "media/nuits2.jpg",
-    "original_name": "NUITS2.jpg",
     "title": "NUITS #2",
     "date": "1989",
     "dimensions_physical": "96 × 120 cm",
@@ -27,16 +19,10 @@
       "width": 600,
       "height": 476
     },
-    "source_pages": [
-      "NUITS2.html"
-    ],
-    "order": 1,
-    "notes": "NUITS  #2      1989         96 x 120 cm"
+    "series": ""
   },
   {
-    "id": "nuit3",
     "file": "media/nuit3.jpg",
-    "original_name": "NUIT3.jpg",
     "title": "NUITS #3",
     "date": "1989",
     "dimensions_physical": "96 × 120 cm",
@@ -44,16 +30,10 @@
       "width": 600,
       "height": 475
     },
-    "source_pages": [
-      "NUITS3.html"
-    ],
-    "order": 1,
-    "notes": "NUITS  #3      1989         96 x 120 cm"
+    "series": ""
   },
   {
-    "id": "nuit4",
     "file": "media/nuit4.jpg",
-    "original_name": "NUIT4.jpg",
     "title": "NUITS #4",
     "date": "1989",
     "dimensions_physical": "96 × 120 cm",
@@ -61,16 +41,10 @@
       "width": 600,
       "height": 474
     },
-    "source_pages": [
-      "NUITS4.html"
-    ],
-    "order": 1,
-    "notes": "NUITS  #4      1989         96 x 120 cm"
+    "series": ""
   },
   {
-    "id": "nuits5",
     "file": "media/nuits5.jpg",
-    "original_name": "NUITS5.jpg",
     "title": "NUITS #5",
     "date": "1989",
     "dimensions_physical": "96 × 120 cm",
@@ -78,16 +52,10 @@
       "width": 600,
       "height": 473
     },
-    "source_pages": [
-      "NUITS5.html"
-    ],
-    "order": 1,
-    "notes": "NUITS  #5      1989         96 x 120 cm"
+    "series": ""
   },
   {
-    "id": "nuits6",
     "file": "media/nuits6.jpg",
-    "original_name": "NUITS6.jpg",
     "title": "NUITS #6",
     "date": "1989",
     "dimensions_physical": "96 × 120 cm",
@@ -95,10 +63,6 @@
       "width": 600,
       "height": 466
     },
-    "source_pages": [
-      "NUITS6.html"
-    ],
-    "order": 1,
-    "notes": "NUITS  #6      1989         96 x 120 cm"
+    "series": ""
   }
 ]

@@ -1,8 +1,6 @@
 [
   {
-    "id": "expobnf1",
     "file": "media/expobnf1.jpg",
-    "original_name": "EXPOBNF1.jpg",
     "title": "Objets dans l'objectif",
     "date": null,
     "dimensions_physical": null,
@@ -10,16 +8,10 @@
       "width": 600,
       "height": 399
     },
-    "source_pages": [
-      "EXPOBNF1.html"
-    ],
-    "order": 1,
-    "notes": "Objets dans l'objectif"
+    "series": ""
   },
   {
-    "id": "expobnf2",
     "file": "media/expobnf2.jpg",
-    "original_name": "EXPOBNF2.jpg",
     "title": "Objets dans l'objectif",
     "date": null,
     "dimensions_physical": null,
@@ -27,16 +19,10 @@
       "width": 600,
       "height": 399
     },
-    "source_pages": [
-      "EXPOBNF2.html"
-    ],
-    "order": 1,
-    "notes": "Objets dans l'objectif"
+    "series": ""
   },
   {
-    "id": "expobnf3",
     "file": "media/expobnf3.jpg",
-    "original_name": "EXPOBNF3.jpg",
     "title": "Objets dans l'objectif",
     "date": null,
     "dimensions_physical": null,
@@ -44,16 +30,10 @@
       "width": 600,
       "height": 351
     },
-    "source_pages": [
-      "EXPOBNF3.html"
-    ],
-    "order": 1,
-    "notes": "Objets dans l'objectif"
+    "series": ""
   },
   {
-    "id": "expobnf5",
     "file": "media/expobnf5.jpg",
-    "original_name": "EXPOBNF5.jpg",
     "title": "Objets dans l'objectif",
     "date": null,
     "dimensions_physical": null,
@@ -61,16 +41,10 @@
       "width": 600,
       "height": 238
     },
-    "source_pages": [
-      "EXPOBNF5.html"
-    ],
-    "order": 1,
-    "notes": "Objets dans l'objectif"
+    "series": ""
   },
   {
-    "id": "expobnf6",
     "file": "media/expobnf6.jpg",
-    "original_name": "EXPOBNF6.jpg",
     "title": "Objets dans l'objectif",
     "date": null,
     "dimensions_physical": null,
@@ -78,16 +52,10 @@
       "width": 600,
       "height": 399
     },
-    "source_pages": [
-      "EXPOBNF6.html"
-    ],
-    "order": 1,
-    "notes": "Objets dans l'objectif"
+    "series": ""
   },
   {
-    "id": "expobnf7",
     "file": "media/expobnf7.jpg",
-    "original_name": "EXPOBNF7.jpg",
     "title": "Objets dans l'objectif",
     "date": null,
     "dimensions_physical": null,
@@ -95,16 +63,10 @@
       "width": 600,
       "height": 212
     },
-    "source_pages": [
-      "EXPOBNF7.html"
-    ],
-    "order": 1,
-    "notes": "Objets dans l'objectif"
+    "series": ""
   },
   {
-    "id": "expobnf8",
     "file": "media/expobnf8.jpg",
-    "original_name": "EXPOBNF8.jpg",
     "title": "Objets dans l'objectif",
     "date": null,
     "dimensions_physical": null,
@@ -112,10 +74,6 @@
       "width": 600,
       "height": 182
     },
-    "source_pages": [
-      "EXPOBNF8.html"
-    ],
-    "order": 1,
-    "notes": "Objets dans l'objectif"
+    "series": ""
   }
 ]

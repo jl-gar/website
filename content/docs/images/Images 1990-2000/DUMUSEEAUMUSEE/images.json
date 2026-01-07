@@ -1,8 +1,6 @@
 [
   {
-    "id": "portrait",
     "file": "media/portrait.jpg",
-    "original_name": "Portrait.jpg",
     "title": "Portrait",
     "series": "Du musée au musée",
     "date": "1993",
@@ -10,17 +8,10 @@
     "dimensions_pixels": {
       "width": 1000,
       "height": 400
-    },
-    "source_pages": [
-      "DUMUSEEAUMUSEE6.html"
-    ],
-    "order": 1,
-    "notes": "DU\nMUSÉE AU MUSÉE      1993    \n                \n     PORTRAIT       60 x 50  cm"
+    }
   },
   {
-    "id": "forsythias1",
     "file": "media/forsythias1.jpg",
-    "original_name": "Forsythias1.jpg",
     "title": "Forsythias",
     "series": "Du musée au musée",
     "date": "1993",
@@ -28,17 +19,10 @@
     "dimensions_pixels": {
       "width": 1000,
       "height": 400
-    },
-    "source_pages": [
-      "DUMUSEEAUMUSEE5.html"
-    ],
-    "order": 1,
-    "notes": "DU\nMUSÉE AU MUSÉE      1993    \n                \n     FORSYTHIAS        5x ( 150 x\n120 )  cm"
+    }
   },
   {
-    "id": "triptyque1",
     "file": "media/triptyque1.jpg",
-    "original_name": "Triptyque1.jpg",
     "title": "Triptyque #1",
     "series": "Du musée au musée",
     "date": "1993",
@@ -46,17 +30,10 @@
     "dimensions_pixels": {
       "width": 1000,
       "height": 400
-    },
-    "source_pages": [
-      "DUMUSEEAUMUSEE1.html"
-    ],
-    "order": 1,
-    "notes": "DU\nMUSÉE AU MUSÉE      1993    \n                \n     TRIPTYQUE #1         3 x ( 96 x\n120 )  cm"
+    }
   },
   {
-    "id": "triptyque2",
     "file": "media/triptyque2.jpg",
-    "original_name": "Triptyque2.jpg",
     "title": "Triptyque #2",
     "series": "Du musée au musée",
     "date": "1993",
@@ -64,17 +41,10 @@
     "dimensions_pixels": {
       "width": 1000,
       "height": 400
-    },
-    "source_pages": [
-      "DUMUSEEAUMUSEE2.html"
-    ],
-    "order": 1,
-    "notes": "DU\nMUSÉE AU MUSÉE      1993    \n                \n     TRIPTYQUE #2         3 x ( 96 x\n120 )  cm"
+    }
   },
   {
-    "id": "triptyque3",
     "file": "media/triptyque3.jpg",
-    "original_name": "Triptyque3.jpg",
     "title": "Triptyque #3",
     "series": "Du musée au musée",
     "date": "1993",
@@ -82,17 +52,10 @@
     "dimensions_pixels": {
       "width": 1000,
       "height": 400
-    },
-    "source_pages": [
-      "DUMUSEEAUMUSEE3.html"
-    ],
-    "order": 1,
-    "notes": "DU\nMUSÉE AU MUSÉE      1993    \n                \n     TRIPTYQUE #3         3 x ( 96 x\n120 )  cm"
+    }
   },
   {
-    "id": "triptyque4",
     "file": "media/triptyque4.jpg",
-    "original_name": "Triptyque4.jpg",
     "title": "Triptyque #4",
     "series": "Du musée au musée",
     "date": "1993",
@@ -100,11 +63,6 @@
     "dimensions_pixels": {
       "width": 1000,
       "height": 400
-    },
-    "source_pages": [
-      "DUMUSEEAUMUSEE4.html"
-    ],
-    "order": 1,
-    "notes": "DU\nMUSÉE AU MUSÉE      1993    \n                \n     TRIPTYQUE #4         3 x ( 96 x\n120 )  cm"
+    }
   }
 ]

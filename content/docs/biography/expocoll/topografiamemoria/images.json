@@ -1,8 +1,6 @@
 [
   {
-    "id": "topografiamemoria",
     "file": "media/topografiamemoria.jpg",
-    "original_name": "TopografiaMemoria.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -10,10 +8,6 @@
       "width": 406,
       "height": 600
     },
-    "source_pages": [
-      "EXPOIBILBAO.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   }
 ]

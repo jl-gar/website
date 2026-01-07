@@ -1,8 +1,6 @@
 [
   {
-    "id": "phenomenes1",
     "file": "media/phenomenes1.jpg",
-    "original_name": "PHENOMENES1.jpg",
     "title": "Phénomènes #1",
     "date": "1998",
     "dimensions_physical": "84 × 104",
@@ -10,16 +8,10 @@
       "width": 800,
       "height": 354
     },
-    "source_pages": [
-      "PHENOMENES2.html"
-    ],
-    "order": 1,
-    "notes": "Phénomènes  #1     \n1998        2 x ( 84 x 104 ) cm"
+    "series": ""
   },
   {
-    "id": "phenomenes2",
     "file": "media/phenomenes2.jpg",
-    "original_name": "PHENOMENES2.jpg",
     "title": "Phénomènes #2",
     "date": "1998",
     "dimensions_physical": "84 × 104",
@@ -27,16 +19,10 @@
       "width": 800,
       "height": 354
     },
-    "source_pages": [
-      "PHENOMENES1.html"
-    ],
-    "order": 1,
-    "notes": "Phénomènes  #2     \n1998        2 x ( 84 x 104 ) cm"
+    "series": ""
   },
   {
-    "id": "phenomenes5",
     "file": "media/phenomenes5.jpg",
-    "original_name": "PHENOMENES5.jpg",
     "title": "Phénomènes #5",
     "date": "1998",
     "dimensions_physical": "84 × 104",
@@ -44,16 +30,10 @@
       "width": 800,
       "height": 354
     },
-    "source_pages": [
-      "PHENOMENES3.html"
-    ],
-    "order": 1,
-    "notes": "Phénomènes  #5     \n1998        2 x ( 84 x 104 ) cm"
+    "series": ""
   },
   {
-    "id": "phenomenes9",
     "file": "media/phenomenes9.jpg",
-    "original_name": "PHENOMENES9.jpg",
     "title": "Phénomènes #5",
     "date": "1998",
     "dimensions_physical": "104 × 84",
@@ -61,16 +41,10 @@
       "width": 600,
       "height": 386
     },
-    "source_pages": [
-      "PHENOMENES5.html"
-    ],
-    "order": 1,
-    "notes": "Phénomènes  #5    \n1998        2 x ( 104 x 84 ) cm"
+    "series": ""
   },
   {
-    "id": "phenomenes6",
     "file": "media/phenomenes6.jpg",
-    "original_name": "PHENOMENES6.jpg",
     "title": "Phénomènes #6",
     "date": "1998",
     "dimensions_physical": "84 × 104",
@@ -78,16 +52,10 @@
       "width": 800,
       "height": 338
     },
-    "source_pages": [
-      "PHENOMENES7.html"
-    ],
-    "order": 1,
-    "notes": "Phénomènes  #6    \n1998        2 x ( 84 x 104 ) cm"
+    "series": ""
   },
   {
-    "id": "phenomenes10",
     "file": "media/phenomenes10.jpg",
-    "original_name": "PHENOMENES10.jpg",
     "title": "Phénomènes #10",
     "date": "1998",
     "dimensions_physical": "84 × 104",
@@ -95,16 +63,10 @@
       "width": 800,
       "height": 338
     },
-    "source_pages": [
-      "PHENOMENES6.html"
-    ],
-    "order": 1,
-    "notes": "Phénomènes  #10    \n1998        2 x ( 84 x 104 ) cm"
+    "series": ""
   },
   {
-    "id": "phenomenes12",
     "file": "media/phenomenes12.jpg",
-    "original_name": "PHENOMENES12.jpg",
     "title": "Phénomènes #12",
     "date": "1998",
     "dimensions_physical": "104 × 84",
@@ -112,10 +74,6 @@
       "width": 600,
       "height": 386
     },
-    "source_pages": [
-      "PHENOMENES4.html"
-    ],
-    "order": 1,
-    "notes": "Phénomènes  #12     \n1998        2 x ( 104 x 84 ) cm"
+    "series": ""
   }
 ]

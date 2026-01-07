@@ -1,8 +1,6 @@
 [
   {
-    "id": "lectoure",
     "file": "/media/LECTOURE.jpg",
-    "original_name": "LECTOURE.jpg",
     "title": "&nbs",
     "date": null,
     "dimensions_physical": null,
@@ -10,16 +8,10 @@
       "width": 600,
       "height": 399
     },
-    "source_pages": [
-      "LECTOUREA.html"
-    ],
-    "order": 1,
-    "notes": "&nbs"
+    "series": ""
   },
   {
-    "id": "lectoure1",
     "file": "/media/LECTOURE1.jpg",
-    "original_name": "LECTOURE1.jpg",
     "title": "Découpes #4",
     "date": null,
     "dimensions_physical": null,
@@ -27,16 +19,10 @@
       "width": 600,
       "height": 399
     },
-    "source_pages": [
-      "LECTOURE1.html"
-    ],
-    "order": 1,
-    "notes": "Découpes  #4"
+    "series": ""
   },
   {
-    "id": "lectoure2",
     "file": "/media/LECTOURE2.jpg",
-    "original_name": "LECTOURE2.jpg",
     "title": "Par le noir détail",
     "date": null,
     "dimensions_physical": null,
@@ -44,16 +30,10 @@
       "width": 600,
       "height": 399
     },
-    "source_pages": [
-      "LECTOURE2.html"
-    ],
-    "order": 1,
-    "notes": "Par le noir         détail"
+    "series": ""
   },
   {
-    "id": "lectoure3",
     "file": "/media/LECTOURE3.jpg",
-    "original_name": "LECTOURE3.jpg",
     "title": "Par le noir détail",
     "date": null,
     "dimensions_physical": null,
@@ -61,16 +41,10 @@
       "width": 600,
       "height": 399
     },
-    "source_pages": [
-      "LECTOURE3.html"
-    ],
-    "order": 1,
-    "notes": "Par le noir         détail"
+    "series": ""
   },
   {
-    "id": "lectoure4",
     "file": "/media/LECTOURE4.jpg",
-    "original_name": "LECTOURE4.jpg",
     "title": "Par le noir détail",
     "date": null,
     "dimensions_physical": null,
@@ -78,16 +52,10 @@
       "width": 600,
       "height": 399
     },
-    "source_pages": [
-      "LECTOURE4.html"
-    ],
-    "order": 1,
-    "notes": "Par le noir         détail"
+    "series": ""
   },
   {
-    "id": "lectoure5",
     "file": "/media/LECTOURE5.jpg",
-    "original_name": "LECTOURE5.jpg",
     "title": "Par le noir détail",
     "date": null,
     "dimensions_physical": null,
@@ -95,16 +63,10 @@
       "width": 600,
       "height": 399
     },
-    "source_pages": [
-      "LECTOURE5.html"
-    ],
-    "order": 1,
-    "notes": "Par le noir         détail"
+    "series": ""
   },
   {
-    "id": "lectoure6",
     "file": "/media/LECTOURE6.jpg",
-    "original_name": "LECTOURE6.jpg",
     "title": "Par le noir détail",
     "date": null,
     "dimensions_physical": null,
@@ -112,16 +74,10 @@
       "width": 600,
       "height": 399
     },
-    "source_pages": [
-      "LECTOURE6.html"
-    ],
-    "order": 1,
-    "notes": "Par le noir         détail"
+    "series": ""
   },
   {
-    "id": "lectoure7",
     "file": "/media/LECTOURE7.jpg",
-    "original_name": "LECTOURE7.jpg",
     "title": "Par le noir détail",
     "date": null,
     "dimensions_physical": null,
@@ -129,16 +85,10 @@
       "width": 600,
       "height": 399
     },
-    "source_pages": [
-      "LECTOURE7.html"
-    ],
-    "order": 1,
-    "notes": "Par le noir         détail"
+    "series": ""
   },
   {
-    "id": "lectoure8",
     "file": "/media/LECTOURE8.jpg",
-    "original_name": "LECTOURE8.jpg",
     "title": "Par le noir détail",
     "date": null,
     "dimensions_physical": null,
@@ -146,16 +96,10 @@
       "width": 600,
       "height": 399
     },
-    "source_pages": [
-      "LECTOURE8.html"
-    ],
-    "order": 1,
-    "notes": "Par le noir         détail"
+    "series": ""
   },
   {
-    "id": "lectoure9",
     "file": "/media/LECTOURE9.jpg",
-    "original_name": "LECTOURE9.jpg",
     "title": "Par le noir détail",
     "date": null,
     "dimensions_physical": null,
@@ -163,16 +107,10 @@
       "width": 600,
       "height": 401
     },
-    "source_pages": [
-      "LECTOURE9.html"
-    ],
-    "order": 1,
-    "notes": "Par le noir         détail"
+    "series": ""
   },
   {
-    "id": "lectoure10",
     "file": "/media/LECTOURE10.jpg",
-    "original_name": "LECTOURE10.jpg",
     "title": "Par le noir détail",
     "date": null,
     "dimensions_physical": null,
@@ -180,16 +118,10 @@
       "width": 600,
       "height": 399
     },
-    "source_pages": [
-      "LECTOURE10.html"
-    ],
-    "order": 1,
-    "notes": "Par le noir         détail"
+    "series": ""
   },
   {
-    "id": "lectoure11",
     "file": "/media/LECTOURE11.jpg",
-    "original_name": "LECTOURE11.jpg",
     "title": "Par le noir détail",
     "date": null,
     "dimensions_physical": null,
@@ -197,16 +129,10 @@
       "width": 600,
       "height": 403
     },
-    "source_pages": [
-      "LECTOURE11.html"
-    ],
-    "order": 1,
-    "notes": "Par le noir         détail"
+    "series": ""
   },
   {
-    "id": "lectoure12",
     "file": "/media/LECTOURE12.jpg",
-    "original_name": "LECTOURE12.jpg",
     "title": "Par le noir détail",
     "date": null,
     "dimensions_physical": null,
@@ -214,10 +140,6 @@
       "width": 600,
       "height": 399
     },
-    "source_pages": [
-      "LECTOURE12.html"
-    ],
-    "order": 1,
-    "notes": "Par le noir         détail"
+    "series": ""
   }
 ]

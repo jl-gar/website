@@ -1,104 +1,68 @@
 [
-    {
-        "id": "jolimont1",
-        "file": "media/jolimont1.jpg",
-        "original_name": "jolimont1.jpg",
-        "title": "Station de métro Jolimont Toulouse Détail #1  ",
-        "date": "1993",
-        "dimensions_physical": "",
-        "dimensions_pixels": {
-            "width": 1000,
-            "height": 256
-        },
-        "source_pages": [
-            "icimeme2.html"
-        ],
-        "order": 1,
-        "notes": "Station de métro Jolimont Toulouse Détail #1  \n1993"
+  {
+    "file": "media/jolimont1.jpg",
+    "title": "Station de métro Jolimont Toulouse Détail #1",
+    "date": "1993",
+    "dimensions_physical": "",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
     },
-    {
-        "id": "jolimont2",
-        "file": "media/jolimont2.jpg",
-        "original_name": "jolimont2.jpg",
-        "title": "Station de métro Jolimont Toulouse Détail #2",
-        "date": "1993",
-        "dimensions_physical": "",
-        "dimensions_pixels": {
-            "width": 1000,
-            "height": 256
-        },
-        "source_pages": [
-            "icimeme2.html"
-        ],
-        "order": 2,
-        "notes": "Station de métro Jolimont Toulouse Détail #2\n1993"
+    "series": ""
+  },
+  {
+    "file": "media/jolimont2.jpg",
+    "title": "Station de métro Jolimont Toulouse Détail #2",
+    "date": "1993",
+    "dimensions_physical": "",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
     },
-    {
-        "id": "jolimont3",
-        "file": "media/jolimont3.jpg",
-        "original_name": "jolimont3.jpg",
-        "title": "Station de métro Jolimont Toulouse Détail #3",
-        "date": "1993",
-        "dimensions_physical": "",
-        "dimensions_pixels": {
-            "width": 1000,
-            "height": 256
-        },
-        "source_pages": [
-            "icimeme2.html"
-        ],
-        "order": 3,
-        "notes": "Station de métro Jolimont Toulouse Détail #3\n1993"
+    "series": ""
+  },
+  {
+    "file": "media/jolimont3.jpg",
+    "title": "Station de métro Jolimont Toulouse Détail #3",
+    "date": "1993",
+    "dimensions_physical": "",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
     },
-    {
-        "id": "jolimont4",
-        "file": "media/jolimont4.jpg",
-        "original_name": "jolimont4.jpg",
-        "title": "Station de métro Jolimont Toulouse Détail #4",
-        "date": "1993",
-        "dimensions_physical": "",
-        "dimensions_pixels": {
-            "width": 1000,
-            "height": 256
-        },
-        "source_pages": [
-            "icimeme2.html"
-        ],
-        "order": 4,
-        "notes": "Station de métro Jolimont Toulouse Détail #4\n1993"
+    "series": ""
+  },
+  {
+    "file": "media/jolimont4.jpg",
+    "title": "Station de métro Jolimont Toulouse Détail #4",
+    "date": "1993",
+    "dimensions_physical": "",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
     },
-    {
-        "id": "jolimont5",
-        "file": "media/jolimont5.jpg",
-        "original_name": "jolimont5.jpg",
-        "title": "Station de métro Jolimont Toulouse Détail #5",
-        "date": "1993",
-        "dimensions_physical": "",
-        "dimensions_pixels": {
-            "width": 1000,
-            "height": 256
-        },
-        "source_pages": [
-            "icimeme2.html"
-        ],
-        "order": 5,
-        "notes": "Station de métro Jolimont Toulouse Détail #5\n1993"
+    "series": ""
+  },
+  {
+    "file": "media/jolimont5.jpg",
+    "title": "Station de métro Jolimont Toulouse Détail #5",
+    "date": "1993",
+    "dimensions_physical": "",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
     },
-    {
-        "id": "jolimont7",
-        "file": "media/jolimont7.jpg",
-        "original_name": "jolimont7.jpg",
-        "title": "Station de métro Jolimont Toulouse Détail #7",
-        "date": "1993",
-        "dimensions_physical": "",
-        "dimensions_pixels": {
-            "width": 1000,
-            "height": 256
-        },
-        "source_pages": [
-            "icimeme2.html"
-        ],
-        "order": 7,
-        "notes": "Station de métro Jolimont Toulouse Détail #7\n1993"
-    }
+    "series": ""
+  },
+  {
+    "file": "media/jolimont7.jpg",
+    "title": "Station de métro Jolimont Toulouse Détail #7",
+    "date": "1993",
+    "dimensions_physical": "",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
+    },
+    "series": ""
+  }
 ]

@@ -1,8 +1,6 @@
 [
   {
-    "id": "iac2014",
     "file": "media/iac2014.jpg",
-    "original_name": "IAC2014.jpg",
     "title": null,
     "date": null,
     "dimensions_physical": null,
@@ -10,10 +8,6 @@
       "width": 600,
       "height": 528
     },
-    "source_pages": [
-      "EXPOIAC.html"
-    ],
-    "order": 1,
-    "notes": null
+    "series": ""
   }
 ]

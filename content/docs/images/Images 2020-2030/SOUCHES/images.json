@@ -1,8 +1,6 @@
 [
   {
-    "id": "souches-2021",
     "file": "media/souches-2021.jpg",
-    "original_name": "SOUCHES-2021.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -10,16 +8,10 @@
       "width": 1000,
       "height": 379
     },
-    "source_pages": [
-      "SOUCHES.html"
-    ],
-    "order": 1,
-    "notes": "SOUCHES    2021               18 x (50x75cm)"
+    "series": ""
   },
   {
-    "id": "souches-2021-1",
     "file": "media/souches-2021-1.jpg",
-    "original_name": "SOUCHES-2021-1.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -27,16 +19,10 @@
       "width": 650,
       "height": 433
     },
-    "source_pages": [
-      "SOUCHES-1.html"
-    ],
-    "order": 2,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #1"
+    "series": ""
   },
   {
-    "id": "souches-2021-2",
     "file": "media/souches-2021-2.jpg",
-    "original_name": "SOUCHES-2021-2.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -44,16 +30,10 @@
       "width": 650,
       "height": 433
     },
-    "source_pages": [
-      "SOUCHES-2.html"
-    ],
-    "order": 1,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #2"
+    "series": ""
   },
   {
-    "id": "souches-2021-3",
     "file": "media/souches-2021-3.jpg",
-    "original_name": "SOUCHES-2021-3.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -61,16 +41,10 @@
       "width": 650,
       "height": 433
     },
-    "source_pages": [
-      "SOUCHES-3.html"
-    ],
-    "order": 1,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #3"
+    "series": ""
   },
   {
-    "id": "souches-2021-4",
     "file": "media/souches-2021-4.jpg",
-    "original_name": "SOUCHES-2021-4.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -78,16 +52,10 @@
       "width": 650,
       "height": 433
     },
-    "source_pages": [
-      "SOUCHES-4.html"
-    ],
-    "order": 1,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #4"
+    "series": ""
   },
   {
-    "id": "souches-2021-5",
     "file": "media/souches-2021-5.jpg",
-    "original_name": "SOUCHES-2021-5.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -95,16 +63,10 @@
       "width": 650,
       "height": 433
     },
-    "source_pages": [
-      "SOUCHES-5.html"
-    ],
-    "order": 1,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #5"
+    "series": ""
   },
   {
-    "id": "souches-2021-6",
     "file": "media/souches-2021-6.jpg",
-    "original_name": "SOUCHES-2021-6.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -112,16 +74,10 @@
       "width": 650,
       "height": 432
     },
-    "source_pages": [
-      "SOUCHES-6.html"
-    ],
-    "order": 1,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #6"
+    "series": ""
   },
   {
-    "id": "souches-2021-7",
     "file": "media/souches-2021-7.jpg",
-    "original_name": "SOUCHES-2021-7.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -129,16 +85,10 @@
       "width": 650,
       "height": 434
     },
-    "source_pages": [
-      "SOUCHES-7.html"
-    ],
-    "order": 1,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #7"
+    "series": ""
   },
   {
-    "id": "souches-2021-8",
     "file": "media/souches-2021-8.jpg",
-    "original_name": "SOUCHES-2021-8.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -146,16 +96,10 @@
       "width": 650,
       "height": 434
     },
-    "source_pages": [
-      "SOUCHES-8.html"
-    ],
-    "order": 1,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #8"
+    "series": ""
   },
   {
-    "id": "souches-2021-9",
     "file": "media/souches-2021-9.jpg",
-    "original_name": "SOUCHES-2021-9.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -163,16 +107,10 @@
       "width": 650,
       "height": 434
     },
-    "source_pages": [
-      "SOUCHES-9.html"
-    ],
-    "order": 1,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #9"
+    "series": ""
   },
   {
-    "id": "souches-2021-10",
     "file": "media/souches-2021-10.jpg",
-    "original_name": "SOUCHES-2021-10.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -180,16 +118,10 @@
       "width": 650,
       "height": 434
     },
-    "source_pages": [
-      "SOUCHES-10.html"
-    ],
-    "order": 1,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #10"
+    "series": ""
   },
   {
-    "id": "souches-2021-11",
     "file": "media/souches-2021-11.jpg",
-    "original_name": "SOUCHES-2021-11.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -197,16 +129,10 @@
       "width": 650,
       "height": 434
     },
-    "source_pages": [
-      "SOUCHES-11.html"
-    ],
-    "order": 1,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #11"
+    "series": ""
   },
   {
-    "id": "souches-2021-12",
     "file": "media/souches-2021-12.jpg",
-    "original_name": "SOUCHES-2021-12.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -214,16 +140,10 @@
       "width": 650,
       "height": 434
     },
-    "source_pages": [
-      "SOUCHES-12.html"
-    ],
-    "order": 1,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #12"
+    "series": ""
   },
   {
-    "id": "souches-2021-13",
     "file": "media/souches-2021-13.jpg",
-    "original_name": "SOUCHES-2021-13.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -231,16 +151,10 @@
       "width": 650,
       "height": 432
     },
-    "source_pages": [
-      "SOUCHES-13.html"
-    ],
-    "order": 1,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #13"
+    "series": ""
   },
   {
-    "id": "souches-2021-14",
     "file": "media/souches-2021-14.jpg",
-    "original_name": "SOUCHES-2021-14.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -248,16 +162,10 @@
       "width": 650,
       "height": 432
     },
-    "source_pages": [
-      "SOUCHES-14.html"
-    ],
-    "order": 1,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #14"
+    "series": ""
   },
   {
-    "id": "souches-2021-15",
     "file": "media/souches-2021-15.jpg",
-    "original_name": "SOUCHES-2021-15.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -265,16 +173,10 @@
       "width": 650,
       "height": 432
     },
-    "source_pages": [
-      "SOUCHES-15.html"
-    ],
-    "order": 1,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #15"
+    "series": ""
   },
   {
-    "id": "souches-2021-16",
     "file": "media/souches-2021-16.jpg",
-    "original_name": "SOUCHES-2021-16.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -282,16 +184,10 @@
       "width": 650,
       "height": 432
     },
-    "source_pages": [
-      "SOUCHES-16.html"
-    ],
-    "order": 1,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #16"
+    "series": ""
   },
   {
-    "id": "souches-2021-17",
     "file": "media/souches-2021-17.jpg",
-    "original_name": "SOUCHES-2021-17.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -299,16 +195,10 @@
       "width": 650,
       "height": 432
     },
-    "source_pages": [
-      "SOUCHES-17.html"
-    ],
-    "order": 2,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #17"
+    "series": ""
   },
   {
-    "id": "souches-2021-18",
     "file": "media/souches-2021-18.jpg",
-    "original_name": "SOUCHES-2021-18.jpg",
     "title": "SOUCHES",
     "date": "2021",
     "dimensions_physical": "50 × 75 cm",
@@ -316,10 +206,6 @@
       "width": 650,
       "height": 432
     },
-    "source_pages": [
-      "SOUCHES-18.html"
-    ],
-    "order": 1,
-    "notes": "SOUCHES\n   2021\n             \n18 x (50x75cm)           \nDétail  #18"
+    "series": ""
   }
 ]

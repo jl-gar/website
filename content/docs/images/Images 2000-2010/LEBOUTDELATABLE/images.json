@@ -1,8 +1,6 @@
 [
   {
-    "id": "leboutdelatable1",
     "file": "media/leboutdelatable1.jpg",
-    "original_name": "LEBOUTDELATABLE1.jpg",
     "title": "LE BOUT DE LA TABLE",
     "date": "1998",
     "dimensions_physical": "32 × 43",
@@ -10,17 +8,10 @@
       "width": 1000,
       "height": 473
     },
-    "source_pages": [
-      "LEBOUT%20DE%20LA%20TABLE1.html",
-      "LEBOUTDELATABLE1.html"
-    ],
-    "order": 1,
-    "notes": "LE BOUT DE LA TABLE      1998-2010          4 x ( 32 x 43 )  cm"
+    "series": ""
   },
   {
-    "id": "leboutdelatable2",
     "file": "media/leboutdelatable2.jpg",
-    "original_name": "LEBOUTDELATABLE2.jpg",
     "title": "LE BOUT DE LA TABLE",
     "date": "1998",
     "dimensions_physical": "36 × 48",
@@ -28,16 +19,10 @@
       "width": 1000,
       "height": 473
     },
-    "source_pages": [
-      "LEBOUTDELATABLE2.html"
-    ],
-    "order": 1,
-    "notes": "LE BOUT DE LA TABLE      1998-2010          8 x ( 36 x 48 )  cm"
+    "series": ""
   },
   {
-    "id": "leboutdelatable3",
     "file": "media/leboutdelatable3.jpg",
-    "original_name": "LEBOUTDELATABLE3.jpg",
     "title": "LE BOUT DE LA TABLE",
     "date": "1998",
     "dimensions_physical": "40 × 60",
@@ -45,16 +30,10 @@
       "width": 1000,
       "height": 473
     },
-    "source_pages": [
-      "LEBOUTDELATABLE3.html"
-    ],
-    "order": 1,
-    "notes": "LE BOUT DE LA TABLE      1998-2010          8 x ( 40 x 60 )  cm"
+    "series": ""
   },
   {
-    "id": "leboutdelatable4",
     "file": "media/leboutdelatable4.jpg",
-    "original_name": "LEBOUTDELATABLE4.jpg",
     "title": "LE BOUT DE LA TABLE",
     "date": "1998",
     "dimensions_physical": "40 × 60",
@@ -62,16 +41,10 @@
       "width": 1000,
       "height": 473
     },
-    "source_pages": [
-      "LEBOUTDELATABLE4.html"
-    ],
-    "order": 1,
-    "notes": "LE BOUT DE LA TABLE      1998-2010          8 x ( 40 x 60 )  cm"
+    "series": ""
   },
   {
-    "id": "leboutdelatable5",
     "file": "media/leboutdelatable5.jpg",
-    "original_name": "LEBOUTDELATABLE5.jpg",
     "title": "LE BOUT DE LA TABLE",
     "date": "1998",
     "dimensions_physical": "40 × 60",
@@ -79,16 +52,10 @@
       "width": 1000,
       "height": 473
     },
-    "source_pages": [
-      "LEBOUTDELATABLE5.html"
-    ],
-    "order": 1,
-    "notes": "LE BOUT DE LA TABLE      1998-2010          8 x ( 40 x 60 )  cm"
+    "series": ""
   },
   {
-    "id": "leboutdelatable6",
     "file": "media/leboutdelatable6.jpg",
-    "original_name": "LEBOUTDELATABLE6.jpg",
     "title": "LE BOUT DE LA TABLE",
     "date": "1998",
     "dimensions_physical": "40 × 60",
@@ -96,16 +63,10 @@
       "width": 1000,
       "height": 473
     },
-    "source_pages": [
-      "LEBOUTDELATABLE6.html"
-    ],
-    "order": 1,
-    "notes": "LE BOUT DE LA TABLE      1998-2010          8 x ( 40 x 60 )  cm"
+    "series": ""
   },
   {
-    "id": "leboutdelatable7",
     "file": "media/leboutdelatable7.jpg",
-    "original_name": "LEBOUTDELATABLE7.jpg",
     "title": "LE BOUT DE LA TABLE",
     "date": "1998",
     "dimensions_physical": "40 × 60",
@@ -113,10 +74,6 @@
       "width": 1000,
       "height": 473
     },
-    "source_pages": [
-      "LEBOUTDELATABLE7.html"
-    ],
-    "order": 1,
-    "notes": "LE BOUT DE LA TABLE      1998-2010          8 x ( 40 x 60 )  cm"
+    "series": ""
   }
 ]
