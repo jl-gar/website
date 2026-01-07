@@ -129,26 +129,6 @@ URLs. */}}
                 left: Math.round(viewportSize.x * paddingPercent),
                 right: Math.round(viewportSize.x * paddingPercent)
             };
-        },
-        // build caption HTML from data attributes on the clicked anchor
-        getCaptionHtml: function(el) {
-            try {
-                if (!el) return '';
-                var title = el.getAttribute('data-pswp-caption-title') || '';
-                var series = el.getAttribute('data-pswp-caption-series') || '';
-                var dims = el.getAttribute('data-pswp-caption-dimensions') || '';
-                var date = el.getAttribute('data-pswp-caption-date') || '';
-                var html = '';
-                if (title) html += '<div class="pswp-caption-title">' + title + '</div>';
-                if (series) html += '<div class="pswp-caption-title pswp-caption-series">' + series + '</div>';
-                if (dims || date) {
-                    html += '<div class="pswp-caption-meta">' + (dims ? dims : '');
-                    if (dims && date) html += ' — ' + date; else if (!dims && date) html += date;
-                    html += '</div>';
-                }
-                console.debug('[JL-Gallery] getCaptionHtml result for', el, html);
-                return html || '';
-            } catch (e) { console.debug('[JL-Gallery] getCaptionHtml error', e); return ''; }
         }
     });
     console.debug('[JL-Gallery] PhotoSwipeLightbox created', typeof lightbox);
@@ -179,12 +159,17 @@ URLs. */}}
                             var series = curr.getAttribute && curr.getAttribute('data-pswp-caption-series') || '';
                             var dims = curr.getAttribute && curr.getAttribute('data-pswp-caption-dimensions') || '';
                             var date = curr.getAttribute && curr.getAttribute('data-pswp-caption-date') || '';
-                            if (series) captionHTML += '<div class="pswp-caption-title pswp-caption-series">' + series + '</div>';
-                            if (title) captionHTML += '<div class="pswp-caption-title">' + title + '</div>';
-                            if (dims || date) {
-                                captionHTML += '<div class="pswp-caption-meta">' + (dims ? dims : '');
-                                if (dims && date) captionHTML += ' — ' + date; else if (!dims && date) captionHTML += date;
+                            // Combine title and date on first line
+                            if (title || date) {
+                                captionHTML += '<div class="pswp-caption-title">';
+                                if (title) captionHTML += title;
+                                if (title && date) captionHTML += ' — ';
+                                if (date) captionHTML += date;
                                 captionHTML += '</div>';
+                            }
+                            if (series) captionHTML += '<div class="pswp-caption-title pswp-caption-series">' + series + '</div>';
+                            if (dims) {
+                                captionHTML += '<div class="pswp-caption-meta">' + dims + '</div>';
                             }
                         }
                     }

@@ -1,90 +1,5 @@
 [
   {
-    "id": "jean-louis-garnell-automne-2020-vues-1",
-    "file": "media/jean-louis-garnell-automne-2020-vues-1.jpg",
-    "original_name": "JEAN-LOUIS-GARNELL-AUTOMNE-2020-VUES-1.jpg",
-    "title": "AUTOMNE",
-    "date": "2020",
-    "dimensions_physical": "67 × 100 cm",
-    "dimensions_pixels": {
-      "width": 700,
-      "height": 467
-    },
-    "source_pages": [
-      "AUTOMNE-2020-VUES-1.html"
-    ],
-    "order": 1,
-    "notes": "AUTOMNE \n2020              VUES NON VUES #1  \n         67 x 100 cm"
-  },
-  {
-    "id": "jean-louis-garnell-automne-2020-vues-2-a",
-    "file": "media/jean-louis-garnell-automne-2020-vues-2-a.jpg",
-    "original_name": "JEAN-LOUIS-GARNELL-AUTOMNE-2020-VUES-2-A.jpg",
-    "title": "AUTOMNE",
-    "date": "2020",
-    "dimensions_physical": "67 × 100 cm",
-    "dimensions_pixels": {
-      "width": 700,
-      "height": 467
-    },
-    "source_pages": [
-      "AUTOMNE-2020-VUES-2A.html"
-    ],
-    "order": 1,
-    "notes": "AUTOMNE \n2020              VUES NON VUES #2-A  \n         67 x 100 cm"
-  },
-  {
-    "id": "jean-louis-garnell-automne-2020-vues-2-b",
-    "file": "media/jean-louis-garnell-automne-2020-vues-2-b.jpg",
-    "original_name": "JEAN-LOUIS-GARNELL-AUTOMNE-2020-VUES-2-B.jpg",
-    "title": "AUTOMNE",
-    "date": "2020",
-    "dimensions_physical": "67 × 100 cm",
-    "dimensions_pixels": {
-      "width": 700,
-      "height": 467
-    },
-    "source_pages": [
-      "AUTOMNE-2020-VUES-2B.html"
-    ],
-    "order": 1,
-    "notes": "AUTOMNE \n2020              VUES NON VUES #2-B  \n         67 x 100 cm"
-  },
-  {
-    "id": "jean-louis-garnell-hiver-2021-vues-1",
-    "file": "media/jean-louis-garnell-hiver-2021-vues-1.jpg",
-    "original_name": "JEAN-LOUIS-GARNELL-HIVER-2021-VUES-1.jpg",
-    "title": "HIVER",
-    "date": "2021",
-    "dimensions_physical": "67 × 100 cm",
-    "dimensions_pixels": {
-      "width": 700,
-      "height": 467
-    },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-HIVER-2021-VUES-1.html"
-    ],
-    "order": 1,
-    "notes": "HIVER \n2021              VUES NON VUES #1  \n         67 x 100 cm"
-  },
-  {
-    "id": "jean-louis-garnell-hiver-2021-vues-2",
-    "file": "media/jean-louis-garnell-hiver-2021-vues-2.jpg",
-    "original_name": "JEAN-LOUIS-GARNELL-HIVER-2021-VUES-2.jpg",
-    "title": "HIVER",
-    "date": "2021",
-    "dimensions_physical": "67 × 100 cm",
-    "dimensions_pixels": {
-      "width": 700,
-      "height": 467
-    },
-    "source_pages": [
-      "JEAN-LOUIS-GARNELL-HIVER-2021-VUES-2.html"
-    ],
-    "order": 1,
-    "notes": "HIVER \n2021              VUES NON VUES #2  \n         67 x 100 cm"
-  },
-  {
     "id": "jean-louis-garnell-printemps-2020-vues-1",
     "file": "media/jean-louis-garnell-printemps-2020-vues-1.jpg",
     "original_name": "JEAN-LOUIS-GARNELL-PRINTEMPS-2020-VUES-1.jpg",
@@ -168,5 +83,90 @@
     ],
     "order": 1,
     "notes": "PRINTEMPS \n2020              VUES NON VUES #5  \n         67 x 100 cm"
+  },
+  {
+    "id": "jean-louis-garnell-automne-2020-vues-1",
+    "file": "media/jean-louis-garnell-automne-2020-vues-1.jpg",
+    "original_name": "JEAN-LOUIS-GARNELL-AUTOMNE-2020-VUES-1.jpg",
+    "title": "AUTOMNE",
+    "date": "2020",
+    "dimensions_physical": "67 × 100 cm",
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 467
+    },
+    "source_pages": [
+      "AUTOMNE-2020-VUES-1.html"
+    ],
+    "order": 1,
+    "notes": "AUTOMNE \n2020              VUES NON VUES #1  \n         67 x 100 cm"
+  },
+  {
+    "id": "jean-louis-garnell-automne-2020-vues-2-a",
+    "file": "media/jean-louis-garnell-automne-2020-vues-2-a.jpg",
+    "original_name": "JEAN-LOUIS-GARNELL-AUTOMNE-2020-VUES-2-A.jpg",
+    "title": "AUTOMNE",
+    "date": "2020",
+    "dimensions_physical": "67 × 100 cm",
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 467
+    },
+    "source_pages": [
+      "AUTOMNE-2020-VUES-2A.html"
+    ],
+    "order": 1,
+    "notes": "AUTOMNE \n2020              VUES NON VUES #2-A  \n         67 x 100 cm"
+  },
+  {
+    "id": "jean-louis-garnell-automne-2020-vues-2-b",
+    "file": "media/jean-louis-garnell-automne-2020-vues-2-b.jpg",
+    "original_name": "JEAN-LOUIS-GARNELL-AUTOMNE-2020-VUES-2-B.jpg",
+    "title": "AUTOMNE",
+    "date": "2020",
+    "dimensions_physical": "67 × 100 cm",
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 467
+    },
+    "source_pages": [
+      "AUTOMNE-2020-VUES-2B.html"
+    ],
+    "order": 1,
+    "notes": "AUTOMNE \n2020              VUES NON VUES #2-B  \n         67 x 100 cm"
+  },
+  {
+    "id": "jean-louis-garnell-hiver-2021-vues-1",
+    "file": "media/jean-louis-garnell-hiver-2021-vues-1.jpg",
+    "original_name": "JEAN-LOUIS-GARNELL-HIVER-2021-VUES-1.jpg",
+    "title": "HIVER",
+    "date": "2021",
+    "dimensions_physical": "67 × 100 cm",
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 467
+    },
+    "source_pages": [
+      "JEAN-LOUIS-GARNELL-HIVER-2021-VUES-1.html"
+    ],
+    "order": 1,
+    "notes": "HIVER \n2021              VUES NON VUES #1  \n         67 x 100 cm"
+  },
+  {
+    "id": "jean-louis-garnell-hiver-2021-vues-2",
+    "file": "media/jean-louis-garnell-hiver-2021-vues-2.jpg",
+    "original_name": "JEAN-LOUIS-GARNELL-HIVER-2021-VUES-2.jpg",
+    "title": "HIVER",
+    "date": "2021",
+    "dimensions_physical": "67 × 100 cm",
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 467
+    },
+    "source_pages": [
+      "JEAN-LOUIS-GARNELL-HIVER-2021-VUES-2.html"
+    ],
+    "order": 1,
+    "notes": "HIVER \n2021              VUES NON VUES #2  \n         67 x 100 cm"
   }
 ]

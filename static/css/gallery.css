@@ -210,6 +210,11 @@
     text-align: center;
 }
 
+/* Hide caption when image is zoomed in */
+.pswp--zoomed-in .pswp__custom-caption {
+    display: none !important;
+}
+
 /* Make PhotoSwipe lightbox background grey */
 .pswp,
 .pswp__bg,
