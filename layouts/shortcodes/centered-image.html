@@ -1,0 +1,22 @@
+{{/* 
+Usage: {{< centered-image src="image.png" alt="Description" width="500px" caption="Photo description" >}}
+Parameters:
+  - src: path to image (relative to static/ or assets/)
+  - alt: alt text for the image
+  - width: optional width (default: 100%)
+  - height: optional height (default: auto)
+  - caption: optional caption text displayed below the image
+*/}}
+
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $width := .Get "width" | default "100%" }}
+{{ $height := .Get "height" | default "auto" }}
+{{ $caption := .Get "caption" | default "" }}
+
+<figure style="text-align:center; margin: 2rem 0;">
+  <img src="{{ $src | relURL }}" alt="{{ $alt }}" style="max-width: {{ $width }}; height: {{ $height }};" />
+  {{ if $caption }}
+  <figcaption style="margin-top: 0.5rem; font-style: italic; color: #666;">{{ $caption }}</figcaption>
+  {{ end }}
+</figure>

@@ -5,5 +5,6 @@ draft = false
 title = "Biographie"
 icon = ""
 toc = true
+description = "CV, expositions, éditions"
 publishdate = "2023-05-03T22:37:22+01:00"
 +++
