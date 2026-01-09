@@ -1,0 +1,94 @@
+{{/* Initialize PhotoSwipe for bibliography links */}}
+<link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
+
+{{ $ver := now.Unix }}
+<link rel="stylesheet" href="{{ printf "%s%s?v=%d" .Site.BaseURL "css/gallery.css" $ver }}">
+
+{{/* Load the captions JSON file */}}
+{{ $captionsRes := .Page.Resources.GetMatch "biblio_captions.json" }}
+{{ $captions := dict }}
+{{ if $captionsRes }}
+    {{ $captions = transform.Unmarshal $captionsRes.Content }}
+{{ end }}
+
+<script type="application/json" id="biblio-captions-data">
+{{ $captions | jsonify | safeJS }}
+</script>
+
+<script type="module" defer>
+    import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5/dist/photoswipe-lightbox.esm.js';
+
+    // Wait for DOM to be ready
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initBiblioPhotoSwipe);
+    } else {
+        initBiblioPhotoSwipe();
+    }
+
+    function initBiblioPhotoSwipe() {
+        const biblioLinks = document.querySelectorAll('a.biblio-pswp-link');
+        console.debug('[Biblio-PhotoSwipe] Found', biblioLinks.length, 'bibliography links');
+
+        if (biblioLinks.length === 0) return;
+
+        // Load the captions data
+        const captionsDataEl = document.getElementById('biblio-captions-data');
+        const captions = captionsDataEl ? JSON.parse(captionsDataEl.textContent) : {};
+        console.debug('[Biblio-PhotoSwipe] Loaded', Object.keys(captions).length, 'captions');
+
+        const lightbox = new PhotoSwipeLightbox({
+            gallery: 'body',
+            children: 'a.biblio-pswp-link',
+            pswpModule: () => import('https://unpkg.com/photoswipe@5/dist/photoswipe.esm.js'),
+            
+            showHideAnimationType: 'fade',
+            // Padding as percentage of viewport
+            paddingFn: (viewportSize) => {
+                const paddingPercent = parseFloat(
+                    getComputedStyle(document.documentElement)
+                        .getPropertyValue('--pswp-padding-percent')
+                ) / 100 || 0.10;
+                return {
+                    top: Math.round(viewportSize.y * paddingPercent),
+                    bottom: Math.round(viewportSize.y * paddingPercent),
+                    left: Math.round(viewportSize.x * paddingPercent),
+                    right: Math.round(viewportSize.x * paddingPercent)
+                };
+            }
+        });
+
+        lightbox.init();
+        lightbox.options.loop = false;
+        console.debug('[Biblio-PhotoSwipe] Initialized');
+
+        // Add custom caption with full entry from JSON
+        lightbox.on('uiRegister', function() {
+            lightbox.pswp.ui.registerElement({
+                name: 'custom-caption',
+                order: 9,
+                isButton: false,
+                appendTo: 'root',
+                html: '<div class="pswp__custom-caption" aria-hidden="false"></div>',
+                onInit: function(el, pswp) {
+                    pswp.on('change', function() {
+                        var curr = pswp.currSlide && pswp.currSlide.data && pswp.currSlide.data.element;
+                        var captionHTML = '';
+                        if (curr) {
+                            // Extract filename from the image src
+                            var src = curr.getAttribute && curr.getAttribute('data-pswp-src') || '';
+                            var filename = src.split('/').pop();
+                            
+                            // Look up the full entry in the captions data
+                            var fullEntry = captions[filename] || '';
+                            
+                            if (fullEntry) {
+                                captionHTML = '<div class="pswp-caption-title">' + fullEntry + '</div>';
+                            }
+                        }
+                        el.innerHTML = captionHTML || '';
+                    });
+                }
+            });
+        });
+    }
+</script>

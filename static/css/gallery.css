@@ -203,7 +203,7 @@
     transform: translateX(-50%);
     bottom: 16px;
     background: #d9d9d9;
-    color: #d9d9d9;
+    color: #333;
     padding: 8px 12px;
     border-radius: 4px;
     max-width: calc(100% - 40px);

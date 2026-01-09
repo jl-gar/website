@@ -1,0 +1,29 @@
+{{/* 
+Usage: {{< biblio-link image="arles-2019.jpg" >}}ARLES 2019, Les Rencontres de la photographie{{< /biblio-link >}}
+Parameters:
+  - image: filename in media/ folder
+  - Inner content: the text to display as link
+*/}}
+
+{{ $image := .Get "image" }}
+{{ $alt := .Get "alt" | default (.Inner | plainify) }}
+{{ $text := .Inner | markdownify }}
+
+{{ if $image }}
+  {{ $res := .Page.Resources.GetMatch (printf "media/%s" $image) }}
+  {{ if $res }}
+    {{/* Get image dimensions for PhotoSwipe */}}
+    {{ $w := $res.Width }}
+    {{ $h := $res.Height }}
+    <a href="{{ $res.RelPermalink }}" 
+       class="biblio-pswp-link" 
+       data-pswp-src="{{ $res.RelPermalink }}" 
+       data-pswp-width="{{ $w }}" 
+       data-pswp-height="{{ $h }}"
+       data-pswp-alt="{{ $alt }}">{{ $text | safeHTML }}</a>
+  {{ else }}
+    {{ $text | safeHTML }}
+  {{ end }}
+{{ else }}
+  {{ $text | safeHTML }}
+{{ end }}
