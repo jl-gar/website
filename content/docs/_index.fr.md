@@ -11,4 +11,4 @@ publishdate = "2023-05-03T22:37:22+01:00"
 tags = []
 +++
 
-{{< centered-image src="image.png" alt="Jean Louis Garnell" caption="Miroir brisé 2025" height="300px" >}}
+{{< centered-image src="image.png" alt="Jean Louis Garnell" caption="Sreet Brokenmirror Selfportrait #17 - 2023" height="500px" >}}
