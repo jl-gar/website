@@ -36,6 +36,9 @@ searchSectionsIndex = "ALL"
 [params.landingpage]
 enabled = false
 
+[params.footer]
+copyright = '© Jean-louis GARNELL / ADAGP 2026'
+
 [languages]
 [languages.en]
 disabled = false

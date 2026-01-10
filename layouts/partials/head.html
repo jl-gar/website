@@ -49,6 +49,8 @@
             <script type="text/javascript" src="{{ $js.Permalink }}" {{ if hugo.IsProduction }}integrity="{{ $js.Data.Integrity }}"{{ end }}></script>
         {{- end }}
     {{- end }}
+    <!-- Custom CSS for spacing -->
+    <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}?v={{ now.Unix }}">
     <!-- Plausible Analytics Config -->
     {{- if not hugo.IsServer }}
     {{ if and (.Site.Params.plausible.scriptURL) (.Site.Params.plausible.dataDomain) -}}

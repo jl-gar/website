@@ -122,8 +122,8 @@
   },
   {
     "file": "media/naples-1990.jpg",
-    "title": "Andreas Gursky, Thomas Struth, Jean-Louis Garnell, Naples 20-01",
-    "date": "1990",
+    "title": null,
+    "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 500,
