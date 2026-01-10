@@ -1,6 +1,6 @@
 ---
 weight: 6100
-title: "Paysages"
+title: "Paysages 1985-1986"
 description: "1985-1986 - Mission photographique de la DATAR"
 icon: "article"
 date: "2023-01-23T11:01:58Z"

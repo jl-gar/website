@@ -1,0 +1,90 @@
+[
+  {
+    "file": "media/jean-louis-garnell-02-06-2017-ii.jpg",
+    "title": "02 - 06",
+    "date": "2017",
+    "dimensions_physical": "50 × 65 cm",
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 541
+    },
+    "series": ""
+  },
+  {
+    "file": "media/jean-louis-garnell-07-06-2018-iv.jpg",
+    "title": "07 - 06",
+    "date": "2018",
+    "dimensions_physical": "25 × 35 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 423
+    },
+    "series": ""
+  },
+  {
+    "file": "media/jean-louis-garnell-11-09-2018-iv.jpg",
+    "title": "11 - 09",
+    "date": "2018",
+    "dimensions_physical": "25 × 35 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 423
+    },
+    "series": ""
+  },
+  {
+    "file": "media/jean-louis-garnell-11-09-2018-vi.jpg",
+    "title": "11 - 09",
+    "date": "2018",
+    "dimensions_physical": "25 × 35 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 423
+    },
+    "series": ""
+  },
+  {
+    "file": "media/jean-louis-garnell-17-02-2018-vi.jpg",
+    "title": "17 - 02",
+    "date": "2018",
+    "dimensions_physical": "25 × 35 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 421
+    },
+    "series": ""
+  },
+  {
+    "file": "media/jean-louis-garnell-17-05-2017-ii.jpg",
+    "title": "17 - 06",
+    "date": "2017",
+    "dimensions_physical": "50 × 65 cm",
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 538
+    },
+    "series": ""
+  },
+  {
+    "file": "media/jean-louis-garnell-20-09-2018-ii.jpg",
+    "title": "20 - 09",
+    "date": "2018",
+    "dimensions_physical": "25 × 35 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 423
+    },
+    "series": ""
+  },
+  {
+    "file": "media/jean-louis-garnell-27-12-2018-ii.jpg",
+    "title": "27 - 12",
+    "date": "2018",
+    "dimensions_physical": "50 × 70 cm",
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 498
+    },
+    "series": ""
+  }
+]

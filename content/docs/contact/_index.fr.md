@@ -6,7 +6,7 @@ author = "Colin Wilson"
 title = "Textes"
 icon = "rocket_launch"
 toc = true
-description = "Texts"
+description = ""
 publishdate = "2023-05-03T22:37:22+01:00"
 tags = ["Beginners"]
 +++

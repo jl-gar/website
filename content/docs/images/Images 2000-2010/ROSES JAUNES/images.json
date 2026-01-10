@@ -1,15 +1,5 @@
 [
-  {
-    "file": "media/rosesjaunes1.jpg",
-    "title": "ROSES JAUNES #1",
-    "date": "2000",
-    "dimensions_physical": "180 × 180 cm",
-    "dimensions_pixels": {
-      "width": 600,
-      "height": 600
-    },
-    "series": ""
-  },
+ 
   {
     "file": "media/rj2rj1.jpg",
     "title": "RJ #2 RJ #1",
@@ -18,17 +8,6 @@
     "dimensions_pixels": {
       "width": 709,
       "height": 300
-    },
-    "series": ""
-  },
-  {
-    "file": "media/rosesjaunes2.jpg",
-    "title": "ROSES JAUNES #2",
-    "date": "2000",
-    "dimensions_physical": "180 × 180 cm",
-    "dimensions_pixels": {
-      "width": 600,
-      "height": 600
     },
     "series": ""
   },
@@ -44,17 +23,6 @@
     "series": ""
   },
   {
-    "file": "media/rosesjaunes3.jpg",
-    "title": "ROSES JAUNES #3",
-    "date": "2000",
-    "dimensions_physical": "180 × 180 cm",
-    "dimensions_pixels": {
-      "width": 600,
-      "height": 600
-    },
-    "series": ""
-  },
-  {
     "file": "media/rj4rj7.jpg",
     "title": "RJ #4 RJ #7",
     "date": "2000",
@@ -66,8 +34,19 @@
     "series": ""
   },
   {
-    "file": "media/rosesjaunes4.jpg",
-    "title": "ROSES JAUNES #4",
+    "file": "media/rj6rj5.jpg",
+    "title": "RJ #6 RJ #5",
+    "date": "2000",
+    "dimensions_physical": "40 × 40 cm",
+    "dimensions_pixels": {
+      "width": 709,
+      "height": 300
+    },
+    "series": ""
+  },
+   {
+    "file": "media/rosesjaunes1.jpg",
+    "title": "ROSES JAUNES #1",
     "date": "2000",
     "dimensions_physical": "180 × 180 cm",
     "dimensions_pixels": {
@@ -77,13 +56,35 @@
     "series": ""
   },
   {
-    "file": "media/rj6rj5.jpg",
-    "title": "RJ #6 RJ #5",
+    "file": "media/rosesjaunes2.jpg",
+    "title": "ROSES JAUNES #2",
     "date": "2000",
-    "dimensions_physical": "40 × 40 cm",
+    "dimensions_physical": "180 × 180 cm",
     "dimensions_pixels": {
-      "width": 709,
-      "height": 300
+      "width": 600,
+      "height": 600
+    },
+    "series": ""
+  },
+  {
+    "file": "media/rosesjaunes3.jpg",
+    "title": "ROSES JAUNES #3",
+    "date": "2000",
+    "dimensions_physical": "180 × 180 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 600
+    },
+    "series": ""
+  },
+  {
+    "file": "media/rosesjaunes4.jpg",
+    "title": "ROSES JAUNES #4",
+    "date": "2000",
+    "dimensions_physical": "180 × 180 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 600
     },
     "series": ""
   }

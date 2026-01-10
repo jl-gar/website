@@ -1,26 +1,6 @@
 [
-  {
-    "file": "media/portrait.jpg",
-    "title": "Portrait",
-    "series": "Du musée au musée",
-    "date": "1993",
-    "dimensions_physical": "60 × 50 cm",
-    "dimensions_pixels": {
-      "width": 1000,
-      "height": 400
-    }
-  },
-  {
-    "file": "media/forsythias1.jpg",
-    "title": "Forsythias",
-    "series": "Du musée au musée",
-    "date": "1993",
-    "dimensions_physical": "150 × 120",
-    "dimensions_pixels": {
-      "width": 1000,
-      "height": 400
-    }
-  },
+
+
   {
     "file": "media/triptyque1.jpg",
     "title": "Triptyque #1",
@@ -60,6 +40,28 @@
     "series": "Du musée au musée",
     "date": "1993",
     "dimensions_physical": "96 × 120",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 400
+    }
+  },
+   {
+    "file": "media/forsythias1.jpg",
+    "title": "Forsythias",
+    "series": "Du musée au musée",
+    "date": "1993",
+    "dimensions_physical": "150 × 120",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 400
+    }
+  },
+  {
+    "file": "media/portrait.jpg",
+    "title": "Portrait",
+    "series": "Du musée au musée",
+    "date": "1993",
+    "dimensions_physical": "60 × 50 cm",
     "dimensions_pixels": {
       "width": 1000,
       "height": 400

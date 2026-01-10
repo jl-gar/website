@@ -2,9 +2,9 @@
 weight = 2000
 date = "2023-05-03T22:37:22+01:00"
 author = "Colin Wilson"
-title = "Images"
+title = "Photographs"
 icon = ""
 toc = true
-description = "Photographs"
+description = ""
 publishdate = "2023-05-03T22:37:22+01:00"
 +++

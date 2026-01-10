@@ -6,6 +6,6 @@ author = "Colin Wilson"
 title = "Drawings"
 icon = ""
 toc = true
-description = "Drawings"
+description = ""
 publishdate = "2023-05-03T22:37:22+01:00"
 +++

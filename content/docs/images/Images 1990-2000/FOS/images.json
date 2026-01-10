@@ -11,17 +11,6 @@
     "series": ""
   },
   {
-    "file": "media/fosmur1.jpg",
-    "title": "Sans Titre #1",
-    "date": "1995",
-    "dimensions_physical": "40 × 50 cm",
-    "dimensions_pixels": {
-      "width": 600,
-      "height": 475
-    },
-    "series": ""
-  },
-  {
     "file": "media/fosdiptyque2.jpg",
     "title": "Diptyque #2",
     "date": "1995",
@@ -84,6 +73,17 @@
     "dimensions_pixels": {
       "width": 1000,
       "height": 423
+    },
+    "series": ""
+  },
+  {
+    "file": "media/fosmur1.jpg",
+    "title": "Sans Titre #1",
+    "date": "1995",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 475
     },
     "series": ""
   }

@@ -3,9 +3,9 @@ weight = 3000
 date = "2023-05-03T22:37:22+01:00"
 draft = false
 author = "Colin Wilson"
-title = "Drawings"
+title = "Dessins"
 icon = ""
 toc = true
-description = "Drawings"
+description = ""
 publishdate = "2023-05-03T22:37:22+01:00"
 +++
