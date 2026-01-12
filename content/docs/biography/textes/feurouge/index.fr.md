@@ -1,0 +1,13 @@
+---
+weight: 1816
+title: "Feu Rouge"
+description: "Rosanna Albertini, 2004"
+icon: "article"
+date: "2025-12-31T00:00:00+00:00"
+lastmod: "2025-12-31T00:00:00+00:00"
+draft: false
+toc: true
+hidden: true
+---
+
+{{< pdf-viewer src="texts/ROSANNA-ALBERTINI-Feu-rouge.pdf" >}}

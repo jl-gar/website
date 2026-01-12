@@ -1,0 +1,16 @@
+{{- $src := .Get "src" -}}
+{{- $height := .Get "height" | default "800px" -}}
+{{- $download := .Get "download" | default "true" -}}
+
+<div class="pdf-viewer-container" style="width: 100%; height: {{ $height }}; border: 1px solid #ccc; margin: 20px 0;">
+    <embed src="{{ $src | relURL }}" type="application/pdf" width="100%" height="100%" />
+</div>
+
+{{ if eq $download "true" }}
+<p style="text-align: center; margin-top: 10px;">
+    <a href="{{ $src | relURL }}" target="_blank" class="btn btn-sm btn-primary">
+        <i class="material-icons align-middle" style="font-size: 18px;">download</i>
+        Download PDF
+    </a>
+</p>
+{{ end }}
