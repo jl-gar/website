@@ -2,7 +2,7 @@
 weight = 1
 date = "2023-05-03T22:37:22+01:00"
 draft = false
-author = "Colin Wilson"
+author = "Jean-Louis Garnell"
 title = "News"
 icon = ""
 toc = true

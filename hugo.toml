@@ -29,6 +29,7 @@ themeColor = "gray"
 title = ""
 pathName = ""
 toc = false
+descriptions = true # enable front matter descriptions under content title
 
 [params.flexsearch]
 searchSectionsIndex = "ALL"

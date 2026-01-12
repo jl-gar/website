@@ -10,12 +10,12 @@ Une sélection de textes et critiques.
 
 ## 2012
 
-- Les Désordres 1987–1988, texte François Cheval, Lianzhou photo 2012.
-- Désordres #10, texte Etienne Helmer.
+- [Les Désordres 1987–1988](./desordres2012/), texte François Cheval, Lianzhou photo 2012.
+- [Désordres #10](./desordres10/), texte Etienne Helmer.
 
 ## 2011
 
-- L'esprit du temps, texte: Anne Bertrand. Exposition Jean-Louis Garnell, galerie Whiteprojects.
+- [L'esprit du temps](./lespritdutemps/), texte: Anne Bertrand. Exposition Jean-Louis Garnell, galerie Whiteprojects.
 
 ## 2010
 
@@ -23,9 +23,8 @@ Une sélection de textes et critiques.
 
 ## 2004
 
-- Feu rouge, à propos de: Par le noir, texte: Rosanna Albertini.
-- Red fire, à propos de: Par le noir, text: Rosanna Albertini.
-- Jean-Louis Garnell, texte: Anne Bertrand, ed. Artothèque Angers.
+- [Feu rouge](./feurouge/), à propos de: Par le noir, texte: Rosanna Albertini.
+- [Jean-Louis Garnell](./angers/), texte: Anne Bertrand, ed. Artothèque Angers.
 
 ## 2001
 
