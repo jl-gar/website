@@ -25,3 +25,34 @@ h4,
 .h4 {
     font-size: 12px !important;
 }
+
+/* All cards - background fill color on hover */
+/* .features.feature-full-bg:hover {
+    background-color: var(--secondary) !important;
+} */
+
+:root {
+    --secondary: #ce4f00;
+}
+
+
+.features.feature-full-bg:hover {
+    background-color: var(--secondary) !important;
+}
+
+.card:hover {
+    border-color: var(--secondary) !important;
+}
+
+#doc-nav .card:hover .card-title {
+    color: var(--secondary) !important;
+}
+
+/* .btn:hover {
+    background-color: var(--secondary) !important;
+    color: #fff !important;
+}
+
+.btn::after:hover {
+    color: #fff !important;
+} */
