@@ -3,7 +3,7 @@
     "file": "media/triptyque1.jpg",
     "title": "TRIPTYQUE 1",
     "date": "2012",
-    "dimensions_physical": null,
+    "dimensions_physical": "3 x (60 x 40 cm",
     "dimensions_pixels": {
       "width": 800,
       "height": 398
@@ -14,7 +14,7 @@
     "file": "media/triptyque2.jpg",
     "title": "TRIPTYQUE 2",
     "date": "2012",
-    "dimensions_physical": null,
+    "dimensions_physical": "3 x (60 x 40 cm)",
     "dimensions_pixels": {
       "width": 800,
       "height": 393
@@ -25,7 +25,7 @@
     "file": "media/triptyque3.jpg",
     "title": "TRIPTYQUE 3",
     "date": "2012",
-    "dimensions_physical": null,
+    "dimensions_physical": "3 x (60 x 40 cm)",
     "dimensions_pixels": {
       "width": 800,
       "height": 398

@@ -1,20 +1,9 @@
 [
   {
-    "file": "media/diptyque12013.jpg",
-    "title": "DIPTYQUE I",
-    "date": "2013",
-    "dimensions_physical": null,
-    "dimensions_pixels": {
-      "width": 800,
-      "height": 364
-    },
-    "series": ""
-  },
-  {
     "file": "media/triptique12007.jpg",
     "title": "TRIPTYQUE I",
     "date": "2007",
-    "dimensions_physical": null,
+    "dimensions_physical": "90 x 60, 60 x 90, 90 x 60 cm",
     "dimensions_pixels": {
       "width": 1000,
       "height": 312
@@ -25,7 +14,7 @@
     "file": "media/triptyque2.jpg",
     "title": "TRIPTYQUE II",
     "date": "2007",
-    "dimensions_physical": null,
+    "dimensions_physical":  "90 x 60, 60 x 90, 90 x 60 cm",
     "dimensions_pixels": {
       "width": 1000,
       "height": 316
@@ -36,10 +25,21 @@
     "file": "media/triptyque3.jpg",
     "title": "TRIPTYQUE III",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical": "3 x ( 60 x 90 cm)",
     "dimensions_pixels": {
       "width": 1000,
       "height": 316
+    },
+    "series": ""
+  },
+    {
+    "file": "media/diptyque12013.jpg",
+    "title": "DIPTYQUE I",
+    "date": "2013",
+    "dimensions_physical": "60 x 40, 40 x 60 cm",
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 364
     },
     "series": ""
   }

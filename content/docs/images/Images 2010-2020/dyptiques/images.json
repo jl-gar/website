@@ -3,7 +3,7 @@
     "file": "media/diptyque-1-1972-2012.jpg",
     "title": "DIPTYQUE I",
     "date": "1972",
-    "dimensions_physical": null,
+    "dimensions_physical":"80 x 120, 80 x 60 cm",
     "dimensions_pixels": {
       "width": 800,
       "height": 366
@@ -14,7 +14,7 @@
     "file": "media/diptyque-2-1973-2012.jpg",
     "title": "DIPTYQUE II",
     "date": "1973",
-    "dimensions_physical": null,
+    "dimensions_physical": "80 x 60, 80 x 120 cm",
     "dimensions_pixels": {
       "width": 800,
       "height": 355
@@ -25,7 +25,7 @@
     "file": "media/diptyque-3-1973-2012.jpg",
     "title": "DIPTYQUE III",
     "date": "1973",
-    "dimensions_physical": null,
+    "dimensions_physical": "80 x 120, 80 x 60 cm",
     "dimensions_pixels": {
       "width": 800,
       "height": 358
@@ -36,7 +36,7 @@
     "file": "media/diptyque-4-1973-2012.jpg",
     "title": "DIPTYQUE IV",
     "date": "1973",
-    "dimensions_physical": null,
+    "dimensions_physical":"80 x 120, 80 x 60 cm",
     "dimensions_pixels": {
       "width": 800,
       "height": 358
@@ -47,7 +47,7 @@
     "file": "media/diptyque-5-1974-2012.jpg",
     "title": "DIPTYQUE V",
     "date": "1974",
-    "dimensions_physical": null,
+    "dimensions_physical": "80 x 120, 80 x 60 cm",
     "dimensions_pixels": {
       "width": 800,
       "height": 360
@@ -58,7 +58,7 @@
     "file": "media/diptyque-6-1975-2012.jpg",
     "title": "DIPTYQUE VI",
     "date": "1975",
-    "dimensions_physical": null,
+    "dimensions_physical": "80 x 60, 80 x 120 cm",
     "dimensions_pixels": {
       "width": 800,
       "height": 358

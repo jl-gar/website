@@ -14,7 +14,7 @@
     "file": "media/petitehistoiredelalumieredomestique.jpg",
     "title": "Petite histoire de la lumière domestique",
     "date": "1992",
-    "dimensions_physical": "24 × 30",
+    "dimensions_physical": "4 x (24 × 30 cm)",
     "dimensions_pixels": {
       "width": 800,
       "height": 400
@@ -25,7 +25,7 @@
     "file": "media/tentativededescriptiondunemarmite.jpg",
     "title": "Tentative de description d'une marmite",
     "date": "1992",
-    "dimensions_physical": "30 × 40",
+    "dimensions_physical": "4 x (30 × 40 cm)",
     "dimensions_pixels": {
       "width": 722,
       "height": 600
@@ -36,7 +36,7 @@
     "file": "media/diptyque1.jpg",
     "title": "Diptyque #1",
     "date": "1992",
-    "dimensions_physical": "40 × 50",
+    "dimensions_physical": "2 x (40 × 50 cm)",
     "dimensions_pixels": {
       "width": 800,
       "height": 400
@@ -47,7 +47,7 @@
     "file": "media/triptyque1.jpg",
     "title": "Triptyque #1",
     "date": "1992",
-    "dimensions_physical": "24 × 30",
+    "dimensions_physical": "3 x (24 × 30 cm)",
     "dimensions_pixels": {
       "width": 800,
       "height": 400
@@ -58,7 +58,7 @@
     "file": "media/triptyque2.jpg",
     "title": "Triptyque #2",
     "date": "1992",
-    "dimensions_physical": "24 × 30",
+    "dimensions_physical": "3 x (24 × 30 cm)",
     "dimensions_pixels": {
       "width": 800,
       "height": 400

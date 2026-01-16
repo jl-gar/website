@@ -32,7 +32,7 @@ A chronological list of publications and catalogues.
 - {{< biblio-link image="LA-FABRIQUE-PAYSAGES..jpg" alt="La Fabrique photographique des paysages" >}}La Fabrique photographique des paysages{{< /biblio-link >}}, Monique Sicard, Aurèle Crasson, Gabrielle Andries, ed Hermann, Paris.
 - {{< biblio-link image="ARLES-2017.jpg" alt="ARLES 2017" >}}ARLES 2017{{< /biblio-link >}}, Les Rencontres de la photographie, ed ACTES SUD, Arles.
 - {{< biblio-link image="FRANCE-EN-ALBUMS.jpg" alt="LA FRANCE EN ALBUMS (XIXe–XXe Siècles)" >}}LA FRANCE EN ALBUMS (XIXe–XXe Siècles){{< /biblio-link >}}, Philippe Antoine, Danièle Méaux, Jean-Pierre Montier, ed Hermann, Paris.
-- {{< biblio-link image="FRANCE-EN-ALBUMS.jpg" alt="La collection photographique du Musée de La Roche-sur-Yon 1983–2016" >}}La collection photographique du Musée de La Roche-sur-Yon 1983–2016{{< /biblio-link >}}, ed. Liénard, Paris.
+- {{< biblio-link image="COLLECTION-LA-ROCHE-SUR-YON.jpg" alt="La collection photographique du Musée de La Roche-sur-Yon 1983–2016" >}}La collection photographique du Musée de La Roche-sur-Yon 1983–2016{{< /biblio-link >}}, ed. Liénard, Paris.
 
 ## 2016
 
@@ -42,10 +42,10 @@ A chronological list of publications and catalogues.
 
 - {{< biblio-link image="UNE-HISTOIRE.jpg" alt="Une histoire. Art Architecture Design. Des années 1980 à nos jours" >}}Une histoire. Art Architecture Design. Des années 1980 à nos jours{{< /biblio-link >}}, Texte Christine Macel, Centre Pompidou, Paris.
 - {{< biblio-link image="qu-est-ce-que-la-photographie.jpg" alt="Qu'est-ce que la photographie?" >}}Qu'est-ce que la photographie?{{< /biblio-link >}}, Clément Chéroux, Karolina Ziebinska-Lewandowska, Centre Pompidou-Xavier Barral, Paris.
-- {{< biblio-link image="qu-est-ce-que-la-photographie.jpg" alt="Pratiques" >}}Pratiques{{< /biblio-link >}}, Les cahiers de la médecine utopique N69, Paris.
+- {{< biblio-link image="PRATIQUES.jpg" alt="Pratiques" >}}Pratiques{{< /biblio-link >}}, Les cahiers de la médecine utopique N69, Paris.
 - {{< biblio-link image="VOICES-OF-PHOTOGRAPHY.jpg" alt="VOICES OF PHOTOGRAPHY N15" >}}VOICES OF PHOTOGRAPHY N15{{< /biblio-link >}}, Taiwan.
-- {{< biblio-link image="qu-est-ce-que-la-photographie.jpg" alt="Géo-Photographies" >}}Géo-Photographies{{< /biblio-link >}}, Danièle Méaux, Filigranes Editions.
-- {{< biblio-link image="qu-est-ce-que-la-photographie.jpg" alt="Landschaft. Umwelt. Kultur. Gisela Parak" >}}Landschaft. Umwelt. Kultur. Gisela Parak{{< /biblio-link >}}, Museum für Photographie, Braunschweig.
+- {{< biblio-link image="GEO-PHOTOGRAPHIES.jpg" alt="Géo-Photographies" >}}Géo-Photographies{{< /biblio-link >}}, Danièlraphie.jpge Méaux, Filigranes Editions.
+- {{< biblio-link image="LANDSCHAFT-UMWELT-KULTUR.jpg" alt="Landschaft. Umwelt. Kultur. Gisela Parak" >}}Landschaft. Umwelt. Kultur. Gisela Parak{{< /biblio-link >}}, Museum für Photographie, Braunschweig.
 - {{< biblio-link image="INVENTARIO-11.jpg" alt="INVENTARIO N11" >}}INVENTARIO N11{{< /biblio-link >}}, Corraini Edizione, Mantova.
 
 ## 2014
@@ -156,7 +156,7 @@ A chronological list of publications and catalogues.
 
 ## 1993
 
-- Photographie d'une collection, cat, Caisse des Dépôts, ed. Hazan.
+-{{< biblio-link image="CAISSE-DES-DEPOTS-I.jpg" alt="Photographie d'une collection" >}}Photographie d'une collection{{< /biblio-link >}}, cat, Caisse des Dépôts, ed. Hazan.
 - {{< biblio-link image="QUINZE-ARTISTES-DANS-LE-METRO.jpg" alt="Quinze artistes dans le métro" >}}Quinze artistes dans le métro{{< /biblio-link >}}, cat, ed. MT Développement Toulouse, texte: Pierre Rey.
 
 ## 1992
@@ -167,22 +167,22 @@ A chronological list of publications and catalogues.
 ## 1991
 
 - {{< biblio-link image="KUNST-EUROPA.jpg" alt="Kunst" >}}Kunst{{< /biblio-link >}}, Europa 1991, cat, ed. ADKV.
-- {{< biblio-link image="KUNST-EUROPA.jpg" alt="Garnell" >}}Garnell{{< /biblio-link >}}, cat, ed. Musée de La Roche-Sur-Yon, texte: Doris Von Drateln.
+- {{< biblio-link image="LA-ROCHE-SUR-YON" alt="Garnell" >}}Garnell{{< /biblio-link >}}, cat, ed. Musée de La Roche-Sur-Yon, texte: Doris Von Drateln.
 - {{< biblio-link image="KUNST-EUROPA.jpg" alt="\"Cataloghi\"" >}}"Cataloghi"{{< /biblio-link >}}, L'Unita, 04/11/91, Rosanna Albertini.
 
 ## 1990
 
-- Passages de l'image, cat, ed. Centre Pompidou, Paris, texte: S. Roumette, repris dans Art Press spécial Photo, 1990.
+- {{< biblio-link image="PASSAGES-DE-L-IMAGE.jpg" alt="Passages de l'image" >}}Passages de l'image{{< /biblio-link >}},Passages de l'image, cat, ed. Centre Pompidou, Paris, texte: S. Roumette.
 
 ## 1989
 
 - {{< biblio-link image="UNE-AUTRE-OBJECTIVITE-ANOTHER-OBJECTIVITY.jpg" alt="Une autre objectivité" >}}Une autre objectivité{{< /biblio-link >}}, ed. Idea Books, Milan, texte: J-F Chevrier; entretien avec Giovanna Minelli.
-- {{< biblio-link image="UNE-AUTRE-OBJECTIVITE-ANOTHER-OBJECTIVITY.jpg" alt="Transmanche 88" >}}Transmanche 88{{< /biblio-link >}}, ed. La Différence, Paris.
-- {{< biblio-link image="UNE-AUTRE-OBJECTIVITE-ANOTHER-OBJECTIVITY.jpg" alt="\"Les frontières de la description\"" >}}"Les frontières de la description"{{< /biblio-link >}}, J-F Chevrier, Galeries Magazine décembre/Janvier.
-- {{< biblio-link image="UNE-AUTRE-OBJECTIVITE-ANOTHER-OBJECTIVITY.jpg" alt="Paysages" >}}Paysages{{< /biblio-link >}}, Photographies, Mission Photographique de la Datar, ed. Hazan, pp 305–336, divers textes.
-- {{< biblio-link image="UNE-AUTRE-OBJECTIVITE-ANOTHER-OBJECTIVITY.jpg" alt="Photo-kunst" >}}Photo-kunst{{< /biblio-link >}}, cat , Staatsgalerie Stuttgart, texte: J-F Chevrier.
-- {{< biblio-link image="UNE-AUTRE-OBJECTIVITE-ANOTHER-OBJECTIVITY.jpg" alt="Jean Louis Garnell" >}}Jean Louis Garnell{{< /biblio-link >}}, cat, Galerie Antoine Candau, Paris.Art Press spécial Photo, 1990.
-
+- {{< biblio-link image="MISSION-PHOTOGRAPHIQUE-TRANSMANCHE.jpg" alt="Transmanche 88" >}}Transmanche 88{{< /biblio-link >}}, ed. La Différence, Paris.
+- {{< biblio-link image="GALERIES-MAGAZINE-89-90.jpg" alt="\"Les frontières de la description\"" >}}"Les frontières de la description"{{< /biblio-link >}}, J-F Chevrier, Galeries Magazine décembre/Janvier.
+- {{< biblio-link image="PAYSGES-PHOTOGRAPHIES.jpg" alt="Paysages" >}}Paysages{{< /biblio-link >}}, Photographies, Mission Photographique de la Datar, ed. Hazan, pp 305–336, divers textes.
+- {{< biblio-link image="PHOTO-KUNST.jpg" alt="Photo-kunst" >}}Photo-kunst{{< /biblio-link >}}, cat , Staatsgalerie Stuttgart, texte: J-F Chevrier.
+- Jean Louis Garnell, cat, Galerie Antoine Candau.
+- 
 ## 1988
 
 - {{< biblio-link image="CAC-LABEGE.jpg" alt="Garnell" >}}Garnell{{< /biblio-link >}}, cat, Centre d'art contemporain, Toulouse.
@@ -191,7 +191,7 @@ A chronological list of publications and catalogues.
 
 ## 1987
 
-- "L'oubli du paysage", Régis Durand, Art Press N°113.
+- {{< biblio-link image="ART-PRESS-113.jpg" alt="L'oubli du paysage" >}}L'oubli du paysage{{< /biblio-link >}}, Régis Durand, Art Press N°113.
 
 ## 1985
 

@@ -3,29 +3,40 @@
     "file": "media/diptyque11990.jpg",
     "title": "DIPTYQUE #1",
     "date": "1990",
-    "dimensions_physical": "99 × 122",
+    "dimensions_physical": "2 x (99 × 122 cm)",
     "dimensions_pixels": {
       "width": 1000,
       "height": 400
     },
     "series": ""
   },
-  {
-    "file": "media/diptyque31998.jpg",
-    "title": "DIPTYQUE #3",
-    "date": "1998",
-    "dimensions_physical": "120 × 150",
+   {
+    "file": "media/triptyque21990.jpg",
+    "title": "TRIPTYQUE #1",
+    "date": "1990",
+    "dimensions_physical": "3 x (96 × 120 cm)",
     "dimensions_pixels": {
       "width": 1000,
       "height": 400
     },
     "series": ""
   },
-  {
+    {
+    "file": "media/triptyque11991.jpg",
+    "title": "TRIPTYQUE #1",
+    "date": "1991",
+    "dimensions_physical": "122 × 99, 2 x (99 x 122) cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 400
+    },
+    "series": ""
+  },
+   {
     "file": "media/doubleportraitavecnaturemorte1991.jpg",
     "title": "DOUBLE PORTRAIT AVEC NATURE MORTE",
     "date": "1991",
-    "dimensions_physical": "120 × 96",
+    "dimensions_physical": "120 × 96, 63 x 80, 120 x 96 cm",
     "dimensions_pixels": {
       "width": 1000,
       "height": 400
@@ -36,7 +47,7 @@
     "file": "media/famille-1-1991.jpg",
     "title": "FAMILLE #1",
     "date": "1991",
-    "dimensions_physical": "96 × 120",
+    "dimensions_physical": "3 x (96 × 120 cm)",
     "dimensions_pixels": {
       "width": 1000,
       "height": 303
@@ -47,7 +58,7 @@
     "file": "media/famille-2-1991.jpg",
     "title": "FAMILLE #2",
     "date": "1991",
-    "dimensions_physical": "96 × 120",
+    "dimensions_physical": "3 x (96 × 120 cm)",
     "dimensions_pixels": {
       "width": 1000,
       "height": 303
@@ -55,80 +66,37 @@
     "series": ""
   },
   {
-    "file": "media/icimeme2.jpg",
-    "title": "ici-même II",
-    "date": "1993",
-    "dimensions_physical": "60 × 80",
-    "dimensions_pixels": {
-      "width": 1000,
-      "height": 256
-    },
-    "series": ""
-  },
-  {
-    "file": "media/icimeme4.jpg",
-    "title": "ici-même IV",
-    "date": "1994",
-    "dimensions_physical": "80 × 100",
-    "dimensions_pixels": {
-      "width": 1000,
-      "height": 256
-    },
-    "series": ""
-  },
-  {
-    "file": "media/icimeme5.jpg",
-    "title": "ici-même V",
-    "date": "1994",
-    "dimensions_physical": "100 × 80",
-    "dimensions_pixels": {
-      "width": 1000,
-      "height": 256
-    },
-    "series": ""
-  },
-  {
-    "file": "media/m1996.jpg",
-    "title": "M.",
-    "date": "1996",
-    "dimensions_physical": "100 × 120",
-    "dimensions_pixels": {
-      "width": 1000,
-      "height": 400
-    },
-    "series": ""
-  },
-  {
     "file": "media/suite1995.jpg",
     "title": "SUITE",
     "date": "1995",
-    "dimensions_physical": "64 × 80",
+    "dimensions_physical": "64 × 80, 120 x 100, 150 x 120, 100 x 80 cm",
     "dimensions_pixels": {
       "width": 1000,
       "height": 400
     },
     "series": ""
   },
-  {
-    "file": "media/triptyque11991.jpg",
-    "title": "TRIPTYQUE #1",
-    "date": "1991",
-    "dimensions_physical": "122 × 99",
+   {
+    "file": "media/m1996.jpg",
+    "title": "M.",
+    "date": "1996",
+    "dimensions_physical": "100 × 120, 80 x 100, 80 x 63 cm",
     "dimensions_pixels": {
       "width": 1000,
       "height": 400
     },
     "series": ""
   },
-  {
-    "file": "media/triptyque21990.jpg",
-    "title": "TRIPTYQUE #1",
-    "date": "1990",
-    "dimensions_physical": "96 × 120",
+   {
+    "file": "media/diptyque31998.jpg",
+    "title": "DIPTYQUE #3",
+    "date": "1998",
+    "dimensions_physical": "2 x (120 × 150 cm)",
     "dimensions_pixels": {
       "width": 1000,
       "height": 400
     },
     "series": ""
   }
+ 
 ]

@@ -3,7 +3,7 @@
     "file": "media/suite-2020.jpg",
     "title": "SUITE 2020",
     "date": "2020",
-    "dimensions_physical": "90 × 60 cm",
+    "dimensions_physical": "6 x (90 × 60 cm)",
     "dimensions_pixels": {
       "width": 1000,
       "height": 281
@@ -80,7 +80,7 @@
     "file": "media/suite-2021.jpg",
     "title": "SUITE 2021",
     "date": "2021",
-    "dimensions_physical": "90 × 60 cm",
+    "dimensions_physical": "6 x (90 × 60 cm)",
     "dimensions_pixels": {
       "width": 1000,
       "height": 281
@@ -157,7 +157,7 @@
     "file": "media/suite-2022.jpg",
     "title": "SUITE 2022",
     "date": "2022",
-    "dimensions_physical": "90 × 60 cm",
+    "dimensions_physical": "6 x (90 × 60 cm)",
     "dimensions_pixels": {
       "width": 1000,
       "height": 281

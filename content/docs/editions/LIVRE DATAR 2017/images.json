@@ -1,8 +1,8 @@
 [
   {
     "file": "media/001.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 400,
@@ -12,8 +12,8 @@
   },
   {
     "file": "media/002.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -23,8 +23,8 @@
   },
   {
     "file": "media/003.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -34,8 +34,8 @@
   },
   {
     "file": "media/004.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -45,8 +45,8 @@
   },
   {
     "file": "media/005.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -56,8 +56,8 @@
   },
   {
     "file": "media/006.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -67,8 +67,8 @@
   },
   {
     "file": "media/007.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -78,8 +78,8 @@
   },
   {
     "file": "media/008.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -89,8 +89,8 @@
   },
   {
     "file": "media/009.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -100,8 +100,8 @@
   },
   {
     "file": "media/010.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -111,8 +111,8 @@
   },
   {
     "file": "media/011.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -122,8 +122,8 @@
   },
   {
     "file": "media/012.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -133,8 +133,8 @@
   },
   {
     "file": "media/013.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -144,8 +144,8 @@
   },
   {
     "file": "media/014.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -155,8 +155,8 @@
   },
   {
     "file": "media/015.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -166,8 +166,8 @@
   },
   {
     "file": "media/016.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -177,8 +177,8 @@
   },
   {
     "file": "media/017.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -188,8 +188,8 @@
   },
   {
     "file": "media/018.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -199,8 +199,8 @@
   },
   {
     "file": "media/019.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -211,7 +211,7 @@
   {
     "file": "media/020.jpg",
     "title": null,
-    "date": null,
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -221,8 +221,8 @@
   },
   {
     "file": "media/021.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -232,8 +232,8 @@
   },
   {
     "file": "media/022.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -243,8 +243,8 @@
   },
   {
     "file": "media/023.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -254,8 +254,8 @@
   },
   {
     "file": "media/024.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -265,8 +265,8 @@
   },
   {
     "file": "media/025.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -276,8 +276,8 @@
   },
   {
     "file": "media/026.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -287,8 +287,8 @@
   },
   {
     "file": "media/027.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -298,8 +298,8 @@
   },
   {
     "file": "media/028.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -309,8 +309,8 @@
   },
   {
     "file": "media/029.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -320,8 +320,8 @@
   },
   {
     "file": "media/030.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -331,8 +331,8 @@
   },
   {
     "file": "media/031.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -342,8 +342,8 @@
   },
   {
     "file": "media/032.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -353,8 +353,8 @@
   },
   {
     "file": "media/033.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -364,8 +364,8 @@
   },
   {
     "file": "media/034.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -375,8 +375,8 @@
   },
   {
     "file": "media/035.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -386,8 +386,8 @@
   },
   {
     "file": "media/036.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -397,8 +397,8 @@
   },
   {
     "file": "media/037.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -408,8 +408,8 @@
   },
   {
     "file": "media/038.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -419,8 +419,8 @@
   },
   {
     "file": "media/039.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -430,8 +430,8 @@
   },
   {
     "file": "media/040.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -441,8 +441,8 @@
   },
   {
     "file": "media/041.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -452,8 +452,8 @@
   },
   {
     "file": "media/042.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -463,8 +463,8 @@
   },
   {
     "file": "media/043.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -474,8 +474,8 @@
   },
   {
     "file": "media/044.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -485,8 +485,8 @@
   },
   {
     "file": "media/045.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -496,8 +496,8 @@
   },
   {
     "file": "media/046.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -507,8 +507,8 @@
   },
   {
     "file": "media/047.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -518,8 +518,8 @@
   },
   {
     "file": "media/048.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -529,8 +529,8 @@
   },
   {
     "file": "media/049.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -540,8 +540,8 @@
   },
   {
     "file": "media/050.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -551,8 +551,8 @@
   },
   {
     "file": "media/051.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -562,8 +562,8 @@
   },
   {
     "file": "media/052.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -573,8 +573,8 @@
   },
   {
     "file": "media/053.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -584,8 +584,8 @@
   },
   {
     "file": "media/054.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 1000,
@@ -595,8 +595,8 @@
   },
   {
     "file": "media/055.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -606,8 +606,8 @@
   },
   {
     "file": "media/056.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -617,8 +617,8 @@
   },
   {
     "file": "media/057.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -628,8 +628,8 @@
   },
   {
     "file": "media/058.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -639,8 +639,8 @@
   },
   {
     "file": "media/059.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -650,8 +650,8 @@
   },
   {
     "file": "media/060.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -661,8 +661,8 @@
   },
   {
     "file": "media/061.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -672,8 +672,8 @@
   },
   {
     "file": "media/062.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -683,8 +683,8 @@
   },
   {
     "file": "media/063.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -694,8 +694,8 @@
   },
   {
     "file": "media/064.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -705,8 +705,8 @@
   },
   {
     "file": "media/065.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -716,8 +716,8 @@
   },
   {
     "file": "media/066.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -727,8 +727,8 @@
   },
   {
     "file": "media/067.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -738,8 +738,8 @@
   },
   {
     "file": "media/068.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 803,
@@ -749,8 +749,8 @@
   },
   {
     "file": "media/069.jpg",
-    "title": "PAYSAGES",
-    "date": "1985",
+    "title": "",
+    "date": "",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 400,

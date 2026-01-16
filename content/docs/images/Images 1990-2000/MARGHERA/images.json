@@ -3,7 +3,29 @@
     "file": "media/margheradipt1.jpg",
     "title": "Diptyque #1",
     "date": "1998",
-    "dimensions_physical": "100 × 120",
+    "dimensions_physical": "2 x (100 × 120 cm)",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 423
+    },
+    "series": ""
+  },
+    {
+    "file": "media/margheradipt2.jpg",
+    "title": "Diptyque #2",
+    "date": "1998",
+    "dimensions_physical": "2 x (100 × 120 cm)",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 423
+    },
+    "series": ""
+  },
+  {
+    "file": "media/margheradipt3.jpg",
+    "title": "Diptyque #3",
+    "date": "1998",
+    "dimensions_physical": "2 x (100 × 120 cm)",
     "dimensions_pixels": {
       "width": 1000,
       "height": 423
@@ -14,7 +36,7 @@
     "file": "media/margheratript1.jpg",
     "title": "Triptyque #1",
     "date": "1998",
-    "dimensions_physical": "100 × 120",
+    "dimensions_physical": "3 x (100 × 120 cm)",
     "dimensions_pixels": {
       "width": 1000,
       "height": 285
@@ -22,36 +44,15 @@
     "series": ""
   },
   {
-    "file": "media/margheradipt2.jpg",
-    "title": "Diptyque #2",
-    "date": "1998",
-    "dimensions_physical": "100 × 120",
-    "dimensions_pixels": {
-      "width": 1000,
-      "height": 423
-    },
-    "series": ""
-  },
-  {
     "file": "media/margheratript2.jpg",
     "title": "Triptyque #2",
     "date": "1998",
-    "dimensions_physical": "100 × 120",
+    "dimensions_physical": "3 x (100 × 120 cm)",
     "dimensions_pixels": {
       "width": 1000,
       "height": 287
     },
     "series": ""
-  },
-  {
-    "file": "media/margheradipt3.jpg",
-    "title": "Diptyque #3",
-    "date": "1998",
-    "dimensions_physical": "100 × 120",
-    "dimensions_pixels": {
-      "width": 1000,
-      "height": 423
-    },
-    "series": ""
   }
+  
 ]

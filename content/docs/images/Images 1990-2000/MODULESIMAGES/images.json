@@ -22,28 +22,6 @@
     "series": ""
   },
   {
-    "file": "media/image3.jpg",
-    "title": "IMAGES #3",
-    "date": "1997",
-    "dimensions_physical": "120 × 240 cm",
-    "dimensions_pixels": {
-      "width": 800,
-      "height": 640
-    },
-    "series": ""
-  },
-  {
-    "file": "media/image4.jpg",
-    "title": "IMAGES #4",
-    "date": "1997",
-    "dimensions_physical": "120 × 240 cm",
-    "dimensions_pixels": {
-      "width": 800,
-      "height": 640
-    },
-    "series": ""
-  },
-  {
     "file": "media/module9.jpg",
     "title": "MODULES #9",
     "date": "1997",
@@ -150,6 +128,28 @@
     "dimensions_pixels": {
       "width": 600,
       "height": 480
+    },
+    "series": ""
+  },
+  {
+    "file": "media/image3.jpg",
+    "title": "IMAGES #3",
+    "date": "1997",
+    "dimensions_physical": "184 × 240 cm",
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 640
+    },
+    "series": ""
+  },
+  {
+    "file": "media/image4.jpg",
+    "title": "IMAGES #4",
+    "date": "1997",
+    "dimensions_physical": "184 × 240 cm",
+    "dimensions_pixels": {
+      "width": 800,
+      "height": 640
     },
     "series": ""
   }

@@ -3,7 +3,7 @@
     "file": "media/compositions1-1.jpg",
     "title": "COMPOSITIONS I #1",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical": "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -14,7 +14,7 @@
     "file": "media/compositions2-1.jpg",
     "title": "COMPOSITIONS II #1",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -25,7 +25,7 @@
     "file": "media/compositions1-2.jpg",
     "title": "COMPOSITIONS I #2",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -36,7 +36,7 @@
     "file": "media/compositions1-3.jpg",
     "title": "COMPOSITIONS I #3",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -47,7 +47,7 @@
     "file": "media/compositions1-4.jpg",
     "title": "COMPOSITIONS I #4",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -58,7 +58,7 @@
     "file": "media/compositions1-5.jpg",
     "title": "COMPOSITIONS I #5",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -69,7 +69,7 @@
     "file": "media/compositions2-5.jpg",
     "title": "COMPOSITIONS II #5",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -80,7 +80,7 @@
     "file": "media/compositions1-6.jpg",
     "title": "COMPOSITIONS I #6",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -91,7 +91,7 @@
     "file": "media/compositions1-7.jpg",
     "title": "COMPOSITIONS I #7",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -102,7 +102,7 @@
     "file": "media/compositions2-7.jpg",
     "title": "COMPOSITIONS II #7",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -113,7 +113,7 @@
     "file": "media/compositions1-8.jpg",
     "title": "COMPOSITIONS I #8",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -124,7 +124,7 @@
     "file": "media/compositions2-8.jpg",
     "title": "COMPOSITIONS II #8",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -135,7 +135,7 @@
     "file": "media/compositions1-9.jpg",
     "title": "COMPOSITIONS I #9",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -146,7 +146,7 @@
     "file": "media/compositions1-10.jpg",
     "title": "COMPOSITIONS I #10",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -157,7 +157,7 @@
     "file": "media/compositions2-10.jpg",
     "title": "COMPOSITIONS II #10",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -168,7 +168,7 @@
     "file": "media/compositions1-11.jpg",
     "title": "COMPOSITIONS I #11",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -179,7 +179,7 @@
     "file": "media/compositions1-12.jpg",
     "title": "COMPOSITIONS I #12",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -190,7 +190,7 @@
     "file": "media/compositions2-14.jpg",
     "title": "COMPOSITIONS II #14",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -201,7 +201,7 @@
     "file": "media/compositions2-16.jpg",
     "title": "COMPOSITIONS II #16",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -212,7 +212,7 @@
     "file": "media/compositions2-17.jpg",
     "title": "COMPOSITIONS II #17",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -223,7 +223,7 @@
     "file": "media/compositions2-18.jpg",
     "title": "COMPOSITIONS II #18",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -234,7 +234,7 @@
     "file": "media/compositions2-19.jpg",
     "title": "COMPOSITIONS II #19",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -245,7 +245,7 @@
     "file": "media/compositions2-20.jpg",
     "title": "COMPOSITIONS II #20",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -256,7 +256,7 @@
     "file": "media/compositions2-21.jpg",
     "title": "COMPOSITIONS II #21",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -267,7 +267,7 @@
     "file": "media/compositions2-23.jpg",
     "title": "COMPOSITIONS II #23",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402
@@ -278,7 +278,7 @@
     "file": "media/compositions2-24.jpg",
     "title": "COMPOSITIONS II #24",
     "date": "2009",
-    "dimensions_physical": null,
+    "dimensions_physical":  "40 x 60 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 402

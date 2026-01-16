@@ -3,7 +3,7 @@
     "file": "media/fosdiptyque1.jpg",
     "title": "Diptyque #1",
     "date": "1995",
-    "dimensions_physical": "123 × 155",
+    "dimensions_physical": "2 x (123 × 155 cm)",
     "dimensions_pixels": {
       "width": 1000,
       "height": 423
@@ -14,7 +14,7 @@
     "file": "media/fosdiptyque2.jpg",
     "title": "Diptyque #2",
     "date": "1995",
-    "dimensions_physical": "103 × 123",
+    "dimensions_physical": "2 x (103 × 123 cm)",
     "dimensions_pixels": {
       "width": 1000,
       "height": 423
