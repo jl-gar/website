@@ -15,4 +15,4 @@ Formes flottantes d'organismes improbables encore vivants mais à vif, la peau n
 
 
 
-{{< gallery >}}
+{{< gallery bg="white">}}

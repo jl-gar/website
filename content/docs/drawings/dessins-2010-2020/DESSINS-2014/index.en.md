@@ -10,4 +10,4 @@ toc: true
 ---
 
 
-{{< gallery >}}
+{{< gallery bg="white">}}

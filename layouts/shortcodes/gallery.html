@@ -64,7 +64,9 @@ URLs. */}}
 {{/* create a safe id for the gallery by replacing slashes and other unsafe chars with dashes */}}
 {{ $rawPath := .Page.File.Path }}
 {{ $gidSafe := replaceRE "[^A-Za-z0-9_-]+" "-" $rawPath }}
-<div class="jl-gallery jl-gallery-tiles" id="pswp-gallery-{{ $gidSafe }}" data-gallery-uid="{{ .Page.File.Path | urlize }}">
+{{/* Get background color parameter (default: grey) */}}
+{{ $bg := .Get "bg" | default "grey" }}
+<div class="jl-gallery jl-gallery-tiles" id="pswp-gallery-{{ $gidSafe }}" data-gallery-uid="{{ .Page.File.Path | urlize }}" data-bg="{{ $bg }}">
     <!-- fallback main image element (hidden) so gallery.js can safely call show(0) -->
     <div class="jl-gallery-view" aria-hidden="true" style="display:none;">
         <img class="jl-gallery-img" src="" alt="" />
@@ -132,6 +134,36 @@ URLs. */}}
         }
     });
     console.debug('[JL-Gallery] PhotoSwipeLightbox created', typeof lightbox);
+    
+    // Apply background color class to PhotoSwipe
+    const bgColor = document.querySelector(GSEL).getAttribute('data-bg') || 'grey';
+    console.debug('[JL-Gallery] Background color:', bgColor);
+    
+    const applyBackground = function() {
+        if (lightbox.pswp && lightbox.pswp.element) {
+            lightbox.pswp.element.classList.add('pswp-bg-' + bgColor);
+            console.debug('[JL-Gallery] Applied background class: pswp-bg-' + bgColor);
+            
+            // Also apply background directly as inline style for white background
+            if (bgColor === 'white') {
+                const bgElements = [
+                    lightbox.pswp.element,
+                    lightbox.pswp.element.querySelector('.pswp__bg'),
+                    lightbox.pswp.element.querySelector('.pswp__ui')
+                ];
+                bgElements.forEach(function(el) {
+                    if (el) {
+                        el.style.background = '#ffffff';
+                        el.style.backgroundColor = '#ffffff';
+                    }
+                });
+            }
+        }
+    };
+    
+    lightbox.on('beforeOpen', applyBackground);
+    lightbox.on('afterInit', applyBackground);
+    
     lightbox.init();
     lightbox.options.loop = false;
     console.debug('[JL-Gallery] PhotoSwipeLightbox.init called for', GSEL);

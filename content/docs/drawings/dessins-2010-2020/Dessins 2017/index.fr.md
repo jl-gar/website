@@ -13,4 +13,4 @@ Depuis maintenant près de cinq ans, j'ai mis en place une pratique régulière 
 
 
 
-{{< gallery >}}
+{{< gallery bg="white">}}

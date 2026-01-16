@@ -14,4 +14,4 @@ A selection of some drawings.
 
 
 
-{{< gallery >}}
+{{< gallery bg="white">}}

@@ -12,4 +12,4 @@ toc: true
 Une sélection de quelques dessins.
 
 
-{{< gallery >}}
+{{< gallery bg="white">}}

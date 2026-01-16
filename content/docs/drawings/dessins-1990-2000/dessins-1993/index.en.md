@@ -11,4 +11,4 @@ toc: true
 
 texte
 
-{{< gallery >}}
+{{< gallery bg="white">}}

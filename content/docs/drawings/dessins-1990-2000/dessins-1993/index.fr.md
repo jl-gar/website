@@ -14,4 +14,4 @@ texte
 
 
 
-{{< gallery >}}
+{{< gallery bg="white">}}

@@ -11,4 +11,4 @@ toc: true
 Here I choose canvases stretched with natural linen, using a single color each time. A constrained space—the surface of the canvas—holds a liquid material. I seek the point of tension between these two parameters, the frame and the flow. Each new circumstance brings its own differences.
 
 
-{{< gallery >}}
+{{< gallery bg="white">}}
