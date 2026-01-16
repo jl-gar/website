@@ -1,2 +1,4 @@
 public/*
 resources/_gen/*
+assets/jsconfig.json
+resources/_gen/assets/docs/scss/

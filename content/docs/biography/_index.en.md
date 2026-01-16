@@ -5,6 +5,6 @@ draft = false
 title = "Biography"
 icon = ""
 toc = true
-description = "Curriculum, exhibitions, editions"
+description = ""
 publishdate = "2023-05-03T22:37:22+01:00"
 +++

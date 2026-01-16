@@ -30,6 +30,7 @@ title = ""
 pathName = ""
 toc = false
 descriptions = true # enable front matter descriptions under content title
+navDesc = false
 
 [params.flexsearch]
 searchSectionsIndex = "ALL"

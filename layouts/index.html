@@ -1,4 +1,4 @@
-{{- define "main" -}}
+<!-- {{- define "main" -}}
     {{- $landingPageEnabled := .Site.Params.landingpage.enabled | default true -}}
     {{- if not $landingPageEnabled -}}
         <script>
@@ -20,3 +20,13 @@
         {{- end -}}
     {{- end -}}
 {{- end -}}
+ -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="0; url={{ .Site.BaseURL }}docs" />
+</head>
+<body>
+</body>
+</html>

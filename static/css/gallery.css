@@ -189,11 +189,12 @@
 .pswp-caption-title {
     margin-bottom: .25rem;
     font-weight: 600;
+    font-size: 0.85rem;
 }
 
 .pswp-caption-meta {
-    font-size: .95rem;
-    color: #ddd;
+    font-size: 0.75rem;
+    color: #fff;
 }
 
 /* Custom caption box injected by our uiRegister handler */
@@ -202,12 +203,13 @@
     left: 50%;
     transform: translateX(-50%);
     bottom: 16px;
-    background: #d9d9d9;
+    background: #fff;
     color: #333;
-    padding: 8px 12px;
+    padding: 6px 10px;
     border-radius: 4px;
     max-width: calc(100% - 40px);
     text-align: center;
+    font-size: 0.85rem;
 }
 
 /* Hide caption when image is zoomed in */
@@ -219,11 +221,11 @@
 .pswp,
 .pswp__bg,
 .pswp__ui {
-    background: #d9d9d9 !important;
+    background: #fff !important;
 }
 
 /* Ensure the overlay layer is fully opaque grey */
 .pswp__bg {
-    background-color: #d9d9d9 !important;
+    background-color: #fff !important;
     opacity: 1 !important;
 }

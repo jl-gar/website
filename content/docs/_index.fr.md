@@ -8,6 +8,7 @@ icon = ""
 toc = true
 publishdate = "2023-05-03T22:37:22+01:00"
 tags = []
+hidetitle = true
 +++
 
-{{< centered-image src="images/broken-mirror.png" alt="Jean Louis Garnell" caption="Sreet Brokenmirror Selfportrait #17 - 2023" height="400px" >}}
+{{< centered-image src="images/dessin-11-09-2018.png" alt="Jean Louis Garnell" caption="Drawing 11 - 09 - 2018" height=50vh >}}

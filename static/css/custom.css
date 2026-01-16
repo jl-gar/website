@@ -32,7 +32,12 @@ h4,
 } */
 
 :root {
-    --secondary: #ce4f00;
+    /* --secondary: #ce4f00; */
+    --sidebar-bg: var(--primary-50-08-on-white) !important;
+    --top-header-bg: var(--primary-50-08) !important;
+    --sidebar-menu-active-bg: #fff !important;
+    --sidebar-dropdown-hover-bg: #fff !important;
+    --pswp-bg: #d9d9d9 !important;
 }
 
 

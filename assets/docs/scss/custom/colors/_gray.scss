@@ -1,17 +1,27 @@
-// blue (default)
+// Gray-blue color scheme based on primary #626574
 :root {
-    --primary: #626574;
-    --primary-50: #f0f4ff;
-    --primary-100: #e9e9e9;
-    --primary-200: #8b8b8b;
-    --primary-300: #8d8d8d;
-    --primary-400: #616161;
-    --primary-800: #424242;
+    --primary: #626574; // Main gray-blue
+    --primary-50: rgb(245, 245, 246); // Very light gray-blue (almost white)
+    --primary-100: #e8e9eb; // Light gray-blue tint
+    --primary-200: #d1d2d7; // Lighter gray-blue
+    --primary-300: #b0b2ba; // Light-medium gray-blue
+    --primary-400: #898c96; // Medium gray-blue
+    --primary-500: #626574; // Base primary
+    --primary-600: #4f515d; // Darker gray-blue
+    --primary-700: #3c3e46; // Dark gray-blue
+    --primary-800: #292a2f; // Very dark gray-blue
+    --primary-900: #161719; // Almost black gray-blue
 
-    --primary-hsl: var(--blue-500-hsl);
-    --primary-50-hsl: var(--blue-50-hsl);
-    --primary-100-hsl: var(--blue-100-hsl);
-    --primary-200-hsl: var(--blue-200-hsl);
-    --primary-300-hsl: var(--blue-300-hsl);
-    --primary-800-hsl: var(--blue-800-hsl);
+    --primary-50-08: rgba(245, 245, 246, 0.8); // Very light gray-blue at 80% opacity
+    --primary-50-08-on-white: #f7f7f8; // rgba(245,245,246,0.8) composited over #ffffff
+
+    --secondary: #4f515d; // Darker gray-blue for contrast/hover
+    --secondary-hover: #3c3e46; // Even darker for active states
+
+    --primary-hsl: 228, 9%, 42%;
+    --primary-50-hsl: 228, 9%, 96%;
+    --primary-100-hsl: 228, 9%, 91%;
+    --primary-200-hsl: 228, 9%, 82%;
+    --primary-300-hsl: 228, 9%, 70%;
+    --primary-800-hsl: 228, 9%, 18%;
 }
