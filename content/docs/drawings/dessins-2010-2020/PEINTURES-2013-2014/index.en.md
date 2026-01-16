@@ -1,5 +1,5 @@
 ---
-weight: 3100
+weight: 3210
 title: "Paintings 2013"
 description: "2013"
 icon: "article"

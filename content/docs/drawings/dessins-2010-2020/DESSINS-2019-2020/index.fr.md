@@ -1,6 +1,6 @@
 ---
-weight: 3500
-title: "Drawings 2019-2020"
+weight: 3240
+title: "Dessins"
 description: "2019-2020"
 icon: "article"
 date: "2023-01-23T11:08:20Z"
@@ -9,9 +9,7 @@ draft: false
 toc: true
 ---
 
-
-A selection of some drawings.
-
+Une sélection de quelques dessins.
 
 
 {{< gallery >}}
