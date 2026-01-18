@@ -1,10 +1,10 @@
 [
  
   {
-    "file": "media/rj2rj1.jpg",
-    "title": "RJ #2 RJ #1",
+    "file": "media/RJ-1-2000.jpg",
+    "title": "RJ #1",
     "date": "2000",
-    "dimensions_physical": "2 x (40 × 40 cm)",
+    "dimensions_physical": "40 × 40 cm",
     "dimensions_pixels": {
       "width": 709,
       "height": 300
@@ -12,10 +12,10 @@
     "series": ""
   },
   {
-    "file": "media/rj3rj8.jpg",
-    "title": "RJ #3 RJ #8",
+    "file": "media/RJ-2-2000.jpg",
+    "title": "RJ #2",
     "date": "2000",
-    "dimensions_physical": "2 x (40 × 40 cm)",
+    "dimensions_physical": "40 × 40 cm",
     "dimensions_pixels": {
       "width": 709,
       "height": 300
@@ -23,10 +23,10 @@
     "series": ""
   },
   {
-    "file": "media/rj4rj7.jpg",
-    "title": "RJ #4 RJ #7",
+    "file": "media/RJ-3-2000.jpg",
+    "title": "RJ #3",
     "date": "2000",
-    "dimensions_physical": "2 x (40 × 40 cm)",
+    "dimensions_physical": "40 × 40 cm",
     "dimensions_pixels": {
       "width": 709,
       "height": 300
@@ -34,17 +34,39 @@
     "series": ""
   },
   {
-    "file": "media/rj6rj5.jpg",
-    "title": "RJ #6 RJ #5",
+    "file": "media/RJ-4-2000.jpg",
+    "title": "RJ #4",
     "date": "2000",
-    "dimensions_physical": "2 x (40 × 40 cm)",
+    "dimensions_physical": "40 × 40 cm",
     "dimensions_pixels": {
       "width": 709,
       "height": 300
     },
     "series": ""
   },
-   {
+  {
+    "file": "media/RJ-5-2000.jpg",
+    "title": "RJ #5",
+    "date": "2000",
+    "dimensions_physical": "40 × 40 cm",
+    "dimensions_pixels": {
+      "width": 709,
+      "height": 300
+    },
+    "series": ""
+  },
+  {
+    "file": "media/RJ-7-2001.jpg",
+    "title": "RJ #7",
+    "date": "2000",
+    "dimensions_physical": "40 × 40 cm",
+    "dimensions_pixels": {
+      "width": 709,
+      "height": 300
+    },
+    "series": ""
+  },
+  {
     "file": "media/rosesjaunes1.jpg",
     "title": "ROSES JAUNES #1",
     "date": "2000",

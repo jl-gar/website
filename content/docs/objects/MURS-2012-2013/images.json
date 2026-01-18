@@ -3,7 +3,7 @@
     "file": "media/mur-i-2012.jpg",
     "title": "MURS I",
     "date": "2012",
-    "dimensions_physical": null,
+    "dimensions_physical": "250 × 550 cm",
     "dimensions_pixels": {
       "width": 800,
       "height": 523
@@ -14,7 +14,7 @@
     "file": "media/mur-ii-2013.jpg",
     "title": "MURS II",
     "date": "2013",
-    "dimensions_physical": null,
+    "dimensions_physical": "250 × 550 cm",
     "dimensions_pixels": {
       "width": 800,
       "height": 426
@@ -25,7 +25,7 @@
     "file": "media/mur-iii-2013.jpg",
     "title": "MURS III",
     "date": "2013",
-    "dimensions_physical": null,
+    "dimensions_physical": "250 × 550 cm",
     "dimensions_pixels": {
       "width": 800,
       "height": 447
@@ -33,10 +33,10 @@
     "series": ""
   },
   {
-    "file": "media/mur-iv-2013.jpg",
+    "file": "media/mur-IV-2013.jpg",
     "title": "MURS IV",
     "date": "2013",
-    "dimensions_physical": null,
+    "dimensions_physical": "250 × 550 cm",
     "dimensions_pixels": {
       "width": 800,
       "height": 458
@@ -47,7 +47,7 @@
     "file": "media/mur-v-2013.jpg",
     "title": "MURS V",
     "date": "2013",
-    "dimensions_physical": null,
+    "dimensions_physical": "250 × 550 cm",
     "dimensions_pixels": {
       "width": 800,
       "height": 454

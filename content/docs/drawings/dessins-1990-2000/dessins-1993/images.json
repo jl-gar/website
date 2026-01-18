@@ -1,9 +1,141 @@
 [
   {
-    "file": "media/1993_01_01_M.jpg",
-    "title": "24 - 05",
-    "date": "2017",
-    "dimensions_physical": "50 × 65 cm",
+    "file": "media/1993_01_01.jpg",
+    "title": "1993 - 01 - 01",
+    "date": "",
+    "dimensions_physical": "56 × 76 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/1993_01_03.jpg",
+    "title": "1993 - 01 - 03",
+    "date": "",
+    "dimensions_physical": "56 × 76 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/1993_01_24.jpg",
+    "title": "1993 - 01 - 24",
+    "date": "",
+    "dimensions_physical": "56 × 76 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/1993_03_22.jpg",
+    "title": "1993 - 03 - 22",
+    "date": "",
+    "dimensions_physical": "56 × 76 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/1993_11_29.jpg",
+    "title": "1993 - 11 - 29",
+    "date": "",
+    "dimensions_physical": "56 × 76 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/1993_11_30.jpg",
+    "title": "1993 - 11 - 30",
+    "date": "",
+    "dimensions_physical": "56 × 76 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/1993_12_01.jpg",
+    "title": "1993 - 12 - 01",
+    "date": "",
+    "dimensions_physical": "56 × 76 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/1993_12_02.jpg",
+    "title": "1993 - 12 - 02",
+    "date": "",
+    "dimensions_physical": "56 × 76 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/1993_12_03.jpg",
+    "title": "1993 -12 - 03",
+    "date": "",
+    "dimensions_physical": "56 × 76 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/1993_12_09.jpg",
+    "title": "1993 - 12 - 09",
+    "date": "",
+    "dimensions_physical": "56 × 76 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/1993_12_12.jpg",
+    "title": "1993 - 12 - 12",
+    "date": "",
+    "dimensions_physical": "56 × 76 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/1993_12_13.jpg",
+    "title": "1993 - 12 - 13",
+    "date": "",
+    "dimensions_physical": "56 × 76 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/1993_12_15.jpg",
+    "title": "1993 - 12 - 15",
+    "date": "",
+    "dimensions_physical": "56 × 76 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 476

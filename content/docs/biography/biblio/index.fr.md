@@ -9,9 +9,25 @@ toc: false
 Une liste chronologique des publications et catalogues.
 
 
-## 2020 - aujourd'hui
+## 2025
 
-*à compléter*
+- Les spectres, Mettray "Illuminations", Mettray Éditions.
+
+## 2024
+
+- ARTCARJAT 2024, Biennale artCarjat 2024, Fareins.
+
+## 2022
+
+- MÉTAMORPHOSE, LA PHOTOGRAPHIE EN FRANCE 1968–1989, Pavillon Populaire, Montpellier.
+
+## 2021
+
+- 1976–1986, Une décennie de couleur,  Ed. Lienard.
+
+## 2020
+
+-La photographie à l’épreuve de l’abstraction, Centre Photographique d’Île‑de‑France. Ed. Hatje Cantz.
 
 ## 2019
 
@@ -195,7 +211,7 @@ Une liste chronologique des publications et catalogues.
 
 ## 1985
 
-- {{< biblio-link image="PAYSAGES-PHOTOGRAPHIES.jpg" alt="Paysages" >}}Paysages{{< /biblio-link >}}, photographies, ed. Hazan, Paris.
+- {{< biblio-link image="TRAVAUX-EN-COURS.jpg" alt="Paysages Photographies" >}}Paysages Photographies{{< /biblio-link >}},  ed. Hazan, Paris.
 - {{< biblio-link image="LA-CIUTAT-FANTASMA.jpg" alt="La ciutad fantasma" >}}La ciutad fantasma{{< /biblio-link >}}, cat, Fondation Miro, Barcelone.
 
 {{< biblio-photoswipe >}}

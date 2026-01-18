@@ -11,6 +11,61 @@
     "series": ""
   },
   {
+    "file": "media/ICI-MEME-II-1-1993.jpg",
+    "title": "ici-même II-1",
+    "date": "1993",
+    "dimensions_physical": "60×80, 100x120, 80x60, 120x150, 80x100 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
+    },
+    "series": ""
+  },
+   {
+    "file": "media/ICI-MEME-II-2-1993.jpg",
+    "title": "ici-même II-2",
+    "date": "1993",
+    "dimensions_physical": "60×80, 100x120, 80x60, 120x150, 80x100 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
+    },
+    "series": ""
+  },
+   {
+    "file": "media/ICI-MEME-II-3-1993.jpg",
+    "title": "ici-même II-3",
+    "date": "1993",
+    "dimensions_physical": "60×80, 100x120, 80x60, 120x150, 80x100 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
+    },
+    "series": ""
+  },
+   {
+    "file": "media/ICI-MEME-II-4-1993.jpg",
+    "title": "ici-même II-4",
+    "date": "1993",
+    "dimensions_physical": "60×80, 100x120, 80x60, 120x150, 80x100 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
+    },
+    "series": ""
+  },
+   {
+    "file": "media/ICI-MEME-II-5-1993.jpg",
+    "title": "ici-même II-5",
+    "date": "1993",
+    "dimensions_physical": "60×80, 100x120, 80x60, 120x150, 80x100 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
+    },
+    "series": ""
+  },
+  {
     "file": "media/icimeme4.jpg",
     "title": "ici-même IV",
     "date": "1994",
@@ -22,8 +77,118 @@
     "series": ""
   },
   {
+    "file": "media/ICI-MEME-IV-1-1994.jpg",
+    "title": "ici-même IV-1",
+    "date": "1994",
+    "dimensions_physical": "80x100, 120x150, 80x100, 96x120, 96x120 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
+    },
+    "series": ""
+  },
+  {
+    "file": "media/ICI-MEME-IV-2-1994.jpg",
+    "title": "ici-même IV-2",
+    "date": "1994",
+    "dimensions_physical": "80x100, 120x150, 80x100, 96x120, 96x120 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
+    },
+    "series": ""
+  },
+  {
+    "file": "media/ICI-MEME-IV-3-1994.jpg",
+    "title": "ici-même IV-3",
+    "date": "1994",
+    "dimensions_physical": "80x100, 120x150, 80x100, 96x120, 96x120 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
+    },
+    "series": ""
+  },
+  {
+    "file": "media/ICI-MEME-IV-4-1994.jpg",
+    "title": "ici-même IV-4",
+    "date": "1994",
+    "dimensions_physical": "80x100, 120x150, 80x100, 96x120, 96x120 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
+    },
+    "series": ""
+  },
+  {
+    "file": "media/ICI-MEME-IV-5-1994.jpg",
+    "title": "ici-même IV-5",
+    "date": "1994",
+    "dimensions_physical": "80x100, 120x150, 80x100, 96x120, 96x120 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
+    },
+    "series": ""
+  },
+  {
     "file": "media/icimeme5.jpg",
     "title": "ici-même V",
+    "date": "1994",
+    "dimensions_physical": "100×80, 120x100, 80x100, 100x120, 60x80 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
+    },
+    "series": ""
+  },
+   {
+    "file": "media/ICI-MEME-V-1-1994.jpg",
+    "title": "ici-même V-1",
+    "date": "1994",
+    "dimensions_physical": "100×80, 120x100, 80x100, 100x120, 60x80 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
+    },
+    "series": ""
+  },
+   {
+    "file": "media/ICI-MEME-V-2-1994.jpg",
+    "title": "ici-même V-2",
+    "date": "1994",
+    "dimensions_physical": "100×80, 120x100, 80x100, 100x120, 60x80 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
+    },
+    "series": ""
+  },
+   {
+    "file": "media/ICI-MEME-V-3-1994.jpg",
+    "title": "ici-même V-3",
+    "date": "1994",
+    "dimensions_physical": "100×80, 120x100, 80x100, 100x120, 60x80 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
+    },
+    "series": ""
+  },
+   {
+    "file": "media/ICI-MEME-V-4-1994.jpg",
+    "title": "ici-même V-4",
+    "date": "1994",
+    "dimensions_physical": "100×80, 120x100, 80x100, 100x120, 60x80 cm",
+    "dimensions_pixels": {
+      "width": 1000,
+      "height": 256
+    },
+    "series": ""
+  },
+   {
+    "file": "media/ICI-MEME-V-5-1994.jpg",
+    "title": "ici-même V-5",
     "date": "1994",
     "dimensions_physical": "100×80, 120x100, 80x100, 100x120, 60x80 cm",
     "dimensions_pixels": {

@@ -2,7 +2,7 @@
   {
     "file": "media/suite-2020.jpg",
     "title": "SUITE 2020",
-    "date": "2020",
+    "date": null,
     "dimensions_physical": "6 x (90 × 60 cm)",
     "dimensions_pixels": {
       "width": 1000,
@@ -12,8 +12,8 @@
   },
   {
     "file": "media/suite-2020-1.jpg",
-    "title": "SUITE",
-    "date": "2020",
+    "title": "SUITE 2020 #1",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 335,
@@ -23,8 +23,8 @@
   },
   {
     "file": "media/suite-2020-2.jpg",
-    "title": "SUITE",
-    "date": "2020",
+    "title": "SUITE 2020 #2",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 334,
@@ -34,8 +34,8 @@
   },
   {
     "file": "media/suite-2020-3.jpg",
-    "title": "SUITE",
-    "date": "2020",
+    "title": "SUITE 2020 #3",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 334,
@@ -45,8 +45,8 @@
   },
   {
     "file": "media/suite-2020-4.jpg",
-    "title": "SUITE",
-    "date": "2020",
+    "title": "SUITE 2020 #4",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 334,
@@ -56,8 +56,8 @@
   },
   {
     "file": "media/suite-2020-5.jpg",
-    "title": "SUITE",
-    "date": "2020",
+    "title": "SUITE 2020 #5",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 334,
@@ -67,8 +67,8 @@
   },
   {
     "file": "media/suite-2020-6.jpg",
-    "title": "SUITE",
-    "date": "2020",
+    "title": "SUITE 2020 #6",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 334,
@@ -79,7 +79,7 @@
   {
     "file": "media/suite-2021.jpg",
     "title": "SUITE 2021",
-    "date": "2021",
+    "date": null,
     "dimensions_physical": "6 x (90 × 60 cm)",
     "dimensions_pixels": {
       "width": 1000,
@@ -89,8 +89,8 @@
   },
   {
     "file": "media/suite-2021-1.jpg",
-    "title": "SUITE",
-    "date": "2021",
+    "title": "SUITE 2021 #1",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 333,
@@ -100,8 +100,8 @@
   },
   {
     "file": "media/suite-2021-2.jpg",
-    "title": "SUITE",
-    "date": "2021",
+    "title": "SUITE 2021 #2",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 333,
@@ -111,8 +111,8 @@
   },
   {
     "file": "media/suite-2021-3.jpg",
-    "title": "SUITE",
-    "date": "2021",
+    "title": "SUITE 2021 #3",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 333,
@@ -122,8 +122,8 @@
   },
   {
     "file": "media/suite-2021-4.jpg",
-    "title": "SUITE",
-    "date": "2021",
+    "title": "SUITE 2021 #4",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 333,
@@ -133,8 +133,8 @@
   },
   {
     "file": "media/suite-2021-5.jpg",
-    "title": "SUITE",
-    "date": "2021",
+    "title": "SUITE 2021 #5",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 333,
@@ -144,8 +144,8 @@
   },
   {
     "file": "media/suite-2021-6.jpg",
-    "title": "SUITE",
-    "date": "2021",
+    "title": "SUITE 2021 #6",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 333,
@@ -156,7 +156,7 @@
   {
     "file": "media/suite-2022.jpg",
     "title": "SUITE 2022",
-    "date": "2022",
+    "date": null,
     "dimensions_physical": "6 x (90 × 60 cm)",
     "dimensions_pixels": {
       "width": 1000,
@@ -166,8 +166,8 @@
   },
   {
     "file": "media/suite-2022-1.jpg",
-    "title": "SUITE",
-    "date": "2022",
+    "title": "SUITE 2022 #1",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 333,
@@ -177,8 +177,8 @@
   },
   {
     "file": "media/suite-2022-2.jpg",
-    "title": "SUITE",
-    "date": "2022",
+    "title": "SUITE 2022 #2",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 333,
@@ -188,8 +188,8 @@
   },
   {
     "file": "media/suite-2022-3.jpg",
-    "title": "SUITE",
-    "date": "2022",
+    "title": "SUITE 2022 #3",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 333,
@@ -199,8 +199,8 @@
   },
   {
     "file": "media/suite-2022-4.jpg",
-    "title": "SUITE",
-    "date": "2022",
+    "title": "SUITE 2022 #4",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 333,
@@ -210,8 +210,8 @@
   },
   {
     "file": "media/suite-2022-5.jpg",
-    "title": "SUITE",
-    "date": "2022",
+    "title": "SUITE 2022 #5",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 333,
@@ -221,8 +221,8 @@
   },
   {
     "file": "media/suite-2022-6.jpg",
-    "title": "SUITE",
-    "date": "2022",
+    "title": "SUITE 2022 #6",
+    "date": null,
     "dimensions_physical": "90 × 60 cm",
     "dimensions_pixels": {
       "width": 333,
