@@ -15,7 +15,7 @@ Parameters:
 {{ $caption := .Get "caption" | default "" }}
 
 <figure style="text-align:center; margin: 2rem 0;">
-  <img src="{{ $src | relURL }}" alt="{{ $alt }}" style="max-width: {{ $width }}; height: {{ $height }};" />
+  <img src="{{ $src | relURL }}" alt="{{ $alt }}" style="max-width: 100%; max-height: {{ $height }}; width: auto; height: auto; object-fit: contain;" />
   {{ if $caption }}
   <figcaption style="margin-top: 0.5rem; font-style: italic; color: #666;">{{ $caption }}</figcaption>
   {{ end }}
