@@ -9,6 +9,8 @@ URLs. */}}
 {{ $raw = replaceRE "^\\xef\\xbb\\xbf" "" $raw }}
 {{ $raw = replaceRE "^\\s+" "" $raw }}
 {{ $images := transform.Unmarshal $raw }}
+{{/* Get fullres parameter (default: false) - if true, use original images in lightbox */}}
+{{ $fullres := eq ($.Get "fullres") "true" }}
 {{ $imgsSlice := slice }}
 {{ range $i, $img := $images }}
     {{ $fname := path.Base $img.file }}
@@ -39,16 +41,23 @@ URLs. */}}
         {{ else }}
             {{ $thumbURL = $res.RelPermalink }}
         {{ end }}
-        {{/* create a medium display image for PhotoSwipe (resize keeping aspect) */}}
-        {{ $display := $res.Resize (printf "%dx" $displayMaxWidth) }}
-        {{ if $display }}
-            {{ $displayURL = $display.RelPermalink }}
-            {{ $displayW = $display.Width }}
-            {{ $displayH = $display.Height }}
-        {{ else }}
+        {{/* create a display image for PhotoSwipe - use original if fullres=true */}}
+        {{ if $fullres }}
             {{ $displayURL = $res.RelPermalink }}
             {{ $displayW = $res.Width }}
             {{ $displayH = $res.Height }}
+        {{ else }}
+            {{/* create a medium display image (resize keeping aspect) */}}
+            {{ $display := $res.Resize (printf "%dx" $displayMaxWidth) }}
+            {{ if $display }}
+                {{ $displayURL = $display.RelPermalink }}
+                {{ $displayW = $display.Width }}
+                {{ $displayH = $display.Height }}
+            {{ else }}
+                {{ $displayURL = $res.RelPermalink }}
+                {{ $displayW = $res.Width }}
+                {{ $displayH = $res.Height }}
+            {{ end }}
         {{ end }}
     {{ else }}
         {{/* try site static path fallback */}}
@@ -66,7 +75,13 @@ URLs. */}}
 {{ $gidSafe := replaceRE "[^A-Za-z0-9_-]+" "-" $rawPath }}
 {{/* Get background color parameter (default: grey) */}}
 {{ $bg := .Get "bg" | default "grey" }}
-<div class="jl-gallery jl-gallery-tiles" id="pswp-gallery-{{ $gidSafe }}" data-gallery-uid="{{ .Page.File.Path | urlize }}" data-bg="{{ $bg }}">
+{{/* Get showcaptions parameter (default: true) */}}
+{{ $showCaptions := .Get "showcaptions" | default "true" }}
+{{ $captionClass := "" }}
+{{ if ne $showCaptions "true" }}
+    {{ $captionClass = "jl-gallery-hide-captions" }}
+{{ end }}
+<div class="jl-gallery jl-gallery-tiles {{ $captionClass }}" id="pswp-gallery-{{ $gidSafe }}" data-gallery-uid="{{ .Page.File.Path | urlize }}" data-bg="{{ $bg }}">
     <!-- fallback main image element (hidden) so gallery.js can safely call show(0) -->
     <div class="jl-gallery-view" aria-hidden="true" style="display:none;">
         <img class="jl-gallery-img" src="" alt="" />
@@ -118,6 +133,10 @@ URLs. */}}
         // dynamically load the PhotoSwipe core module per docs (keeps bundle small)
         pswpModule: () => import('https://unpkg.com/photoswipe@5/dist/photoswipe.esm.js'),
         
+        initialZoomLevel: 'fit',
+        secondaryZoomLevel: 1,
+        maxZoomLevel: 4,
+
         showHideAnimationType: 'fade',
         // Padding as percentage of viewport - reads from CSS variable --pswp-padding-percent
         paddingFn: (viewportSize) => {

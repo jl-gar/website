@@ -15,4 +15,4 @@ One day during the Christmas vacations in the family house in Brittany, my mothe
 
 
 
-{{< gallery >}}
+{{< gallery fullres="true">}}

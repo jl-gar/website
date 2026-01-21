@@ -9,4 +9,4 @@ draft: false
 toc: true
 ---
 
-{{< gallery >}}
+{{< gallery showcaptions="false">}}

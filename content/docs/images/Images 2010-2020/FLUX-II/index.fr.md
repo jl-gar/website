@@ -12,4 +12,4 @@ toc: true
 
 Les cartons d'invitations reçus et accumulés pendant des années sont assemblés pour constituer cette pièce de 29 mètres de longueur, dont on peut voir ici un fragment.
 
-{{< gallery >}}
+{{< gallery fullres="true">}}
