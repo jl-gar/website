@@ -3,24 +3,14 @@
     "file": "media/braunschweig.jpg",
     "title": null,
     "date": null,
+    "description" : "LEGENDE",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 375,
       "height": 500
     },
     "series": ""
-  },
-  {
-    "file": "media/carre-garnell.jpg",
-    "title": null,
-    "date": null,
-    "dimensions_physical": null,
-    "dimensions_pixels": {
-      "width": 500,
-      "height": 375
-    },
-    "series": ""
-  },
+   }, 
   {
     "file": "media/jusqualusuredulangage.jpg",
     "title": null,
@@ -68,6 +58,7 @@
   {
     "file": "media/portrait-tremorin.jpg",
     "title": null,
+
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -78,7 +69,8 @@
   },
   {
     "file": "media/prato.jpg",
-    "title": null,
+    "title":null,
+
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {

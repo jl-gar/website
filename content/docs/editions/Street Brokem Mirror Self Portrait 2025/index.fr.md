@@ -1,5 +1,5 @@
 ---
-weight: 6100
+weight: 6130
 title: "Street Broken Mirror Self Portrait"
 description: "2020-2025"
 icon: "article"

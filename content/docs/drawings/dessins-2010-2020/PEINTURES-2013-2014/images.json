@@ -1,78 +1,243 @@
 [
   {
     "file": "media/2014-4.jpg",
-    "title": "#2",
-    "date": "2013",
-    "dimensions_physical": "33 × 41 cm",
-    "dimensions_pixels": {
-      "width": 600,
-      "height": 401
-    },
-    "series": ""
-  },
-  {
-    "file": "media/11-2014.jpg",
-    "title": "#11",
+    "title": "#4",
     "date": "2014",
-    "dimensions_physical": "130 × 97 cm",
-    "dimensions_pixels": {
-      "width": 401,
-      "height": 600
-    },
-    "series": ""
-  },
-  {
-    "file": "media/12-2013.jpg",
-    "title": "#12",
-    "date": "2013",
     "dimensions_physical": "73 × 60 cm",
     "dimensions_pixels": {
-      "width": 401,
-      "height": 600
+      "width": 600,
+      "height": 401
     },
     "series": ""
   },
-  {
-    "file": "media/12-2014.jpg",
-    "title": "#12",
+    {
+    "file": "media/2014-9.jpg",
+    "title": "#9",
     "date": "2014",
-    "dimensions_physical": "130 × 97 cm",
-    "dimensions_pixels": {
-      "width": 401,
-      "height": 600
-    },
-    "series": ""
-  },
-  {
-    "file": "media/17-2014.jpg",
-    "title": "#17",
-    "date": "2014",
-    "dimensions_physical": "130 × 97 cm",
-    "dimensions_pixels": {
-      "width": 401,
-      "height": 600
-    },
-    "series": ""
-  },
-  {
-    "file": "media/19-2014.jpg",
-    "title": "#19",
-    "date": "2014",
-    "dimensions_physical": "97 × 130 cm",
+    "dimensions_physical": "130 x 96 cm",
     "dimensions_pixels": {
       "width": 600,
       "height": 401
     },
     "series": ""
   },
-  {
-    "file": "media/24-2013.jpg",
-    "title": "#24",
-    "date": "2013",
+    {
+    "file": "media/2014-10.jpg",
+    "title": "#10",
+    "date": "2014",
+    "dimensions_physical": "130 x 96 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+    {
+    "file": "media/2014-11.jpg",
+    "title": "#11",
+    "date": "2014",
+    "dimensions_physical": "130 x 96 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+    {
+    "file": "media/2014-12.jpg",
+    "title": "#12",
+    "date": "2014",
+    "dimensions_physical": "130 x 96 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+    {
+    "file": "media/2014-13.jpg",
+    "title": "#13",
+    "date": "2014",
+    "dimensions_physical": "130 x 96 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+    {
+    "file": "media/2014-14.jpg",
+    "title": "#14",
+    "date": "2014",
+    "dimensions_physical": "130 x 96 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+    {
+    "file": "media/2014-15.jpg",
+    "title": "#15",
+    "date": "2014",
+    "dimensions_physical": "130 x 96 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+    {
+    "file": "media/2014-16.jpg",
+    "title": "#16",
+    "date": "2014",
+    "dimensions_physical": "130 x 96 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+    {
+    "file": "media/2014-17.jpg",
+    "title": "#17",
+    "date": "2014",
+    "dimensions_physical": "130 x 96 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+    {
+    "file": "media/2014-18.jpg",
+    "title": "#18",
+    "date": "2014",
     "dimensions_physical": "61 × 50 cm",
     "dimensions_pixels": {
-      "width": 400,
-      "height": 600
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+    {
+    "file": "media/2014-19.jpg",
+    "title": "#19",
+    "date": "2014",
+    "dimensions_physical": "130 x 96 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+    {
+    "file": "media/2014-20.jpg",
+    "title": "#20",
+    "date": "2014",
+    "dimensions_physical": "130 x 96 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+    {
+    "file": "media/2014-21.jpg",
+    "title": "#21",
+    "date": "2014",
+    "dimensions_physical": "130 x 96 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+    {
+    "file": "media/2014-22.jpg",
+    "title": "#22",
+    "date": "2014",
+    "dimensions_physical": "130 x 96 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+    {
+    "file": "media/2014-23.jpg",
+    "title": "#23",
+    "date": "2014",
+    "dimensions_physical": "130 x 96 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+    {
+    "file": "media/2014-24.jpg",
+    "title": "#24",
+    "date": "2014",
+    "dimensions_physical": "61 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+    {
+    "file": "media/2014-25.jpg",
+    "title": "#25",
+    "date": "2014",
+    "dimensions_physical": "73 × 60 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+   {
+    "file": "media/2014-26.jpg",
+    "title": "#26",
+    "date": "2014",
+    "dimensions_physical": "61 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+   {
+    "file": "media/2014-27.jpg",
+    "title": "#27",
+    "date": "2014",
+    "dimensions_physical": "73 × 60 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+   {
+    "file": "media/2014-28.jpg",
+    "title": "#28",
+    "date": "2014",
+    "dimensions_physical": "73 × 60 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
+  },
+   {
+    "file": "media/2014-29.jpg",
+    "title": "#29",
+    "date": "2014",
+    "dimensions_physical": "120 × 80 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
     },
     "series": ""
   }

@@ -1,7 +1,7 @@
 ---
 weight: 4300
-title: "Lampes"
-description: "2018"
+title: "Lamps"
+description: "2017"
 icon: "article"
 date: "2023-01-23T11:03:46Z"
 lastmod: "2023-01-23T11:03:46Z"

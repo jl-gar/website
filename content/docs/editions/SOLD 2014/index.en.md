@@ -1,6 +1,6 @@
 ---
-weight: 6100
-title: "Sold 2014 "
+weight: 6110
+title: "Sold"
 description: "2014"
 icon: "article"
 date: "2023-01-23T11:01:58Z"
@@ -10,11 +10,12 @@ toc: false
 ---
 
 
-## Book publishing project
+
+
+I am sixty years old, my parents' house is sold, I buy a new camera, I start this project. A meditation on our life, from all these objects, images, things, archives, which arise when we have to empty a family home. Unpublished.
 
 
 
-Text
 
 
 

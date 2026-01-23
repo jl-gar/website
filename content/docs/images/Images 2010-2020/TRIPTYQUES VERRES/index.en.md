@@ -1,6 +1,6 @@
 ---
 weight: 2408
-title: "Glass triptyques"
+title: "Glass triptychs"
 description: "2012"
 icon: "article"
 date: "2023-01-23T10:56:44Z"

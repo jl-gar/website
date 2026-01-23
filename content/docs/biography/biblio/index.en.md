@@ -1,6 +1,6 @@
 ---
 title: "Bibliography"
-date: 2025-12-31
+date: "2025-12-31"
 weight: 1600
 draft: false
 toc: false

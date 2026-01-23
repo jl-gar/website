@@ -1,7 +1,7 @@
 ---
 weight: 2510
-title: "Suites"
-description: "2020-2023"
+title: "Suites 2020 - 2023"
+description: ""
 icon: "article"
 date: "2023-01-23T11:16:20Z"
 lastmod: "2023-01-23T11:16:20Z"

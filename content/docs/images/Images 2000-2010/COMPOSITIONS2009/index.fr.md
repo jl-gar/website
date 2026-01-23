@@ -13,4 +13,4 @@ Pendant quelques jours, sur le chemin entre l'appartement et l'atelier, je réco
 
 
 
-{{< gallery >}}
+{{< gallery bg="white">}}

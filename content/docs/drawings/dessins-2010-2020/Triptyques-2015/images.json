@@ -1,0 +1,35 @@
+[
+  {
+    "file": "media/TRIPTYQUE-1.jpg",
+    "title": "Triptyque #1",
+    "date": "2015",
+    "dimensions_physical": "3 x (56 × 76 cm)",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 422
+    },
+    "series": ""
+  },
+  {
+    "file": "media/TRIPTYQUE-2.jpg",
+    "title": "Triptyque #2",
+    "date": "2015",
+    "dimensions_physical": "3 x (56 × 76 cm)",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 422
+    },
+    "series": ""
+  },
+  {
+    "file": "media/TRIPTYQUE-3.jpg",
+    "title": "Triptyque #3",
+    "date": "2015",
+    "dimensions_physical": "3 x (56 × 76 cm)",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 422
+    },
+    "series": ""
+  }
+]

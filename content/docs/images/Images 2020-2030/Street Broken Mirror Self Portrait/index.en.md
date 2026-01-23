@@ -8,7 +8,10 @@ lastmod: "2023-03-03T11:41:28Z"
 draft: false
 toc: true
 ---
-TEXT
+
+
+
+I take a picture every time I found a broken mirror in the street.
 
 
 

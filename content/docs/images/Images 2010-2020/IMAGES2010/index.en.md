@@ -1,6 +1,6 @@
 ---
 weight: 2402
-title: "Images 2010"
+title: "Pictures 2010"
 description: "2010"
 icon: "article"
 date: "2023-01-23T10:55:12Z"

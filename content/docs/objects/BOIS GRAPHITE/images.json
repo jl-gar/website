@@ -1,8 +1,208 @@
 [
+  
   {
-    "file": "media/boisgraphite.jpg",
-    "title": null,
-    "date": null,
+    "file": "media/001.jpg",
+    "title": "#1",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/002.jpg",
+    "title": "#2",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/003.jpg",
+    "title": "#3",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/004.jpg",
+    "title": "#4",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/005.jpg",
+    "title": "#5",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/006.jpg",
+    "title":"#6",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/007.jpg",
+    "title": "#7",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/009.jpg",
+    "title": "#9",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/010.jpg",
+    "title": "#10",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/011.jpg",
+    "title": "#11",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/012.jpg",
+    "title": "#12",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/013.jpg",
+    "title": "#13",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/014.jpg",
+    "title":"#14",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/015.jpg",
+    "title": "#15",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/016.jpg",
+    "title": "#16",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/017.jpg",
+    "title": "#17",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/018.jpg",
+    "title": "#18",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  
+  {
+    "file": "media/019.jpg",
+    "title": "#19",
+    "date": "2009 - 2011",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 2000,
+      "height": 476
+    },
+    "series": ""
+  },
+  {
+    "file": "media/020.jpg",
+    "title": "Vue atelier",
+    "date": "2011",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 2000,

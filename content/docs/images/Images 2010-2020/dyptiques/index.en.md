@@ -1,6 +1,6 @@
 ---
 weight: 2410
-title: "Diptyques"
+title: "Diptychs"
 description: "2012"
 icon: "article"
 date: "2023-01-23T10:57:26Z"

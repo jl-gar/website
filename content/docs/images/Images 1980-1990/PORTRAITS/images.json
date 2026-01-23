@@ -31,6 +31,17 @@
       "height": 313
     },
     "series": ""
+  }, 
+  {
+    "file": "media/port-4.jpg",
+    "title": "Portrait #4",
+    "date": "1988",
+    "dimensions_physical": "71 x 63 cm",
+    "dimensions_pixels": {
+      "width": 803,
+      "height": 313
+    },
+    "series": ""
   },
   {
     "file": "media/port-5.jpg",
@@ -55,6 +66,17 @@
     "series": ""
   },
   {
+    "file": "media/port-7.jpg",
+    "title": "Portrait #7",
+    "date": "1988",
+    "dimensions_physical": "71 x 63 cm",
+    "dimensions_pixels": {
+      "width": 803,
+      "height": 313
+    },
+    "series": ""
+  },
+  {
     "file": "media/port-8.jpg",
     "title": "Portrait #8",
     "date": "1988",
@@ -68,6 +90,17 @@
   {
     "file": "media/port-9.jpg",
     "title": "Portrait #9",
+    "date": "1988",
+    "dimensions_physical": "71 x 63 cm",
+    "dimensions_pixels": {
+      "width": 803,
+      "height": 313
+    },
+    "series": ""
+  },
+  {
+    "file": "media/port-12.jpg",
+    "title": "Portrait #12",
     "date": "1988",
     "dimensions_physical": "71 x 63 cm",
     "dimensions_pixels": {

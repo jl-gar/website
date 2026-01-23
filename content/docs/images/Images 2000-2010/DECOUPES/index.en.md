@@ -1,6 +1,6 @@
 ---
 weight: 2306
-title: "Cuts"
+title: "Cutouts"
 description: "2001 - 2002"
 icon: "article"
 date: "2023-01-23T10:46:40Z"
