@@ -19,4 +19,4 @@ I buy a Nikon Coolpix, 3M pixels, and everything can be photographed, in any pos
 
 
 
-{{< gallery >}}
+{{< gallery bg="white" >}}

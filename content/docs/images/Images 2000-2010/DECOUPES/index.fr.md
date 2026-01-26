@@ -17,4 +17,4 @@ j’achète un Nikon Coolpix, 3M pixels.Tout devient photographiable, dans toute
 
 
 
-{{< gallery >}}
+{{< gallery bg="white" >}}
