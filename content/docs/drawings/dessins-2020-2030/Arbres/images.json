@@ -33,6 +33,28 @@
     "series": ""
   },
   {
+    "file": "media/2021-10-12-I.jpg",
+    "title": "2021-10-12-1",
+    "date": null,
+    "dimensions_physical": "50 × 35 cm",
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 541
+    },
+    "series": ""
+  },
+  {
+    "file": "media/2021-10-12-II.jpg",
+    "title": "2021-10-12-2",
+    "date": null,
+    "dimensions_physical": "50 × 35 cm",
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 541
+    },
+    "series": ""
+  },
+  {
     "file": "media/2021-10-13-I.jpg",
     "title": "2021-10-13-1",
     "date": null,
@@ -90,17 +112,6 @@
   {
     "file": "media/2021-10-14-IV.jpg",
     "title": "2021-10-14-4",
-    "date": null,
-    "dimensions_physical": "50 × 35 cm",
-    "dimensions_pixels": {
-      "width": 700,
-      "height": 541
-    },
-    "series": ""
-  },
-  {
-    "file": "media/2021-10-15-II - EMIL.jpg",
-    "title": "2021-10-15-1",
     "date": null,
     "dimensions_physical": "50 × 35 cm",
     "dimensions_pixels": {
@@ -209,6 +220,17 @@
     "series": ""
   },
   {
+    "file": "media/2021-10-17-II.jpg",
+    "title": "2021-10-17-II",
+    "date": null,
+    "dimensions_physical": "50 × 35 cm",
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 541
+    },
+    "series": ""
+  },
+  {
     "file": "media/2021-10-17-III.jpg",
     "title": "2021-10-17-3",
     "date": null,
@@ -251,16 +273,6 @@
       "height": 541
     },
     "series": ""
-  },
-  {
-    "file": "media/GAR_3282-EMIL.jpg",
-    "title": "2021-10-18",
-    "date": null,
-    "dimensions_physical": "50 × 35 cm",
-    "dimensions_pixels": {
-      "width": 700,
-      "height": 541
-    },
-    "series": ""
   }
+  
 ]

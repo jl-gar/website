@@ -23,7 +23,7 @@ New multiple pieces, series Les découpes, NBC, a video projection Soft Sofa. In
 
 Participates in exhibitions, Objets dans l'objectif at the Bibliothèque Nationale with 2 series, Les rescapés, Le bout de la table, La force de l'art in 2006 at the Grand-Palais, curated by Éric de Chassey, Les peintres de la vie moderne at the Centre Pompidou. New pieces, Escalier B, for Fotografia Europea in Reggio-Emilia, and Morimondo 2007, shown by Roberta Valtorta at the MUFOCO in Milan.
 
-Other exhibitions include Topografías de la memoria in Bilbao, Tenerife, Universal archive at the MACBA in Barcelona and Lisbon. The complete Disorders is shown at the Lianzhou Festival 2012, curated by François Cheval. Qu'est ce que la photographie, for the opening of the Centre Pompidou's photography gallery in 2015, Landschaft.Umwelt.Kultur, exhibition and symposium at the Museum für Photographie in Braunschweig.
+Other exhibitions include Topografías de la memoria in Bilbao, Tenerife, Universal archive at the MACBA in Barcelona and Lisbon. The complete Disorders is shown at the Lianzhou Festival 2012, curated by François Cheval. Qu'est ce que la photographie, for the opening of the Centre Pompidou's photography gallery in 2015, Landschaft.Umwelt.Kultur, exhibition and symposium at the Museum für Fotografie in Braunschweig.
 
 Publication in 2016 at the CPM in Marseille of the book Jean-Louis Garnell, including several recent series. In 2017, In the workshop of the DATAR Photographic Mission, at the Rencontres d'Arles , then French Landscapes at the BnF. Participation in the Brighton Photo Biennial 2018: A New Europe.
 

@@ -1,7 +1,7 @@
 [
   {
     "file": "media/braunschweig.jpg",
-    "title": "légende image 1",
+    "title": "Colloque: From a Topographic to an Environmental Understanding of Space, Museum für Fotografie Braunschweig, 2015-11-01",
     "date": null,
     "description" : "LEGENDE",
     "dimensions_physical": null,
@@ -13,7 +13,7 @@
    }, 
   {
     "file": "media/jusqualusuredulangage.jpg",
-    "title": null,
+    "title": "Jean-Louis Garnell, Brice Matthieussent et des étudiants de L'ESADMM, Marseille, 2013-10-23, © Séverine Préhembaud",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -23,8 +23,30 @@
     "series": ""
   },
   {
+    "file": "media/carre-garnell.jpg",
+    "title": "Patrice Carré, Jean-Louis Garnell, ESADMM Marseille, 2015-10-14",
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 400
+    },
+    "series": ""
+  },
+  {
+    "file": "media/Ed Grazda- William Eggleston-Anne Bertrand and Jean-Louis Garnell at the Dinner Party of the Biennale de Lyon- June 22- 2001.jpg",
+    "title": "Milliam Eggleston, Anne Bertrand, Jean-Louis Garnell at the Dinner Party of the Biennale de Lyon, 2001-06-22, © Ed Grazda",
+    "date": null,
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 400
+    },
+    "series": ""
+  },
+  {
     "file": "media/marianne-jlg-mika.jpg",
-    "title": null,
+    "title": "Mika, Marianne Mueller, Jean-Louis Garnell, Marseille, 2015-06-16",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -35,7 +57,7 @@
   },
   {
     "file": "media/mep.jpg",
-    "title": null,
+    "title": "Yves Trémorin, Éric Rondepierre, Jean-Louis Garnell, Paris, 2015-03-07",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -46,7 +68,7 @@
   },
   {
     "file": "media/portrait-laboye.jpg",
-    "title": null,
+    "title": "Jean-Louis Garnell, La Mission Photographique de la DATAR, Montpellier, 1986-05, © Roland Laboye",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -57,8 +79,7 @@
   },
   {
     "file": "media/portrait-tremorin.jpg",
-    "title": null,
-
+    "title": "Jean-Louis Garnell, Rennes, 2016-02-05, © Yves Trémorin",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -69,8 +90,7 @@
   },
   {
     "file": "media/prato.jpg",
-    "title":null,
-
+    "title": "Hannah Collins, Thomas Struth, Suzanne Lafont, John Coplans, Craigie Horsfield, Giovanna Minelli, Jean-Louis Garnell, Jean-François Chevrier, James Lingwood, Prato, 1989-06, © Thomas struth",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -81,7 +101,7 @@
   },
   {
     "file": "media/saintpetersbourg.jpg",
-    "title": null,
+    "title": "Jean-Louis Garnell, Christine Lapostolle, Brice Matthieussent, Saint-Petersbourg, 2006-12-19",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -92,7 +112,7 @@
   },
   {
     "file": "media/stuttgart.jpg",
-    "title": null,
+    "title": "Jean-Baptiste Joly, Emmanuel Loi, ici-même V, Kunstverein Stuttgart, 2001-04-21",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -103,7 +123,7 @@
   },
   {
     "file": "media/mep2017.jpg",
-    "title": null,
+    "title": "Atelier Gens d'Images: Paysages français, Une aventure photographique  (1984-2017), MEP, 2017-09-26,Frédérique Delangle, Jean-Louis Garnell, Stephane Asseline, Laure Vasconi, Cyrille Weiner, Raphaële Bertho, Héloïse Conésa",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -114,7 +134,7 @@
   },
   {
     "file": "media/naples-1990.jpg",
-    "title": null,
+    "title": "Andreas Gursky, Thomas Struth, Jean-Louis Garnell, Naples, 1990-01-20",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {

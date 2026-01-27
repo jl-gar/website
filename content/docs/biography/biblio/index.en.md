@@ -12,11 +12,12 @@ A chronological list of publications and catalogues.
 
 ## 2025
 
-- Les spectres, Mettray "Illuminations", Mettray Éditions.
-
+- {{< biblio-link image="Mettray-2025.jpg" alt="Mettray" >}}Les spectres{{< /biblio-link >}},   Mettray "Illuminations", Mettray Éditions.
+- 
 ## 2024
 
-- ARTCARJAT 2024, Biennale artCarjat 2024, Fareins.
+- {{< biblio-link image="Art-Carjat.jpg" alt="Art-Carjat" >}}ArtCarjat 2024{{< /biblio-link >}}, 
+  Biennale, Fareins. 
 
 ## 2022
 
@@ -24,18 +25,18 @@ A chronological list of publications and catalogues.
 
 ## 2021
 
-- 1976–1986, Une décennie de couleur,  Ed. Lienard.
+- {{< biblio-link image="Une-decennie-de-couleur.jpg" alt="Decennie de couleur" >}}1976–1986, Une décennie de couleur{{< /biblio-link >}}, Ed. Lienard.
+-  {{< biblio-link image="Nachbilder.jpg" alt="Nachbilder" >}}Nachbilder{{< /biblio-link >}}, Eine Foto Text Anthologie, ed. Spector Books.
 
 ## 2020
 
-- La photographie à l’épreuve de l’abstraction, Centre Photographique d’Île‑de‑France, Ed. Hatje Cantz.
-
-- {{< biblio-link image="ARLES-2019..jpg" alt="ARLES 2019" >}}ARLES 2019{{< /biblio-link >}}, Les Rencontres de la photographie, ed. ACTES SUD, Arles.
+- {{< biblio-link image="Photographie-a-l-epreuve-de-l-abstraction.jpg" alt="ARLES 2019" >}} Photography to the test of abstraction{{< /biblio-link >}}, Centre Photographique d’Île‑de‑France, Ed. Hatje Cantz.
+- {{< biblio-link image="ARLES-2019.jpg" alt="ARLES 2019" >}}ARLES 2019{{< /biblio-link >}}, Les Rencontres de la photographie, ed. ACTES SUD, Arles.
 - {{< biblio-link image="ENTRETIEN-JEAN-LOUIS-GARNELL-ERICK-GUDIMARD-CPM-2019.jpg" alt="Pictures for a while" >}}Pictures for a while{{< /biblio-link >}}, Entretien avec Erick Gudimard, Centre Photographique Marseille.
 - {{< biblio-link image="FRAMED-LANDSCAPES.jpg" alt="Framed Landscapes" >}}Framed Landscapes{{< /biblio-link >}}, European Photography Commissions 1984–2019, ICO Fundacion, Madrid.
 - {{< biblio-link image="ART-PRESS-469.jpg" alt="art press 469" >}}art press 469{{< /biblio-link >}}, Jean-Louis Garnell, Texte Anne Bertrand.
 - {{< biblio-link image="50-ANS-PHOTOGRAPHIE.jpg" alt="50 ans de photographie française — De 1970 à nos jours" >}}50 ans de photographie française — De 1970 à nos jours{{< /biblio-link >}}, Michel Poivert, ed. Textuel.
-- {{< biblio-link image="50-ANS-PHOTOGRAPHIE.jpg" alt="Photo-graphier le chantier" >}}Photo-graphier le chantier{{< /biblio-link >}}, sous la direction de Jordi Ballesta, Anne-Céline Callens, ed. Hermann.
+- {{< biblio-link image="Photographier-le-chantier.jpg" alt="Photo-graphier le chantier" >}}Photo-graphier le chantier{{< /biblio-link >}}, sous la direction de Jordi Ballesta, Anne-Céline Callens, ed. Hermann.
 
 ## 2018
 
