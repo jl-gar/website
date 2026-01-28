@@ -13,4 +13,4 @@ toc: true
 TEXT
 
 
-{{< gallery >}}
+{{< gallery showcaptions="false">}}

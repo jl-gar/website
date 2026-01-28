@@ -12,4 +12,4 @@ toc: true
 Texte
 
 
-{{< gallery >}}
+{{< gallery showcaptions="false">}}

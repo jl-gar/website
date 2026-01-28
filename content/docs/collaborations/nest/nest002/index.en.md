@@ -10,8 +10,8 @@ toc: false
 hidden: true
 ---
 
-nest N°7 winter 1999-2000
-Splendor in the glass
+nest N°7 winter 1999-2000,
+Splendor in the glass,
 Text David Plante
 
 
