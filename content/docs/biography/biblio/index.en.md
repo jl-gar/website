@@ -184,7 +184,7 @@ A chronological list of publications and catalogues.
 
 - {{< biblio-link image="KUNST-EUROPA.jpg" alt="Kunst" >}}Kunst{{< /biblio-link >}}, Europa 1991, cat, ed. ADKV.
 - {{< biblio-link image="LA-ROCHE-SUR-YON" alt="Garnell" >}}Garnell{{< /biblio-link >}}, cat, ed. Musée de La Roche-Sur-Yon, texte: Doris Von Drateln.
-- {{< biblio-link image="KUNST-EUROPA.jpg" alt="\"Cataloghi\"" >}}"Cataloghi"{{< /biblio-link >}}, L'Unita, 04/11/91, Rosanna Albertini.
+- Cataloghi, L'Unita, 04/11/91, Rosanna Albertini.
 
 ## 1990
 

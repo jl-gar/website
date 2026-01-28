@@ -1,0 +1,35 @@
+[
+  {
+    "file": "media/LES-CATALOGUES-Chauvigny-1991.jpg",
+    "title": "Les Bains douches, Chauvigny",
+    "date": "1991",
+    "dimensions_physical": " 60 x ( 70 x 50 cm)",
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 392
+    },
+    "series": ""
+  },
+  {
+    "file": "media/LES-CATALOGUES-3.jpg",
+    "title": "Collection, fin XXème — La collection du FRAC Poitou‑Charentes, Le Confort Moderne, Poitiers ",
+    "date": "1995",
+    "dimensions_physical": " 60 x ( 70 x 50 cm)",
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 392
+    },
+    "series": ""
+  },
+  {
+    "file": "media/LES-CATALOGUES-4.jpg",
+    "title": "Bis repetita placent — Rurart, Rouillé.",
+    "date": "2005",
+    "dimensions_physical": " 60 x ( 70 x 50 cm)",
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 392
+    },
+    "series": ""
+  }
+]
