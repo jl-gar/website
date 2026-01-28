@@ -1,6 +1,6 @@
 ---
 weight: 2216
-title: "DAYS"
+title: "Days"
 description: "1997"
 icon: "article"
 date: "2023-01-23T10:37:32Z"

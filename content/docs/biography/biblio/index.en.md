@@ -60,7 +60,7 @@ A chronological list of publications and catalogues.
 - {{< biblio-link image="qu-est-ce-que-la-photographie.jpg" alt="Qu'est-ce que la photographie?" >}}Qu'est-ce que la photographie?{{< /biblio-link >}}, Clément Chéroux, Karolina Ziebinska-Lewandowska, Centre Pompidou-Xavier Barral, Paris.
 - {{< biblio-link image="PRATIQUES.jpg" alt="Pratiques" >}}Pratiques{{< /biblio-link >}}, Les cahiers de la médecine utopique N69, Paris.
 - {{< biblio-link image="VOICES-OF-PHOTOGRAPHY.jpg" alt="VOICES OF PHOTOGRAPHY N15" >}}VOICES OF PHOTOGRAPHY N15{{< /biblio-link >}}, Taiwan.
-- {{< biblio-link image="GEO-PHOTOGRAPHIES.jpg" alt="Géo-Photographies" >}}Géo-Photographies{{< /biblio-link >}}, Danièlraphie.jpge Méaux, Filigranes Editions.
+- {{< biblio-link image="GEO-PHOTOGRAPHIES.jpg" alt="Géo-Photographies" >}}Géo-Photographies{{< /biblio-link >}}, Danièle Méaux, Filigranes Editions.
 - {{< biblio-link image="LANDSCHAFT-UMWELT-KULTUR.jpg" alt="Landschaft. Umwelt. Kultur. Gisela Parak" >}}Landschaft. Umwelt. Kultur. Gisela Parak{{< /biblio-link >}}, Museum für Photographie, Braunschweig.
 - {{< biblio-link image="INVENTARIO-11.jpg" alt="INVENTARIO N11" >}}INVENTARIO N11{{< /biblio-link >}}, Corraini Edizione, Mantova.
 

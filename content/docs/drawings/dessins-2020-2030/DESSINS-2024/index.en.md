@@ -1,5 +1,5 @@
 ---
-weight: 3260
+weight: 3340
 title: "Drawings 2024"
 description: "Selection"
 icon: "article"

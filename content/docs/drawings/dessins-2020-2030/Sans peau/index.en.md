@@ -1,5 +1,5 @@
 ---
-weight: 3420
+weight: 3325
 title: "Skinless"
 description: "2022"
 icon: "article"
