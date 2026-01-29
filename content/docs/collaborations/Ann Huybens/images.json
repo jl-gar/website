@@ -1,9 +1,75 @@
 [
   {
-    "file": "media/001.jpg",
-    "title": "",
-    "date": "",
-    "dimensions_physical": null,
+    "file": "media/applepeels9.jpg",
+    "title": "Apple peels #9 pour une impression sur soie",
+    "date": "1999",
+    "dimensions_physical": "120 x 120 cm",
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 313
+    },
+    "series": ""
+  },
+  {
+    "file": "media/POM-POM-carton.jpg",
+    "title": "Collection Pom-Pom",
+    "date": "2003",
+    "dimensions_physical": "",
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 313
+    },
+    "series": ""
+  },
+  {
+    "file": "media/Pom-Pom.jpg",
+    "title": "Présentation de la collection Pom-Pom",
+    "date": "2002",
+    "dimensions_physical": "",
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 313
+    },
+    "series": ""
+  },
+  {
+    "file": "media/CHEMISE.jpg",
+    "title": "Chemise, impression sur soie",
+    "date": "2002",
+    "dimensions_physical": "",
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 313
+    },
+    "series": ""
+  },
+  {
+    "file": "media/AnnHuybens-ApplePeels.jpg",
+    "title": "Rideau, impression sur soie",
+    "date": "2002",
+    "dimensions_physical": "",
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 313
+    },
+    "series": ""
+  },
+  {
+    "file": "media/DECEMBRE-2003.jpg",
+    "title": "Photographie pour une impression sur soie",
+    "date": "2003",
+    "dimensions_physical": "",
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 313
+    },
+    "series": ""
+  },
+  {
+    "file": "media/Under-the-blanket.jpg",
+    "title": "Présentation de la collection Under the blanket",
+    "date": "2004",
+    "dimensions_physical": "",
     "dimensions_pixels": {
       "width": 400,
       "height": 313

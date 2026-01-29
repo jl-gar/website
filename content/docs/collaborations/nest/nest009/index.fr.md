@@ -10,8 +10,9 @@ toc: false
 hidden: true
 ---
 
-nest N°12 Summer 2001
-Armchair philosopher
+**nest N°12 Summer 2001**
+
+Armchair philosopher,
 Text Paul B. Franklin
 
 {{< gallery >}}
