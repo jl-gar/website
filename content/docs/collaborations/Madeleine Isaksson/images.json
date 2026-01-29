@@ -1,8 +1,30 @@
 [
   {
-    "file": "media/001.jpg",
-    "title": "",
-    "date": "",
+    "file": "media/Failles.jpg",
+    "title": "Failles",
+    "date": "2004",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 313
+    },
+    "series": ""
+  },
+  {
+    "file": "media/Infiltrations-2022.jpg",
+    "title": "Infiltrations",
+    "date": "2022",
+    "dimensions_physical": null,
+    "dimensions_pixels": {
+      "width": 400,
+      "height": 313
+    },
+    "series": ""
+  },
+  {
+    "file": "media/Sept-vallees.jpg",
+    "title": "Les sept vallées",
+    "date": "2001",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 400,

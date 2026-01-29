@@ -10,10 +10,9 @@ toc: true
 ---
 
 
-Texte
+Toulouse
 
-
-
+J’achète fin 1983 ma première chambre 4x5’’ et décide après quelques essais de travailler en couleur, abandonnant définitivement le noir et blanc des photographies faites jusqu’à présent. J’explore la ville de Toulouse et ses environs pour aboutir à cet ensemble de 46 photographies
 
 
 

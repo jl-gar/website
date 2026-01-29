@@ -9,6 +9,9 @@ draft: false
 toc: false
 ---
 
-texte
+
+Drawings 1993
+
+During my residency at the Akademie Solitude in Stuttgart in 1990–1991, I began drawing in sketchbooks. Back in my studio, I set up a drawing table near the window and continued drawing, while pursuing my main activity, which remained photography. 
 
 {{< gallery bg="white">}}

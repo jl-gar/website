@@ -9,5 +9,38 @@
       "height": 473
     },
     "series": ""
+  },
+   {
+    "file": "media/LIEU-COMMUN-1.jpg",
+      "title": "Lieu commun #1",
+    "date": "1989",
+    "dimensions_physical": "96 x 120 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 473
+    },
+    "series": ""
+  },
+   {
+    "file": "media/LIEU-COMMUN-2.jpg",
+      "title": "Lieu commun #2",
+    "date": "1989",
+    "dimensions_physical": "96 x 120 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 473
+    },
+    "series": ""
+  },
+   {
+    "file": "media/LIEU-COMMUN-3.jpg",
+      "title": "Lieu commun #3",
+    "date": "1989",
+    "dimensions_physical": "96 x 120 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 473
+    },
+    "series": ""
   }
 ]

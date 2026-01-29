@@ -9,9 +9,9 @@ draft: false
 toc: true
 ---
 
+Toulouse
 
-
-Text
+At the end of 1983, I purchased my first 4x5" camera and, after a few attempts, decided to work in colour, abandoning the black and white I used for the photographs I had taken up until then. I explored the city of Toulouse and its surroundings, resulting in this set of 46 photographs.
 
 
 
