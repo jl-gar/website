@@ -17,4 +17,4 @@ Tout a commencé avec cette forme repérée dans un dessin précédent, une sort
 
 
 
-{{< gallery bg="white">}}
+{{< gallery showcaptions="false">}}
