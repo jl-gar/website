@@ -15,4 +15,4 @@ Floating forms of improbable organisms still alive but raw, the skin no longer p
 
 
 
-{{< gallery bg="white">}}
+{{< gallery showcaptions="false" bg="white">}}

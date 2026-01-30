@@ -16,5 +16,5 @@ It started with this shape I spotted in a previous drawing, a kind of human- tre
 
 
 
-{{< gallery bg="white">}}
-{{< gallery showcaptions="false">}}
+
+{{< gallery showcaptions="false" bg="white">}}

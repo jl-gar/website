@@ -17,5 +17,5 @@ A first fragile humanoid character with multiple internal wounds appeared in Bri
 
 
 
-{{< gallery bg="white">}}
-{{< gallery showcaptions="false">}}
+
+{{< gallery showcaptions="false" bg="white">}}
