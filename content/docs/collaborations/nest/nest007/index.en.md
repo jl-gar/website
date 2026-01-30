@@ -10,8 +10,9 @@ toc: false
 hidden: true
 ---
 
-nest N°9 Summer 2000
-Conjuring the elements with Garouste and Bonetti
+**nest N°9 Summer 2000**
+
+Conjuring the elements with Garouste and Bonetti,
 Text Joe Holtzman
 
 

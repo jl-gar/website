@@ -10,8 +10,9 @@ toc: false
 hidden: true
 ---
 
-nest N°17 Summer 2002
-A pad of paper
+**nest N°17 Summer 2002**
+
+A pad of paper,
 Texte Paul B. Franklin
 
 {{< gallery >}}

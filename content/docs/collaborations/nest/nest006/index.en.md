@@ -10,8 +10,9 @@ toc: false
 hidden: true
 ---
 
-nest N°14 Fall 2001
-Proust's bedroom
+**nest N°14 Fall 2001**
+
+Proust's bedroom,
 Text Lydia davis
 
 

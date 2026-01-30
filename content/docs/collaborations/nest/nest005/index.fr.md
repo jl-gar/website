@@ -10,8 +10,9 @@ toc: false
 hidden: true
 ---
 
-nest N°17 Summer 2002
-The Flemish primitives
+**nest N°17 Summer 2002**
+
+The Flemish primitives,
 Texte Lisa Robertson
 
 

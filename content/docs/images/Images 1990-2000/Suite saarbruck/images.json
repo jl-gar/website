@@ -11,6 +11,17 @@
     "series": ""
   },
   {
+    "file": "media/001.jpg",
+    "title": "Suite de Sarrebruck #1",
+    "date": "1992",
+    "dimensions_physical": "90 x 100 cm",
+    "dimensions_pixels": {
+      "width": 500,
+      "height": 392
+    },
+    "series": ""
+  },
+  {
     "file": "media/002.jpg",
     "title": "Suite de Sarrebruck #2",
     "date": "1992",

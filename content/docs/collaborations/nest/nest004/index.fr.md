@@ -10,8 +10,9 @@ toc: false
 hidden: true
 ---
 
-nest N°8 Spring 2000
-Grange à la Grange
+**nest N°8 Spring 2000**
+
+Grange à la Grange,
 Texte Paul B. Franklin
 
 {{< gallery >}}
