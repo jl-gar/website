@@ -19,4 +19,5 @@ Un premier personnage humanoïde fragile aux multiples blessures intérieures es
 
 
 
+{{< gallery bg="white">}}
 {{< gallery showcaptions="false">}}
