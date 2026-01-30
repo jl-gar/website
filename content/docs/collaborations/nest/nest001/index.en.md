@@ -16,10 +16,6 @@ hidden: true
 Eye of the needle, Text Mitchell Owens
 
 
-# titre 1
-
-## titre 2
-
-### titre 3
+ 
 
 {{< gallery >}}

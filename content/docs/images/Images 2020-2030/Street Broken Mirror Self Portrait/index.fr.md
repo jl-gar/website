@@ -13,4 +13,4 @@ toc: true
 Je fais une photographie chaque fois que je trouve un miroir brisé dans la rue.
 
 
-{{< gallery >}}
+{{< gallery showcaptions="false">}}

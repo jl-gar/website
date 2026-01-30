@@ -15,4 +15,4 @@ I take a picture every time I found a broken mirror in the street.
 
 
 
-{{< gallery >}}
+{{< gallery showcaptions="false">}}

@@ -16,8 +16,7 @@ hidden: true
 17 Juin – 17 Septembre 2023
 
 
-
-C'est à la suite de la visite de la collection Pinault à l'ancienne Bourse du commerce où tant d'argent a été englouti dans la rénovation et l'achat des pièces présentées, dont la copie du rapt des sabines réalisée en cire et vouée à la fonte représente l'archétype obscène de la dépense, que s'est formalisé le désir de réaliser la série des 0€. L'exposition rassemble une sélection de pièces inédites réalisées avec des choses trouvées ou des éléments végétaux récoltés dans la nature: la série des 0€ (2020-2023), les Compositions photographiées de résidus ramassés en chemin (2009) et une installation murale qui réunit un ensemble d'éléments divers (2013). Ces pièces constituent une sorte d'archéologie improbable de l'aujourd'hui et répondent à l'exigence - nécessité contemporaine de faire avec le minimum, sans oublier le poétique qui a imprégné leur réalisation.
+It was after visiting the Pinault collection at the former Bourse du Commerce, where so much money was spent on the renovation and purchase of the pieces presented, of which the copy of the Abduction of the Sabines made in wax and destined to be melted down represents the obscene archetype of expenditure, that the desire to create this series of 0€ pieces was formalised. They are all rigorously made of found objects, often thrown away, or plant elements collected in nature. In the past I have made several series with found things, Compositions 2009, Bois graphités 2009-2011, Walls 2012-2013, but in this new series, the logic of a zero cost for their production is pushed to the extreme.
 
 
 {{< gallery >}}
