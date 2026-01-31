@@ -76,6 +76,18 @@
     },
     "series": ""
   },
+
+  {
+    "file": "media/PAYSAGES-8.jpg",
+    "title": "PAYSAGE #7",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 475
+    },
+    "series": ""
+  },
   {
     "file": "media/paysage9.jpg",
     "title": "PAYSAGE #9",
@@ -156,6 +168,72 @@
   {
     "file": "media/paysage16.jpg",
     "title": "PAYSAGE #16",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 475
+    },
+    "series": ""
+  },
+  {
+    "file": "media/PAYSAGES-32.jpg",
+    "title": "PAYSAGE #32",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 475
+    },
+    "series": ""
+  },
+  {
+    "file": "media/PAYSAGES-46.jpg",
+    "title": "PAYSAGE #46",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 475
+    },
+    "series": ""
+  },
+  {
+    "file": "media/PAYSAGES-60.jpg",
+    "title": "PAYSAGE #60",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 475
+    },
+    "series": ""
+  },
+  {
+    "file": "media/PAYSAGES-84.jpg",
+    "title": "PAYSAGE #84",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 475
+    },
+    "series": ""
+  },
+  {
+    "file": "media/PAYSAGES-85.jpg",
+    "title": "PAYSAGE #85",
+    "date": "1986",
+    "dimensions_physical": "40 × 50 cm",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 475
+    },
+    "series": ""
+  },
+  {
+    "file": "media/PAYSAGES-98.jpg",
+    "title": "PAYSAGE #98",
     "date": "1986",
     "dimensions_physical": "40 × 50 cm",
     "dimensions_pixels": {

@@ -9,7 +9,7 @@ draft: false
 toc: true
 ---
 
-Period when the images start to group together, I make the first diptychs and triptychs. I have just moved from Toulouse to Paris, to do the work on the Channel Tunnel site, to make the series of night portraits. I intertwine all these elements. Photography of young boys in Labruguière, indistinct girl in Paris, images of art, of the north, of the Parisian place of life. An enigmatic story, between description and meditation. The various pieces are installed on the walls of the college, some were moved years later, and some lost photographs have been replaced recently.
+Period when the pictures start to group together, I make the first diptychs and triptychs. I have just moved from Toulouse to Paris, to do the work on the Channel Tunnel site, to make the series of night portraits. I intertwine all these elements. Photography of young boys in Labruguière, indistinct girl in Paris, pictures of art, of the north, of the Parisian place of life. An enigmatic story, between description and meditation. The various pieces are installed on the walls of the college, some were moved years later, and some lost photographs have been replaced recently.
 
 
 

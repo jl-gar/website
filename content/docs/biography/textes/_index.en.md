@@ -10,35 +10,35 @@ A selection of texts and critical writings.
 
 ## 2012
 
-- [Les Désordres 1987–1988](./desordres2012/), texte François Cheval, Lianzhou Photo 2012.
-- [Désordres #10](./desordres10/), texte Etienne Helmer.
+- Les Désordres 1987–1988, text François Cheval, Lianzhou Photo 2012.
+- Désordres #10, text Etienne Helmer.
 
 ## 2011
 
-- [L'esprit du temps](./lespritdutemps/), texte: Anne Bertrand. Exposition Jean-Louis Garnell, galerie Whiteprojects.
+- L'esprit du temps, text: Anne Bertrand. Exposition Jean-Louis Garnell, galerie Whiteprojects.
 
 ## 2010
 
-- Rendez vous à Shanghai, ed. ESBAM, Marseille. Texte Brice Matthieussent.
+- Rendez vous à Shanghai, ed. ESBAM, Marseille. Text Brice Matthieussent.
 
 ## 2004
 
 - [Red fire](./feurouge/), à propos de: Par le noir, text: Rosanna Albertini.
-- [Jean-Louis Garnell](./angers/), texte: Anne Bertrand, ed. Artothèque Angers.
+- Jean-Louis Garnell, text: Anne Bertrand, ed. Artothèque Angers.
 
 ## 2001
 
-- Jean-Louis garnell, cat, ed. Verlag das Wunderhorn, textes Uta Nusser.
-- Connivence 2001, Biennale de Lyon, ed. RMN Lyon. Texte Anne Bertrand.
+- Jean-Louis garnell, cat, ed. Verlag das Wunderhorn, texts Uta Nusser.
+- Connivence 2001, Biennale de Lyon, ed. RMN Lyon. Text Anne Bertrand.
 
 ## 1995
 
-- Jean louis Garnell, Werke 1985–95, cat, ed. Fotomuseum Winterthur - Scalo, texte: Urs Stahel.
-- Collection, fin XXème, cat, ed. FRAC Poitou-Charentes, texte Blandine Chavanne.
+- Jean louis Garnell, Werke 1985–95, cat, ed. Fotomuseum Winterthur - Scalo, text: Urs Stahel.
+- Collection, fin XXème, cat, ed. FRAC Poitou-Charentes, text Blandine Chavanne.
 
 ## 1992
 
-- Garnell, cat, ed. Stadtwerke Sarrebrück, texte: Bernd Schulz.
+- Garnell, cat, ed. Stadtwerke Sarrebrück, text: Bernd Schulz.
 
 ## 1991
 
@@ -47,7 +47,7 @@ A selection of texts and critical writings.
 
 ## 1990
 
-- Passages de l'image, cat, ed. Centre Pompidou, Paris, texte: S. Roumette, repris dans Art Press spécial Photo, 1990.
+- Passages de l'image, cat, ed. Centre Pompidou, Paris, text: S. Roumette, repris dans Art Press spécial Photo, 1990.
 
 ## 1989
 
@@ -56,7 +56,7 @@ A selection of texts and critical writings.
 
 ## 1988
 
-- Garnell, cat, Centre d'art contemporain, Toulouse. Texte Jean-François Chevrier.
+- Garnell, cat, Centre d'art contemporain, Toulouse.  Jean-François Chevrier.
 - "Le regard pensif", Régis Durand, ed. La Différence, pp80 à 85.
 
 ## 1987
