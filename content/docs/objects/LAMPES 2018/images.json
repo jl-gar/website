@@ -1,15 +1,5 @@
 [
-  {
-    "file": "media/001.jpg",
-    "title": "LAMPES",
-    "date": "1995",
-    "dimensions_physical": null,
-    "dimensions_pixels": {
-      "width": 331,
-      "height": 500
-    },
-    "series": ""
-  },
+
   {
     "file": "media/002.jpg",
     "title": "LAMPES #1",
@@ -317,16 +307,6 @@
       "height": 500
     },
     "series": ""
-  },
-  {
-    "file": "media/030.jpg",
-    "title": "LAMPES",
-    "date": "1995",
-    "dimensions_physical": null,
-    "dimensions_pixels": {
-      "width": 331,
-      "height": 500
-    },
-    "series": ""
   }
+  
 ]

@@ -240,5 +240,16 @@
       "height": 401
     },
     "series": ""
+  },
+  {
+    "file": "media/2014-Atelier.jpg",
+    "title": "Vue Atelier",
+    "date": "2014",
+    "dimensions_physical": "",
+    "dimensions_pixels": {
+      "width": 600,
+      "height": 401
+    },
+    "series": ""
   }
 ]

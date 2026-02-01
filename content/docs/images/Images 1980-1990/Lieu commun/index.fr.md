@@ -11,7 +11,7 @@ toc: true
 
 
 
-Texte
+Anticipant un projet d'aménagement des abords du site touristique du pont du Gard, une commande est passée à une dizaine de photographes. Si l'on ne parlait pas encore de surtourisme, la nécessité de réguler les circulations aux alentours du site s'avérait déjà nécessaire. Les pièces seront montrées dans l'exposition Vues du pont, accompagnée d'un catalogue.
 
 
 
