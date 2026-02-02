@@ -21,18 +21,7 @@
     },
     "series": ""
   },
-  {
-    "file": "media/Pom-Pom.jpg",
-    "title": "Présentation de la collection Pom-Pom",
-    "date": "2002",
-    "dimensions_physical": "",
-    "dimensions_pixels": {
-      "width": 400,
-      "height": 313
-    },
-    "series": ""
-  },
-  {
+   {
     "file": "media/CHEMISE.jpg",
     "title": "Chemise, impression sur soie",
     "date": "2002",
@@ -78,7 +67,7 @@
   },
   {
   "file": "media/Rideau.jpg",
-  "title": "Imprimé sur soie",
+  "title": "Rideau, tissu imprimé sur soie",
   "date": "2004",
   "dimensions_physical": "",
   "dimensions_pixels": {

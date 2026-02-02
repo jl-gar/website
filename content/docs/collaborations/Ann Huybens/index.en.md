@@ -10,7 +10,9 @@ toc: false
 hidden: false
 ---
 
-
+Fashion designer Ann Huybens selected photographs to create fabric prints 
+for three of her collections presented between 2002 and 2004. 
+Pom Pom - 2002, Under the Blanket - 2003, ----- - 2004
 
 
 {{< gallery >}}
