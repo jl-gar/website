@@ -56,7 +56,7 @@ A selection of texts and critical writings.
 
 ## 1988
 
-- Garnell, cat, Centre d'art contemporain, Toulouse.  Jean-François Chevrier.
+- Garnell, cat, Centre d'art contemporain, Toulouse. Text Jean-François Chevrier.
 - "Le regard pensif", Régis Durand, ed. La Différence, pp80 à 85.
 
 ## 1987

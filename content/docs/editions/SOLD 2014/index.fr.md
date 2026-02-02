@@ -9,7 +9,7 @@ draft: false
 toc: false
 ---
 
-
+## Projet pour une édition
 
 
 J'ai soixante ans, la maison de mes parents est vendue, j'achète un nouvel appareil photo, je commence ce projet. Une méditation sur notre vie, à partir de tous ces objets, images, choses, archives, qui surgissent lorsque l'on doit vider une maison de famille.

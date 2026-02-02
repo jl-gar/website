@@ -29,4 +29,6 @@ Publication in 2016 at the CPM in Marseille of the book Jean-Louis Garnell, incl
 
 Invited to present his work at the Cerisy symposium, La France en albums, at Monique Sicard's seminar at the ENS, at the Cité de l'Architecture et du Patrimoine in Paris, in dialogue with Michel Poivert.
 
-In 2019, Pictures for a while solo exhibition, with the support of the Mécènes du sud Aix-Marseille, at the Centre Photographique Marseille. Publication of an interview with Erick Gudimard ...
+In 2019, Pictures for a while solo exhibition  at the Centre Photographique Marseille, with the support of the Mécènes du sud Aix-Marseille. Publication of an interview with Erick Gudimard.
+
+The work continues, drawings, photographs, publishing projects...

@@ -32,4 +32,6 @@ Parution en 2016 au CPM de Marseille du livre Jean-Louis Garnell, incluant plusi
 
 Est invité à présenter son travail au colloque de Cerisy, la France en albums, au séminaire de Monique Sicard à l'ENS, à la Cité de l'Architecture et du Patrimoine à Paris, en dialogue avec Michel Poivert.
 
-En 2019, exposition personnelle Pictures for a while, avec le soutien des Mécènes du sud Aix-Marseille, au Centre Photographique Marseille. Publication d'un entretien avec Erick Gudimard...
+En 2019, exposition personnelle Pictures for a while au Centre Photographique Marseille, avec le soutien des Mécènes du sud Aix-Marseille. Publication d'un entretien avec Erick Gudimard.
+
+Le travail se poursuit, dessins, photographies, projets d'éditions...

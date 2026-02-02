@@ -11,8 +11,7 @@ toc: true
 
 
 
-
-Text
+In anticipation of a development project for the area surrounding the Pont du Gard tourist site, a commission was placed with a dozen photographers. Although the term ‘overtourism’ had not yet been coined, the need to regulate traffic around the site was already apparent. The works will be shown in the exhibition Vues du pont (Views of the Bridge), accompanied by a catalogue.
 
 
 
