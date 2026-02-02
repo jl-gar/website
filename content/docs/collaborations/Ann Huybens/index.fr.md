@@ -10,6 +10,12 @@ toc: false
 hidden: false
 ---
 
+La créatrice de mode Ann Huybens a choisi des photographies pour réaliser des impressions sur tissu dans trois de ses collections présentées entre 2002 et 2004. 
+Pom Pom, 2002
+Under the blanket, 2003
+-----, 2004
+
+
 
 
 {{< gallery >}}
