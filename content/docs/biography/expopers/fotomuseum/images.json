@@ -9,5 +9,70 @@
       "height": 468
     },
     "series": ""
-  }
+  },
+  {
+  "file": "media/EXPO-WINTERTHUR-001.jpg",
+  "title": "ici-même V",
+  "date": "1994",
+  "dimensions_physical": null,
+  "dimensions_pixels": {
+    "width": 330,
+    "height": 468
+  },
+  "series": ""
+},
+{
+  "file": "media/EXPO-WINTERTHUR-003.jpg",
+  "title": "ici-même V - 1994, Portraits 1988-1989 ",
+  "date": null,
+  "dimensions_physical": null,
+  "dimensions_pixels": {
+    "width": 330,
+    "height": 468
+  },
+  "series": ""
+},
+{
+  "file": "media/EXPO-WINTERTHUR-006.jpg",
+  "title": "ici-même III, Paysages 1985-1986",
+  "date": null,
+  "dimensions_physical": null,
+  "dimensions_pixels": {
+    "width": 330,
+    "height": 468
+  },
+  "series": ""
+},{
+  "file": "media/EXPO-WINTERTHUR-008.jpg",
+  "title": "Désordres ",
+  "date": "1988",
+  "dimensions_physical": null,
+  "dimensions_pixels": {
+    "width": 330,
+    "height": 468
+  },
+  "series": ""
+},
+{
+  "file": "media/EXPO-WINTERTHUR-009.jpg",
+  "title": "La véranda",
+  "date": "1987",
+  "dimensions_physical": null,
+  "dimensions_pixels": {
+    "width": 330,
+    "height": 468
+  },
+  "series": ""
+},
+{
+  "file": "media/EXPO-WINTERTHUR-010.jpg",
+  "title": "Triptyque #1",
+  "date": "1991",
+  "dimensions_physical": null,
+  "dimensions_pixels": {
+    "width": 330,
+    "height": 468
+  },
+  "series": ""
+}
 ]
