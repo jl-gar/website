@@ -1,0 +1,35 @@
+[
+  {
+    "file": "media/DIPTYQUE-1-2022.jpg",
+    "title": "Diptyque #1",
+    "date": "2022",
+    "dimensions_physical": "100 × 67 cm, 67 x 100 cm",
+    "dimensions_pixels": {
+      "width": 700,
+      "height": 467
+    },
+    "series": ""
+  },
+  {
+  "file": "media/DIPTYQUE-1-2022-G.jpg",
+  "title": "Diptyque #1 - 1",
+  "date": "2022",
+  "dimensions_physical": "100 × 67 cm",
+  "dimensions_pixels": {
+    "width": 700,
+    "height": 467
+  },
+  "series": ""
+},
+{
+  "file": "media/DIPTYQUE-1-2022-D.jpg",
+  "title": "Diptyque #1 - 2",
+  "date": "2022",
+  "dimensions_physical": "67 x 100 cm",
+  "dimensions_pixels": {
+    "width": 700,
+    "height": 467
+  },
+  "series": ""
+}
+]

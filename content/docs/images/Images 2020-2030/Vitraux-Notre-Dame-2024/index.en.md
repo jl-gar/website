@@ -1,5 +1,5 @@
 ---
-weight: 2510
+weight: 2515
 title: "Stained glass windows for Notre-Dame"
 description: "Sketches 2024"
 icon: "article"

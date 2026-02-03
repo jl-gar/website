@@ -1,5 +1,5 @@
 ---
-weight: 2510
+weight: 2515
 title: "Vitraux pour Notre-Dame"
 description: "Esquisses 2024"
 icon: "article"
