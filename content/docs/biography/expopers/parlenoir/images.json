@@ -1,8 +1,8 @@
 [
   {
     "file": "/media/PLNGP1.jpg",
-    "title": "Par le noir Détail",
-    "date": null,
+    "title": "Par le noir #1",
+    "date": "2004",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 500,
@@ -12,8 +12,8 @@
   },
   {
     "file": "/media/PLNGP2.jpg",
-    "title": "Par le noir Détail",
-    "date": null,
+    "title": "Par le noir, Détails",
+    "date": "2004",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 500,
@@ -23,8 +23,8 @@
   },
   {
     "file": "/media/PLNGP3.jpg",
-    "title": "Par le noir Détail",
-    "date": null,
+    "title": "Par le noir #3, #2",
+    "date": "2004",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 500,
@@ -34,8 +34,8 @@
   },
   {
     "file": "/media/PLNGP4.jpg",
-    "title": null,
-    "date": null,
+    "title": "Par le noir, détails",
+    "date": "2004",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 500,
@@ -45,8 +45,8 @@
   },
   {
     "file": "/media/PLNGP5.jpg",
-    "title": null,
-    "date": null,
+    "title": "Par le noir #11, #14",
+    "date": "2004",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 500,
@@ -56,8 +56,8 @@
   },
   {
     "file": "/media/PLNGP6.jpg",
-    "title": null,
-    "date": null,
+    "title": "Par le noir #12",
+    "date": "2004",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 500,
@@ -67,8 +67,8 @@
   },
   {
     "file": "/media/PLNGP7.jpg",
-    "title": "Par le noir Détail",
-    "date": null,
+    "title": "Par le noir #9, #10",
+    "date": "2004",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 500,

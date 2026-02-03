@@ -1,7 +1,7 @@
 [
   {
     "file": "/media/ANGERS1A.jpg",
-    "title": "Découpes # 4, Pages #18",
+    "title": "Découpes # 4 - 2001, Pages #18 - 1999",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -13,7 +13,7 @@
   {
     "file": "/media/ANGERS2A.jpg",
     "title": "Phénomènes #12",
-    "date": null,
+    "date": "1998",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 600,
@@ -23,8 +23,8 @@
   },
   {
     "file": "/media/ANGERS3A.jpg",
-    "title": null,
-    "date": null,
+    "title": "Pages #18 ",
+    "date": "1999",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 600,
@@ -34,8 +34,8 @@
   },
   {
     "file": "/media/ANGERS4A.jpg",
-    "title": null,
-    "date": null,
+    "title": "Découpes #4",
+    "date": "2001",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 600,
@@ -45,7 +45,7 @@
   },
   {
     "file": "/media/ANGERS5A.jpg",
-    "title": null,
+    "title": "Phénomènes #12 - 1998 , Découpes #12 - 2001",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -56,8 +56,8 @@
   },
   {
     "file": "/media/ANGERS7A.jpg",
-    "title": null,
-    "date": null,
+    "title": "ici-même V",
+    "date": "1994",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 600,
@@ -67,8 +67,8 @@
   },
   {
     "file": "/media/ANGERS8A.jpg",
-    "title": null,
-    "date": null,
+    "title": "soft Sofa, vidéoprojection",
+    "date": "2003",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 600,
@@ -78,8 +78,8 @@
   },
   {
     "file": "/media/ANGERS9A.jpg",
-    "title": null,
-    "date": null,
+    "title": "Intérieur",
+    "date": "1989",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 600,

@@ -12,8 +12,8 @@
   },
   {
     "file": "/media/GALERIEP3.jpg",
-    "title": "Découpes #1 &nbsp",
-    "date": null,
+    "title": "Découpes #1",
+    "date": "2001",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 500,
@@ -23,8 +23,8 @@
   },
   {
     "file": "/media/GALERIEP5.jpg",
-    "title": "&nbs",
-    "date": null,
+    "title": "Italie",
+    "date": "2003",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 500,
@@ -34,8 +34,8 @@
   },
   {
     "file": "/media/GALERIEP6.jpg",
-    "title": "&nbs",
-    "date": null,
+    "title": "Diptyque #1",
+    "date": "2002",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 500,
@@ -45,8 +45,8 @@
   },
   {
     "file": "/media/GALERIEP7.jpg",
-    "title": "&nbs",
-    "date": null,
+    "title": "Découpes #4",
+    "date": "2001",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 500,

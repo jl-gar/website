@@ -1,7 +1,7 @@
 [
   {
     "file": "/media/LECTOURE.jpg",
-    "title": "&nbs",
+    "title": "Maison de Saint-Louis",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -13,7 +13,7 @@
   {
     "file": "/media/LECTOURE1.jpg",
     "title": "Découpes #4",
-    "date": null,
+    "date": "2001",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 600,
@@ -23,7 +23,7 @@
   },
   {
     "file": "/media/LECTOURE2.jpg",
-    "title": "Par le noir détail",
+    "title": "Par le noir, détail",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -34,7 +34,7 @@
   },
   {
     "file": "/media/LECTOURE3.jpg",
-    "title": "Par le noir détail",
+    "title": "Par le noir, détail",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -45,7 +45,7 @@
   },
   {
     "file": "/media/LECTOURE4.jpg",
-    "title": "Par le noir détail",
+    "title": "Par le noir, détail",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -56,7 +56,7 @@
   },
   {
     "file": "/media/LECTOURE5.jpg",
-    "title": "Par le noir détail",
+    "title": "Par le noir, détail",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -67,7 +67,7 @@
   },
   {
     "file": "/media/LECTOURE6.jpg",
-    "title": "Par le noir détail",
+    "title": "Par le noir, détail",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -78,7 +78,7 @@
   },
   {
     "file": "/media/LECTOURE7.jpg",
-    "title": "Par le noir détail",
+    "title": "Par le noir, détail",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -89,7 +89,7 @@
   },
   {
     "file": "/media/LECTOURE8.jpg",
-    "title": "Par le noir détail",
+    "title": "Par le noir, détail",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -100,7 +100,7 @@
   },
   {
     "file": "/media/LECTOURE9.jpg",
-    "title": "Par le noir détail",
+    "title": "Par le noir, détail",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -111,7 +111,7 @@
   },
   {
     "file": "/media/LECTOURE10.jpg",
-    "title": "Par le noir détail",
+    "title": "Par le noir, détail",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -122,7 +122,7 @@
   },
   {
     "file": "/media/LECTOURE11.jpg",
-    "title": "Par le noir détail",
+    "title": "Par le noir, détail",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
@@ -133,7 +133,7 @@
   },
   {
     "file": "/media/LECTOURE12.jpg",
-    "title": "Par le noir détail",
+    "title": "Par le noir, détail",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
