@@ -13,7 +13,7 @@ A chronological list of publications and catalogues.
 ## 2025
 
 - {{< biblio-link image="Mettray-2025.jpg" alt="Mettray" >}}Les spectres{{< /biblio-link >}},   Mettray "Illuminations", Mettray Éditions.
-- 
+   
 ## 2024
 
 - {{< biblio-link image="Art-Carjat.jpg" alt="Art-Carjat" >}}ArtCarjat 2024{{< /biblio-link >}}, 
@@ -172,7 +172,7 @@ A chronological list of publications and catalogues.
 
 ## 1993
 
--{{< biblio-link image="CAISSE-DES-DEPOTS-I.jpg" alt="Photographie d'une collection" >}}Photographie d'une collection{{< /biblio-link >}}, cat, Caisse des Dépôts, ed. Hazan.
+- {{< biblio-link image="CAISSE-DES-DEPOTS-I.jpg" alt="Photographie d'une collection" >}}Photographie d'une collection{{< /biblio-link >}}, cat, Caisse des Dépôts, ed. Hazan.
 - {{< biblio-link image="QUINZE-ARTISTES-DANS-LE-METRO.jpg" alt="Quinze artistes dans le métro" >}}Quinze artistes dans le métro{{< /biblio-link >}}, cat, ed. MT Développement Toulouse, texte: Pierre Rey.
 
 ## 1992
