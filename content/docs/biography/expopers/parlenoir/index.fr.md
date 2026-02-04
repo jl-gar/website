@@ -1,7 +1,7 @@
 ---
 weight: 1310
 title: "Par le noir"
-description: "Galerie Peyroulet, Paris. 2004"
+description: "Galerie Peyroulet, Paris - 2004"
 icon: "article"
 date: "2025-12-31T00:00:00+00:00"
 lastmod: "2025-12-31T00:00:00+00:00"
@@ -10,4 +10,4 @@ toc: true
 hidden: true
 ---
 
-{{< gallery >}}
+{{< gallery showcaptions="false">}}

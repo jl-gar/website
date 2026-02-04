@@ -10,4 +10,4 @@ toc: true
 hidden: true
 ---
 
-{{< gallery >}}
+{{< gallery showcaptions="false">}}

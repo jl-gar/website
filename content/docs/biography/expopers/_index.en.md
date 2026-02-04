@@ -17,7 +17,7 @@ A chronological listing of solo exhibitions.
 
 ## 2022
 - Vues non vues — Galerie Drawing Room, Salon Polyptyque, Marseille.
-- En vie — Galerie Drawing Room, Hambourg.
+- [En vie — Galerie Drawing Room, Hambourg](Drawing-Room-Hambourg/)
 
 ## 2019
 - [Pictures for a while — Centre Photographique Marseille](cpm/)

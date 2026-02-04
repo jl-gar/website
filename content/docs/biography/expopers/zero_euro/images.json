@@ -3,7 +3,7 @@
     "file": "media/compositions-i-2009-exposition-zero-euro-mdaa-jean-louis-garnell-adagp-2023.jpg",
     "title": "COMPOSITIONS I",
     "date": "2009",
-    "dimensions_physical": "50 × 34 cm",
+    "dimensions_physical": "12 x (50 × 34 cm)",
     "dimensions_pixels": {
       "width": 808,
       "height": 500
@@ -36,7 +36,7 @@
     "file": "media/zero-euro-2-2021-exposition-zero-euro-mdaa-jean-louis-garnell-adagp-2023.jpg",
     "title": "0€ #2",
     "date": "2021",
-    "dimensions_physical": "49 × 246",
+    "dimensions_physical": "49 × 246 cm",
     "dimensions_pixels": {
       "width": 723,
       "height": 500
@@ -47,7 +47,7 @@
     "file": "media/zero-euro-19-2021-exposition-zero-euro-mdaa-jean-louis-garnell-adagp-2023.jpg",
     "title": "0€ #19",
     "date": "2021",
-    "dimensions_physical": "55 × 70",
+    "dimensions_physical": "55 × 70 cm",
     "dimensions_pixels": {
       "width": 685,
       "height": 500
@@ -58,7 +58,7 @@
     "file": "media/zero-euro-25-2022-exposition-zero-euro-mdaa-jean-louis-garnell-adagp-2023.jpg",
     "title": "0€ #25",
     "date": "2022",
-    "dimensions_physical": "35 × 22",
+    "dimensions_physical": "35 × 22 cm",
     "dimensions_pixels": {
       "width": 371,
       "height": 500
@@ -67,9 +67,9 @@
   },
   {
     "file": "media/zero-euro-30-et-67-2023-exposition-zero-euro-mdaa-jean-louis-garnell-adagp-2023.jpg",
-    "title": "0€ #30",
+    "title": "0€ #30, 0€ #67",
     "date": "2022",
-    "dimensions_physical": "40 × 25",
+    "dimensions_physical": "",
     "dimensions_pixels": {
       "width": 749,
       "height": 500
@@ -80,7 +80,7 @@
     "file": "media/zero-euro-54-2023-exposition-zero-euro-mdaa-jean-louis-garnell-adagp-2023.jpg",
     "title": "0€ #54",
     "date": "2023",
-    "dimensions_physical": "34 × 13",
+    "dimensions_physical": "34 × 13 cm",
     "dimensions_pixels": {
       "width": 319,
       "height": 500
@@ -91,7 +91,7 @@
     "file": "media/zero-euro-62-2023-exposition-zero-euro-mdaa-jean-louis-garnell-adagp-2023.jpg",
     "title": "0€ #62",
     "date": "2023",
-    "dimensions_physical": "45 × 30",
+    "dimensions_physical": "45 × 30 cm",
     "dimensions_pixels": {
       "width": 334,
       "height": 500
@@ -102,7 +102,7 @@
     "file": "media/zero-euro-64-2023-exposition-zero-euro-mdaa-jean-louis-garnell-adagp-2023.jpg",
     "title": "0€ #64",
     "date": "2023",
-    "dimensions_physical": "15 × 20",
+    "dimensions_physical": "15 × 20 cm",
     "dimensions_pixels": {
       "width": 749,
       "height": 500
@@ -111,9 +111,9 @@
   },
   {
     "file": "media/zero-euro-75-et-73-et-59-2023-exposition-zero-euro-mdaa-jean-louis-garnell-adagp-2023.jpg",
-    "title": "0€ #75",
+    "title": "0€ #75, 0€ #73, 0€ #59",
     "date": "2023",
-    "dimensions_physical": "14 × 12",
+    "dimensions_physical": "",
     "dimensions_pixels": {
       "width": 749,
       "height": 500
@@ -157,7 +157,7 @@
     "file": "media/zero-euro-2021-2023-exposition-zero-euro-mdaa-jean-louis-garnell-adagp-2023-v.jpg",
     "title": "0€ #32",
     "date": "2023",
-    "dimensions_physical": "48 × 25",
+    "dimensions_physical": "48 × 25 cm",
     "dimensions_pixels": {
       "width": 749,
       "height": 500
@@ -179,7 +179,7 @@
     "file": "media/zero-euro-2021-2023-exposition-zero-euro-mdaa-jean-louis-garnell-adagp-2023-vii.jpg",
     "title": "0€ #37",
     "date": "2023",
-    "dimensions_physical": "31 × 42",
+    "dimensions_physical": "31 × 42 cm",
     "dimensions_pixels": {
       "width": 738,
       "height": 500

@@ -56,7 +56,7 @@ A chronological listing of collective exhibitions.
 
 ## 2014
 - 2004–2014 opere et progetti — Museo di Fotografia Contemporanea, Triennale di Milano.
-- [Usages du temps — Collège Marie Laurencin, Tarare.](usages_du_temps/)
+- Usages du temps — Collège Marie Laurencin, Tarare.
 
 ## 2013
 - Des images comme des oiseaux — Friche La Belle de mai, Marseille.
@@ -65,7 +65,7 @@ A chronological listing of collective exhibitions.
 - Biennale de la photographie et de la ville — Manufacture Le Point de Sedan.
 
 ## 2012
-- [TOPOGRAFÍAS DE LA MEMORIA — Atrio de las Culturas de Alhóndiga, Bilbao.](topografiamemoria/)
+- TOPOGRAFÍAS DE LA MEMORIA — Atrio de las Culturas de Alhóndiga, Bilbao.
 - Narratives and narrative forms — LIANZHOU FOTO 2012, Chine.
 - Colección Ordóñez‑Falcón / Topografías de la memoria — TEA Centro de Fotografía, Tenerife.
 - Voices of the sea — Musée des Beaux‑Arts, Calais.
@@ -91,7 +91,7 @@ A chronological listing of collective exhibitions.
 
 ## 2008
 - Universal archive — MACBA, Barcelone.
-- [Regarde de tous tes yeux, regarde! — Musée des Beaux‑arts, Nantes.](perec/)
+- Regarde de tous tes yeux, regarde! — Musée des Beaux‑arts, Nantes.
 - Images du corps — Musée de Sérignan.
 - Neue Kunst in den neuen Kammern — Château de Sans‑souci, Potsdam.
 

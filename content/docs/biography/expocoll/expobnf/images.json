@@ -1,79 +1,79 @@
 [
   {
     "file": "media/expobnf1.jpg",
-    "title": "Objets dans l'objectif",
+    "title": "Les Rescapés - 2003, Le bout de la table - 1998-2010",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 600,
       "height": 399
     },
-    "series": ""
+    "series": "Objets dans l'objectif, Bibliothèque Nationale de France, Paris - 2005"
   },
   {
     "file": "media/expobnf2.jpg",
-    "title": "Objets dans l'objectif",
+    "title": "Les Rescapés - 2003, Le bout de la table - 1998-2010",
     "date": null,
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 600,
       "height": 399
     },
-    "series": ""
+    "series": "Objets dans l'objectif, Bibliothèque Nationale de France, Paris - 2005"
   },
   {
     "file": "media/expobnf3.jpg",
-    "title": "Objets dans l'objectif",
-    "date": null,
+    "title": "Les Rescapés, 120 x (24 X 30 cm) ",
+    "date": "2003",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 600,
       "height": 351
     },
-    "series": ""
+    "series": "Objets dans l'objectif, Bibliothèque Nationale de France, Paris - 2005"
   },
   {
     "file": "media/expobnf5.jpg",
-    "title": "Objets dans l'objectif",
-    "date": null,
+    "title": "Le bout de la table",
+    "date": "1998-2010",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 600,
       "height": 238
     },
-    "series": ""
+    "series": "Objets dans l'objectif, Bibliothèque Nationale de France, Paris - 2005"
   },
   {
     "file": "media/expobnf6.jpg",
-    "title": "Objets dans l'objectif",
-    "date": null,
+    "title": "Le bout de la table",
+    "date": "1998-2010",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 600,
       "height": 399
     },
-    "series": ""
+    "series": "Objets dans l'objectif, Bibliothèque Nationale de France, Paris - 2005"
   },
   {
     "file": "media/expobnf7.jpg",
-    "title": "Objets dans l'objectif",
-    "date": null,
+    "title": "Le bout de la table",
+    "date": "1998-2010",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 600,
       "height": 212
     },
-    "series": ""
+    "series": "Objets dans l'objectif, Bibliothèque Nationale de France, Paris - 2005"
   },
   {
     "file": "media/expobnf8.jpg",
-    "title": "Objets dans l'objectif",
-    "date": null,
+    "title": "Le bout de la table",
+    "date": "1998-2010",
     "dimensions_physical": null,
     "dimensions_pixels": {
       "width": 600,
       "height": 182
     },
-    "series": ""
+    "series": "Objets dans l'objectif, Bibliothèque Nationale de France, Paris - 2005"
   }
 ]
