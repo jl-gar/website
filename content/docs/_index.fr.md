@@ -11,4 +11,6 @@ tags = []
 hidetitle = true
 +++
 
-{{< centered-image src="images/dessin-11-09-2018.png" alt="Jean Louis Garnell" caption="2018-09-11" height=50vh >}}
+{{< centered-image src="images/2025_11_11_I.png" alt="Jean Louis Garnell" 
+caption="2025-11-11-1" height=50vh >}}
+
