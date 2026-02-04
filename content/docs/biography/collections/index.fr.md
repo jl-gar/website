@@ -7,7 +7,7 @@ draft: false
 toc: false
 ---
 
-A liste des collections publiques et privées où sont présentes des oeuvres.
+Une liste des collections publiques et privées où sont présentes des oeuvres.
 
 ## Collections publiques
 
