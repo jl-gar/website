@@ -1,6 +1,6 @@
 ---
 weight: 4100
-title: "Bois graphités"
+title: "Bois graphite"
 description: "2010-2011"
 icon: "article"
 date: "2023-01-23T10:53:28Z"

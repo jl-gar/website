@@ -1,7 +1,7 @@
 ---
 weight: 1306
-title: "Galerie Drawing room, Hambourg"
-description: "En vie"
+title: "En vie"
+description: "Galerie Drawing room, Hambourg - 2022"
 icon: "article"
 date: "2025-12-31T00:00:00+00:00"
 lastmod: "2025-12-31T00:00:00+00:00"
