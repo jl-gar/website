@@ -75,6 +75,39 @@
     "height": 313
   },
   "series": ""
+  },
+{
+  "file": "media/Cascade.jpg",
+  "title": "Photographie",
+  "date": "2004",
+  "dimensions_physical": "",
+  "dimensions_pixels": {
+    "width": 400,
+    "height": 313
+  },
+  "series": ""
+},
+{
+  "file": "media/Amberline_3-1000.jpg",
+  "title": "Imprimé sur tissu",
+  "date": "2004",
+  "dimensions_physical": "",
+  "dimensions_pixels": {
+    "width": 400,
+    "height": 313
+  },
+  "series": ""
+},
+{
+  "file": "media/Ann-Huybens-2004.jpg",
+  "title": "Ann Huybens, Gand",
+  "date": "2004",
+  "dimensions_physical": "",
+  "dimensions_pixels": {
+    "width": 400,
+    "height": 313
+  },
+  "series": ""
 }
 ]
    
