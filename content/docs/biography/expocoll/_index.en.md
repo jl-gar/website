@@ -2,11 +2,11 @@
 weight = 1400
 date = "2025-12-31"
 draft = false
-title = "Collective Exhibitions"
+title = "Group exhibitions"
 toc = false
 +++
 
-A chronological listing of collective exhibitions.
+A chronological listing of group exhibitions.
 
 ## 2024
 - ARTCARJAT 2024 — Château Bouchet, Fareins.

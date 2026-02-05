@@ -1,7 +1,7 @@
 ---
-weight: 6120
-title: "Street Broken Mirror Self Portrait "
-description: "2020-2025"
+weight: 6130
+title: "Some more projects"
+description: "2004-2025"
 icon: "article"
 date: "2023-01-23T11:01:58Z"
 lastmod: "2023-01-23T11:01:58Z"
@@ -19,4 +19,4 @@ toc: false
 
 
 
-{{< gallery >}}
+{{< gallery showcaptions="false">}}
