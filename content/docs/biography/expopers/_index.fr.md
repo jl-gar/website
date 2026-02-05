@@ -42,7 +42,7 @@ Une liste chronologique des expositions personnelles.
 
 ## 2004
 - [par le noir — Maison de Saint‑Louis, été photographique de Lectoure](lectoure/)
-- par le noir — Galerie Peyroulet, Paris.
+- [par le noir — Galerie Peyroulet, Paris.](parlenoir/)
 
 ## 2003
 - [Jean‑Louis Garnell, oeuvres récentes — Galerie Gilles Peyroulet, Paris](galeriep/)

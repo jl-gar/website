@@ -16,4 +16,4 @@ Pom Pom - 2002, Under the blanket - 2003, ----- - 2004
 
 
 
-{{< gallery >}}
+{{< gallery showcaptions="false">}}
