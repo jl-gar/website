@@ -41,7 +41,7 @@ Une liste chronologique des publications et catalogues.
 
 ## 2018
 
-*To be completed*
+
 
 ## 2017
 

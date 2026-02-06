@@ -40,7 +40,7 @@ A chronological list of publications and catalogues.
 
 ## 2018
 
-*To be completed*
+
 
 ## 2017
 
