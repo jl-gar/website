@@ -32,12 +32,13 @@ h4,
 } */
 
 :root {
-    /* --secondary: #ce4f00; */
+    --secondary: #4F46E5;
     --sidebar-bg: var(--primary-50-08-on-white) !important;
     --top-header-bg: var(--primary-50-08) !important;
     --sidebar-menu-active-bg: #fff !important;
     --sidebar-dropdown-hover-bg: #fff !important;
     --pswp-bg: #d9d9d9 !important;
+    --content-link-color: var(--secondary);
 }
 
 
@@ -52,6 +53,8 @@ h4,
 #doc-nav .card:hover .card-title {
     color: var(--secondary) !important;
 }
+
+
 
 /* (removed) hide-cards-on-mobile feature - deprecated */
 

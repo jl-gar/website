@@ -98,7 +98,7 @@
 
 .jl-tile-title {
     font-weight: 600;
-    color: #1a73e8;
+    color: var(--primary) !important;
     text-decoration: none
 }
 
