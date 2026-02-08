@@ -6,11 +6,11 @@ hero:
   weight: 10
   template: hero
 
-  backgroundImage:
-    path: "images/templates/hero"
-    filename:
-      desktop: "gradient-desktop.webp"
-      mobile: "gradient-mobile.webp"
+  # backgroundImage:
+  #   path: "images/2025_04_25_1.png"
+  #   filename:
+  #     desktop: "gradient-desktop.webp"
+  #     mobile: "gradient-mobile.webp"
 
   # badge:
   #   text: v0.1.0
@@ -28,15 +28,15 @@ hero:
   subtitle: ""
   image:
     path: "images" # path to image under configured assets directory. default 'images'
-    filename: "image.png" # filename of your hero image (including file extension)
+    filename: "2025_04_25_1.png" # filename of your hero image (including file extension)
     alt: "Lotus Docs Screenshot" # Optional but recommended
     boxShadow: true # default 'false' (excludes .svg images)
-    rounded: true # round the image corners? default 'false' (excludes .svg images)
+    rounded: false # round the image corners? default 'false' (excludes .svg images)
 
   ctaButton:
     icon: 
     btnText: "Enter"
-    url: "/docs"
+    url: "/website/docs"
   # cta2Button:
   #   icon: construction
   #   btnText: "In Development"

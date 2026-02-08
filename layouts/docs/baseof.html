@@ -10,7 +10,9 @@
 {{ end }}
 <html lang="{{ site.LanguageCode }}">
     {{- partial (printf "%s/%s" ($.Scratch.Get "pathName") "head.html") . -}}
-    <body>
+    <body{{ if .Params.hideMenuByDefault }} data-hide-menu-default="true"{{ end }}>
+        <!-- Hide Menu By Default Script - Load Early -->
+        <script src="{{ "js/hide-menu-default.js" | relURL }}"></script>
         <div class="content">
             <div class="page-wrapper toggled">
                 {{- partial (printf "%s/%s" ($.Scratch.Get "pathName") "sidebar.html") . -}}
@@ -102,5 +104,8 @@
                 {{- partialCached (printf "%s/%s" ($.Scratch.Get "pathName") "footer/flexsearch.html") . -}}
             {{ end }}
         {{ end }}
+
+        <!-- Hide Menu By Default Script -->
+        <script src="{{ "js/hide-menu-default.js" | relURL }}"></script>
     </body>
 </html>

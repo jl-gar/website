@@ -12,6 +12,7 @@ tags = []
 hidetitle = true
 hidecardsoncomputer = true
 hideFooterDivider = true
+hideMenuByDefault = true
 +++
 
 {{< centered-image src="images/2025_04_25_1.png" alt="Jean Louis Garnell" caption="2025-04-25-1" height=50vh >}}

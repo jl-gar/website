@@ -4,6 +4,7 @@ languageCode = 'en'
 title = 'Jean-Louis Garnell'
 
 defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
 
 [module]
 # uncomment line below for temporary local development of module
@@ -29,8 +30,9 @@ themeColor = "gray"
 title = ""
 pathName = ""
 toc = false
-descriptions = true # enable front matter descriptions under content title
+descriptions = true           # enable front matter descriptions under content title
 navDesc = false
+logoLinkURL = "/website/docs"
 
 [params.flexsearch]
 searchSectionsIndex = "ALL"
@@ -56,6 +58,9 @@ languageDirection = ''
 languageName = 'fr'
 title = 'Jean-Louis Garnell'
 weight = 1
+[languages.fr.params]
+[languages.fr.params.landingpage]
+enabled = false
 
 [build]
 publishResources = true
