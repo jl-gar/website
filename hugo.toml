@@ -4,7 +4,7 @@ languageCode = 'en'
 title = 'Jean-Louis Garnell'
 
 defaultContentLanguage = 'en'
-defaultContentLanguageInSubdir = false
+# defaultContentLanguageInSubdir = false
 
 [module]
 # uncomment line below for temporary local development of module
@@ -58,9 +58,7 @@ languageDirection = ''
 languageName = 'fr'
 title = 'Jean-Louis Garnell'
 weight = 1
-[languages.fr.params]
-[languages.fr.params.landingpage]
-enabled = false
+
 
 [build]
 publishResources = true

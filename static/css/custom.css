@@ -72,6 +72,17 @@ h4,
 }
 
 /* ==================================
+   MOBILE LAYOUT (< 1024px)
+   ================================== */
+
+/* Hide sidebar title text on mobile but keep the space */
+@media screen and (max-width: 1023px) {
+    .sidebar-wrapper .sidebar-brand {
+        visibility: hidden !important;
+    }
+}
+
+/* ==================================
    DESKTOP LAYOUT (>= 1024px)
    ================================== */
 
