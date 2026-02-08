@@ -1,4 +1,8 @@
-/* Custom CSS - Increase space between page title and content */
+/* Custom CSS for Jean-Louis Garnell website */
+
+/* ==================================
+   SPACING & TYPOGRAPHY
+   ================================== */
 
 /* Add top spacing to main-content div */
 .docs-content .main-content {
@@ -26,10 +30,9 @@ h4,
     font-size: 12px !important;
 }
 
-/* All cards - background fill color on hover */
-/* .features.feature-full-bg:hover {
-    background-color: var(--secondary) !important;
-} */
+/* ==================================
+   COLOR VARIABLES
+   ================================== */
 
 :root {
     --secondary: #4F46E5;
@@ -41,6 +44,9 @@ h4,
     --content-link-color: var(--secondary);
 }
 
+/* ==================================
+   HOVER EFFECTS
+   ================================== */
 
 .features.feature-full-bg:hover {
     background-color: var(--secondary) !important;
@@ -54,25 +60,90 @@ h4,
     color: var(--secondary) !important;
 }
 
+/* ==================================
+   RESPONSIVE: HIDE CARDS ON DESKTOP
+   ================================== */
 
-
-/* (removed) hide-cards-on-mobile feature - deprecated */
-
-/* Hide list cards on large screens (computer) for pages that opt-in
-   Usage: add `hidecardsoncomputer: true` or `hideCardsOnComputer: true` to the page front matter
-   Effect: hides the `.col-md-4` children when viewport width is greater than 1024px
-*/
-@media screen and (min-width: 1025px) {
+/* Hide list cards on large screens for pages with hidecardsoncomputer: true */
+@media screen and (min-width: 1024px) {
     .jl-hide-cards-on-computer>.col-md-4 {
         display: none !important;
     }
 }
 
-/* .btn:hover {
-    background-color: var(--secondary) !important;
-    color: #fff !important;
-}
+/* ==================================
+   DESKTOP LAYOUT (>= 1024px)
+   ================================== */
 
-.btn::after:hover {
-    color: #fff !important;
-} */
+@media screen and (min-width: 1024px) {
+
+    /* --- TOP HEADER --- */
+    /* Fix the top header in place at top of viewport */
+    #top-header {
+        position: fixed !important;
+        top: 0 !important;
+        left: 0 !important;
+        right: 0 !important;
+        width: 100% !important;
+        z-index: 1000 !important;
+    }
+
+    /* Always show site title in top header on desktop */
+    .top-header .logo-icon {
+        display: block !important;
+    }
+
+    .top-header .logo-icon .big {
+        display: block !important;
+    }
+
+    /* --- SIDEBAR --- */
+    /* Hide title from sidebar (it's in top header now) */
+    .sidebar-wrapper .sidebar-brand {
+        display: none !important;
+    }
+
+    /* Position sidebar below top header */
+    .sidebar-wrapper {
+        position: fixed !important;
+        top: 66px !important;
+        /* Height of top header */
+        left: 0 !important;
+        bottom: 0 !important;
+        /* Extend to bottom of viewport */
+        height: auto !important;
+        z-index: 999 !important;
+        transition: transform 0.3s ease !important;
+    }
+
+    /* Make sidebar content fill the entire height */
+    .sidebar-wrapper .sidebar-content {
+        height: 100% !important;
+    }
+
+    /* Hide sidebar when toggled class is NOT present */
+    .page-wrapper:not(.toggled) .sidebar-wrapper {
+        transform: translateX(-300px) !important;
+    }
+
+    /* Show sidebar when toggled class IS present */
+    .page-wrapper.toggled .sidebar-wrapper {
+        transform: translateX(0) !important;
+    }
+
+    /* --- MAIN CONTENT --- */
+    /* Keep main content at full width, add top padding for fixed header */
+    .page-content {
+        margin-left: 0 !important;
+        width: 100% !important;
+    }
+
+    main.page-content {
+        padding-top: 0px !important;
+    }
+
+    /* When sidebar is visible, shift content right */
+    .page-wrapper.toggled .page-content {
+        margin-left: 0px !important;
+    }
+}
