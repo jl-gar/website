@@ -103,7 +103,7 @@ URLs. */}}
     </div>
 </div>
 {{/* expose images data for the gallery script in a JSON blob to avoid template quoting issues */}}
-<script id="jl-gallery-data-{{ .Page.File.Path | urlize }}" type="application/json">
+<script id  ="jl-gallery-data-{{ .Page.File.Path | urlize }}" type="application/json">
     {{ $imgs | jsonify | safeJS }}
 </script>
 
@@ -133,9 +133,14 @@ URLs. */}}
         // dynamically load the PhotoSwipe core module per docs (keeps bundle small)
         pswpModule: () => import('https://unpkg.com/photoswipe@5/dist/photoswipe.esm.js'),
         
-        initialZoomLevel: 'fit',
-        secondaryZoomLevel: 1,
-        maxZoomLevel: 4,
+    initialZoomLevel: 'fit',
+    // Allow zooming beyond 100% so small images can be zoomed in
+    // secondaryZoomLevel is the zoom ratio toggled to on double-click/double-tap
+    secondaryZoomLevel: 2,
+    // Allow higher max zoom for better zooming on high-DPI screens
+    maxZoomLevel: 8,
+    // Support wheel/pinch zoom
+    wheelToZoom: true,
 
         showHideAnimationType: 'fade',
         // Padding as percentage of viewport - reads from CSS variable --pswp-padding-percent
@@ -152,6 +157,9 @@ URLs. */}}
             };
         }
     });
+    // Extra defensive options to help zoom small images across devices
+    lightbox.options.allowPanToZoom = true;
+    lightbox.options.pinchToClose = false;
     console.debug('[JL-Gallery] PhotoSwipeLightbox created', typeof lightbox);
     
     // Apply background color class to PhotoSwipe

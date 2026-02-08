@@ -53,6 +53,18 @@ h4,
     color: var(--secondary) !important;
 }
 
+/* (removed) hide-cards-on-mobile feature - deprecated */
+
+/* Hide list cards on large screens (computer) for pages that opt-in
+   Usage: add `hidecardsoncomputer: true` or `hideCardsOnComputer: true` to the page front matter
+   Effect: hides the `.col-md-4` children when viewport width is greater than 1024px
+*/
+@media screen and (min-width: 1025px) {
+    .jl-hide-cards-on-computer>.col-md-4 {
+        display: none !important;
+    }
+}
+
 /* .btn:hover {
     background-color: var(--secondary) !important;
     color: #fff !important;

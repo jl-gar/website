@@ -1,6 +1,7 @@
+{{ if not .Params.hideFooterDivider }}
 <hr class="doc-hr">
+{{ end }}
 <div id="doc-nav" class="d-print-none">
-{{ if or .Prev .Next -}}
 	<!-- https://www.feliciano.tech/blog/custom-sort-hugo-single-pages/ -->
 	<!-- Get the first-level section under docs (e.g., biography, images, drawings) -->
 	{{ $firstLevelSection := .CurrentSection -}}
@@ -11,11 +12,17 @@
 		{{ end -}}
 	{{ end -}}
 	<!-- Filter pages to only those in the same first-level section -->
-	{{ $pages := where $firstLevelSection.RegularPagesRecursive "Params.hidden" "ne" true -}}
+	<!-- Include both regular pages and section pages (_index) -->
+	{{ $regularPages := where $firstLevelSection.RegularPagesRecursive "Params.hidden" "ne" true -}}
+	{{ $regularPages = where $regularPages "Params.hideInDocNav" "ne" true -}}
+	{{ $sectionPages := where $firstLevelSection.Sections "Params.hidden" "ne" true -}}
+	{{ $sectionPages = where $sectionPages "Params.hideInDocNav" "ne" true -}}
+	{{ $pages := union $regularPages $sectionPages -}}
 	{{ $pages = $pages.ByWeight -}}
 	{{ $hasPrev := $pages.Prev . -}}
 	{{ $hasNext := $pages.Next . -}}
-    <div class="row flex-xl-nowrap {{ if and $hasPrev (not $hasNext) }}justify-content-end{{ end }}">
+	{{ if or $hasPrev $hasNext -}}
+	<div class="row flex-xl-nowrap {{ if and $hasPrev (not $hasNext) }}justify-content-end{{ end }}">
 	{{ with $hasNext -}}
         <div class="col-sm-6 pt-2 doc-next">
 		<a href="{{ .RelPermalink }}">
@@ -44,6 +51,6 @@
 		</a>
         </div>
 	{{ end -}}
-    </div>
-{{ end -}}
+	</div>
+	{{ end -}}
 </div>

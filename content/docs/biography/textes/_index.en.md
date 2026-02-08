@@ -1,7 +1,10 @@
 ---
-title: "Texts"
-date: 2025-12-31
 weight: 1800
+title: "Texts"
+description: ""
+icon: "article"
+date: "2023-01-23T11:02:32Z"
+lastmod: "2023-01-23T11:02:32Z"
 draft: false
 toc: false
 ---
