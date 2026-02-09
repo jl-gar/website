@@ -136,9 +136,15 @@ URLs. */}}
     initialZoomLevel: 'fit',
     // Allow zooming beyond 100% so small images can be zoomed in
     // secondaryZoomLevel is the zoom ratio toggled to on double-click/double-tap
-    secondaryZoomLevel: 2,
-    // Allow higher max zoom for better zooming on high-DPI screens
-    maxZoomLevel: 8,
+    secondaryZoomLevel: (zoomLevelObject) => {
+            // zoomLevelObject.fit is the 'fit' zoom level
+            // Return 2x the fit level for double-click zoom
+            return zoomLevelObject.fit * 2;
+        },
+        maxZoomLevel: (zoomLevelObject) => {
+            // Maximum zoom is 10x the fit level
+            return zoomLevelObject.fit * 10;
+        },
     // Support wheel/pinch zoom
     wheelToZoom: true,
 
