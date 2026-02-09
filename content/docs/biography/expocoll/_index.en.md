@@ -213,7 +213,7 @@ A chronological listing of group exhibitions.
 - La ciutat fantasma — Fondation Miró, Barcelone.
 
 
-*Catalogue available
+
 
 
 ## Selection of exhibition views

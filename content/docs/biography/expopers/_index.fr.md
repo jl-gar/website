@@ -92,7 +92,7 @@ Une liste chronologique des expositions personnelles.
 ## 1987
 - Les paysages perdus — Galerie Les Somnambules, Toulouse.
 
-*catalogues
+
 
 
 ## Sélection de quelques vues d'expositions

@@ -213,7 +213,7 @@ Une liste chronologique des expositions collectives.
 - La ciutat fantasma — Fondation Miró, Barcelone.
 
 
-*Catalogue entries where indicated in original source.
+
 
 
 ## Sélection de quelques vues d'expositions

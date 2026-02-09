@@ -93,7 +93,7 @@ A chronological listing of solo exhibitions.
 ## 1987
 - Les paysages perdus — Galerie Les Somnambules, Toulouse.
 
-*Entries marked with an asterisk indicate catalogues are available.
+
 
 ## Selection of exhibition views
 
