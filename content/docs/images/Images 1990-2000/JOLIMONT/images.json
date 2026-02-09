@@ -1,68 +1,112 @@
 [
-  {
+{
+  "file": "media/Jolimont8.jpg",
+  "title": "Quai sud",
+  "date": "1993",
+  "dimensions_physical": "",
+  "dimensions_pixels": {
+    "width": 1000,
+    "height": 256
+  },
+  "series": "Station de métro Jolimont, Toulouse"
+},
+{
     "file": "media/jolimont1.jpg",
-    "title": "Station de métro Jolimont Toulouse Détail #1",
+    "title": "Quai nord",
     "date": "1993",
     "dimensions_physical": "",
     "dimensions_pixels": {
       "width": 1000,
       "height": 256
     },
-    "series": ""
+    "series": "Station de métro Jolimont, Toulouse"
   },
   {
     "file": "media/jolimont2.jpg",
-    "title": "Station de métro Jolimont Toulouse Détail #2",
+    "title": "Détail #2",
     "date": "1993",
     "dimensions_physical": "",
     "dimensions_pixels": {
       "width": 1000,
       "height": 256
     },
-    "series": ""
+    "series": "Station de métro Jolimont, Toulouse"
   },
   {
     "file": "media/jolimont3.jpg",
-    "title": "Station de métro Jolimont Toulouse Détail #3",
+    "title": "Détail #3",
     "date": "1993",
     "dimensions_physical": "",
     "dimensions_pixels": {
       "width": 1000,
       "height": 256
     },
-    "series": ""
+    "series": "Station de métro Jolimont, Toulouse"
   },
   {
     "file": "media/jolimont4.jpg",
-    "title": "Station de métro Jolimont Toulouse Détail #4",
+    "title": "Rosace sud",
     "date": "1993",
     "dimensions_physical": "",
     "dimensions_pixels": {
       "width": 1000,
       "height": 256
     },
-    "series": ""
+    "series": "Station de métro Jolimont, Toulouse"
+  },
+  {
+  "file": "media/Jolimont10.jpg",
+  "title": "Rosace sud",
+  "date": "1993",
+  "dimensions_physical": "",
+  "dimensions_pixels": {
+    "width": 1000,
+    "height": 256
+  },
+  "series": "Station de métro Jolimont, Toulouse"
   },
   {
     "file": "media/jolimont5.jpg",
-    "title": "Station de métro Jolimont Toulouse Détail #5",
+    "title": "Salle des billets, vue extérieure",
     "date": "1993",
     "dimensions_physical": "",
     "dimensions_pixels": {
       "width": 1000,
       "height": 256
     },
-    "series": ""
+    "series": "Station de métro Jolimont, Toulouse"
   },
   {
+  "file": "media/Jolimont9.jpg",
+  "title": "Salle des billets, vue intérieure",
+  "date": "1993",
+  "dimensions_physical": "",
+  "dimensions_pixels": {
+    "width": 1000,
+    "height": 256
+  },
+  "series": "Station de métro Jolimont, Toulouse"
+},
+{
+  "file": "media/Jolimont11.jpg",
+  "title": "Rosace nord",
+  "date": "1993",
+  "dimensions_physical": "",
+  "dimensions_pixels": {
+    "width": 1000,
+    "height": 256
+  },
+  "series": "Station de métro Jolimont, Toulouse"
+},
+{
     "file": "media/jolimont7.jpg",
-    "title": "Station de métro Jolimont Toulouse Détail #7",
+    "title": "Grille de bout de quai",
     "date": "1993",
     "dimensions_physical": "",
     "dimensions_pixels": {
       "width": 1000,
       "height": 256
     },
-    "series": ""
+    "series": "Station de métro Jolimont, Toulouse"
   }
 ]
