@@ -15,4 +15,4 @@ hideFooterDivider = true
 hideMenuByDefault = true
 +++
 
-{{< centered-image src="images/2025_04_25_1.png" alt="Jean Louis Garnell" caption="2025-04-25-1" height=70vh >}}
+{{< centered-image src="images/2025_06_15.jpg" alt="Jean Louis Garnell" caption="2025-06-15" height=70vh >}}

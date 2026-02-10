@@ -19,4 +19,6 @@ C'est à la suite de la visite de la collection Pinault à l'ancienne Bourse du 
 
 
 
-{{< gallery >}}
+{{< gallery showcaptions="false" bg="white">}}
+
+

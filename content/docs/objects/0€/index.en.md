@@ -21,4 +21,6 @@ It was after visiting the Pinault collection at the former Bourse du Commerce, w
 
 
 
-{{< gallery >}}
+{{< gallery showcaptions="false" bg="white">}}
+
+

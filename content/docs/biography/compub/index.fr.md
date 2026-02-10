@@ -22,14 +22,14 @@ Une liste chronologique des commandes publiques.
 - Vues sur Parc — Sceaux.
 
 ## 1996–1997
-- Université Technologique de Compiègne (commission).
+- Université Technologique de Compiègne.
 
 ## 1995
-- Ville de Fos‑Sur‑Mer (public commission).
+- Ville de Fos‑Sur‑Mer.
 
 ## 1993
 - Du musée au musée — Musée des Beaux‑Arts, Lyon.
-- Quinze Artistes dans le métro (ENSGTI / Métro) — Oeuvre pour la station Jolimont, Toulouse.
+- Quinze Artistes dans le métro — Oeuvre pour la station Jolimont, Toulouse.
 
 ## 1989
 - Mission Photographique Transmanche.

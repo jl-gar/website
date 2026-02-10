@@ -19,7 +19,7 @@ Gerz-Garnell exhibition, RAM Los Angeles gallery. Commissions Porto Marghera nea
 
 Appointed teacher at the Tours art school in 2000, exhibition at the Kunstverein in Stuttgart in 2001, 80 pieces shown covering ten years, catalogue with a text by Uta Nusser, participates in the Biennale de Lyon Connivence, curated by Anne Bertrand. Collaboration with the Belgian fashion designer Ann Huybens, several fabric patterns.
 
-New multiple pieces, series Les découpes, NBC, a video projection Soft Sofa. In 2003 a first book project, Summer, 64 photographs, followed by another in 2004, par le noir, a set of 15 images, exhibited and then edited by the Lectoure Photographic Centre in early 2005. Appointed teacher at the Marseille Art School.
+New multiple pieces, series Les découpes, NBC, a video projection Soft Sofa. In 2003 a first book project, Summer, 64 photographs, followed by another in 2004, par le noir, a set of 15 images, exhibited and then edited by the Lectoure Photographic Centre in early 2005. Appointed teacher at the Marseille Art School, create with Max Armengaud and Brice Matthieussent the studio "La photographie & co".
 
 Participates in exhibitions, Objets dans l'objectif at the Bibliothèque Nationale with 2 series, Les rescapés, Le bout de la table, La force de l'art in 2006 at the Grand-Palais, curated by Éric de Chassey, Les peintres de la vie moderne at the Centre Pompidou. New pieces, Escalier B, for Fotografia Europea in Reggio-Emilia, and Morimondo 2007, shown by Roberta Valtorta at the MUFOCO in Milan.
 

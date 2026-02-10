@@ -10,7 +10,7 @@ toc: true
 ---
 
 
-Juste avant de quitter Toulouse, pendant la préparation du déménagemnt, j'ai invité les amis pour faire une dernière photographie dans l'appartement.
+Juste avant de quitter Toulouse, pendant la préparation du déménagement, j'ai invité les amis pour faire une dernière photographie dans l'appartement.
 
 
 
