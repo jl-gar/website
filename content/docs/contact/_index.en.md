@@ -11,7 +11,7 @@ publishdate = "2023-05-03T22:37:22+01:00"
 +++
 
 
-{{< centered-image src="images/image.png" alt="Jean Louis Garnell" caption="" height=50vh >}}
+{{< centered-image src="images/image.png" alt="Jean-Louis Garnell" caption="" height=50vh >}}
 
 
 
