@@ -1,4 +1,4 @@
-baseURL = "https://jl-gar.github.io/website/"
+baseURL = "https://jeanlouisgarnell.net/"
 # baseURL = "https://emil-garnell.github.io/"
 languageCode = 'en'
 title = 'Jean-Louis Garnell'
@@ -30,9 +30,9 @@ themeColor = "gray"
 title = ""
 pathName = ""
 toc = false
-descriptions = true           # enable front matter descriptions under content title
+descriptions = true   # enable front matter descriptions under content title
 navDesc = false
-logoLinkURL = "/website/docs"
+logoLinkURL = "/docs"
 
 [params.flexsearch]
 searchSectionsIndex = "ALL"
