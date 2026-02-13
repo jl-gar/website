@@ -36,6 +36,8 @@ logoLinkURL = "/website/docs"
 
 [params.flexsearch]
 searchSectionsIndex = "ALL"
+encode = "balance"          # better encoding for multilingual/accent handling
+tokenize = "full"           # full tokenization for better matching
 
 [params.landingpage]
 enabled = false
