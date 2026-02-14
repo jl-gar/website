@@ -81,7 +81,9 @@ URLs. */}}
 {{ if ne $showCaptions "true" }}
     {{ $captionClass = "jl-gallery-hide-captions" }}
 {{ end }}
-<div class="jl-gallery jl-gallery-tiles {{ $captionClass }}" id="pswp-gallery-{{ $gidSafe }}" data-gallery-uid="{{ .Page.File.Path | urlize }}" data-bg="{{ $bg }}">
+{{/* Get secondaryzoom parameter (default: 2) */}}
+{{ $secondaryZoom := .Get "secondaryzoom" | default "2" }}
+<div class="jl-gallery jl-gallery-tiles {{ $captionClass }}" id="pswp-gallery-{{ $gidSafe }}" data-gallery-uid="{{ .Page.File.Path | urlize }}" data-bg="{{ $bg }}" data-secondary-zoom="{{ $secondaryZoom }}">
     <!-- fallback main image element (hidden) so gallery.js can safely call show(0) -->
     <div class="jl-gallery-view" aria-hidden="true" style="display:none;">
         <img class="jl-gallery-img" src="" alt="" />
@@ -138,8 +140,9 @@ URLs. */}}
     // secondaryZoomLevel is the zoom ratio toggled to on double-click/double-tap
     secondaryZoomLevel: (zoomLevelObject) => {
             // zoomLevelObject.fit is the 'fit' zoom level
-            // Return 2x the fit level for double-click zoom
-            return zoomLevelObject.fit * 2;
+            // Get secondary zoom value from data attribute (set above)
+            const secondaryZoomValue = parseFloat(document.querySelector(GSEL).getAttribute('data-secondary-zoom')) || 2;
+            return zoomLevelObject.fit * secondaryZoomValue;
         },
         maxZoomLevel: (zoomLevelObject) => {
             // Maximum zoom is 10x the fit level
@@ -171,6 +174,10 @@ URLs. */}}
     // Apply background color class to PhotoSwipe
     const bgColor = document.querySelector(GSEL).getAttribute('data-bg') || 'grey';
     console.debug('[JL-Gallery] Background color:', bgColor);
+    
+    // Get secondary zoom level from data attribute
+    const secondaryZoomValue = parseFloat(document.querySelector(GSEL).getAttribute('data-secondary-zoom')) || 2;
+    console.debug('[JL-Gallery] Secondary zoom level:', secondaryZoomValue);
     
     const applyBackground = function() {
         if (lightbox.pswp && lightbox.pswp.element) {
