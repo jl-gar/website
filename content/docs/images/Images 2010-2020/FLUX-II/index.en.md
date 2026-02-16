@@ -11,4 +11,4 @@ toc: true
 
 Invitation cards received and accumulated over the years are assembled to form this 29 metres long piece; a fragment of it is shown here.
 
-{{< gallery fullres="true" secondaryzoom="10">}}
+{{< gallery fullres="true" secondaryzoom="20">}}

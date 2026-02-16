@@ -22,7 +22,7 @@ Exposition Gerz-Garnell, galerie RAM Los Angeles. Commandes Porto Marghera près
 
 Nommé enseignant à l’école d’art de Tours en 2000, exposition au Kunstverein de Stuttgart en 2001, 80 pièces montrées couvrant une dizaine d’années, catalogue avec un texte d'Uta Nusser, participe à la Biennale de Lyon Connivence, commissariat Anne Bertrand. Collaboration avec la créatrice de mode belge Ann Huybens, plusieurs motifs de tissu.
 
-Nouvelles pièces composites, séries Les découpes, Jardin, une vidéoprojection Soft Sofa. En 2003 un premier projet de livre, été, 64 photographies, suivi d’un autre en 2004, par le noir, ensemble de 15 images, exposé puis édité par le Centre photographique de Lectoure début 2005. Nommé enseignant à l'école d'art de Marseille, crée avec Max Armengaud et Brice matthieussent le studio "La photographie & co"
+Nouvelles pièces composites, séries Les découpes, Jardin, une vidéoprojection Soft Sofa. En 2003 un premier projet de livre, été, 64 photographies, suivi d’un autre en 2004, par le noir, ensemble de 15 images, exposé puis édité par le Centre photographique de Lectoure début 2005. Nommé enseignant à l'école d'art de Marseille, crée avec Max Armengaud et Brice Matthieussent le studio "La photographie & co"
 
 Participe aux expositions, Objets dans l'objectif à la Bibliothèque Nationale avec 2 séries, Les rescapés, Le bout de la table, La force de l'art en 2006 au Grand-Palais, commissariat Éric de Chassey, Les peintres de la vie moderne au Centre Pompidou. Nouvelles pièces, Escalier B, pour Fotografia Europea à Reggio-Emilia, et Morimondo 2007, montrée par Roberta Valtorta au MUFOCO à Milan.
 

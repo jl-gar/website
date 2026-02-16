@@ -142,5 +142,16 @@
       "height": 329
     },
     "series": ""
-  }
+  },
+  {
+  "file": "media/Passages-de-l-image.jpg",
+  "title": "Suzanne Lafont, Jean-Louis Garnell, accrochage de Passages de l'image, Centre Pompidou, 1990-09",
+  "date": null,
+  "dimensions_physical": null,
+  "dimensions_pixels": {
+    "width": 500,
+    "height": 329
+  },
+  "series": "© Frédérique Lagny "
+}
 ]
